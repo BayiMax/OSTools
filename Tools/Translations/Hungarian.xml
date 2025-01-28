@@ -1,0 +1,2614 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TotalUninstall>
+	<_System_>
+		<Flag>
+			<Size>1718</Size>
+			<Data>Qk22BgAAAAAAADYEAAAoAAAAIAAAABQAAAABAAgAAAAAAIACAAAAAAAAAAAAAAABAAAAAAAAAAAAAP///wAAgAAAAICAAIAAAACAAIAAgIAAAMDAwACAgIAAAAD/AAD/AAAA//8A/wAAAP8A/wD//wAA////AAkJCQASEhIAHx8fACwsLAA5OTkARUVFAFJSUgBfX18AbGxsAHh4eACFhYUAkpKSAJ+fnwCrq6sAuLi4AMXFxQDS0tIA3t7eAOvr6wD4+PgA8Pv/AKSgoADA3MAA8MqmAAAAPgAAAF0AAAB8AAAAmwAAALoAAADZAAAA8AAkJP8ASEj/AGxs/wCQkP8AtLT/AAAUPgAAHl0AACh8AAAymwAAPLoAAEbZAABV8AAkbf8ASIX/AGyd/wCQtf8AtM3/AAAqPgAAP10AAFR8AABpmwAAfroAAJPZAACq8AAktv8ASML/AGzO/wCQ2v8AtOb/AAA+PgAAXV0AAHx8AACbmwAAuroAANnZAADw8AAk//8ASP//AGz//wCQ//8AtP//AAA+KgAAXT8AAHxUAACbaQAAun4AANmTAADwqgAk/7YASP/CAGz/zgCQ/9oAtP/mAAA+FAAAXR4AAHwoAACbMgAAujwAANlGAADwVQAk/20ASP+FAGz/nQCQ/7UAtP/NAAA+AAAAXQAAAHwAAACbAAAAugAAANkAAADwAAAk/yQASP9IAGz/bACQ/5AAtP+0ABQ+AAAeXQAAKHwAADKbAAA8ugAARtkAAFXwAABt/yQAhf9IAJ3/bAC1/5AAzf+0ACo+AAA/XQAAVHwAAGmbAAB+ugAAk9kAAKrwAAC2/yQAwv9IAM7/bADa/5AA5v+0AD4+AABdXQAAfHwAAJubAAC6ugAA2dkAAPDwAAD//yQA//9IAP//bAD//5AA//+0AD4qAABdPwAAfFQAAJtpAAC6fgAA2ZMAAPCqAAD/tiQA/8JIAP/ObAD/2pAA/+a0AD4UAABdHgAAfCgAAJsyAAC6PAAA2UYAAPBVAAD/bSQA/4VIAP+dbAD/tZAA/820AD4AAABdAAAAfAAAAJsAAAC6AAAA2QAAAPAAAAD/JCQA/0hIAP9sbAD/kJAA/7S0AD4AFABdAB4AfAAoAJsAMgC6ADwA2QBGAPAAVQD/JG0A/0iFAP9snQD/kLUA/7TNAD4AKgBdAD8AfABUAJsAaQC6AH4A2QCTAPAAqgD/JLYA/0jCAP9szgD/kNoA/7TmAD4APgBdAF0AfAB8AJsAmwC6ALoA2QDZAPAA8AD/JP8A/0j/AP9s/wD/kP8A/7T/ACoAPgA/AF0AVAB8AGkAmwB+ALoAkwDZAKoA8AC2JP8Awkj/AM5s/wDakP8A5rT/ABQAPgAeAF0AKAB8ADIAmwA8ALoARgDZAFUA8ABtJP8AhUj/AJ1s/wC1kP8AzbT/AAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk=</Data>
+		</Flag>
+		<LanguageCode>en</LanguageCode>
+		<LocalizedName>Magyar</LocalizedName>
+		<Version>62300</Version>
+	</_System_>
+	<Cleaner>
+		<CF-BROWSER-CACHE>Böngésző</CF-BROWSER-CACHE>
+		<CF-BROWSER-CACHE-CHROME>Chrome</CF-BROWSER-CACHE-CHROME>
+		<CF-BROWSER-CACHE-FIREFOX>Firefox</CF-BROWSER-CACHE-FIREFOX>
+		<CF-BROWSER-CACHE-IE>Internet Explorer</CF-BROWSER-CACHE-IE>
+		<CF-BROWSER-CACHE-MAXTHON>Maxthon</CF-BROWSER-CACHE-MAXTHON>
+		<CF-BROWSER-CACHE-OPERA>Opera</CF-BROWSER-CACHE-OPERA>
+		<CF-PROGRAMS>Programok</CF-PROGRAMS>
+		<CF-PROGRAMS-ADOBE-FLASH-PLAYER>Adobe Flash Player</CF-PROGRAMS-ADOBE-FLASH-PLAYER>
+		<CF-PROGRAMS-MSOFFICE-RECENT>Microsoft Office legutóbbi fájlok listája</CF-PROGRAMS-MSOFFICE-RECENT>
+		<CF-PROGRAMS-SUN-JAVA-CACHE>Sun Java gyorsítótár</CF-PROGRAMS-SUN-JAVA-CACHE>
+		<CF-SYSTEM>Rendszer</CF-SYSTEM>
+		<CF-SYSTEM-JUNK-FILES>Szükségtelen fájlok</CF-SYSTEM-JUNK-FILES>
+		<CF-SYSTEM-RECYCLE-BIN>Lomtár a kényszerített tisztításra</CF-SYSTEM-RECYCLE-BIN>
+		<CF-SYSTEM-TEMP-FILES>Ideiglenes fájlok</CF-SYSTEM-TEMP-FILES>
+		<CF-SYSTEM-THUMBNAILS-CACHE>Miniatűr gyorsítótár</CF-SYSTEM-THUMBNAILS-CACHE>
+		<CF-WINDOWS>Windows</CF-WINDOWS>
+		<CF-WINDOWS-ERROR-REPORTING>Hibajelentés</CF-WINDOWS-ERROR-REPORTING>
+		<CF-WINDOWS-ETL-FILES>Esemény nyomkövetési naplófájlok</CF-WINDOWS-ETL-FILES>
+		<CF-WINDOWS-EVL-FILES>Eseménynapló fájlok</CF-WINDOWS-EVL-FILES>
+		<CF-WINDOWS-EXPLORER>Windows Intéző</CF-WINDOWS-EXPLORER>
+		<CF-WINDOWS-EXPLORER-RECENT-FILES>Legutóbbi dokumentumok</CF-WINDOWS-EXPLORER-RECENT-FILES>
+		<CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>Visszamaradt üres mappák</CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>
+		<CF-WINDOWS-LOG-FILES>Naplófájlok</CF-WINDOWS-LOG-FILES>
+		<CF-WINDOWS-MEMORY-DUMP-FILES>Memóriaképek</CF-WINDOWS-MEMORY-DUMP-FILES>
+		<CF-WINDOWS-TEMP-FOLDERS>Ideiglenes mappák</CF-WINDOWS-TEMP-FOLDERS>
+		<CR-INVALID-ENTRIES>Érvénytelen bejegyzések</CR-INVALID-ENTRIES>
+		<CR-INVALID-ENTRIES-FILE-REFERENCES>Fájl hivatkozások</CR-INVALID-ENTRIES-FILE-REFERENCES>
+		<CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>Visszamaradt üres kulcsok</CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>
+		<CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>Hiányzó megosztott DLL fájlok</CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>
+		<CR-INVALID-ENTRIES-MSI-PATHS>MSI útvonalak</CR-INVALID-ENTRIES-MSI-PATHS>
+		<CR-INVALID-ENTRIES-MUI-REFERENCES>MUI-referenciák</CR-INVALID-ENTRIES-MUI-REFERENCES>
+		<CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>Nincs fájlformátum információ</CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>
+		<CR-MUI-REFERENCES>MUI hivatkozások</CR-MUI-REFERENCES>
+	</Cleaner>
+	<dlgAddInstalledPrg>
+		<btnCancel>
+			<Caption>Mégse</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>&amp;OK</Caption>
+		</btnOK>
+		<Caption>Programok felvétele a listára</Caption>
+		<lblBuiltInUninstaller>
+			<Caption>Beépített eltávolító</Caption>
+		</lblBuiltInUninstaller>
+		<lblInstallationFolder>
+			<Caption>Telepítve mappába</Caption>
+		</lblInstallationFolder>
+		<lblPrgName>
+			<Caption>Program neve</Caption>
+		</lblPrgName>
+	</dlgAddInstalledPrg>
+	<dlgAskDelItem>
+		<btnOK>
+			<Caption>&amp;OK</Caption>
+		</btnOK>
+		<btnSelectAll>
+			<Caption>&amp;Összes kijelölése</Caption>
+		</btnSelectAll>
+		<btnUnselectAll>
+			<Caption>&amp;Kijelölés visszavonása</Caption>
+		</btnUnselectAll>
+		<Caption>Törli az elemeket?</Caption>
+		<cbAutoSelectAll>
+			<Caption>Az összes automatikus kijelölése</Caption>
+		</cbAutoSelectAll>
+		<lblDelSel>
+			<Caption>A kijelölt elemek törlődnek</Caption>
+		</lblDelSel>
+	</dlgAskDelItem>
+	<dlgAutorunItem>
+		<btnCancel>
+			<Caption>Mégse</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>&amp;OK</Caption>
+		</btnOk>
+		<Caption>Automatikusan induló elemek</Caption>
+		<gbStartLocation>
+			<Caption>Indítási hely</Caption>
+		</gbStartLocation>
+		<gbUser>
+			<Caption>Automatikus futtatás bejelentkezéskor...</Caption>
+		</gbUser>
+		<lblCommand>
+			<Caption>Parancs</Caption>
+		</lblCommand>
+		<lblName>
+			<Caption>Név</Caption>
+		</lblName>
+		<rbLogonAnyUser>
+			<Caption>Bármely felhasználó</Caption>
+		</rbLogonAnyUser>
+		<rbLogonCurentUser>
+			<Caption>Jelenlegi felhasználó</Caption>
+		</rbLogonCurentUser>
+		<rbRegRun>
+			<Caption>Rendszerleíró, futtatás minden bejelentkezéskor</Caption>
+		</rbRegRun>
+		<rbRegRunOnce>
+			<Caption>Rendszerleíró, futtatás csak egyszer a következő bejelentkezéskor</Caption>
+		</rbRegRunOnce>
+		<rbStartMenu>
+			<Caption>Indítópult mappa, futtatás minden bejelentkezésnél</Caption>
+		</rbStartMenu>
+	</dlgAutorunItem>
+	<dlgChangeIcon>
+		<btnBrowse>
+			<Caption>Tallózás...</Caption>
+		</btnBrowse>
+		<btnCancel>
+			<Caption>Mégse</Caption>
+		</btnCancel>
+		<btnClear>
+			<Caption>Törlés</Caption>
+		</btnClear>
+		<btnOk>
+			<Caption>&amp;OK</Caption>
+		</btnOk>
+		<Caption>Ikoncsere</Caption>
+		<gbIcons>
+			<Caption>Ikonok</Caption>
+		</gbIcons>
+	</dlgChangeIcon>
+	<dlgCheckUpdates>
+		<btnClose>
+			<Caption>Bezárás</Caption>
+		</btnClose>
+		<btnRefresh>
+			<Caption>Frissítés</Caption>
+		</btnRefresh>
+		<Caption>Frissítés ellenőrzése</Caption>
+	</dlgCheckUpdates>
+	<dlgCompareSns>
+		<btnCancel>
+			<Caption>Mégse</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>&amp;OK</Caption>
+		</btnOK>
+		<Caption>Rendszer-pillanatfelvételek összehasonlítása</Caption>
+		<lblCompareProfile>
+			<Caption>Profil összehasonlítása</Caption>
+		</lblCompareProfile>
+		<lblResultLog>
+			<Caption>Eredménynapló</Caption>
+		</lblResultLog>
+		<lblSnapshotA>
+			<Caption>Rendszer-pillanatfelvétel A</Caption>
+		</lblSnapshotA>
+		<lblSnapshotB>
+			<Caption>Rendszer-pillanatfelvétel B</Caption>
+		</lblSnapshotB>
+	</dlgCompareSns>
+	<dlgExportRegistry>
+		<btnCancel>
+			<Caption>Mégse</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Rendszerleíró változások exportálása</Caption>
+		<cbCreatedKeys>
+			<Caption>Létrehozott kulcsok</Caption>
+		</cbCreatedKeys>
+		<cbCreatedValues>
+			<Caption>Létrehozott értékek</Caption>
+		</cbCreatedValues>
+		<cbDeletedKeys>
+			<Caption>Törölt kulcsok</Caption>
+		</cbDeletedKeys>
+		<cbDeletedValues>
+			<Caption>Törölt értékek</Caption>
+		</cbDeletedValues>
+		<cbModifiedValues>
+			<Caption>Módosított értékek</Caption>
+		</cbModifiedValues>
+		<gbDetails>
+			<Caption>Rendszerleíró változások</Caption>
+		</gbDetails>
+		<gbExportType>
+			<Caption>Exportálás típusa</Caption>
+		</gbExportType>
+		<gbRange>
+			<Caption>Exportálási tartomány</Caption>
+		</gbRange>
+		<rbExpAll>
+			<Caption>Összes</Caption>
+		</rbExpAll>
+		<rbExpBranch>
+			<Caption>Kijelölt ág</Caption>
+		</rbExpBranch>
+		<rbInstall>
+			<Caption>Fájl telepítése</Caption>
+		</rbInstall>
+		<rbUninstall>
+			<Caption>Fájl eltávolítása</Caption>
+		</rbUninstall>
+	</dlgExportRegistry>
+	<dlgGroupProp>
+		<btnCancel>
+			<Caption>Mégse</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Csoport</Caption>
+		<lblIcon>
+			<Caption>Ikon</Caption>
+		</lblIcon>
+		<lblName>
+			<Caption>Név</Caption>
+		</lblName>
+	</dlgGroupProp>
+	<dlgMergeLogs>
+		<btnCancel>
+			<Caption>Mégse</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Naplók egyesítése</Caption>
+		<cbDeleteUpdate>
+			<Caption>A frissítési napló törlése az egyesítés után</Caption>
+		</cbDeleteUpdate>
+		<gbDestination>
+			<Caption>Cél</Caption>
+		</gbDestination>
+		<gbSources>
+			<Caption>Források</Caption>
+		</gbSources>
+		<lblInstallLog>
+			<Caption>Telepítési napló</Caption>
+		</lblInstallLog>
+		<lblNewName>
+			<Caption>Új név</Caption>
+		</lblNewName>
+		<lblUpdateLog>
+			<Caption>Frissítési napló</Caption>
+		</lblUpdateLog>
+		<rbCreateANewLog>
+			<Caption>Új napló létrehozása</Caption>
+		</rbCreateANewLog>
+		<rbSaveInInstallLog>
+			<Caption>Mentés a telepítési naplóba</Caption>
+		</rbSaveInInstallLog>
+	</dlgMergeLogs>
+	<dlgPendingFileRename>
+		<btnApply>
+			<Caption>Alkalmaz</Caption>
+		</btnApply>
+		<btnClose>
+			<Caption>Bezárás</Caption>
+		</btnClose>
+		<Caption>Függőben lévő fájl átnevezési műveletek</Caption>
+		<tvPendingFiles>
+			<Columns_0>Forrás</Columns_0>
+			<Columns_1>Cél</Columns_1>
+		</tvPendingFiles>
+	</dlgPendingFileRename>
+	<dlgRegister>
+		<btnBuy>
+			<Caption>Vásárlás</Caption>
+		</btnBuy>
+		<btnCancel>
+			<Caption>Mégse</Caption>
+		</btnCancel>
+		<btnRegister>
+			<Caption>Regisztrálás</Caption>
+		</btnRegister>
+		<Caption>Total Uninstall regisztráció</Caption>
+		<lblKey>
+			<Caption>Regisztrációs kulcs</Caption>
+		</lblKey>
+		<lblName>
+			<Caption>Regisztrációs név</Caption>
+		</lblName>
+		<ulblLostRegistrationInfo>
+			<Caption>Elvesztettem a regisztrációs adatokat.</Caption>
+		</ulblLostRegistrationInfo>
+	</dlgRegister>
+	<dlgRestrictedFeature>
+		<btnCancel>
+			<Caption>Mégse</Caption>
+		</btnCancel>
+		<Caption>Korlátozott funkció</Caption>
+		<clinkPurchase>
+			<Caption>Vásárlás</Caption>
+			<Note>Megrendelési űrlap megnyitása</Note>
+		</clinkPurchase>
+		<lblInstruction>
+			<Caption>Ez a funkció a regisztrált változatban érhető el</Caption>
+		</lblInstruction>
+		<lblProfessionalEdition>
+			<Caption>- Professional kiadás</Caption>
+		</lblProfessionalEdition>
+	</dlgRestrictedFeature>
+	<dlgRmvShared>
+		<btnNo>
+			<Caption>Nem</Caption>
+		</btnNo>
+		<btnNoToAll>
+			<Caption>Egyiket sem</Caption>
+		</btnNoToAll>
+		<btnYes>
+			<Caption>Igen</Caption>
+		</btnYes>
+		<btnYesToAll>
+			<Caption>Igen, mindet</Caption>
+		</btnYesToAll>
+		<Caption>Eltávolítja a megosztott fájlt?</Caption>
+		<lblFileName>
+			<Caption>Fájlnév:</Caption>
+		</lblFileName>
+		<lblLocated>
+			<Caption>Helye:</Caption>
+		</lblLocated>
+		<lblOne>
+			<Caption>A rendszer kijelzi, ha a következő megosztott fájl már nincs használatban más programok által. Ha valamelyik program még mindig használja ezt a fájlt, és az eltávolításra kerül, akkor azok a programok nem fognak működni. Valóban el kívánja távolítani a megosztott fájlt?</Caption>
+		</lblOne>
+		<lblTwo>
+			<Caption>A jelenlegi fájl meghagyása nem veszélyezteti a rendszert. Ha nem biztos abban, hogy mi a teendő, javasoljuk, hogy ne távolítsa el ezt a megosztott összetevőt.</Caption>
+		</lblTwo>
+	</dlgRmvShared>
+	<dlgSelect>
+		<btnCancel>
+			<Caption>Mégse</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Kijelölés</Caption>
+	</dlgSelect>
+	<dlgSelectLibIcon>
+		<btnAdd>
+			<Caption>Hozzáadás</Caption>
+		</btnAdd>
+		<btnCancel>
+			<Caption>Mégse</Caption>
+		</btnCancel>
+		<btnDelete>
+			<Caption>Törlés</Caption>
+		</btnDelete>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Ikon kiválasztása</Caption>
+		<gbIcons>
+			<Caption>Ikonok</Caption>
+		</gbIcons>
+	</dlgSelectLibIcon>
+	<dlgSysBrowser>
+		<btnCancel>
+			<Caption>&amp;Mégse</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>&amp;OK</Caption>
+		</btnOk>
+		<lblExpanded>
+			<Caption>Kiterjesztett</Caption>
+		</lblExpanded>
+	</dlgSysBrowser>
+	<dlgTUAbout>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Névjegy</Caption>
+		<lblCopyright>
+			<Caption>Szerzői jog © 2001-2019, Gavrila Martau</Caption>
+		</lblCopyright>
+		<lblEmail>
+			<Caption>E-mail</Caption>
+		</lblEmail>
+		<lblHomePage>
+			<Caption>Weboldal</Caption>
+		</lblHomePage>
+		<ulblBuyUpgrade>
+			<Caption>Frissítés vásárlása</Caption>
+		</ulblBuyUpgrade>
+		<ulblDownload>
+			<Caption>Utolsó ingyenes frissítés letöltése</Caption>
+		</ulblDownload>
+	</dlgTUAbout>
+	<dlgTunBackup>
+		<btnCancel>
+			<Caption>Mégse</Caption>
+		</btnCancel>
+		<btnCopy>
+			<Caption>Másolás...</Caption>
+		</btnCopy>
+		<btnCreate>
+			<Caption>Létrehozás</Caption>
+		</btnCreate>
+		<lblArchiving>
+			<Caption>Fájlok és rendszerleíró elemek archiválása...</Caption>
+		</lblArchiving>
+		<lblCreateBackup>
+			<Caption>A program biztonsági másolatának elkészítése</Caption>
+		</lblCreateBackup>
+		<lblFilesNotIncluded>
+			<Caption>A fájlok nem szerepelnek a biztonsági másolatban</Caption>
+		</lblFilesNotIncluded>
+	</dlgTunBackup>
+	<dlgTunRestore>
+		<btnImport>
+			<Caption>Importálás</Caption>
+		</btnImport>
+		<cbRestoreOnlyLog>
+			<Caption>Csak a telepítési napló visszaállítása</Caption>
+		</cbRestoreOnlyLog>
+		<lblFilesNotIncluded>
+			<Caption>Nem végrehajtható műveletek</Caption>
+		</lblFilesNotIncluded>
+		<lblRestoreProfile>
+			<Caption>Profil visszaállítása</Caption>
+		</lblRestoreProfile>
+		<lblRestoreProgram>
+			<Caption>Válassza ki a visszaállítandó programot</Caption>
+		</lblRestoreProgram>
+		<lblUndoRestoration>
+			<Caption>Válassza ki a visszavonni kívánt helyreállítást</Caption>
+		</lblUndoRestoration>
+		<pmiCopyTo>
+			<Caption>Másolás...</Caption>
+		</pmiCopyTo>
+		<pmiDelete>
+			<Caption>Törlés</Caption>
+		</pmiDelete>
+	</dlgTunRestore>
+	<dlgTUOptions>
+		<btnAddAnalysisProfile>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddAnalysisProfile>
+		<btnAddAutorunView>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddAutorunView>
+		<btnAddChgView>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddChgView>
+		<btnAddCleaner>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddCleaner>
+		<btnAddCompareProfile>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddCompareProfile>
+		<btnAddExclFlds>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddExclFlds>
+		<btnAddExclKey>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddExclKey>
+		<btnAddExcludeProduct>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddExcludeProduct>
+		<btnAddExcludePublisher>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddExcludePublisher>
+		<btnAddIgnChgFs>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddIgnChgFs>
+		<btnAddIgnChgReg>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddIgnChgReg>
+		<btnAddIgnFile>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddIgnFile>
+		<btnAddInclFlds>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddInclFlds>
+		<btnAddInclKeys>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddInclKeys>
+		<btnAddIncludeProduct>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddIncludeProduct>
+		<btnAddIncludePublisher>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddIncludePublisher>
+		<btnAddInstallLoc>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddInstallLoc>
+		<btnAddProtectedFld>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddProtectedFld>
+		<btnAddProtectedKey>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddProtectedKey>
+		<btnAddRedo>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddRedo>
+		<btnAddScanProfile>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddScanProfile>
+		<btnAddUninst>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddUninst>
+		<btnAddUninstInst>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddUninstInst>
+		<btnAddValue>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddValue>
+		<btnAddVer>
+			<Caption>Hozzáadás...</Caption>
+		</btnAddVer>
+		<btnAgentAddExcMask>
+			<Caption>Hozzáadás...</Caption>
+		</btnAgentAddExcMask>
+		<btnAgentAddIncMask>
+			<Caption>Hozzáadás...</Caption>
+		</btnAgentAddIncMask>
+		<btnAgentRemExcMask>
+			<Caption>Eltávolítás</Caption>
+		</btnAgentRemExcMask>
+		<btnAgentRemIncMask>
+			<Caption>Eltávolítás</Caption>
+		</btnAgentRemIncMask>
+		<btnAnlSaveAs>
+			<Caption>Mentés másként...</Caption>
+		</btnAnlSaveAs>
+		<btnAutorunViewSaveAs>
+			<Caption>Mentés másként...</Caption>
+		</btnAutorunViewSaveAs>
+		<btnCancel>
+			<Caption>Mégse</Caption>
+		</btnCancel>
+		<btnChgViewSaveAs>
+			<Caption>Mentés másként...</Caption>
+		</btnChgViewSaveAs>
+		<btnCleanerSaveAs>
+			<Caption>Mentés másként...</Caption>
+		</btnCleanerSaveAs>
+		<btnClnAddExclFs>
+			<Caption>Hozzáadás...</Caption>
+		</btnClnAddExclFs>
+		<btnClnAddExclRegistry>
+			<Caption>Hozzáadás...</Caption>
+		</btnClnAddExclRegistry>
+		<btnClnEditExclFs>
+			<Caption>Szerkesztés...</Caption>
+		</btnClnEditExclFs>
+		<btnClnEditExclRegistry>
+			<Caption>Szerkesztés...</Caption>
+		</btnClnEditExclRegistry>
+		<btnClnRemExclFs>
+			<Caption>Eltávolítás</Caption>
+		</btnClnRemExclFs>
+		<btnClnRemExclRegistry>
+			<Caption>Eltávolítás</Caption>
+		</btnClnRemExclRegistry>
+		<btnCompPlaySound>
+			<Caption>Tesztelés</Caption>
+		</btnCompPlaySound>
+		<btnCompSaveAs>
+			<Caption>Mentés másként...</Caption>
+		</btnCompSaveAs>
+		<btnEditExclFlds>
+			<Caption>Szerkesztés...</Caption>
+		</btnEditExclFlds>
+		<btnEditExclKeys>
+			<Caption>Szerkesztés...</Caption>
+		</btnEditExclKeys>
+		<btnEditIgnChgFs>
+			<Caption>Szerkesztés...</Caption>
+		</btnEditIgnChgFs>
+		<btnEditIgnChgReg>
+			<Caption>Szerkesztés...</Caption>
+		</btnEditIgnChgReg>
+		<btnEditIgnFile>
+			<Caption>Szerkesztés...</Caption>
+		</btnEditIgnFile>
+		<btnEditIgnValues>
+			<Caption>Szerkesztés...</Caption>
+		</btnEditIgnValues>
+		<btnEditProtectedFld>
+			<Caption>Szerkesztés...</Caption>
+		</btnEditProtectedFld>
+		<btnEditProtectedKey>
+			<Caption>Szerkesztés...</Caption>
+		</btnEditProtectedKey>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<btnRedoSaveAs>
+			<Caption>Mentés másként...</Caption>
+		</btnRedoSaveAs>
+		<btnRemAnalysisProfile>
+			<Caption>Eltávolítás...</Caption>
+		</btnRemAnalysisProfile>
+		<btnRemAutorunView>
+			<Caption>Eltávolítás...</Caption>
+		</btnRemAutorunView>
+		<btnRemChgView>
+			<Caption>Eltávolítás...</Caption>
+		</btnRemChgView>
+		<btnRemCleaner>
+			<Caption>Eltávolítás...</Caption>
+		</btnRemCleaner>
+		<btnRemCompareProfile>
+			<Caption>Eltávolítás...</Caption>
+		</btnRemCompareProfile>
+		<btnRemExclFlds>
+			<Caption>Eltávolítás</Caption>
+		</btnRemExclFlds>
+		<btnRemExclKeys>
+			<Caption>Eltávolítás</Caption>
+		</btnRemExclKeys>
+		<btnRemExcludeProduct>
+			<Caption>Eltávolítás</Caption>
+		</btnRemExcludeProduct>
+		<btnRemExcludePublisher>
+			<Caption>Eltávolítás</Caption>
+		</btnRemExcludePublisher>
+		<btnRemIgnChgFs>
+			<Caption>Eltávolítás</Caption>
+		</btnRemIgnChgFs>
+		<btnRemIgnChgReg>
+			<Caption>Eltávolítás</Caption>
+		</btnRemIgnChgReg>
+		<btnRemIgnFile>
+			<Caption>Eltávolítás</Caption>
+		</btnRemIgnFile>
+		<btnRemInclFlds>
+			<Caption>Eltávolítás</Caption>
+		</btnRemInclFlds>
+		<btnRemInclKeys>
+			<Caption>Eltávolítás</Caption>
+		</btnRemInclKeys>
+		<btnRemIncludeProduct>
+			<Caption>Eltávolítás</Caption>
+		</btnRemIncludeProduct>
+		<btnRemIncludePublisher>
+			<Caption>Eltávolítás</Caption>
+		</btnRemIncludePublisher>
+		<btnRemoveInstallLoc>
+			<Caption>Eltávolítás</Caption>
+		</btnRemoveInstallLoc>
+		<btnRemoveRedo>
+			<Caption>Eltávolítás...</Caption>
+		</btnRemoveRedo>
+		<btnRemProtectedFld>
+			<Caption>Eltávolítás</Caption>
+		</btnRemProtectedFld>
+		<btnRemProtectedKey>
+			<Caption>Eltávolítás</Caption>
+		</btnRemProtectedKey>
+		<btnRemScanProfile>
+			<Caption>Eltávolítás...</Caption>
+		</btnRemScanProfile>
+		<btnRemUninst>
+			<Caption>Eltávolítás...</Caption>
+		</btnRemUninst>
+		<btnRemUninstInst>
+			<Caption>Eltávolítás...</Caption>
+		</btnRemUninstInst>
+		<btnRemValues>
+			<Caption>Eltávolítás</Caption>
+		</btnRemValues>
+		<btnRemVer>
+			<Caption>Eltávolítás</Caption>
+		</btnRemVer>
+		<btnResetAll>
+			<Caption>Összes visszaállítása</Caption>
+		</btnResetAll>
+		<btnScanPlaySound>
+			<Caption>Tesztelés</Caption>
+		</btnScanPlaySound>
+		<btnScanSaveAs>
+			<Caption>Mentés másként...</Caption>
+		</btnScanSaveAs>
+		<btnUninstSaveAs>
+			<Caption>Mentés másként...</Caption>
+		</btnUninstSaveAs>
+		<Caption>Opciók</Caption>
+		<cbAnlProfileDefault>
+			<Caption>Alapértelmezett</Caption>
+		</cbAnlProfileDefault>
+		<cbAutorunDefault>
+			<Caption>Alapértelmezett</Caption>
+		</cbAutorunDefault>
+		<cbAutoStart>
+			<Caption>Auto-indítás a rendszerrel a befejezetlen figyelési folyamat folytatásához</Caption>
+		</cbAutoStart>
+		<cbBackup>
+			<Caption>Az eltávolított program mentése</Caption>
+		</cbBackup>
+		<cbChgViewDefault>
+			<Caption>Alapértelmezett</Caption>
+		</cbChgViewDefault>
+		<cbCleanerDefault>
+			<Caption>Alapértelmezett</Caption>
+		</cbCleanerDefault>
+		<cbCleanerEnable>
+			<Caption>Tisztító modul engedélyezése</Caption>
+		</cbCleanerEnable>
+		<cbClickRestore>
+			<Caption>Visszaállítás egyetlen kattintással</Caption>
+		</cbClickRestore>
+		<cbCompareRegistry>
+			<Caption>Rendszerleíró összehasonlítása</Caption>
+		</cbCompareRegistry>
+		<cbCompFiles>
+			<Caption>Fájlok összehasonlítása</Caption>
+		</cbCompFiles>
+		<cbCompPlaySound>
+			<Caption>Hangjelzés befejezéskor</Caption>
+		</cbCompPlaySound>
+		<cbCompProfileDefault>
+			<Caption>Alapértelmezett</Caption>
+		</cbCompProfileDefault>
+		<cbCompProfileFrozen>
+			<Caption>Zárolás</Caption>
+		</cbCompProfileFrozen>
+		<cbComputeMD5>
+			<Caption>Új fájlok MD5 összegének kiszámítása</Caption>
+		</cbComputeMD5>
+		<cbCreateKeys>
+			<Caption>Törölt kulcsok létrehozása</Caption>
+		</cbCreateKeys>
+		<cbCreateValues>
+			<Caption>Törölt értékek létrehozása</Caption>
+		</cbCreateValues>
+		<cbCustomSnsName>
+			<Caption>Egyéni pillanatfelvétel név engedélyezése</Caption>
+		</cbCustomSnsName>
+		<cbDecrement>
+			<Caption>Megosztott fájl számláló csökkentése</Caption>
+		</cbDecrement>
+		<cbDelFiles>
+			<Caption>Létrehozott fájlok törlése (a megosztott fájlokat csak a 0 elérése esetén)</Caption>
+		</cbDelFiles>
+		<cbDelFolders>
+			<Caption>Létrehozott mappák törlése</Caption>
+		</cbDelFolders>
+		<cbDelKeys>
+			<Caption>A létrehozott kulcsok törlése</Caption>
+		</cbDelKeys>
+		<cbDelUseRecycle>
+			<Caption>Lomtár használata</Caption>
+		</cbDelUseRecycle>
+		<cbDelValues>
+			<Caption>A létrehozott értékek törlése</Caption>
+		</cbDelValues>
+		<cbDontUseLog>
+			<Caption>Ne használja az észlelt változások naplóját</Caption>
+		</cbDontUseLog>
+		<cbEnableAgent>
+			<Caption>Total Uninstall ügynök engedélyezése</Caption>
+		</cbEnableAgent>
+		<cbExtractFileVersion>
+			<Caption>Fájl verzió-információk kiolvasása</Caption>
+		</cbExtractFileVersion>
+		<cbExtractLastWriteTime>
+			<Caption>Az utolsó írási idő beírása az aktuális oszlopba</Caption>
+		</cbExtractLastWriteTime>
+		<cbHexViewerNot64Bit>
+			<Caption>Nem 64-bit érzékeny</Caption>
+		</cbHexViewerNot64Bit>
+		<cbIgnoreMissingItems>
+			<Caption>Hiányzó elemek kihagyása</Caption>
+		</cbIgnoreMissingItems>
+		<cbInstPrgsEnable>
+			<Caption>Telepített programok modul engedélyezése</Caption>
+		</cbInstPrgsEnable>
+		<cbMinToTray>
+			<Caption>Minimalizálás a tálcára</Caption>
+		</cbMinToTray>
+		<cbMonPrgsEnable>
+			<Caption>Figyelt programok modul engedélyezése</Caption>
+		</cbMonPrgsEnable>
+		<cbRedoCreateFiles>
+			<Caption>Létrehozott fájlok visszaállítása</Caption>
+		</cbRedoCreateFiles>
+		<cbRedoCreateFilesOvr>
+			<Caption>Fájlok felülírása</Caption>
+		</cbRedoCreateFilesOvr>
+		<cbRedoCreateFilesOvrLck>
+			<Caption>Zárolt fájlok felülírása</Caption>
+		</cbRedoCreateFilesOvrLck>
+		<cbRedoCreateFolders>
+			<Caption>Létrehozott mappák visszaállítása</Caption>
+		</cbRedoCreateFolders>
+		<cbRedoCreateKeys>
+			<Caption>Létrehozott kulcsok visszaállítása</Caption>
+		</cbRedoCreateKeys>
+		<cbRedoCreateUndo>
+			<Caption>Visszavonás információk létrehozása</Caption>
+		</cbRedoCreateUndo>
+		<cbRedoCreateValues>
+			<Caption>Létrehozott értékek visszaállítása</Caption>
+		</cbRedoCreateValues>
+		<cbRedoDefault>
+			<Caption>Alapértelmezett</Caption>
+		</cbRedoDefault>
+		<cbRedoDeleteFiles>
+			<Caption>Fájlok törlése</Caption>
+		</cbRedoDeleteFiles>
+		<cbRedoDeleteFolders>
+			<Caption>Mappák törlése</Caption>
+		</cbRedoDeleteFolders>
+		<cbRedoDeleteKeys>
+			<Caption>Kulcsok törlése</Caption>
+		</cbRedoDeleteKeys>
+		<cbRedoDeleteValues>
+			<Caption>Értékek törlése</Caption>
+		</cbRedoDeleteValues>
+		<cbRedoEnabled>
+			<Caption>Engedélyezve</Caption>
+		</cbRedoEnabled>
+		<cbRedoModifyFiles>
+			<Caption>Módosított fájlok visszaállítása</Caption>
+		</cbRedoModifyFiles>
+		<cbRedoModifyFilesLck>
+			<Caption>Zárolt fájlok felülírása</Caption>
+		</cbRedoModifyFilesLck>
+		<cbRedoModifyValues>
+			<Caption>Módosított értékek visszaállítása</Caption>
+		</cbRedoModifyValues>
+		<cbRedoSysRestore>
+			<Caption>Rendszer-visszaállítási pont létrehozása visszaállítás előtt</Caption>
+		</cbRedoSysRestore>
+		<cbRestoreValues>
+			<Caption>Módosított értékek visszaállítása</Caption>
+		</cbRestoreValues>
+		<cbRstFileCreated>
+			<Caption>Fájl létrehozási dátumának visszaállítása</Caption>
+		</cbRstFileCreated>
+		<cbScanForAds>
+			<Caption>Alternatív adatfolyamok vizsgálata</Caption>
+		</cbScanForAds>
+		<cbScanPlaySound>
+			<Caption>Hangjelzés befejezéskor</Caption>
+		</cbScanPlaySound>
+		<cbScanProfileDefault>
+			<Caption>Alapértelmezett</Caption>
+		</cbScanProfileDefault>
+		<cbScanProfileFrozen>
+			<Caption>Zárolás</Caption>
+		</cbScanProfileFrozen>
+		<cbShell>
+			<Caption>Total Uninstall megjelenítése a szövegkörnyezeti menüben</Caption>
+		</cbShell>
+		<cbShowAfter>
+			<Caption>Oszlop után</Caption>
+		</cbShowAfter>
+		<cbShowBefore>
+			<Caption>Oszlop előtt</Caption>
+		</cbShowBefore>
+		<cbShowBinAsText>
+			<Caption>A bináris adat megjelenítése szövegként</Caption>
+		</cbShowBinAsText>
+		<cbShowChanged>
+			<Caption>Módosított elemek</Caption>
+		</cbShowChanged>
+		<cbShowCreated>
+			<Caption>Létrehozott elemek</Caption>
+		</cbShowCreated>
+		<cbShowCurrent>
+			<Caption>Jelenlegi oszlop</Caption>
+		</cbShowCurrent>
+		<cbShowDataSize>
+			<Caption>Adatméret</Caption>
+		</cbShowDataSize>
+		<cbShowDataType>
+			<Caption>Adattípus</Caption>
+		</cbShowDataType>
+		<cbShowDateCreated>
+			<Caption>Létrehozás dátuma</Caption>
+		</cbShowDateCreated>
+		<cbShowDateModified>
+			<Caption>Módosítás dátuma</Caption>
+		</cbShowDateModified>
+		<cbShowDeleted>
+			<Caption>Törölt elemek</Caption>
+		</cbShowDeleted>
+		<cbShowFileAttrib>
+			<Caption>Fájl attribútumok</Caption>
+		</cbShowFileAttrib>
+		<cbShowFileSize>
+			<Caption>Fájlméret</Caption>
+		</cbShowFileSize>
+		<cbShowFileVersion>
+			<Caption>Fájlverzió</Caption>
+		</cbShowFileVersion>
+		<cbShowMD5>
+			<Caption>Új fájl MD5-összeg</Caption>
+		</cbShowMD5>
+		<cbSmartAdjustAnalysisLevel>
+			<Caption>Intelligens elemzési szint beállítás</Caption>
+		</cbSmartAdjustAnalysisLevel>
+		<cbSysRestore>
+			<Caption>Rendszer-visszaállítási pont készítése az eltávolítás előtt</Caption>
+		</cbSysRestore>
+		<cbSystemFilesAdditional>
+			<Caption>További elemzés</Caption>
+		</cbSystemFilesAdditional>
+		<cbTxtViewerNot64Bit>
+			<Caption>Nem 64-bites</Caption>
+		</cbTxtViewerNot64Bit>
+		<cbUninstDefault>
+			<Caption>Alapértelmezett</Caption>
+		</cbUninstDefault>
+		<cbUninstEnabled>
+			<Caption>Engedélyezett</Caption>
+		</cbUninstEnabled>
+		<cbUseUninstaller>
+			<Caption>Először a beépített eltávolítót használja</Caption>
+		</cbUseUninstaller>
+		<cbWinAppsEnable>
+			<Caption>Windows-alkalmazások modul engedélyezése</Caption>
+		</cbWinAppsEnable>
+		<cmbUpdateFrequency>
+			<Items>Naponta\nHetente\nHavonta\n</Items>
+		</cmbUpdateFrequency>
+		<cmbUpdateMethod>
+			<Items>Kézi\nEmlékeztető\nAutomatikus\n</Items>
+		</cmbUpdateMethod>
+		<gbAgentMasks>
+			<Caption>Telepítőprogram fájlnév maszkok</Caption>
+		</gbAgentMasks>
+		<gbClnExcludeFs>
+			<Caption>Mappák és fájlok kizárása</Caption>
+		</gbClnExcludeFs>
+		<gbClnExcludeRegistry>
+			<Caption>Rendszerleíró kulcsok az értékek kizárása</Caption>
+		</gbClnExcludeRegistry>
+		<gbCompareIgnChgReg>
+			<Caption>Megváltozott elemek figyelmen kívül hagyása</Caption>
+		</gbCompareIgnChgReg>
+		<gbCompareIgnKeys>
+			<Caption>Kihagyni kívánt kulcsok és értékek</Caption>
+		</gbCompareIgnKeys>
+		<gbCompIgnChgFs>
+			<Caption>Megváltozott elemek figyelmen kívül hagyása</Caption>
+		</gbCompIgnChgFs>
+		<gbCompIgnoreFld>
+			<Caption>Kihagyni kívánt mappák és fájlok</Caption>
+		</gbCompIgnoreFld>
+		<gbExcludeProducts>
+			<Caption>Termékek kizárása</Caption>
+		</gbExcludeProducts>
+		<gbExcludePublishers>
+			<Caption>Kiadók kizárása</Caption>
+		</gbExcludePublishers>
+		<gbFileExtensions>
+			<Caption>Fájlkiterjesztések verzió információval</Caption>
+		</gbFileExtensions>
+		<gbIncludeProducts>
+			<Caption>Termékek befoglalása</Caption>
+		</gbIncludeProducts>
+		<gbIncludePublishers>
+			<Caption>Kiadók befoglalása</Caption>
+		</gbIncludePublishers>
+		<gbInstallLoc>
+			<Caption>Telepítési útvonalak</Caption>
+		</gbInstallLoc>
+		<gbInstallLocation>
+			<Caption>Telepítési hely észlelése</Caption>
+		</gbInstallLocation>
+		<gbLimits>
+			<Caption>Pillanatfelvételek mappa korlátozásai</Caption>
+		</gbLimits>
+		<gbPrgData>
+			<Caption>Programadatok észlelése</Caption>
+		</gbPrgData>
+		<gbPrgSettings>
+			<Caption>Programbeállítások észlelése</Caption>
+		</gbPrgSettings>
+		<gbPrgShortcuts>
+			<Caption>Program parancsikonok észlelése</Caption>
+		</gbPrgShortcuts>
+		<gbProtectedFolders>
+			<Caption>Védett mappák</Caption>
+		</gbProtectedFolders>
+		<gbProtectedKeys>
+			<Caption>Védett kulcsok</Caption>
+		</gbProtectedKeys>
+		<gbRegEditor>
+			<Caption>Rendszerleíró szerkesztő</Caption>
+		</gbRegEditor>
+		<gbRegScanner>
+			<Caption>Rendszerleíró elemző</Caption>
+		</gbRegScanner>
+		<gbScanExclFolders>
+			<Caption>Kizárandó mappák</Caption>
+		</gbScanExclFolders>
+		<gbScanExclKeys>
+			<Caption>Kizárandó kulcsok</Caption>
+		</gbScanExclKeys>
+		<gbScanInclFolders>
+			<Caption>Beágyazandó mappák</Caption>
+		</gbScanInclFolders>
+		<gbScanInclKeys>
+			<Caption>Beágyazandó kulcsok</Caption>
+		</gbScanInclKeys>
+		<gbShellIntegration>
+			<Caption>Szövegkörnyezeti menübe ágyazás észlelése</Caption>
+		</gbShellIntegration>
+		<gbSystemFiles>
+			<Caption>Rendszerfájlok észlelése</Caption>
+		</gbSystemFiles>
+		<gbTranslation>
+			<Caption>Fordítás</Caption>
+		</gbTranslation>
+		<grpAlteredViewStyle>
+			<Caption>Módosult elemek a rendszerben</Caption>
+		</grpAlteredViewStyle>
+		<grpExistingViewStyle>
+			<Caption>A rendszerben meglévő elemek</Caption>
+		</grpExistingViewStyle>
+		<grpMissingViewStyle>
+			<Caption>A rendszerből hiányzó elemek</Caption>
+		</grpMissingViewStyle>
+		<lblAdvanced1>
+			<Caption>Speciális</Caption>
+		</lblAdvanced1>
+		<lblAdvanced2>
+			<Caption>Speciális</Caption>
+		</lblAdvanced2>
+		<lblAdvanced3>
+			<Caption>Speciális</Caption>
+		</lblAdvanced3>
+		<lblAdvanced4>
+			<Caption>Speciális</Caption>
+		</lblAdvanced4>
+		<lblAdvanced5>
+			<Caption>Speciális</Caption>
+		</lblAdvanced5>
+		<lblAdvanced6>
+			<Caption>Speciális</Caption>
+		</lblAdvanced6>
+		<lblAgentExcludeMask>
+			<Caption>Kizárás</Caption>
+		</lblAgentExcludeMask>
+		<lblAgentIncludeMask>
+			<Caption>Beágyazás</Caption>
+		</lblAgentIncludeMask>
+		<lblAnalysisProfiles>
+			<Caption>Elemzési profilok</Caption>
+		</lblAnalysisProfiles>
+		<lblAnlProfileDesc>
+			<Caption>Leírás</Caption>
+		</lblAnlProfileDesc>
+		<lblAnlProfileName>
+			<Caption>Név</Caption>
+		</lblAnlProfileName>
+		<lblAutorunViewName>
+			<Caption>Név</Caption>
+		</lblAutorunViewName>
+		<lblAutorunViews>
+			<Caption>Automatikus futtatás megtekintése</Caption>
+		</lblAutorunViews>
+		<lblBackupLimiFolderSize>
+			<Caption>Mentési mappa korlátozás (MB)</Caption>
+		</lblBackupLimiFolderSize>
+		<lblChageViewName>
+			<Caption>Név</Caption>
+		</lblChageViewName>
+		<lblChangeViews>
+			<Caption>Módosítási nézetek</Caption>
+		</lblChangeViews>
+		<lblCheckUpdateMethod>
+			<Caption>Frissítés ellenőrzési mód</Caption>
+		</lblCheckUpdateMethod>
+		<lblCheckUpdatesFrequency>
+			<Caption>Gyakoriság</Caption>
+		</lblCheckUpdatesFrequency>
+		<lblCleanerDescription>
+			<Caption>Leírás</Caption>
+		</lblCleanerDescription>
+		<lblCleanerName>
+			<Caption>Név</Caption>
+		</lblCleanerName>
+		<lblCleaners>
+			<Caption>Tisztítók</Caption>
+		</lblCleaners>
+		<lblCompareProfileDesc>
+			<Caption>Leírás</Caption>
+		</lblCompareProfileDesc>
+		<lblCompareProfileName>
+			<Caption>Név</Caption>
+		</lblCompareProfileName>
+		<lblFolderSize>
+			<Caption>Mappa mérete (MB)</Caption>
+		</lblFolderSize>
+		<lblHexViewer>
+			<Caption>Hex megjelenítő</Caption>
+		</lblHexViewer>
+		<lblLanguage>
+			<Caption>Nyelv</Caption>
+		</lblLanguage>
+		<lblNone1>
+			<Caption>Nincs</Caption>
+		</lblNone1>
+		<lblNone2>
+			<Caption>Nincs</Caption>
+		</lblNone2>
+		<lblNone3>
+			<Caption>Nincs</Caption>
+		</lblNone3>
+		<lblNone4>
+			<Caption>Nincs</Caption>
+		</lblNone4>
+		<lblNone5>
+			<Caption>Nincs</Caption>
+		</lblNone5>
+		<lblNone6>
+			<Caption>Nincs</Caption>
+		</lblNone6>
+		<lblProgramDataPath>
+			<Caption>Programadatok helye</Caption>
+		</lblProgramDataPath>
+		<lblRedoDescription>
+			<Caption>Leírás</Caption>
+		</lblRedoDescription>
+		<lblRedoName>
+			<Caption>Név</Caption>
+		</lblRedoName>
+		<lblRedoProfiles>
+			<Caption>Profilok visszaállítása</Caption>
+		</lblRedoProfiles>
+		<lblScanningProfiles>
+			<Caption>Vizsgálati profilok</Caption>
+		</lblScanningProfiles>
+		<lblScanProfileDesc>
+			<Caption>Leírás</Caption>
+		</lblScanProfileDesc>
+		<lblScanProfileName>
+			<Caption>Név</Caption>
+		</lblScanProfileName>
+		<lblSimultaneousTasks>
+			<Caption>Egyidejű feladatok</Caption>
+		</lblSimultaneousTasks>
+		<lblSnsCompareProfiles>
+			<Caption>Pillanatfelvétel összehasonlítási profilok</Caption>
+		</lblSnsCompareProfiles>
+		<lblSnsCount>
+			<Caption>Pillanatfelvételek száma</Caption>
+		</lblSnsCount>
+		<lblTranslatedBy1>
+			<Caption>Fordította: Zityi's Translator Team</Caption>
+		</lblTranslatedBy1>
+		<lblTranslatedBy2>
+			<Caption>Weboldal: szoftverforditasok.hu</Caption>
+		</lblTranslatedBy2>
+		<lblTranslatedBy3>
+			<Caption>E-mail: info@szoftverforditasok.hu</Caption>
+		</lblTranslatedBy3>
+		<lblTxtViewer>
+			<Caption>Szövegmegjelenítő</Caption>
+		</lblTxtViewer>
+		<lblUninstallProfiles>
+			<Caption>Eltávolítási profilok</Caption>
+		</lblUninstallProfiles>
+		<lblUninstallProfilesInst>
+			<Caption>Eltávolítási profilok</Caption>
+		</lblUninstallProfilesInst>
+		<lblUninstDesc>
+			<Caption>Leírás</Caption>
+		</lblUninstDesc>
+		<lblUninstName>
+			<Caption>Név</Caption>
+		</lblUninstName>
+		<lblUninstRemoveLog>
+			<Caption>Eltávolított program törlése a listáról</Caption>
+		</lblUninstRemoveLog>
+		<lblUserInteraction>
+			<Caption>Használja az első rendelkezésre álló beépített eltávolítót</Caption>
+		</lblUserInteraction>
+		<rbDialog>
+			<Caption>Párbeszédablak</Caption>
+		</rbDialog>
+		<rbOtherRegEdit>
+			<Caption>Egyéb</Caption>
+		</rbOtherRegEdit>
+		<rbTrayBaloon>
+			<Caption>Tálca buborék értesítés</Caption>
+		</rbTrayBaloon>
+		<rbWinRegEdit>
+			<Caption>Windows rendszerleíró szerkesztő</Caption>
+		</rbWinRegEdit>
+		<rgAgentNotif>
+			<Caption>Futó telepítőprogram értesítés</Caption>
+		</rgAgentNotif>
+		<tabAnlFileSystem>
+			<Caption>Fájlrendszer</Caption>
+		</tabAnlFileSystem>
+		<tabAnlGeneral>
+			<Caption>Általános</Caption>
+		</tabAnlGeneral>
+		<tabAutorunViewGeneral>
+			<Caption>Általános</Caption>
+		</tabAutorunViewGeneral>
+		<tabAutorunViewView>
+			<Caption>Nézet</Caption>
+		</tabAutorunViewView>
+		<tabChageViewFileSystem>
+			<Caption>Fájlrendszer</Caption>
+		</tabChageViewFileSystem>
+		<tabChageViewGeneral>
+			<Caption>Általános</Caption>
+		</tabChageViewGeneral>
+		<tabChageViewRegistry>
+			<Caption>Rendszerleíró</Caption>
+		</tabChageViewRegistry>
+		<tabChageViewView>
+			<Caption>Nézet</Caption>
+		</tabChageViewView>
+		<tabCleanerFileSystem>
+			<Caption>Fájlrendszer</Caption>
+		</tabCleanerFileSystem>
+		<tabCleanerGen>
+			<Caption>Általános</Caption>
+		</tabCleanerGen>
+		<tabCleanerReg>
+			<Caption>Rendszerleíró</Caption>
+		</tabCleanerReg>
+		<tabCmpProfileFileSys>
+			<Caption>Fájlrendszer</Caption>
+		</tabCmpProfileFileSys>
+		<tabCompareProfileGen>
+			<Caption>Általános</Caption>
+		</tabCompareProfileGen>
+		<tabCompareProfileReg>
+			<Caption>Rendszerleíró</Caption>
+		</tabCompareProfileReg>
+		<tabRedoAdvanced>
+			<Caption>Speciális</Caption>
+		</tabRedoAdvanced>
+		<tabRedoFileSystem>
+			<Caption>Fájlrendszer</Caption>
+		</tabRedoFileSystem>
+		<tabRedoGeneral>
+			<Caption>Általános</Caption>
+		</tabRedoGeneral>
+		<tabRedoRegistry>
+			<Caption>Rendszerleíró</Caption>
+		</tabRedoRegistry>
+		<tabScanProfileFolders>
+			<Caption>Fájlrendszer</Caption>
+		</tabScanProfileFolders>
+		<tabScanProfileGeneral>
+			<Caption>Általános</Caption>
+		</tabScanProfileGeneral>
+		<tabScanProfileRegistry>
+			<Caption>Rendszerleíró</Caption>
+		</tabScanProfileRegistry>
+		<tabUninstAdv>
+			<Caption>Speciális</Caption>
+		</tabUninstAdv>
+		<tabUninstFS>
+			<Caption>Fájlrendszer</Caption>
+		</tabUninstFS>
+		<tabUninstGeneral>
+			<Caption>Általános</Caption>
+		</tabUninstGeneral>
+		<tabUninstRegistry>
+			<Caption>Rendszerleíró</Caption>
+		</tabUninstRegistry>
+		<tblAnlRegistry>
+			<Caption>Rendszerleíró</Caption>
+		</tblAnlRegistry>
+	</dlgTUOptions>
+	<dlgUninstall>
+		<btnBringToFront>
+			<Caption>Előtérbe hozás</Caption>
+		</btnBringToFront>
+		<btnCancel>
+			<Caption>Mégse</Caption>
+		</btnCancel>
+		<btnUninstall>
+			<Caption>Eltávolítás</Caption>
+		</btnUninstall>
+		<lblCreatingRestorePnt>
+			<Caption>Rendszer-visszaállítási pont létrehozása...</Caption>
+		</lblCreatingRestorePnt>
+		<lblProfile>
+			<Caption>Válassza ki az eltávolítási profilt</Caption>
+		</lblProfile>
+		<lblUninstalling>
+			<Caption>Eltávolítás...</Caption>
+		</lblUninstalling>
+		<lblWaitTitle>
+			<Caption>Várakozás a beépített eltávolító program befejezésére</Caption>
+		</lblWaitTitle>
+	</dlgUninstall>
+	<frmInstall>
+		<btnBrowseSetup>
+			<Caption>&amp;Tallózás...</Caption>
+		</btnBrowseSetup>
+		<btnCancel>
+			<Caption>Mégse</Caption>
+		</btnCancel>
+		<btnCompleteLater>
+			<Caption>&amp;A figyelési folyamat befejezése később</Caption>
+		</btnCompleteLater>
+		<btnLaunchSetup>
+			<Caption>Telepítőprogram &amp;indítása</Caption>
+		</btnLaunchSetup>
+		<btnNext>
+			<Caption>Tovább</Caption>
+		</btnNext>
+		<btnProgramIsInstalled>
+			<Caption>&amp;A program telepítve lett</Caption>
+		</btnProgramIsInstalled>
+		<btnSuggest>
+			<Caption>&amp;Javaslat</Caption>
+		</btnSuggest>
+		<lblCreateLog>
+			<Caption>Telepítési napló készítése</Caption>
+		</lblCreateLog>
+		<lblCreateOrSelectSns>
+			<Caption>Telepítés előtt hozzon létre egy újat, vagy válasszon ki egy korábbi rendszer-pillanatfelvételt.</Caption>
+		</lblCreateOrSelectSns>
+		<lblCreatePreInstallSns>
+			<Caption>Telepítés előtti pillanatfelvétel létrehozása</Caption>
+		</lblCreatePreInstallSns>
+		<lblCreatingLog>
+			<Caption>Telepítési napló létrehozása</Caption>
+		</lblCreatingLog>
+		<lblCreatingSystemSns>
+			<Caption>Rendszer-pillanatfelvétel létrehozása</Caption>
+		</lblCreatingSystemSns>
+		<lblFinish>
+			<Caption>A telepítési napló sikeresen elkészült</Caption>
+		</lblFinish>
+		<lblInstallMonProgram>
+			<Caption>Figyelt program telepítése</Caption>
+		</lblInstallMonProgram>
+		<lblProfiles>
+			<Caption>&amp;Vizsgálati profil</Caption>
+		</lblProfiles>
+		<lblProgramName>
+			<Caption>&amp;Program neve</Caption>
+		</lblProgramName>
+		<lblProgramSetupPath>
+			<Caption>&amp;Telepítőprogram helye</Caption>
+		</lblProgramSetupPath>
+		<lblSnsName>
+			<Caption>&amp;Pillanatfelvétel neve</Caption>
+		</lblSnsName>
+		<lblSpecifySnsName>
+			<Caption>&amp;Adja meg az utó-telepítési pillanatfelvétel nevét</Caption>
+		</lblSpecifySnsName>
+		<rbNewSnapshot>
+			<Caption>&amp;Új rendszer-pillanatfelvétel létrehozása (ajánlott)</Caption>
+		</rbNewSnapshot>
+		<rbUseLastSnapshot>
+			<Caption>&amp;Utolsó pillanatfelvétel használata</Caption>
+		</rbUseLastSnapshot>
+	</frmInstall>
+	<frmTUMain>
+		<btnClear>
+			<Caption>Törlés</Caption>
+		</btnClear>
+		<btnGroupAddChild>
+			<Caption>Alcsoport hozzáadása...</Caption>
+		</btnGroupAddChild>
+		<btnGroupAddRoot>
+			<Caption>Gyökércsoport hozzáadása...</Caption>
+		</btnGroupAddRoot>
+		<btnGroupEdit>
+			<Caption>Csoport szerkesztése...</Caption>
+		</btnGroupEdit>
+		<btnGroupMoveToRoot>
+			<Caption>Áthelyezés a gyökérbe</Caption>
+		</btnGroupMoveToRoot>
+		<btnGroupRemove>
+			<Caption>Csoport eltávolítása</Caption>
+		</btnGroupRemove>
+		<btnSearch>
+			<Caption>Indítás</Caption>
+		</btnSearch>
+		<cbBundle>
+			<Caption>Csomag</Caption>
+		</cbBundle>
+		<cbCaseSensitive>
+			<Caption>Betűérzékeny</Caption>
+		</cbCaseSensitive>
+		<cbChanged>
+			<Caption>Megváltozott</Caption>
+		</cbChanged>
+		<cbCreated>
+			<Caption>Létrehozott</Caption>
+		</cbCreated>
+		<cbData>
+			<Caption>Adatok</Caption>
+		</cbData>
+		<cbDeleted>
+			<Caption>Törölt</Caption>
+		</cbDeleted>
+		<cbFiles>
+			<Caption>Fájlok</Caption>
+		</cbFiles>
+		<cbFolders>
+			<Caption>Mappák</Caption>
+		</cbFolders>
+		<cbKeys>
+			<Caption>Kulcsok</Caption>
+		</cbKeys>
+		<cbSearchMask>
+			<Caption>Keresési maszk</Caption>
+		</cbSearchMask>
+		<cbUnchanged>
+			<Caption>Változatlan</Caption>
+		</cbUnchanged>
+		<cbValues>
+			<Caption>Értékek</Caption>
+		</cbValues>
+		<Copy1>
+			<Caption>Másolás</Caption>
+			<Hint>A kijelölt fájlok vágólapra másolása</Hint>
+		</Copy1>
+		<Copy2>
+			<Caption>Másolás</Caption>
+			<Hint>A kijelölt fájlok vágólapra másolása</Hint>
+		</Copy2>
+		<gbAdvanced>
+			<Caption>Speciális</Caption>
+		</gbAdvanced>
+		<gbChanges>
+			<Caption>Elemek</Caption>
+		</gbChanges>
+		<gbFileSystem>
+			<Caption>Fájlrendszer</Caption>
+		</gbFileSystem>
+		<gbRegistry>
+			<Caption>Rendszerleíró</Caption>
+		</gbRegistry>
+		<gbScope>
+			<Caption>Keresés helye</Caption>
+		</gbScope>
+		<miAddtoCompareIgnoreList>
+			<Caption>Felvétel az összehasonlítás mellőzési listára</Caption>
+			<Hint>A kijelölt elemek felvétele az összehasonlítási profilok kihagyási listájára</Hint>
+		</miAddtoCompareIgnoreList>
+		<miAddtoScanExcludeList>
+			<Caption>Felvétel a vizsgálatból kizártak listájára</Caption>
+			<Hint>A kijelölt elemek felvétele a vizsgálati profilok kizárási listájára</Hint>
+		</miAddtoScanExcludeList>
+		<miAppSendTo>
+			<Caption>Küldés egy csoportba</Caption>
+		</miAppSendTo>
+		<miAutorunManager>
+			<Caption>Indítópult kezelő</Caption>
+		</miAutorunManager>
+		<miChanges>
+			<Caption>Változások</Caption>
+			<Hint>Észlelt változások|Az aktuális program által végrehajtott módosítások megjelenítése</Hint>
+		</miChanges>
+		<miCleaner>
+			<Caption>Tisztító</Caption>
+			<Hint>Tisztító</Hint>
+		</miCleaner>
+		<miClnItems>
+			<Caption>Elemek</Caption>
+		</miClnItems>
+		<miClnSummary>
+			<Caption>Összefoglaló</Caption>
+			<Hint>Összefoglaló|Összefoglaló megjelenítése a törölhető elemekről</Hint>
+		</miClnSummary>
+		<miCollapse>
+			<Caption>Tartalom összevonása</Caption>
+			<Hint>Az aktív faszerkezet összevonása</Hint>
+		</miCollapse>
+		<miCopyDetail>
+			<Caption>Másolás</Caption>
+		</miCopyDetail>
+		<miDeleteCompletely>
+			<Caption>Végleges törlés</Caption>
+			<Hint>A kijelölt elem törlése a naplóból és a rendszerből</Hint>
+		</miDeleteCompletely>
+		<miDeletefromSystemOnly>
+			<Caption>Törlés csak a rendszerből</Caption>
+			<Hint>A kijelölt elem törlése csak a rendszerből</Hint>
+		</miDeletefromSystemOnly>
+		<miEdit>
+			<Caption>&amp;Szerkesztés</Caption>
+		</miEdit>
+		<miEditAutorunLocateEntry>
+			<Caption>Automatikus futtatási bejegyzés</Caption>
+		</miEditAutorunLocateEntry>
+		<miEditAutorunLocateTarget>
+			<Caption>Cél helyének megnyitása</Caption>
+		</miEditAutorunLocateTarget>
+		<miEditAutorunRun>
+			<Caption>Futtatás</Caption>
+		</miEditAutorunRun>
+		<miEditAutorunStop>
+			<Caption>Leállítás</Caption>
+		</miEditAutorunStop>
+		<miEditAutorunTargetProperties>
+			<Caption>Cél tulajdonságai</Caption>
+		</miEditAutorunTargetProperties>
+		<miEditRedo>
+			<Caption>Ismételt végrehajtás</Caption>
+			<Hint>A kijelölt változtatások végrehajtásának megismétlése a rendszerben</Hint>
+		</miEditRedo>
+		<miEditRedoDepth>
+			<Caption>Ismételt végrehajtási mélység</Caption>
+			<Hint>A kiválasztott változások megismételt végrehajtásának mélysége</Hint>
+		</miEditRedoDepth>
+		<miEditRestoreFromBackup>
+			<Caption>Visszaállítása egy biztonsági másolatból</Caption>
+			<Hint>A kijelölt fájlok, mappák, illetve al-mappák visszaállítása a biztonsági mentésből</Hint>
+		</miEditRestoreFromBackup>
+		<miEditUndo>
+			<Caption>Visszavonás</Caption>
+			<Hint>A kijelölt változtatások visszavonása a rendszerben</Hint>
+		</miEditUndo>
+		<miEditUndoDepth>
+			<Caption>Visszavonási mélység</Caption>
+			<Hint>A kiválasztott változások visszavonási mélysége</Hint>
+		</miEditUndoDepth>
+		<miExpand>
+			<Caption>Tartalom kiterjesztése</Caption>
+			<Hint>Az aktív-fa tartalmának kibontása</Hint>
+		</miExpand>
+		<miExpChanges>
+			<Caption>Változások...</Caption>
+			<Hint>Változások-fa exportálása</Hint>
+		</miExpChanges>
+		<miExpInstalledApps>
+			<Caption>Telepített programok...</Caption>
+			<Hint>A telepített programok listájának exportálása</Hint>
+		</miExpInstalledApps>
+		<miExpMonitoredApps>
+			<Caption>Figyelt programok...</Caption>
+			<Hint>A megfigyelt programok listájának exportálása</Hint>
+		</miExpMonitoredApps>
+		<miExport>
+			<Caption>Exportálás</Caption>
+		</miExport>
+		<miExpRegistry>
+			<Caption>Rendszerleíró változások...</Caption>
+			<Hint>A rendszerleíró változásainak exportálása telepítéshez vagy eltávolításhoz</Hint>
+		</miExpRegistry>
+		<miExpUninstallLog>
+			<Caption>Eltávolítási napló...</Caption>
+			<Hint>Eltávolítási napló exportálása</Hint>
+		</miExpUninstallLog>
+		<miFile>
+			<Caption>&amp;Fájl</Caption>
+		</miFile>
+		<miFileAddInstalledPrg>
+			<Caption>Program felvétele a listára...</Caption>
+		</miFileAddInstalledPrg>
+		<miFileAnalyze>
+			<Caption>Elemzés</Caption>
+			<Hint>Elemzés|Az aktuális program rendszeren belüli módosításainak elemzése</Hint>
+		</miFileAnalyze>
+		<miFileAutorunAdd>
+			<Caption>Hozzáadás</Caption>
+		</miFileAutorunAdd>
+		<miFileAutorunDelete>
+			<Caption>Törlés</Caption>
+		</miFileAutorunDelete>
+		<miFileChange>
+			<Caption>Módosítás</Caption>
+			<Hint>Javítás, módosítás vagy eltávolítás</Hint>
+		</miFileChange>
+		<miFileChangeIcon>
+			<Caption>Ikoncsere...</Caption>
+		</miFileChangeIcon>
+		<miFileClnClean>
+			<Caption>Tisztítás</Caption>
+			<Hint>Tisztítás</Hint>
+		</miFileClnClean>
+		<miFileClnScan>
+			<Caption>Vizsgálat</Caption>
+			<Hint>Vizsgálat|Eldobható elemek keresése</Hint>
+		</miFileClnScan>
+		<miFileCreateBackup>
+			<Caption>A program biztonsági másolatának létrehozása...</Caption>
+		</miFileCreateBackup>
+		<miFileDelete>
+			<Caption>Törlés</Caption>
+			<Hint>Az aktuális telepítési napló törlése</Hint>
+		</miFileDelete>
+		<miFileEditProgram>
+			<Caption>Program szerkesztése...</Caption>
+		</miFileEditProgram>
+		<miFileExit>
+			<Caption>Kilépés</Caption>
+			<Hint>Kilépés a programból</Hint>
+		</miFileExit>
+		<miFileGroupAddChild>
+			<Caption>Alcsoport hozzáadása...</Caption>
+		</miFileGroupAddChild>
+		<miFileGroupAddRoot>
+			<Caption>Gyökércsoport hozzáadása...</Caption>
+		</miFileGroupAddRoot>
+		<miFileGroupEdit>
+			<Caption>Csoport szerkesztése...</Caption>
+		</miFileGroupEdit>
+		<miFileGroupMoveToRoot>
+			<Caption>Áthelyezés a gyökérbe</Caption>
+		</miFileGroupMoveToRoot>
+		<miFileGroupRemove>
+			<Caption>Csoport eltávolítása</Caption>
+		</miFileGroupRemove>
+		<miFileInstall>
+			<Caption>Új telepítés...</Caption>
+			<Hint>Egy új program telepítésének figyelése</Hint>
+		</miFileInstall>
+		<miFileInstallUpdate>
+			<Caption>Frissítés telepítése...</Caption>
+			<Hint>Frissítés telepítése|Az aktuális programfrissítés telepítésének figyelése</Hint>
+		</miFileInstallUpdate>
+		<miFileNotes>
+			<Caption>Jegyzetek...</Caption>
+			<Hint>Megjegyzés hozzáadása az aktuális telepítési naplóhoz</Hint>
+		</miFileNotes>
+		<miFilePrint>
+			<Caption>Nyomtatás...</Caption>
+		</miFilePrint>
+		<miFileReload>
+			<Caption>Újratöltés</Caption>
+		</miFileReload>
+		<miFileRemoveInstalledPrg>
+			<Caption>Program eltávolítása a listáról</Caption>
+		</miFileRemoveInstalledPrg>
+		<miFileRename>
+			<Caption>Átnevezés...</Caption>
+			<Hint>Az aktuális telepítési napló átnevezése</Hint>
+		</miFileRename>
+		<miFileRestoreBackup>
+			<Caption>Program visszaállítása egy biztonsági másolatból...</Caption>
+		</miFileRestoreBackup>
+		<miFileSave>
+			<Caption>Mentés</Caption>
+			<Hint>Az aktuális telepítési napló változásainak mentése</Hint>
+		</miFileSave>
+		<miFileSaveAs>
+			<Caption>Mentés másként...</Caption>
+		</miFileSaveAs>
+		<miFileSendTo>
+			<Caption>Küldés egy csoportba</Caption>
+		</miFileSendTo>
+		<miFileUndoRestoration>
+			<Caption>Helyreállítás visszavonása...</Caption>
+		</miFileUndoRestoration>
+		<miFileUninstall>
+			<Caption>Eltávolítás...</Caption>
+		</miFileUninstall>
+		<miHelp>
+			<Caption>&amp;Súgó</Caption>
+		</miHelp>
+		<miHelpAbout>
+			<Caption>Névjegy...</Caption>
+			<Hint>Programinformációk, verziószám és szerzői jogi információk megjelenítése</Hint>
+		</miHelpAbout>
+		<miHelpCheckForUpdates>
+			<Caption>Frissítés ellenőrzése...</Caption>
+			<Hint>Termékfrissítések ellenőrzése a készítő weboldalán</Hint>
+		</miHelpCheckForUpdates>
+		<miHelpContents>
+			<Caption>Tartalomjegyzék</Caption>
+			<Hint>A súgó tartalomjegyzékének megjelenítése</Hint>
+		</miHelpContents>
+		<miHelpHomePage>
+			<Caption>Weboldal</Caption>
+		</miHelpHomePage>
+		<miHelpPurchase>
+			<Caption>Vásárlás</Caption>
+		</miHelpPurchase>
+		<miHelpRegister>
+			<Caption>Regisztrálás...</Caption>
+			<Hint>A Total Uninstall regisztrálása</Hint>
+		</miHelpRegister>
+		<miHexView>
+			<Caption>Hex nézet</Caption>
+			<Hint>Fájl megnyitása a hex szerkesztőben</Hint>
+		</miHexView>
+		<miImport>
+			<Caption>Importálás</Caption>
+		</miImport>
+		<miInstalledPrograms>
+			<Caption>Telepített programok</Caption>
+			<Hint>Telepített programok|Váltás a telepített programokra</Hint>
+		</miInstalledPrograms>
+		<miList>
+			<Caption>Lista</Caption>
+		</miList>
+		<miListGroupNotes>
+			<Caption>Csoportjegyzetek</Caption>
+		</miListGroupNotes>
+		<miListLargeIcons>
+			<Caption>Nagy ikonok</Caption>
+		</miListLargeIcons>
+		<miListProgramNotes>
+			<Caption>Program megjegyzések</Caption>
+		</miListProgramNotes>
+		<miListSmallIcons>
+			<Caption>Kis ikonok</Caption>
+		</miListSmallIcons>
+		<miModules>
+			<Caption>&amp;Modulok</Caption>
+		</miModules>
+		<miMonAppsGroupAddChild>
+			<Caption>Alcsoport hozzáadása...</Caption>
+		</miMonAppsGroupAddChild>
+		<miMonAppsGroupAddRoot>
+			<Caption>Gyökércsoport hozzáadása...</Caption>
+		</miMonAppsGroupAddRoot>
+		<miMonAppsGroupEdit>
+			<Caption>Csoport szerkesztése...</Caption>
+		</miMonAppsGroupEdit>
+		<miMonAppsGroupMoveToRoot>
+			<Caption>Áthelyezés a gyökérbe</Caption>
+		</miMonAppsGroupMoveToRoot>
+		<miMonAppsGroupRemove>
+			<Caption>Csoport eltávolítása</Caption>
+		</miMonAppsGroupRemove>
+		<miMonitoredPrograms>
+			<Caption>Figyelt programok</Caption>
+			<Hint>Figyelt programok|Váltás a figyelt programokra</Hint>
+		</miMonitoredPrograms>
+		<miOpen>
+			<Caption>Megnyitás</Caption>
+			<Hint>Fájl, mappa megnyitása vagy ugrás a kulcsra a rendszerleíróban</Hint>
+		</miOpen>
+		<miPendingFileRenameOp>
+			<Caption>Függőben lévő fájl átnevezési műveletek...</Caption>
+			<Hint>A függőben lévő fájl átnevezési műveletek megjelenítése és alkalmazása</Hint>
+		</miPendingFileRenameOp>
+		<miPrgAddInstalledPrg>
+			<Caption>Program felvétele a listára...</Caption>
+		</miPrgAddInstalledPrg>
+		<miPrgAnalyze>
+			<Caption>&amp;Elemzés</Caption>
+			<Hint>Elemzés|Az aktuális program rendszeren belüli módosításainak elemzése</Hint>
+		</miPrgAnalyze>
+		<miPrgChangeIcon>
+			<Caption>Ikoncsere...</Caption>
+		</miPrgChangeIcon>
+		<miPrgDelete>
+			<Caption>Törlés</Caption>
+			<Hint>Az aktuális telepítési napló törlése</Hint>
+		</miPrgDelete>
+		<miPrgEditInstalledPrg>
+			<Caption>Program szerkesztése...</Caption>
+		</miPrgEditInstalledPrg>
+		<miPrgNotes>
+			<Caption>Megjegyzések...</Caption>
+			<Hint>Megjegyzések hozzáadása az aktuális telepítési naplóhoz</Hint>
+		</miPrgNotes>
+		<miPrgRemoveInstalledPrg>
+			<Caption>Program eltávolítása a listáról</Caption>
+		</miPrgRemoveInstalledPrg>
+		<miPrgRename>
+			<Caption>Átnevezés...</Caption>
+			<Hint>Az aktuális telepítési napló átnevezése</Hint>
+		</miPrgRename>
+		<miPrintChanges>
+			<Caption>Változások...</Caption>
+			<Hint>Változások-fa kinyomtatása</Hint>
+		</miPrintChanges>
+		<miPrintInstalledPrograms>
+			<Caption>Telepített programok...</Caption>
+		</miPrintInstalledPrograms>
+		<miPrintMonitoredPrograms>
+			<Caption>Figyelt programok...</Caption>
+		</miPrintMonitoredPrograms>
+		<miProperties>
+			<Caption>Tulajdonságok</Caption>
+			<Hint>A kijelölt fájl vagy mappa tulajdonságainak megjelenítése</Hint>
+		</miProperties>
+		<miRemovefromLog>
+			<Caption>Eltávolítás a naplóból</Caption>
+			<Hint>A kijelölt elemek eltávolítása a naplóból</Hint>
+		</miRemovefromLog>
+		<miSnsTreeOpen>
+			<Caption>Megnyitás</Caption>
+		</miSnsTreeOpen>
+		<miSummary>
+			<Caption>Összefoglaló</Caption>
+			<Hint>Összefoglaló|Rövid információk megjelenítése az aktuális programról</Hint>
+		</miSummary>
+		<miTextView>
+			<Caption>Szöveg nézet</Caption>
+			<Hint>A fájl megnyitása a szövegszerkesztőben</Hint>
+		</miTextView>
+		<miToolbarLarge>
+			<Caption>Nagy</Caption>
+		</miToolbarLarge>
+		<miToolbarMedium>
+			<Caption>Közepes</Caption>
+		</miToolbarMedium>
+		<miToolbarSmall>
+			<Caption>Kicsi</Caption>
+		</miToolbarSmall>
+		<miTools>
+			<Caption>&amp;Eszközök</Caption>
+		</miTools>
+		<miToolsCompareSnapshots>
+			<Caption>Rendszer-pillanatfelvételek összehasonlítása...</Caption>
+		</miToolsCompareSnapshots>
+		<miToolsFind>
+			<Caption>Keresés</Caption>
+			<Hint>Keresés|Szöveg keresése az észlelt változásokban</Hint>
+		</miToolsFind>
+		<miToolsMergeLogs>
+			<Caption>Naplók egyesítése...</Caption>
+		</miToolsMergeLogs>
+		<miToolsOptions>
+			<Caption>Opciók...</Caption>
+			<Hint>A szoftver beállításainak konfigurálása</Hint>
+		</miToolsOptions>
+		<miToolsSystemRestore>
+			<Caption>Rendszer-visszaállítás</Caption>
+		</miToolsSystemRestore>
+		<miULogSuccessful>
+			<Caption>Sikeres műveletek</Caption>
+			<Hint>A sikeres műveletek megjelenítése vagy elrejtése az eltávolítási naplóból</Hint>
+		</miULogSuccessful>
+		<miULogWarnings>
+			<Caption>Figyelmeztetések</Caption>
+			<Hint>Figyelmeztetések megjelenítése vagy elrejtése az eltávolítási naplóból</Hint>
+		</miULogWarnings>
+		<miUninstallLog>
+			<Caption>Eltávolítási napló</Caption>
+			<Hint>Eltávolítási napló|A program eltávolítási naplójának megjelenítése</Hint>
+		</miUninstallLog>
+		<miUninstallLogDet>
+			<Caption>Eltávolítási napló részletei</Caption>
+		</miUninstallLogDet>
+		<miView>
+			<Caption>&amp;Nézet</Caption>
+		</miView>
+		<miViewAutoGroupPrograms>
+			<Caption>Programok automatikus csoportosítása</Caption>
+		</miViewAutoGroupPrograms>
+		<miViewBundle>
+			<Caption>Csomag</Caption>
+		</miViewBundle>
+		<miViewColorScheme>
+			<Caption>Színséma</Caption>
+		</miViewColorScheme>
+		<miViewDetails>
+			<Caption>Részletek</Caption>
+			<Hint>Program részletek|A program részleteinek megjelenítése vagy elrejtése</Hint>
+		</miViewDetails>
+		<miViewItemCurrentView>
+			<Caption>Aktuális nézet</Caption>
+		</miViewItemCurrentView>
+		<miViewItemDetails>
+			<Caption>Elem részletek</Caption>
+			<Hint>A kijelölt csomópont részleteinek megjelenítése vagy elrejtése a változások fából</Hint>
+		</miViewItemDetails>
+		<miViewNavigator>
+			<Caption>Programok</Caption>
+			<Hint>Programlista|A programlista megjelenítése vagy elrejtése</Hint>
+		</miViewNavigator>
+		<miViewRefresh>
+			<Caption>Frissítés</Caption>
+		</miViewRefresh>
+		<miViewStatusBar>
+			<Caption>Állapotsor</Caption>
+			<Hint>Állapotsor megjelenítése vagy elrejtése</Hint>
+		</miViewStatusBar>
+		<miViewSystemComponents>
+			<Caption>Rendszerösszetevők</Caption>
+		</miViewSystemComponents>
+		<miViewToolbars>
+			<Caption>Eszköztárak</Caption>
+		</miViewToolbars>
+		<miViewToolbarsBtnCaption>
+			<Caption>Gombfelirat</Caption>
+			<Hint>Az eszköztáron lévő gombok feliratainak megjelenítése vagy elrejtése</Hint>
+		</miViewToolbarsBtnCaption>
+		<miViewToolbarsBtnSize>
+			<Caption>Gomb mérete</Caption>
+		</miViewToolbarsBtnSize>
+		<miViewToolbarsBtnWordWrap>
+			<Caption>Gombfelirat sortörés</Caption>
+		</miViewToolbarsBtnWordWrap>
+		<miViewToolbarsTbrCaption>
+			<Caption>Eszköztár felirat</Caption>
+			<Hint>Az eszköztár feliratok megjelenítése vagy elrejtése</Hint>
+		</miViewToolbarsTbrCaption>
+		<miViewToolbarsVisible>
+			<Caption>Látható</Caption>
+			<Hint>Az eszköztár megjelenítése vagy elrejtése</Hint>
+		</miViewToolbarsVisible>
+		<miWindowsApps>
+			<Caption>Windows alkalmazások</Caption>
+		</miWindowsApps>
+		<pmiAutorunAdd>
+			<Caption>Hozzáadás</Caption>
+		</pmiAutorunAdd>
+		<pmiAutorunDelete>
+			<Caption>Törlés</Caption>
+		</pmiAutorunDelete>
+		<pmiAutorunLocateEntry>
+			<Caption>Automatikus futtatási bejegyzés megkeresése</Caption>
+		</pmiAutorunLocateEntry>
+		<pmiAutorunLocateTarget>
+			<Caption>Cél megkeresése</Caption>
+		</pmiAutorunLocateTarget>
+		<pmiAutorunRun>
+			<Caption>Futtatás</Caption>
+		</pmiAutorunRun>
+		<pmiAutorunStop>
+			<Caption>Leállítás</Caption>
+		</pmiAutorunStop>
+		<pmiAutorunTargetProperties>
+			<Caption>Cél tulajdonságai</Caption>
+		</pmiAutorunTargetProperties>
+		<pmiChgTreeCompareExcl>
+			<Caption>Felvétel az összehasonlítás kizárási listára</Caption>
+			<Hint>A kijelölt elemek felvétele az összehasonlítási profilok kizárási listájára</Hint>
+		</pmiChgTreeCompareExcl>
+		<pmiChgTreeDelete>
+			<Caption>Végleges törlés</Caption>
+			<Hint>A kijelölt elem eltávolítása a naplóból és a rendszerből</Hint>
+		</pmiChgTreeDelete>
+		<pmiChgTreeDelSys>
+			<Caption>Törlés csak a rendszerből</Caption>
+			<Hint>A kijelölt elem törlése csak a rendszerből</Hint>
+		</pmiChgTreeDelSys>
+		<pmiChgTreeExportRegistryChanges>
+			<Caption>Rendszerleíró változások exportálása...</Caption>
+			<Hint>Rendszerleíró változások exportálása újratelepítéshez vagy eltávolításhoz</Hint>
+		</pmiChgTreeExportRegistryChanges>
+		<pmiChgTreeHexView>
+			<Caption>Hex nézet</Caption>
+			<Hint>Fájl megnyitása a hex szerkesztőben</Hint>
+		</pmiChgTreeHexView>
+		<pmiChgTreeOpen>
+			<Caption>Megnyitás</Caption>
+			<Hint>Fájl, mappa megnyitása vagy ugrás a kulcsra a rendszerleíróban</Hint>
+		</pmiChgTreeOpen>
+		<pmiChgTreeProperties>
+			<Caption>Tulajdonságok</Caption>
+			<Hint>A kijelölt fájl vagy mappa tulajdonságainak megjelenítése</Hint>
+		</pmiChgTreeProperties>
+		<pmiChgTreeRedo>
+			<Caption>Ismételt végrehajtás</Caption>
+			<Hint>A kijelölt változtatások végrehajtásának megismétlése a rendszerben</Hint>
+		</pmiChgTreeRedo>
+		<pmiChgTreeRedoDepth>
+			<Caption>Ismételt végrehajtási mélység</Caption>
+			<Hint>A kiválasztott változások megismételt végrehajtásának mélysége</Hint>
+		</pmiChgTreeRedoDepth>
+		<pmiChgTreeRemove>
+			<Caption>Eltávolítás a naplóból</Caption>
+			<Hint>A kijelölt elemek eltávolítása a naplóból</Hint>
+		</pmiChgTreeRemove>
+		<pmiChgTreeRestoreFromBackup>
+			<Caption>Visszaállítása egy biztonsági másolatból</Caption>
+			<Hint>A kijelölt fájlok, mappák, illetve al-mappák visszaállítása a biztonsági mentésből</Hint>
+		</pmiChgTreeRestoreFromBackup>
+		<pmiChgTreeScanExcl>
+			<Caption>Felvétel a vizsgálatból kizárandók listájára</Caption>
+			<Hint>A kijelölt elemek felvétele a vizsgálati profilok kizárási listájára</Hint>
+		</pmiChgTreeScanExcl>
+		<pmiChgTreeTextView>
+			<Caption>Szöveg nézet</Caption>
+			<Hint>Fájl megnyitása a szövegszerkesztőben</Hint>
+		</pmiChgTreeTextView>
+		<pmiChgTreeUndo>
+			<Caption>Visszavonás</Caption>
+			<Hint>A kijelölt változtatások visszavonása a rendszerből</Hint>
+		</pmiChgTreeUndo>
+		<pmiChgTreeUndoDepth>
+			<Caption>Visszavonási mélység</Caption>
+			<Hint>A kiválasztott változások visszavonási mélysége</Hint>
+		</pmiChgTreeUndoDepth>
+		<pmiClnExclude>
+			<Caption>Kizárás</Caption>
+		</pmiClnExclude>
+		<pmiClnSelectBranch>
+			<Caption>Ág kijelölése</Caption>
+		</pmiClnSelectBranch>
+		<pmiClnUnselectBranch>
+			<Caption>Ág kijelölésének visszavonása</Caption>
+		</pmiClnUnselectBranch>
+		<pmiCopySummary>
+			<Caption>Másolás</Caption>
+		</pmiCopySummary>
+		<pmiInstAppsHeaderAutoResize>
+			<Caption>Automatikus átméretezés</Caption>
+		</pmiInstAppsHeaderAutoResize>
+		<pmiLocate>
+			<Caption>Helymeghatározás</Caption>
+		</pmiLocate>
+		<pmiMonAppsHeaderAutoResize>
+			<Caption>Automatikus átméretezés</Caption>
+		</pmiMonAppsHeaderAutoResize>
+		<pmiShowSuccessful>
+			<Caption>Sikeres műveletek</Caption>
+			<Hint>Sikeres műveletek megjelenítése vagy elrejtése az eltávolítási naplóból</Hint>
+		</pmiShowSuccessful>
+		<pmiShowWarnings>
+			<Caption>Figyelmeztetések</Caption>
+			<Hint>Figyelmeztetések megjelenítése vagy elrejtése az eltávolítási naplóból</Hint>
+		</pmiShowWarnings>
+		<pmiTrayRestore>
+			<Caption>Visszaállítás</Caption>
+		</pmiTrayRestore>
+		<rbAll>
+			<Caption>Minden program</Caption>
+		</rbAll>
+		<rbSelection>
+			<Caption>Kijelölés</Caption>
+		</rbSelection>
+		<sbAppClose>
+			<Hint>Bezárás|Bezárás</Hint>
+		</sbAppClose>
+		<sbDetailsClose>
+			<Hint>Bezárás|Bezárás</Hint>
+		</sbDetailsClose>
+		<sbSearchClose>
+			<Hint>Bezárás|Bezárás</Hint>
+		</sbSearchClose>
+		<tabOptions>
+			<Caption>Opciók</Caption>
+		</tabOptions>
+		<tabResults>
+			<Caption>Eredmények</Caption>
+		</tabResults>
+		<tbrActions>
+			<Caption>Műveletek</Caption>
+		</tbrActions>
+		<tbrDetails>
+			<Caption>Részletek</Caption>
+		</tbrDetails>
+		<tbrLayout>
+			<Caption>Elrendezés</Caption>
+		</tbrLayout>
+		<tbrModules>
+			<Caption>Modulok</Caption>
+		</tbrModules>
+		<tbrView>
+			<Caption>Nézet</Caption>
+		</tbrView>
+		<tbtnAnalyze>
+			<Caption>Elemzés</Caption>
+			<Hint>Elemzés|Az aktuális program rendszermódosításainak elemzése</Hint>
+		</tbtnAnalyze>
+		<tbtnArAdd>
+			<Caption>Hozzáadás</Caption>
+		</tbtnArAdd>
+		<tbtnArDelete>
+			<Caption>Törlés</Caption>
+		</tbtnArDelete>
+		<tbtnArRun>
+			<Caption>Futtatás</Caption>
+		</tbtnArRun>
+		<tbtnArStop>
+			<Caption>Leállítás</Caption>
+		</tbtnArStop>
+		<tbtnAutorunMgr>
+			<Caption>Indítópult kezelő</Caption>
+		</tbtnAutorunMgr>
+		<tbtnChanges>
+			<Caption>Változások</Caption>
+			<Hint>Észlelt változások|A jelenlegi program által végrehajtott változtatások megjelenítése</Hint>
+		</tbtnChanges>
+		<tbtnChgView>
+			<Caption>Nézet</Caption>
+			<Hint>Nézet|A kiválasztott nézet alkalmazása</Hint>
+		</tbtnChgView>
+		<tbtnCleaner>
+			<Caption>Tisztító</Caption>
+			<Hint>Tisztító</Hint>
+		</tbtnCleaner>
+		<tbtnClnClean>
+			<Caption>Tisztítás</Caption>
+			<Hint>Tisztítás</Hint>
+		</tbtnClnClean>
+		<tbtnClnItems>
+			<Caption>Elemek</Caption>
+		</tbtnClnItems>
+		<tbtnClnScan>
+			<Caption>Vizsgálat</Caption>
+			<Hint>Vizsgálat|Eldobható elemek keresése</Hint>
+		</tbtnClnScan>
+		<tbtnClnSummary>
+			<Caption>Összefoglaló</Caption>
+			<Hint>Összefoglaló|Rövid információk megjelenítése az aktuális programról</Hint>
+		</tbtnClnSummary>
+		<tbtnCollapse>
+			<Caption>Tartalom összevonása</Caption>
+			<Hint>Az aktív faszerkezet összevonása</Hint>
+		</tbtnCollapse>
+		<tbtnDetails>
+			<Caption>Részletek</Caption>
+			<Hint>Program részletek|A program részleteinek megjelenítése vagy elrejtése</Hint>
+		</tbtnDetails>
+		<tbtnExpand>
+			<Caption>Tartalom kiterjesztése</Caption>
+			<Hint>Az aktív faszerkezet kibontása</Hint>
+		</tbtnExpand>
+		<tbtnInstallModify>
+			<Caption>Módosítás</Caption>
+			<Hint>Javítás, módosítás vagy eltávolítás</Hint>
+		</tbtnInstallModify>
+		<tbtnInstallNew>
+			<Caption>Telepítés</Caption>
+			<Hint>Új telepítés|Új program telepítésének figyelése</Hint>
+		</tbtnInstallNew>
+		<tbtnInstallUpdate>
+			<Caption>Frissítés</Caption>
+			<Hint>Frissítés telepítése|A jelenlegi programfrissítés telepítésének figyelése</Hint>
+		</tbtnInstallUpdate>
+		<tbtnInstPrograms>
+			<Caption>Telepített programok</Caption>
+			<Hint>Telepített programok|Váltás a telepített programokra</Hint>
+		</tbtnInstPrograms>
+		<tbtnMonPrograms>
+			<Caption>Figyelt programok</Caption>
+			<Hint>Figyelt programok|Váltás a figyelt programokra</Hint>
+		</tbtnMonPrograms>
+		<tbtnPrograms>
+			<Caption>Programok</Caption>
+			<Hint>Programlista|A programok listájának megjelenítése vagy elrejtése</Hint>
+		</tbtnPrograms>
+		<tbtnSave>
+			<Caption>Mentés</Caption>
+			<Hint>Változások mentése az aktuális telepítési naplóból</Hint>
+		</tbtnSave>
+		<tbtnSearch>
+			<Caption>Keresés</Caption>
+			<Hint>Keresés|Szöveg keresése az észlelt változásokban</Hint>
+		</tbtnSearch>
+		<tbtnShowSnapshot>
+			<Caption>Pillanatfelvétel megjelenítése</Caption>
+		</tbtnShowSnapshot>
+		<tbtnSummary>
+			<Caption>Összefoglaló</Caption>
+			<Hint>Összefoglaló|Rövid információ megjelenítése az aktuális programról</Hint>
+		</tbtnSummary>
+		<tbtnUninstall>
+			<Caption>Eltávolítás</Caption>
+		</tbtnUninstall>
+		<tbtnUninstallLog>
+			<Caption>Eltávolítási napló</Caption>
+			<Hint>Eltávolítási napló|A program eltávolítási naplójának megjelenítése</Hint>
+		</tbtnUninstallLog>
+		<tbtnWinApps>
+			<Caption>Windows alkalmazások</Caption>
+		</tbtnWinApps>
+		<tpnlSearch>
+			<Caption>Keresés</Caption>
+		</tpnlSearch>
+		<tvAutorunItems>
+			<Columns_0>Név</Columns_0>
+			<Columns_1>Szekció</Columns_1>
+			<Columns_2>Állapot</Columns_2>
+			<Columns_3>Leírás</Columns_3>
+			<Columns_4>Kiadó</Columns_4>
+			<Columns_5>Parancs</Columns_5>
+		</tvAutorunItems>
+		<tvChanges>
+			<Columns_0>Észlelt módosítások</Columns_0>
+			<Columns_1>Előtte</Columns_1>
+			<Columns_2>Utána</Columns_2>
+			<Columns_3>Jelenlegi</Columns_3>
+		</tvChanges>
+		<tvClnItems>
+			<Columns_0>Elemek</Columns_0>
+			<Columns_1>Tulajdonságok</Columns_1>
+		</tvClnItems>
+		<tvResults>
+			<Columns_0>Név</Columns_0>
+			<Columns_1>Hely</Columns_1>
+			<Columns_2>Program</Columns_2>
+		</tvResults>
+	</frmTUMain>
+	<RESOURCESTRING>
+		<ACCESS_DENIED_X>Hozzáférés megtagadva: %s</ACCESS_DENIED_X>
+		<ACT_CRE_KEY>Rendszerleíró kulcs létrehozása: %s</ACT_CRE_KEY>
+		<ACT_CRE_VAL>Rendszerleíró érték létrehozása: %s</ACT_CRE_VAL>
+		<ACT_DEC_CNT>Megosztott fájl számlálójának csökkentése a rendszerleíróból: %s</ACT_DEC_CNT>
+		<ACT_DEL_ADS>Alternatív adatfolyam törlése: %s</ACT_DEL_ADS>
+		<ACT_DEL_FILE>Fájl törlése: %s</ACT_DEL_FILE>
+		<ACT_DEL_FOLDER>Mappa törlése: %s</ACT_DEL_FOLDER>
+		<ACT_DEL_KEY>Rendszerleíró kulcs törlése: %s</ACT_DEL_KEY>
+		<ACT_DEL_SERVICE>Szolgáltatás vagy eszköz törlése: %s</ACT_DEL_SERVICE>
+		<ACT_DEL_VAL>Rendszerleíró érték törlése: %s</ACT_DEL_VAL>
+		<ACT_RST_FILE>Fájltulajdonságok visszaállítása: %s</ACT_RST_FILE>
+		<ACT_RST_VAL>Rendszerleíró érték visszaállítása: %s</ACT_RST_VAL>
+		<ACT_STOP_SERVICE>Szolgáltatás vagy eszköz leállítása: %s</ACT_STOP_SERVICE>
+		<ADD>Hozzáadás</ADD>
+		<ADVANCED>Speciális</ADVANCED>
+		<AGENT>Ügynök</AGENT>
+		<ALL>Összes</ALL>
+		<ALL_BRA>(Összes)</ALL_BRA>
+		<ALL_DETAILS>Minden részlet</ALL_DETAILS>
+		<ALWAYS>Mindig</ALWAYS>
+		<ANALYSIS_PROFILE>Elemzési profil</ANALYSIS_PROFILE>
+		<ANALYSIS_PROFILES>Elemzési profilok</ANALYSIS_PROFILES>
+		<ANALYZING>Elemzés...</ANALYZING>
+		<ASK>Kérdezzen rá</ASK>
+		<ASK_COMPLETE_LATER>Később fejezi be a figyelési folyamatot?</ASK_COMPLETE_LATER>
+		<ASK_IF_NO_ERROR>Kérdezzen rá, ha nincs hiba</ASK_IF_NO_ERROR>
+		<ASK_SAVE_CHG>Menti a(z) "%s" módosításait?</ASK_SAVE_CHG>
+		<ASK_USER>Kérdezzen rá</ASK_USER>
+		<AUTOMATIC>Automatikus</AUTOMATIC>
+		<AUTORUN_ITEMS>Automatikusan induló elemek</AUTORUN_ITEMS>
+		<AUTORUN_MGR>Indítópult kezelő</AUTORUN_MGR>
+		<BACKUP>Biztonsági mentés</BACKUP>
+		<BACKUP_CREATED>A biztonsági másolat elkészült.</BACKUP_CREATED>
+		<BACKUP_CREATED_OK>A biztonsági másolat sikeresen létre lett hozva.</BACKUP_CREATED_OK>
+		<BACKUP_PROGRAM>A program biztonsági másolatának elkészítése...</BACKUP_PROGRAM>
+		<BACKUP_PROGRAM_X>A(z) "%s" program biztonsági másolatának létrehozása</BACKUP_PROGRAM_X>
+		<BEGIN_UNINSTALL>Nyomja meg az Eltávolítás gombot az eltávolítási folyamat megkezdéséhez.</BEGIN_UNINSTALL>
+		<BEGIN_UNINSTALL_LAUNCH>Nyomja meg az Indítás gombot az eltávolítási folyamat megkezdéséhez.</BEGIN_UNINSTALL_LAUNCH>
+		<BROWSE_FOR_FILE>Tallózás a fájlok között</BROWSE_FOR_FILE>
+		<BROWSE_FOR_FOLDER>Tallózás a mappák között</BROWSE_FOR_FOLDER>
+		<BROWSE_FOR_FOLDER_OR_FILE>Tallózás a fájlok vagy mappák között</BROWSE_FOR_FOLDER_OR_FILE>
+		<BROWSE_FOR_KEY>Tallózás a kulcsok között</BROWSE_FOR_KEY>
+		<BROWSE_FOR_KEY_OR_VALUE>Tallózás a kulcsok vagy értékek között</BROWSE_FOR_KEY_OR_VALUE>
+		<BROWSE_FOR_VALUE>Érték tallózása</BROWSE_FOR_VALUE>
+		<BTN_CONTINUE>Folytatás</BTN_CONTINUE>
+		<BUILT_IN_CANCELLED>A beépített eltávolító meg lett szakítva vagy az eltávolítási folyamat befejezése nélkül ért véget.</BUILT_IN_CANCELLED>
+		<BUILT_IN_UNINSTALLER_RUNNING>A beépített eltávolító program fut.</BUILT_IN_UNINSTALLER_RUNNING>
+		<CANCEL>Mégse</CANCEL>
+		<CANNOT_BROWSE>Hiba történt az alapértelmezett böngésző indításakor.\nA hivatkozás a vágólapra lett másolva.</CANNOT_BROWSE>
+		<CANT_EXECUTE>Nem sikerült elindítani a(z) "%s" programot.</CANT_EXECUTE>
+		<CANT_OPEN_KEY>Nem lehet megnyitni a kulcsot</CANT_OPEN_KEY>
+		<CHANGED_ITEMS>Megváltozott elemek</CHANGED_ITEMS>
+		<CHANGES>"%s" változás</CHANGES>
+		<CHECK_UPD_NEW>Új híreket vagy frissítéseket érhet el</CHECK_UPD_NEW>
+		<CHECK_UPD_REMINDER>Frissítés ellenőrzési emlékeztető</CHECK_UPD_REMINDER>
+		<CHG_VIEWS>Változás nézetek</CHG_VIEWS>
+		<CLEAN_UP>Tisztítás</CLEAN_UP>
+		<CLEAN_UP_DESC>Egy eltávolított és megfigyelt program nyomainak eltávolítása</CLEAN_UP_DESC>
+		<CLEANED>Megtisztítva</CLEANED>
+		<CLEANER>Tisztító</CLEANER>
+		<CLEANING>Tisztítás...</CLEANING>
+		<CLOSE>Bezárás</CLOSE>
+		<CLOSE_PROCESSES>Folyamatok lezárása</CLOSE_PROCESSES>
+		<CMP_ERROR>Hiba történt a pillanatfelvétel összehasonlításakor.</CMP_ERROR>
+		<CMP_PROFILE>Profilnév összehasonlítása</CMP_PROFILE>
+		<CNT_DEL_MON>A rendszerleíró megosztott fájl számláló törlésre került a megfigyelés közben</CNT_DEL_MON>
+		<COMMENTS>Megjegyzések</COMMENTS>
+		<COMMON>Közös</COMMON>
+		<COMP_PROFILES>Profilok összehasonlítása</COMP_PROFILES>
+		<COMPARE>Összehasonlítás</COMPARE>
+		<COMPARING_SNS>Rendszer-pillanatfelvételek összehasonlítása...</COMPARING_SNS>
+		<COMPLETE>Teljes</COMPLETE>
+		<COMPUTER>Számítógép</COMPUTER>
+		<COMPUTER_X>Számítógép (%s)</COMPUTER_X>
+		<CONTACT>Kapcsolat</CONTACT>
+		<CONTINUE>Folytatni szeretné?</CONTINUE>
+		<CONTINUE_UNINSTALL>Eltávolítási folyamat folytatása</CONTINUE_UNINSTALL>
+		<CONTINUE_UNINSTALL_Q>Folytatja az eltávolítási folyamatot?</CONTINUE_UNINSTALL_Q>
+		<CORRUPT_CNT>Érvénytelen változás észlelhető a rendszerleíró megosztott fájl számlálójában: az érték érvénytelen adatra lett csökkentve</CORRUPT_CNT>
+		<CREATE_REG_KEYS>Rendszerleíró kulcsok létrehozása</CREATE_REG_KEYS>
+		<CREATE_REG_VALS>Rendszerleíró értékek létrehozása</CREATE_REG_VALS>
+		<CREATED>Létrehozva</CREATED>
+		<CREATED_ITEMS>Létrehozott elemek</CREATED_ITEMS>
+		<CREATED_ON>Létrehozva:</CREATED_ON>
+		<CREATED_X>Létrehozva: %s</CREATED_X>
+		<DEC_CNT>Rendszerleíró megosztott fájl számláló csökkentése</DEC_CNT>
+		<DEEP_AUDIT>Mélyvizsgálat</DEEP_AUDIT>
+		<DEFAULT>Alapértelmezett</DEFAULT>
+		<DEFAULT_PAR>(Alapértelmezett)</DEFAULT_PAR>
+		<DEL_AT_STARTUP>A törlés a következő indításra lett ütemezve</DEL_AT_STARTUP>
+		<DEL_CNT>Rendszerleíró megosztott fájl számláló törlése</DEL_CNT>
+		<DEL_FILES>Fájlok törlése</DEL_FILES>
+		<DEL_FOLDERS>Mappák törlése</DEL_FOLDERS>
+		<DEL_REG_KEYS>Rendszerleíró kulcsok törlése</DEL_REG_KEYS>
+		<DEL_REG_VALS>Rendszerleíró értékek törlése</DEL_REG_VALS>
+		<DEL_SH_FILE>A megosztott fájl áthelyezése a lemezről a lomtárba</DEL_SH_FILE>
+		<DELETE_SEL_BACKUPS>Törli a kijelölt biztonsági mentés(eke)t?</DELETE_SEL_BACKUPS>
+		<DELETE_SEL_UNDO>Törli a kijelölt visszavonási bejegyzéseket?</DELETE_SEL_UNDO>
+		<DELETE_SYS_SEL_ITEM>Törli a rendszerből a kiválasztott elemet?</DELETE_SYS_SEL_ITEM>
+		<DELETED>Törölve</DELETED>
+		<DELETED_ITEMS>Törölt elemek</DELETED_ITEMS>
+		<DEPENDS_ON_PACKAGES>Csomagoktól függ</DEPENDS_ON_PACKAGES>
+		<DETECTED_CHG>Törölt módosítások</DETECTED_CHG>
+		<DISABLED>Letiltva</DISABLED>
+		<DISPOSABLE_ITEMS>Eldobható elemek</DISPOSABLE_ITEMS>
+		<DLG_ABORT>Megszakítás</DLG_ABORT>
+		<DLG_ALL>Összes</DLG_ALL>
+		<DLG_CANCEL>Mégse</DLG_CANCEL>
+		<DLG_CLOSE>Bezárás</DLG_CLOSE>
+		<DLG_CNF>Megerősítés</DLG_CNF>
+		<DLG_ERR>Hiba</DLG_ERR>
+		<DLG_IGNORE>Figyelmen kívül hagyás</DLG_IGNORE>
+		<DLG_INF>Információk</DLG_INF>
+		<DLG_NO>Nem</DLG_NO>
+		<DLG_NOTOALL>Egyiket sem</DLG_NOTOALL>
+		<DLG_OK>&amp;OK</DLG_OK>
+		<DLG_RETRY>Újra</DLG_RETRY>
+		<DLG_WRN>Figyelmeztetés</DLG_WRN>
+		<DLG_YES>Igen</DLG_YES>
+		<DLG_YESTOALL>Igen, mindet</DLG_YESTOALL>
+		<DONT_DEL_SH_FILE>A felhasználó a megosztott fájl megtartását választotta</DONT_DEL_SH_FILE>
+		<EDIT_PROGRAM>Program szerkesztése</EDIT_PROGRAM>
+		<ELAPSED>Eltelt %d:%2.2d</ELAPSED>
+		<ENTER_IDENTIFIER>Adja meg a telepített program nevét.</ENTER_IDENTIFIER>
+		<ERR>Hiba</ERR>
+		<ERR_BRA>(HIBA)</ERR_BRA>
+		<ERR_DEL_FLD_FILES>Egy vagy több mappa vagy fájl nem törölhető.</ERR_DEL_FLD_FILES>
+		<ERR_DEL_REG_KEYS_VALS>Egy vagy több kulcs vagy érték nem törölhető.</ERR_DEL_REG_KEYS_VALS>
+		<ERR_REDO_REG_KEYS_VALS>Egy vagy több kulccsal vagy értékkel végrehajtott előzetes művelet nem ismételhető meg.</ERR_REDO_REG_KEYS_VALS>
+		<ERR_UNDO_REG_KEYS_VALS>Egy vagy több kulcs vagy érték nem vonható vissza.</ERR_UNDO_REG_KEYS_VALS>
+		<ERR_WRN_OK_STAT>Hiba: %d   Figyelmeztetés: %d  Sikeres művelet: %d</ERR_WRN_OK_STAT>
+		<ERROR_UNINST_X_APPS>%d alkalmazás eltávolítási hiba.</ERROR_UNINST_X_APPS>
+		<EXIT>Kilépés</EXIT>
+		<EXPERT>Szakértő</EXPERT>
+		<EXPIRE_DAYS>%d nap múlva lejár</EXPIRE_DAYS>
+		<EXPORT_ERROR>Exportálási hiba!</EXPORT_ERROR>
+		<EXTENSION>Kiterjesztés</EXTENSION>
+		<FAMILY_NOT_ACCEPTED>A családi licenc nem elfogadott.</FAMILY_NOT_ACCEPTED>
+		<FFILTER_ALL>Minden fájl (*.*)|*.*</FFILTER_ALL>
+		<FFILTER_DLL>Alkalmazás dll fájlok (*.dll)|*.dll</FFILTER_DLL>
+		<FFILTER_EXE>Futtatható fájl (*.exe)|*.exe</FFILTER_EXE>
+		<FFILTER_EXE_MSI>Végrehajtható, Windows telepítőcsomag</FFILTER_EXE_MSI>
+		<FFILTER_HTM>HTML dokumentumok (*.htm, *.html)|*.htm;*html</FFILTER_HTM>
+		<FFILTER_ICL>Ikon gyűjtemények (*.icl)|*.icl</FFILTER_ICL>
+		<FFILTER_ICO>Ikonfájlok (*.ico)|*.ico</FFILTER_ICO>
+		<FFILTER_MSI>Microsoft telepítők (*.msi)|*.msi</FFILTER_MSI>
+		<FFILTER_REG>Reg fájlok (*.reg)|*.reg</FFILTER_REG>
+		<FFILTER_TXT>Szöveges dokumentumok (*.txt)|*.txt</FFILTER_TXT>
+		<FFILTER_WAV>Hangfájlok (*.wav)|*.wav</FFILTER_WAV>
+		<FFILTER_XML>XML dokumentumok - (*.xml)|*.xml</FFILTER_XML>
+		<FFILTER_ZIP>Biztonsági mentés fájlok (*.zip)|*.zip</FFILTER_ZIP>
+		<FILE>(FÁJL)</FILE>
+		<FILE_>Fájl</FILE_>
+		<FILE_MASK>Fájl maszk</FILE_MASK>
+		<FILE_SYSTEM>Fájlrendszer</FILE_SYSTEM>
+		<FILES_CHG_STAT>Módosított fájlok     :%6.1d</FILES_CHG_STAT>
+		<FILES_CREATED_STAT>Létrehozott fájlok      :%6.1d</FILES_CREATED_STAT>
+		<FILES_DEL_STAT>Törölt fájlok      :%6.1d</FILES_DEL_STAT>
+		<FILES_NOT_INCLUDED>A fájlok nem szerepelnek a biztonsági másolatban</FILES_NOT_INCLUDED>
+		<FILES_X>Fájlok   :%6.1d</FILES_X>
+		<FILTER>Szűrő</FILTER>
+		<FINISH>Befejezés</FINISH>
+		<FLDS_CREATED_STAT>Létrehozott mappák  :%6.1d</FLDS_CREATED_STAT>
+		<FLDS_DEL_STAT>Törölt mappák  :%6.1d</FLDS_DEL_STAT>
+		<FOLDER>(MAPPA)</FOLDER>
+		<FOLDER_>Mappa</FOLDER_>
+		<FOLDER_MASK>Mappa maszk</FOLDER_MASK>
+		<FOLDERS_X>Mappák :%6.1d</FOLDERS_X>
+		<FREE_UPDATES_UNTIL>%s-ig ingyenes frissítések</FREE_UPDATES_UNTIL>
+		<FS_DET_VIEW_PRF>Fájlrendszer részletek [Nézet: %s]</FS_DET_VIEW_PRF>
+		<GENERAL>Általános</GENERAL>
+		<GENERATED_BY_TU>Létrehozva a Total Uninstall programmal</GENERATED_BY_TU>
+		<HIDDEN_NODE>A csomópont rejtett.</HIDDEN_NODE>
+		<HIDDEN_NODE_IN_VIEW>Az elem rejtve van az aktuális nézetben.</HIDDEN_NODE_IN_VIEW>
+		<HIDE_OPTIONS>&amp;Opciók elrejtése</HIDE_OPTIONS>
+		<IF_NO_ERROR>Ha nincs hiba</IF_NO_ERROR>
+		<IMPORTING_ARCHIVE>Archívum(ok) importálása...</IMPORTING_ARCHIVE>
+		<INCLUDE_FOLDER_IN_LOG>A mappa szerepeljen a naplóban</INCLUDE_FOLDER_IN_LOG>
+		<INF_VOLATILE_KEY>Az ideiglenes kulcs nem jött létre</INF_VOLATILE_KEY>
+		<INF_VOLATILE_VAL>Az ideiglenes érték nem jött létre</INF_VOLATILE_VAL>
+		<INST_ON>Telepítés ideje</INST_ON>
+		<INST_PRG>Telepített program</INST_PRG>
+		<INST_PRGS>Telepített programok</INST_PRGS>
+		<INST_SERV_AND_DEV>Telepített szolgáltatások és eszközök</INST_SERV_AND_DEV>
+		<INSTALL>Telepítés</INSTALL>
+		<INSTALL_HISTORY>Telepítési előzmények</INSTALL_HISTORY>
+		<INSTALLED_APPS>%d telepített alkalmazás</INSTALLED_APPS>
+		<INSTALLED_PRGS_CMPS>%d telepített program, %d rendszerösszetevő</INSTALLED_PRGS_CMPS>
+		<INSTALLER_ERR>Telepítési hiba észlelhető: Megosztott fájl számláló lett létrehozva egy meglévő fájl számára</INSTALLER_ERR>
+		<INTERFACE>Kezelőfelület</INTERFACE>
+		<INVALID_AFTER_CNT>Érvénytelen UTÁNA számláló</INVALID_AFTER_CNT>
+		<INVALID_BEFORE_CNT>Érvénytelen ELŐTTE számláló</INVALID_BEFORE_CNT>
+		<INVALID_CURRENT_CNT>Érvénytelen JELENLEGI számláló észlelhető a rendszerleíróban</INVALID_CURRENT_CNT>
+		<INVALID_FILE_FORMAT>Érvénytelen fájlformátum</INVALID_FILE_FORMAT>
+		<INVALID_SERVER_RESPONSE>Érvénytelen érvényesítési szerver válasz. Valószínűleg a tűzfal zavarja a kommunikációt.</INVALID_SERVER_RESPONSE>
+		<ITEM_X>Elem : %s</ITEM_X>
+		<ITEMS_AFTER_INST>Telepítés után a következő elemek jöttek létre.\nMás programoknak szüksége lehet rájuk.</ITEMS_AFTER_INST>
+		<KEY>Kulcs</KEY>
+		<KEYS_CREATED_STAT>Létrehozott kulcsok      :%6.1d</KEYS_CREATED_STAT>
+		<KEYS_DEL_STAT>Törölt kulcsok      :%6.1d</KEYS_DEL_STAT>
+		<KEYS_X>Kulcsok    :%6.1d</KEYS_X>
+		<LAST_CHECK>Utolsó ellenőrzés: %s</LAST_CHECK>
+		<LAST_WRITE_X>Utolsó írás: %s</LAST_WRITE_X>
+		<LAUNCH>Indítás</LAUNCH>
+		<LAUNCH_SUPPLIED_UNINST>A beépített eltávolító program kerül indításra.</LAUNCH_SUPPLIED_UNINST>
+		<LAUNCH_TU>Total Uninstall indítása</LAUNCH_TU>
+		<LIC_COUNTRY>Ország licenc</LIC_COUNTRY>
+		<LIC_FAMILY>Családi licenc</LIC_FAMILY>
+		<LIC_MULTIPLE>Több-számítógépes licenc</LIC_MULTIPLE>
+		<LIC_SINGLE_COMPUTER>Egy-számítógépes licenc</LIC_SINGLE_COMPUTER>
+		<LIC_SITE>Helyi licenc</LIC_SITE>
+		<LIC_SMALL_OFFICE>Kisirodai licenc</LIC_SMALL_OFFICE>
+		<LIC_TECHNICIAN>Technikus licenc</LIC_TECHNICIAN>
+		<LIC_TEMPORARY>Ideiglenes licenc</LIC_TEMPORARY>
+		<LIC_WORLDWIDE>Worldwide licenc</LIC_WORLDWIDE>
+		<LICENSED_TO>Regisztrálta: "%s"</LICENSED_TO>
+		<LNK_EXE_FILTER>Parancsikonok és végrehajtható fájlok (*.lnk, *.exe)|*.lnk;*.exe</LNK_EXE_FILTER>
+		<LOADING>Betöltés...</LOADING>
+		<LOADING_INST_PRGS>Telepített programok betöltése...</LOADING_INST_PRGS>
+		<LOADING_MON_PRGS>Figyelt programok betöltése...</LOADING_MON_PRGS>
+		<LOADING_WINDOWS_APPS>Windows alkalmazások betöltése...</LOADING_WINDOWS_APPS>
+		<LOCATE_PRG_LNK_EXE>Válassza ki a program parancsikonját vagy végrehajtható állományát</LOCATE_PRG_LNK_EXE>
+		<LOCATE_UNINSTALLER_EXE>Válassza ki az eltávolító végrehajthatható állományát</LOCATE_UNINSTALLER_EXE>
+		<LOG_FILE_NAME>Naplófájl neve</LOG_FILE_NAME>
+		<LOGON>Bejelentkezés</LOGON>
+		<MAINTENANCE_ENDED>A licenc követési ideje lejárt.</MAINTENANCE_ENDED>
+		<MAINTENANCE_ENDED_INFO>Az új telepített programverzió próba módban fog futni.</MAINTENANCE_ENDED_INFO>
+		<MANUAL>Kézi</MANUAL>
+		<MICROSOFT>Microsoft</MICROSOFT>
+		<MISSING_ITEMS>Hiányzó elemek</MISSING_ITEMS>
+		<MODIFIED>Módosítva</MODIFIED>
+		<MON_ON>Felügyelet indítási ideje</MON_ON>
+		<MON_PRG>Megfigyelt program</MON_PRG>
+		<MON_PRG_PATH>A megfigyelt program elérési útvonala</MON_PRG_PATH>
+		<MON_PRG_RUNNING>Úgy tűnik, hogy a megfigyelt program  még mindig fut.</MON_PRG_RUNNING>
+		<MONITOR_WITH_TU>Figyelés a Total Uninstall programmal</MONITOR_WITH_TU>
+		<MONITORED_PRGS>%d figyelt program</MONITORED_PRGS>
+		<NAME>Név</NAME>
+		<NEVER>Soha</NEVER>
+		<NEW_NAME>Új név</NEW_NAME>
+		<NO>nem</NO>
+		<NO_GROUPS>Nincsenek csoportok</NO_GROUPS>
+		<NO_MORE_INSTANCES_ALLOWED>Az Ön licence nem teszi lehetővé több program példány futtatását.</NO_MORE_INSTANCES_ALLOWED>
+		<NO_RIGHTS>Nincs elég jogosultság</NO_RIGHTS>
+		<NO_UPDATES>Sérült verzió.</NO_UPDATES>
+		<NON_MICROSOFT>Nem Microsoft</NON_MICROSOFT>
+		<NON_WINDOWS>Nem Windows</NON_WINDOWS>
+		<NORMAL>Normál</NORMAL>
+		<NOT_A_VALID_UNINST>Nem található érvényes vagy bejegyzett eltávolító.</NOT_A_VALID_UNINST>
+		<NOT_AVAILABLE>N.A.</NOT_AVAILABLE>
+		<NOT_DELETED_FILES>Visszamaradt mappák és fájlok</NOT_DELETED_FILES>
+		<NOT_DELETED_FILES_DET>Az eltávolítás során visszamaradt mappák és fájlok</NOT_DELETED_FILES_DET>
+		<NOT_DELETED_REG>Visszamaradt rendszerleíró kulcsok és értékek</NOT_DELETED_REG>
+		<NOT_DELETED_REG_DET>Az eltávolítás során visszamaradt rendszerleíró kulcsok és értékek</NOT_DELETED_REG_DET>
+		<NOT_EMPTY>Nem üres</NOT_EMPTY>
+		<NOT_FOUND>Nem található</NOT_FOUND>
+		<NOT_FOUND_X>Nem található: %s</NOT_FOUND_X>
+		<NOTES>Jegyzetek</NOTES>
+		<OK>OK</OK>
+		<OK_BRA>(OK)</OK_BRA>
+		<ON_PRG_CLOSE>A program bezárásakor</ON_PRG_CLOSE>
+		<ON_REFRESH>Frissítéskor</ON_REFRESH>
+		<ONLY_FILES_TO_KEEP>Nincs törölve. Csak a megtartandó fájlokat vagy mappákat tartalmazza.</ONLY_FILES_TO_KEEP>
+		<ONLY_KEYS_TO_KEEP>Nincs törölve. Csak a megtartandó rendszerleíró kulcsokat tartalmazza.</ONLY_KEYS_TO_KEEP>
+		<OTHER>Egyéb</OTHER>
+		<PACKAGES>Csomagok</PACKAGES>
+		<PAGE>Oldal:</PAGE>
+		<PAINT_ITEM_STYLES>Normál megjelenítés\nElrejtés\nSzövegkiemelés\nIkon elhalványítás\nIkon elhalványítás és szövegkiemelés</PAINT_ITEM_STYLES>
+		<PENDING_FILE_REN>Függőben lévő fájl átnevezési műveletek.</PENDING_FILE_REN>
+		<PRE_INST_SNS_NAME>Telepítés előtti pillanatfelvétel neve</PRE_INST_SNS_NAME>
+		<PRE_INSTALL>Telepítés előtti rendszerfelvétel</PRE_INSTALL>
+		<PREFERENCES>Beállítások</PREFERENCES>
+		<PRG_DETECTED>Észlelt program:</PRG_DETECTED>
+		<PRG_NAME>Program neve</PRG_NAME>
+		<PRG_PART_UNINSTALLED>A program részlegesen lett eltávolítva</PRG_PART_UNINSTALLED>
+		<PRG_RESTORED>A program visszaállítása befejeződött.</PRG_RESTORED>
+		<PRG_UNINSTALLED>A program sikeresen eltávolításra került</PRG_UNINSTALLED>
+		<PRINT_ERROR>Nyomtatási hiba !</PRINT_ERROR>
+		<PROCESS_CANCELLED>Folyamat megszakítva.</PROCESS_CANCELLED>
+		<PROCESSING_INSTALLATIONS>Telepítések feldolgozása...</PROCESSING_INSTALLATIONS>
+		<PRODUCT_UPDATES>Termékfrissítések</PRODUCT_UPDATES>
+		<PROGRAM_WILL_RESTART>A program újra fog indulni a regisztráció befejezéséhez.</PROGRAM_WILL_RESTART>
+		<PROGRESS_DEFAULT>Folyamat, alapértelmezett</PROGRESS_DEFAULT>
+		<PST_INST_SNS_NAME>Telepítés utáni pillanatfelvétel neve</PST_INST_SNS_NAME>
+		<PUBLISHER>Kiadó</PUBLISHER>
+		<QST_DEL_FLD_FILES>Valóban törölni szeretné a kijelölt mappákat vagy fájlokat?</QST_DEL_FLD_FILES>
+		<QST_DEL_REG_KEYS_VALS>Valóban törölni szeretné a kijelölt kulcsokat vagy értékeket?</QST_DEL_REG_KEYS_VALS>
+		<QST_DEL_SERVICES>Valóban törölni szeretné a kiválasztott szolgáltatásokat?</QST_DEL_SERVICES>
+		<QST_REMOVE_INST_PRG_LST>Valóban eltávolítja a kijelölt programokat a listáról?</QST_REMOVE_INST_PRG_LST>
+		<QUEST_REMOVE_GROUP>Eltávolítja a csoportot?</QUEST_REMOVE_GROUP>
+		<QUIET_PROGRESS_DEFAULT>Csendes, folyamat, alapértelmezett</QUIET_PROGRESS_DEFAULT>
+		<README>OlvassEl</README>
+		<READY>Kész</READY>
+		<RECORD_CHANGED_X>Megváltozott bejegyzés: %s</RECORD_CHANGED_X>
+		<REDO_PROFILES>Profilok visszaállítása</REDO_PROFILES>
+		<REG_DET_VIEW_PRF>Rendszerleíró részletek [Nézet: %s]</REG_DET_VIEW_PRF>
+		<REG_KEY>(REG KULCS)</REG_KEY>
+		<REG_RUN>Futtatás</REG_RUN>
+		<REG_RUN_ONCE>Futtatás egyszer</REG_RUN_ONCE>
+		<REG_SCAN_ERROR>Hiba történt a rendszerleíró vizsgálata közben.</REG_SCAN_ERROR>
+		<REG_VAL>(REG VAL)</REG_VAL>
+		<REGISTER_DISABLED_KEY>Lehet, hogy Ön szoftverhamisítás áldozata lett. Kérjük, vásároljon eredeti licenckulcsot.</REGISTER_DISABLED_KEY>
+		<REGISTER_FAILED>A regisztráció sikertelen volt.</REGISTER_FAILED>
+		<REGISTER_FIREWALL>A tűzfal megakadályozza, hogy a %s az interneten érvényesítse az Ön licencét.</REGISTER_FIREWALL>
+		<REGISTER_HOST>Egy HOSTS-fájlban található bejegyzés megakadályozza, hogy a %s az interneten érvényesítse az Ön licencét.</REGISTER_HOST>
+		<REGISTER_INVALID>Érvénytelen regisztrációs adatok</REGISTER_INVALID>
+		<REGISTER_PORTABLE>A Technician hordozható kiadást regisztrálni kell.</REGISTER_PORTABLE>
+		<REGISTER_PRO>A professzionális kiadáshoz tartozó kulccsal kell regisztrálnia a programot.</REGISTER_PRO>
+		<REGISTER_THANK_YOU>Köszönjük a %s regisztrálását.</REGISTER_THANK_YOU>
+		<REGISTERED_COMPANY>Bejegyzett cég</REGISTERED_COMPANY>
+		<REGISTERED_OWNER>Regisztrált tulajdonos</REGISTERED_OWNER>
+		<REGISTRY>Rendszerleíró</REGISTRY>
+		<REMOVE_LEFT_BEHIND>Nyomja meg az Eltávolítás gombot a visszamaradt mappák, fájlok, rendszerleíró kulcsok és értékek eltávolításához.</REMOVE_LEFT_BEHIND>
+		<REMOVE_LOG>Törli a változásnaplót?</REMOVE_LOG>
+		<REMOVE_LOG_DET>Nem lesz képes visszaállítani a kijelölt programok által végrehajtott változtatásokat.</REMOVE_LOG_DET>
+		<REMOVE_PRG_DATA>Eltávolítja a beállításokat és a program adatait?</REMOVE_PRG_DATA>
+		<REMOVE_PRG_DATA_INFO>Válassza a "Nem" gombot, ha a Total Uninstall frissítését vagy megvásárlását tervezi</REMOVE_PRG_DATA_INFO>
+		<RENAME>Átnevezés</RENAME>
+		<REQUEST_INTERNET_ACCESS>Internet hozzáférés szükséges.</REQUEST_INTERNET_ACCESS>
+		<RESTORATION_UNDONE>A helyreállítás nem vonható vissza.</RESTORATION_UNDONE>
+		<RESTORE>Visszaállítás</RESTORE>
+		<RESTORE_PROGRAM>Program visszaállítása</RESTORE_PROGRAM>
+		<RESTORE_REG_VALS>Rendszerleíró értékek visszaállítása</RESTORE_REG_VALS>
+		<RESTORING_ARCHIVE>Fájlok és rendszerleíró elemek visszaállítása...</RESTORING_ARCHIVE>
+		<RESTORING_FILES_FROM_BKP>Fájlok visszaállítása egy biztonsági másolatból...</RESTORING_FILES_FROM_BKP>
+		<RST_FILE_PROP>Fájltulajdonságok visszaállítása</RST_FILE_PROP>
+		<RUN_EVAL_PERIOD>Elindítja kiértékelési módban a programot?</RUN_EVAL_PERIOD>
+		<RUNNING>Futtatás</RUNNING>
+		<RUNNING_DOMAIN>Futtatás Windows NT domain alatt.</RUNNING_DOMAIN>
+		<RUNNING_SERVER>Futtatás a Windows kiszolgálón.</RUNNING_SERVER>
+		<RUNNING_VM>Futtatás egy virtuális gépen.</RUNNING_VM>
+		<SAFE>Biztonságos</SAFE>
+		<SAVE_AS>Mentés másként</SAVE_AS>
+		<SCAN_PROFILES>Vizsgálati profilok</SCAN_PROFILES>
+		<SCANNING>Vizsgálat...</SCANNING>
+		<SCANNING_REGISTRY_AND_FS>A rendszerleíró és a fájlrendszer vizsgálata...</SCANNING_REGISTRY_AND_FS>
+		<SCHEDULED_TASKS>Ütemezett feladatok</SCHEDULED_TASKS>
+		<SEARCH>Keresés</SEARCH>
+		<SEARCH_IN_X>Keresés helye: "%s"</SEARCH_IN_X>
+		<SEL_BRA>(Kijelölés)</SEL_BRA>
+		<SEL_HAS_HD_NODES>A kijelölés legalább egy rejtett csomópontot tartalmaz.</SEL_HAS_HD_NODES>
+		<SEL_PRG_UNINSTALLED>A kiválasztott program már el lett távolítva.</SEL_PRG_UNINSTALLED>
+		<SEL_UNINSTALL_PROFILE>Válasszon egy eltávolítási profilt.</SEL_UNINSTALL_PROFILE>
+		<SELECT>Kijelölés</SELECT>
+		<SERVICE>Szolgáltatás</SERVICE>
+		<SERVICES>Szolgáltatások</SERVICES>
+		<SHARED_FILE>Megosztott fájl. Ebben a fázisban nem kerül törlésre</SHARED_FILE>
+		<SHARED_FILE_CNT_DEC>A megosztott fájlok számlálója már csökkentésre került</SHARED_FILE_CNT_DEC>
+		<SHARED_FILE_NOT_FOUND>A megosztott fájl nem található a lemezen</SHARED_FILE_NOT_FOUND>
+		<SHOW_OPTIONS>&amp;Opciók megjelenítése</SHOW_OPTIONS>
+		<SHOW_SYS_COMP>Rendszerösszetevők megjelenítése: %s</SHOW_SYS_COMP>
+		<SIZE>Mérete</SIZE>
+		<SIZE_STAT>Méret                    : %s</SIZE_STAT>
+		<SKIP>Kihagyás</SKIP>
+		<SKIP_BUILTIN_UNINSTALLER>Ha a beépített eltávolító nem válaszol, a folytatáshoz nyomja meg a Kihagyás gombot. A következő beépített program eltávolító fog elindulni.</SKIP_BUILTIN_UNINSTALLER>
+		<SMALL_CNT>A megosztott fájl számláló túl alacsony a rendszerleíróban</SMALL_CNT>
+		<START>Indítás</START>
+		<START_MENU>Start menü</START_MENU>
+		<START_SCANNING>Nyomja meg a Vizsgálat gombot a folyamat indításához.</START_SCANNING>
+		<START_UNINSTALL_PROCESS>Az eltávolítási folyamat megkezdése.</START_UNINSTALL_PROCESS>
+		<STARTUP_TYPE_X>Indítás típusa : %s</STARTUP_TYPE_X>
+		<STOP>Leállítás</STOP>
+		<STOP_SERVICES>Szolgáltatások leállítása</STOP_SERVICES>
+		<STOPPED>Leállítva</STOPPED>
+		<SUMMARY>Összefoglaló</SUMMARY>
+		<SUPPORT_INFO>Támogatási információ</SUPPORT_INFO>
+		<SUPPORT_PHONE>Telefonos támogatás</SUPPORT_PHONE>
+		<SVC_CMD_NOT_ACCEPTED>A szolgáltatás nem fogadja el a leállítás parancsot.</SVC_CMD_NOT_ACCEPTED>
+		<SW_VERSION>Verzió %s</SW_VERSION>
+		<SYSTEM>Rendszer</SYSTEM>
+		<TEMPORARY_FILES>Ideiglenes fájlok</TEMPORARY_FILES>
+		<TITLE_MON_INSTALL>Új telepítés figyelése</TITLE_MON_INSTALL>
+		<TITLE_MON_UPDATE_X>"%s" programfrissítés figyelése</TITLE_MON_UPDATE_X>
+		<TOTAL_LIC_COMPUTERS>A fenti névre licencelt számítógépek száma: %s</TOTAL_LIC_COMPUTERS>
+		<TOTAL_UNINSTALL>Teljes eltávolítás</TOTAL_UNINSTALL>
+		<TRACES_AFTER_UNINSTALL>Eltávolítás utáni nyomok</TRACES_AFTER_UNINSTALL>
+		<TRIAL_EXPIRED>A próbaidő lejárt. Kérjük, regisztráljon.</TRIAL_EXPIRED>
+		<TU_AGENT>Total Uninstall ügynök</TU_AGENT>
+		<TU_MON_PRG_TITLE>Figyelt programok</TU_MON_PRG_TITLE>
+		<TU_PRO_EDITION>Total Uninstall Professional kiadás</TU_PRO_EDITION>
+		<TU_STD_EDITION>Total Uninstall Standard kiadás</TU_STD_EDITION>
+		<TU_ULT_EDITION>Total Uninstall Ultimate kiadás</TU_ULT_EDITION>
+		<TU_USE_FIRST_UNINST>Teljes eltávolítás az előbb megadott eltávolító használatával</TU_USE_FIRST_UNINST>
+		<TU_USE_FIRST_UNINST_DESC>A rendszereszközökre telepített vírus- és kémprogram kereső, tűzfal, illesztőprogram vagy bármely más program eltávolítása.</TU_USE_FIRST_UNINST_DESC>
+		<UNDO>Visszavonás</UNDO>
+		<UNDO_RESTORATION>Helyreállítás visszavonása</UNDO_RESTORATION>
+		<UNINST_ANALYZED>Elemzett program eltávolítása</UNINST_ANALYZED>
+		<UNINST_BUNDLE>Elemzett programok eltávolítása - csomag</UNINST_BUNDLE>
+		<UNINST_PROFILES>Eltávolítási profilok</UNINST_PROFILES>
+		<UNINSTALL>Eltávolítás</UNINSTALL>
+		<UNINSTALL_INST_HINT>Eltávolítás|A kijelölt elemzett program eltávolítása</UNINSTALL_INST_HINT>
+		<UNINSTALL_LOG>Eltávolítási napló</UNINSTALL_LOG>
+		<UNINSTALL_MON_HINT>Eltávolítás|A kiválasztott, megfigyelt program eltávolítása</UNINSTALL_MON_HINT>
+		<UNINSTALL_PROGRAM_X>"%s" program eltávolítása</UNINSTALL_PROGRAM_X>
+		<UNINSTALL_USER_WIN_APP_HINT>Eltávolítás|A kiválasztott Windows alkalmazás eltávolítása a felhasználói fiókból</UNINSTALL_USER_WIN_APP_HINT>
+		<UNINSTALL_WIN_APPS>Eltávolítja a kiválasztott alkalmazás(oka)t?</UNINSTALL_WIN_APPS>
+		<UNINSTALLED_WITH_TU>Eltávolítva a Total Uninstall "%s" programmal</UNINSTALLED_WITH_TU>
+		<UNREGISTERED>Regisztrálatlan</UNREGISTERED>
+		<USE_LAST_SNS>Az utolsó pillanatfelvétel használata</USE_LAST_SNS>
+		<USE_LAST_SNS_AGO_D>Utolsó pillanatfelvétel használata (%d napja, %d órája és %d perce)</USE_LAST_SNS_AGO_D>
+		<USE_LAST_SNS_AGO_H>Utolsó pillanatfelvétel használata (%d órája és %d perce)</USE_LAST_SNS_AGO_H>
+		<USE_LAST_SNS_AGO_M>Utolsó pillanatfelvétel használata (%d perce)</USE_LAST_SNS_AGO_M>
+		<USE_OLD_PURCHASE_NEW>Telepítsen egy régebbi verziót, vagy vásárolja meg a jelenlegi verziót.</USE_OLD_PURCHASE_NEW>
+		<USE_ONLY_PRG_UNINST>Csak a program eltávolítójának használata</USE_ONLY_PRG_UNINST>
+		<USE_OR_BUILD_SNS>Előző telepítés előtti pillanatfelvétel létrehozása vagy használata</USE_OR_BUILD_SNS>
+		<USR_ABORT>Felhasználói megszakítás</USR_ABORT>
+		<VALS_CHG_STAT>Módosított értékek  :%6.1d</VALS_CHG_STAT>
+		<VALS_CREATED_STAT>Létrehozott értékek   :%6.1d</VALS_CREATED_STAT>
+		<VALS_DEL_STAT>Törölt értékek   :%6.1d</VALS_DEL_STAT>
+		<VALUE>Érték</VALUE>
+		<VALUES_X>Értékek  :%6.1d</VALUES_X>
+		<VERSION>Verzió</VERSION>
+		<WAIT_UNINST_REMOVE_LEFT>Miután a beépített eltávolító befejezte a műveletet, nyomja meg az Eltávolítás gombot a visszamaradt mappák, fájlok, rendszerleíró kulcsok és értékek eltávolításához.</WAIT_UNINST_REMOVE_LEFT>
+		<WIN_APP_NAME>Alkalmazás neve</WIN_APP_NAME>
+		<WIN_APPS>Windows alkalmazások</WIN_APPS>
+		<WINDOWS>Windows</WINDOWS>
+		<WRN_BRA>(WRN)</WRN_BRA>
+		<X_BYTE>%s B</X_BYTE>
+		<X_BYTES>%d bájt</X_BYTES>
+		<X_CHANGES>%s - Változások</X_CHANGES>
+		<X_GIGABYTE>%s GB</X_GIGABYTE>
+		<X_KILOBYTE>%s KB</X_KILOBYTE>
+		<X_MEGABYTE>%s MB</X_MEGABYTE>
+		<X_RESULTS>%d találat</X_RESULTS>
+		<X_UNINSTALL_LOG>"%s" - Eltávolítási napló</X_UNINSTALL_LOG>
+		<X_UNINSTALL_LOG_FILE>"%s" - UninstallLog.txt</X_UNINSTALL_LOG_FILE>
+		<YES>igen</YES>
+		<ZERO_LENGTH_DATA>(zéró hosszúságú adatok)</ZERO_LENGTH_DATA>
+	</RESOURCESTRING>
+</TotalUninstall>

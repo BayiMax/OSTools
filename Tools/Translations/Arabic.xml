@@ -1,0 +1,2487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TotalUninstall>
+	<_System_>
+		<Flag>
+			<Size>1974</Size>
+			<Data>Qk22BwAAAAAAADYAAAAoAAAAIAAAABQAAAABABgAAAAAAIAHAAATCwAAEwsAAAAAAAAAAAAAMY8xLYotLowuMY8xMpAyLYstLYstLowuL40vLo0uLYwuL4wvLYstMY8yMY4xLYstMI4wLosuL40wL40vLIosLYstMZAxMY8xMI4wMI8wL44vMY8yMI4wMI0vMY8wMY8xLIssMI8wLYstLIssMI0vMY4xMY8xMo80L4wxMo0yL4ssL44sMZAuLo4qLo4pMpMtMJErLo4sMZAuMpEvM4ovNoo2KYAqKXopMYMzM4cyMIouM5AwLYwuLYsyL400MY4xLI8tLZAtK4wsL5AvLYstNZM3MY0zMYoyLIItKH0pHm8aHnAaHnIaF20UG3IYGnEXF24UF20VHG8ZG2wXIWwZHVgbwOjFfbqGF1IcZKxfMYMmMY4pJ4goKok1K4o4LowvLI0uLY8wLY0wK4svLYswLoguL4YvXLVaq+Oqsumw0fff1fTn1vfq0fTm1Pfo0vXn1fjq1Pfo1PPm1PXp1vzdzvrJyfrLw/jKxPbGzf3MGm8RPpczJ4UnLIs2MI46MpAzLY0yL440LIowLYkwMowzLIEqUaZPPJA4IXIdJXYhIXIdIXEdInIeHm0ZJHIeH20ZInAcIXEdHm4aHm4aGGMTEV8Pv/PClNWXFVkUFmAUQ5c5MYooOZU2JIMqNJM8MI4xLo02Low2K4gyL4o0M4s1PpM+Oo04RZRBPYs4NoMwLY0uLpIyL5AxL48xK4otMJAzLIwuL5AxKYssK5AuLYotOIw1FnITF2YXQY0/PYs5NYgwNYwvM5AwJ4QnN5M3LYstJIMqMpE4IHwmPphCIXUhHnIeGmsXHGkYLXQmMHUqI3QZHm8QHW0NL3QeSZA6F1oFG2oMNHslKXcZLXwdPI8zD2UNLH0oUqFMRZE/K3koIW8eP5Q/JXwhMpAwMZAwLowtL5AyMI4xLYgwLIMtUqdTqO+lnuScrfCpoN+caKphbbFnt/OxW51PvOS1jq+X5P/gjrSCaKFdZqVdaa1hXaNgruuro9ufGmIPgcR8J3AlitKLK3wsL4UuMY0rNJMxLowuLY8sNJMxLYksN401M4IzfMN7hMqDU5BRksyRiMGIKHMwOpNKsOe8EEoW2v/dJ14t3//lqd+yW6ZkLn46fsWDRIVCXKNYzf/Gb7Vqo+KkOX5DmuKiKn4nN5UxJ4ggLowuLpEoP6E7In8eNYwyY7hhbrdudbJzUJBQ4//lxPDGl9mZq/myNIE7u/7GXJljuuK9Uo5UI1wiQpRNYbBpjM6RXpBfV49QQ345baFnhL+GufDDnN+rAFEENpc2KowjMpAyKo4kNZcwOJc0G3AYRp9ER5VHTY1NVZJYNGI2hbGIYppYPHczfbFwYIZQYYZSM1ElocKW4fzZV4xLuPKubJ9qYpNnbZ9tdKdsYJNXw/THUotdpeewHXAiL40sLpEoMY8wI4srJYkrL400NYk6ZbBqktKWhbaGxO7EveO8r9OuHV8aWZ1WtOqvlsaTgKF6zfbJo8ihDEMM3v/eL3gysuy3PndFZ55tT4BTfaKAtNu1RXtHquuwIG4iNo45LIwvL40vJYsqH4ElLIkxHnQgb710LG8vqd6nreWto82jveK7CWEHYapefL95lM2SLl8pjr2Lr9msxPPEj9GQRpZJp+WrbbBxcKd2b65z3v7hmsyda6pts963J3cqK4cwMZA1MI4wKowsPp9AJIIlRJ5FHXMfSZ1JK3srQ4pBN4E1RJdCEmMSbsdtHWcaOoE5RYpEQoNAVKJWMn41ar5uN4g7QaBBKn0qDFURUaJONnw1UZtRQIVBRJ1GNos5KokwJocpL44wL5AuKYcpNpU2IoAiPpg8M4oxL4QtMocxI3QiP5I9LIwtJYQlR6FFIXUgS5xLSZdJI3MjTaJPFG8ZNZQ5MI0wNIwvNYsxOoo2OIU1P40/NYY1KX8rLYoyLY8yKIwsMI8xLosrL44uK4kpNZQ0K4koLIoqL40tMI4uMo8wMJAuLJAqJ4wnMJMvMI8wJoEmNY41MY0zK4ktMJIzJ4srKo0pNZQuLo0qNY8xMoouMYgvOJE4MI0zL48yLJAwK44vMZAyMIwtLYsrLYwsMY8vL40tKowpL5IuL5EtLY8rKY4oKY4nK48oLI8rLI4rMI8vLo0uL44vL48wKossL5AxKY0pLpEsL5ItMZAwMZAwLYwsK4wtK4wtKossL5EyKYwtLIstMI0uLowtL40vL40uMpAwLo4vL5AvK4srL5EwLY4sMJEuLYwpMJIuLo0tLIwsLI0sLY4uLo4wL4wvMo80L48wKowrLJAuLY4uL5AwKYsqLY8vLY8uLY8vLo8wL48wMI4wLowtMZAxMI4wMI4vMZAxMI4yMI4yMIwxL4wxMIswMYstNI8vMY4uMIwtMY4uL44uMY4xMo0yMosyMYkwMYsyKokvK4wxKosvLY4wLpAvKYwrLY8uLIstMY8xMZAyMY8xLoswL4sxMI0zLoswMIkwM4w0MIgvNY01NY02M4ozM4gvNIovM4svMosuMYwwNZAzNI4yNo00NIo1NIczMoo2KoczLos1LY00Lo8zL5AyLI0wL48yL4suM40wLoktLYst</Data>
+		</Flag>
+		<LanguageCode>en</LanguageCode>
+		<LocalizedName>عربي</LocalizedName>
+		<Version>61000</Version>
+	</_System_>
+	<Cleaner>
+		<CF-BROWSER-CACHE>متصفح</CF-BROWSER-CACHE>
+		<CF-BROWSER-CACHE-CHROME>Chrome</CF-BROWSER-CACHE-CHROME>
+		<CF-BROWSER-CACHE-FIREFOX>FireFox</CF-BROWSER-CACHE-FIREFOX>
+		<CF-BROWSER-CACHE-IE>Internet Explorer</CF-BROWSER-CACHE-IE>
+		<CF-BROWSER-CACHE-MAXTHON>Maxthon</CF-BROWSER-CACHE-MAXTHON>
+		<CF-BROWSER-CACHE-OPERA>Opera</CF-BROWSER-CACHE-OPERA>
+		<CF-PROGRAMS>برامج</CF-PROGRAMS>
+		<CF-PROGRAMS-ADOBE-FLASH-PLAYER>Adobe Flash Player</CF-PROGRAMS-ADOBE-FLASH-PLAYER>
+		<CF-PROGRAMS-MSOFFICE-RECENT>آخر ملفات الأوفيس المستخدمة</CF-PROGRAMS-MSOFFICE-RECENT>
+		<CF-PROGRAMS-SUN-JAVA-CACHE>Sun Java cache</CF-PROGRAMS-SUN-JAVA-CACHE>
+		<CF-SYSTEM>النظام</CF-SYSTEM>
+		<CF-SYSTEM-JUNK-FILES>ملفات تالفة</CF-SYSTEM-JUNK-FILES>
+		<CF-SYSTEM-RECYCLE-BIN>سلة المحذوفات في حال التنظيف القسري</CF-SYSTEM-RECYCLE-BIN>
+		<CF-SYSTEM-TEMP-FILES>الملفات المؤقتة</CF-SYSTEM-TEMP-FILES>
+		<CF-SYSTEM-THUMBNAILS-CACHE>النسخة المخبئة للمصغرات</CF-SYSTEM-THUMBNAILS-CACHE>
+		<CF-WINDOWS>ويندوز</CF-WINDOWS>
+		<CF-WINDOWS-ERROR-REPORTING>تقرير الأخطاء</CF-WINDOWS-ERROR-REPORTING>
+		<CF-WINDOWS-EXPLORER>مستكشف ويندوز</CF-WINDOWS-EXPLORER>
+		<CF-WINDOWS-EXPLORER-RECENT-FILES>المستندات الأخيرة</CF-WINDOWS-EXPLORER-RECENT-FILES>
+		<CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>ترك المجلدات الفارغة</CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>
+		<CF-WINDOWS-LOG-FILES>ملفات التسجيل</CF-WINDOWS-LOG-FILES>
+		<CF-WINDOWS-MEMORY-DUMP-FILES>تسجيلات الذاكرة</CF-WINDOWS-MEMORY-DUMP-FILES>
+		<CF-WINDOWS-TEMP-FOLDERS>المجلدات المؤقتة</CF-WINDOWS-TEMP-FOLDERS>
+		<CR-INVALID-ENTRIES>إدخالات خاطئة</CR-INVALID-ENTRIES>
+		<CR-INVALID-ENTRIES-FILE-REFERENCES>مراجع الملف</CR-INVALID-ENTRIES-FILE-REFERENCES>
+		<CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>ترك المفاتيح الفارغة</CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>
+		<CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>مكتبات مشتركة</CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>
+		<CR-INVALID-ENTRIES-MSI-PATHS>مسار MSI</CR-INVALID-ENTRIES-MSI-PATHS>
+		<CR-INVALID-ENTRIES-MUI-REFERENCES>MUI مرجع</CR-INVALID-ENTRIES-MUI-REFERENCES>
+		<CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>لا معلومات عن نوع الملف</CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>
+	</Cleaner>
+	<dlgAddInstalledPrg>
+		<btnCancel>
+			<Caption>إلغاء</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>موافق</Caption>
+		</btnOK>
+		<Caption>إضافة البرنامج إلى القائمة</Caption>
+		<lblBuiltInUninstaller>
+			<Caption>إزالة البرنامج</Caption>
+		</lblBuiltInUninstaller>
+		<lblInstallationFolder>
+			<Caption>مثبت في مجلد</Caption>
+		</lblInstallationFolder>
+		<lblPrgName>
+			<Caption>اسم البرنامج</Caption>
+		</lblPrgName>
+	</dlgAddInstalledPrg>
+	<dlgAskDelItem>
+		<btnOK>
+			<Caption>&amp;موافق</Caption>
+		</btnOK>
+		<btnSelectAll>
+			<Caption>&amp;تحديد الكل</Caption>
+		</btnSelectAll>
+		<btnUnselectAll>
+			<Caption>&amp;إلغاء تحديد الكل</Caption>
+		</btnUnselectAll>
+		<Caption>حذف العناصر؟</Caption>
+		<cbAutoSelectAll>
+			<Caption>تحديد تلقائي للكل</Caption>
+		</cbAutoSelectAll>
+		<lblDelSel>
+			<Caption>سيتم حذف العناصر المحددة</Caption>
+		</lblDelSel>
+	</dlgAskDelItem>
+	<dlgAutorunItem>
+		<btnCancel>
+			<Caption>إلغاء الأمر</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>موافق</Caption>
+		</btnOk>
+		<Caption>عنصر تشغيل تلقائي</Caption>
+		<gbStartLocation>
+			<Caption>موقع البدء</Caption>
+		</gbStartLocation>
+		<gbUser>
+			<Caption>بدء التشغيل عند تسجيل الدخول</Caption>
+		</gbUser>
+		<lblCommand>
+			<Caption>أمر</Caption>
+		</lblCommand>
+		<lblName>
+			<Caption>اسم</Caption>
+		</lblName>
+		<rbLogonAnyUser>
+			<Caption>أي مستخدم</Caption>
+		</rbLogonAnyUser>
+		<rbLogonCurentUser>
+			<Caption>المستخدم الحالي</Caption>
+		</rbLogonCurentUser>
+		<rbRegRun>
+			<Caption>registry, تشغيل عند كل دخول</Caption>
+		</rbRegRun>
+		<rbRegRunOnce>
+			<Caption>registry, تشغيل مرة واحدة عند تسجيل الدخول</Caption>
+		</rbRegRunOnce>
+		<rbStartMenu>
+			<Caption>مجلد بدء التشغيل ، تشغيل عند كل تسجيل دخول</Caption>
+		</rbStartMenu>
+	</dlgAutorunItem>
+	<dlgChangeIcon>
+		<btnBrowse>
+			<Caption>استعراض...</Caption>
+		</btnBrowse>
+		<btnCancel>
+			<Caption>إلغاء</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>موافق</Caption>
+		</btnOk>
+		<Caption>تغيير الأيقونة</Caption>
+		<gbIcons>
+			<Caption>أيقونات</Caption>
+		</gbIcons>
+	</dlgChangeIcon>
+	<dlgCheckUpdates>
+		<btnClose>
+			<Caption>إغلاق</Caption>
+		</btnClose>
+		<btnRefresh>
+			<Caption>تحديث</Caption>
+		</btnRefresh>
+		<Caption>بحث عن تحديثات</Caption>
+	</dlgCheckUpdates>
+	<dlgCompareSns>
+		<btnCancel>
+			<Caption>إلغاء</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>موافق</Caption>
+		</btnOK>
+		<Caption>تصاوير النظام للمقارنة</Caption>
+		<lblCompareProfile>
+			<Caption>تشكيل المقارنة</Caption>
+		</lblCompareProfile>
+		<lblResultLog>
+			<Caption>سجل النتيجة</Caption>
+		</lblResultLog>
+		<lblSnapshotA>
+			<Caption>تصوير النظام 1</Caption>
+		</lblSnapshotA>
+		<lblSnapshotB>
+			<Caption>تصوير النظام 2</Caption>
+		</lblSnapshotB>
+	</dlgCompareSns>
+	<dlgExportRegistry>
+		<btnCancel>
+			<Caption>إلغاء</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>موافق</Caption>
+		</btnOk>
+		<Caption>تصدير تغييرات الريجستري</Caption>
+		<cbCreatedKeys>
+			<Caption>المفاتيح المنشأة</Caption>
+		</cbCreatedKeys>
+		<cbCreatedValues>
+			<Caption>القيم المنشأة</Caption>
+		</cbCreatedValues>
+		<cbDeletedKeys>
+			<Caption>المفاتيح المحذوفة</Caption>
+		</cbDeletedKeys>
+		<cbDeletedValues>
+			<Caption>القيم المحذوفة</Caption>
+		</cbDeletedValues>
+		<cbModifiedValues>
+			<Caption>القيم المعدلة</Caption>
+		</cbModifiedValues>
+		<gbDetails>
+			<Caption>تغييرات الريجستري</Caption>
+		</gbDetails>
+		<gbExportType>
+			<Caption>نوع التصدير</Caption>
+		</gbExportType>
+		<gbRange>
+			<Caption>مدى التصدير</Caption>
+		</gbRange>
+		<rbExpAll>
+			<Caption>الكل</Caption>
+		</rbExpAll>
+		<rbExpBranch>
+			<Caption>التفرع المحدد</Caption>
+		</rbExpBranch>
+		<rbInstall>
+			<Caption>ملف تثبيت</Caption>
+		</rbInstall>
+		<rbUninstall>
+			<Caption>ملف إلغاء التثبيت</Caption>
+		</rbUninstall>
+	</dlgExportRegistry>
+	<dlgGroupProp>
+		<btnCancel>
+			<Caption>إلغاء</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>موافق</Caption>
+		</btnOk>
+		<Caption>مجموعة</Caption>
+		<lblIcon>
+			<Caption>الأيقونة</Caption>
+		</lblIcon>
+		<lblName>
+			<Caption>الاسم</Caption>
+		</lblName>
+	</dlgGroupProp>
+	<dlgMergeLogs>
+		<btnCancel>
+			<Caption>إلغاء</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>موافق</Caption>
+		</btnOK>
+		<Caption>دمج السجلات</Caption>
+		<cbDeleteUpdate>
+			<Caption>حذف سجل التحديث بعد الدمج</Caption>
+		</cbDeleteUpdate>
+		<gbDestination>
+			<Caption>الهدف</Caption>
+		</gbDestination>
+		<gbSources>
+			<Caption>المصادر</Caption>
+		</gbSources>
+		<lblInstallLog>
+			<Caption>سجل التثبيت</Caption>
+		</lblInstallLog>
+		<lblNewName>
+			<Caption>اسم جديد</Caption>
+		</lblNewName>
+		<lblUpdateLog>
+			<Caption>سجل التحديث</Caption>
+		</lblUpdateLog>
+		<rbCreateANewLog>
+			<Caption>إنشاء سجل جديد</Caption>
+		</rbCreateANewLog>
+		<rbSaveInInstallLog>
+			<Caption>حفظ في سجل التثبيت</Caption>
+		</rbSaveInInstallLog>
+	</dlgMergeLogs>
+	<dlgPendingFileRename>
+		<btnApply>
+			<Caption>تطبيق</Caption>
+		</btnApply>
+		<btnClose>
+			<Caption>إغلاق</Caption>
+		</btnClose>
+		<Caption>تعليق عملية إعادة تسمية الملفات</Caption>
+		<tvPendingFiles>
+			<Columns_0>المصدر</Columns_0>
+			<Columns_1>الهدف</Columns_1>
+		</tvPendingFiles>
+	</dlgPendingFileRename>
+	<dlgRegister>
+		<btnBuy>
+			<Caption>شراء</Caption>
+		</btnBuy>
+		<btnCancel>
+			<Caption>إلغاء</Caption>
+		</btnCancel>
+		<btnRegister>
+			<Caption>تسجيل</Caption>
+		</btnRegister>
+		<Caption>تسجيل Total Uninstall</Caption>
+		<lblKey>
+			<Caption>مفتاح التسجيل</Caption>
+		</lblKey>
+		<lblName>
+			<Caption>اسم التسجيل</Caption>
+		</lblName>
+		<ulblLostRegistrationInfo>
+			<Caption>أضعت مفتاح التسجيل</Caption>
+		</ulblLostRegistrationInfo>
+	</dlgRegister>
+	<dlgRestrictedFeature>
+		<btnCancel>
+			<Caption>إلغاء</Caption>
+		</btnCancel>
+		<Caption>ميزة مقيدة</Caption>
+		<clinkPurchase>
+			<Caption>شراء</Caption>
+			<Note>فتح  نموذج الطلب</Note>
+		</clinkPurchase>
+		<lblInstruction>
+			<Caption>هذه الميزة متاحة في النسخ المسجلة</Caption>
+		</lblInstruction>
+		<lblProfessionalEdition>
+			<Caption>- الإصدار الاحترافي</Caption>
+		</lblProfessionalEdition>
+	</dlgRestrictedFeature>
+	<dlgRmvShared>
+		<btnNo>
+			<Caption>لا</Caption>
+		</btnNo>
+		<btnNoToAll>
+			<Caption>لا للكل</Caption>
+		</btnNoToAll>
+		<btnYes>
+			<Caption>نعم</Caption>
+		</btnYes>
+		<btnYesToAll>
+			<Caption>نعم للكل</Caption>
+		</btnYesToAll>
+		<Caption>إزالة الملف المشترك؟</Caption>
+		<lblFileName>
+			<Caption>اسم الملف:</Caption>
+		</lblFileName>
+		<lblLocated>
+			<Caption>موجود في:</Caption>
+		</lblLocated>
+		<lblOne>
+			<Caption>أشار النظام إلى أن الملف المشترك التالي غير مستخدم من قبل أي برنامج ، إذا كان هناك برنامج يستخدم الملف و تم حذفه فإن ذلك البرنامج قد لا يعمل ، هل تريد حذف الملف المشترك؟</Caption>
+		</lblOne>
+		<lblTwo>
+			<Caption>ترك هذا الملف لن يؤذي نظامك، إذا كنت لا تعرف ماذا تفعل ننصحك بعدم حذف الملف المشترك</Caption>
+		</lblTwo>
+	</dlgRmvShared>
+	<dlgSelect>
+		<btnCancel>
+			<Caption>إلغاء</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>موافق</Caption>
+		</btnOk>
+		<Caption>تحديد</Caption>
+	</dlgSelect>
+	<dlgSelectLibIcon>
+		<btnAdd>
+			<Caption>إضافة</Caption>
+		</btnAdd>
+		<btnCancel>
+			<Caption>إلغاء</Caption>
+		</btnCancel>
+		<btnDelete>
+			<Caption>حذف</Caption>
+		</btnDelete>
+		<btnOk>
+			<Caption>موافق</Caption>
+		</btnOk>
+		<Caption>اختيار أيقونة</Caption>
+		<gbIcons>
+			<Caption>أيقونات</Caption>
+		</gbIcons>
+	</dlgSelectLibIcon>
+	<dlgSysBrowser>
+		<btnCancel>
+			<Caption>&amp;إغلاق</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>&amp;موافق</Caption>
+		</btnOk>
+		<lblExpanded>
+			<Caption>ممدد</Caption>
+		</lblExpanded>
+	</dlgSysBrowser>
+	<dlgTUAbout>
+		<btnOK>
+			<Caption>موافق</Caption>
+		</btnOK>
+		<Caption>حول البرنامج</Caption>
+		<lblCopyright>
+			<Caption>Copyright © 2001-2019, Gavrila Martau</Caption>
+		</lblCopyright>
+		<lblEmail>
+			<Caption>البريد</Caption>
+		</lblEmail>
+		<lblHomePage>
+			<Caption>الصفحة الرئيسية</Caption>
+		</lblHomePage>
+		<ulblBuyUpgrade>
+			<Caption>شراء التحديث</Caption>
+		</ulblBuyUpgrade>
+		<ulblDownload>
+			<Caption>تحميل آخر تحديث مجاني</Caption>
+		</ulblDownload>
+	</dlgTUAbout>
+	<dlgTunBackup>
+		<btnCancel>
+			<Caption>إلغاء</Caption>
+		</btnCancel>
+		<btnCopy>
+			<Caption>نسخ إلى ...</Caption>
+		</btnCopy>
+		<btnCreate>
+			<Caption>إنشاء</Caption>
+		</btnCreate>
+		<lblArchiving>
+			<Caption>أرشفة الملفات و الريجستري</Caption>
+		</lblArchiving>
+		<lblCreateBackup>
+			<Caption>إنشاء نسخة إحتياطية عن البرنامج</Caption>
+		</lblCreateBackup>
+		<lblFilesNotIncluded>
+			<Caption>الملفات غير مضمنة مع النسخ الإحتياطي</Caption>
+		</lblFilesNotIncluded>
+	</dlgTunBackup>
+	<dlgTunRestore>
+		<btnImport>
+			<Caption>إستيراد</Caption>
+		</btnImport>
+		<cbRestoreOnlyLog>
+			<Caption>إسترجاع فقط ملف التسجيل</Caption>
+		</cbRestoreOnlyLog>
+		<lblFilesNotIncluded>
+			<Caption>الإجراءات لم تنفذ</Caption>
+		</lblFilesNotIncluded>
+		<lblRestoreProfile>
+			<Caption>إستعادة ملف التعريف</Caption>
+		</lblRestoreProfile>
+		<lblRestoreProgram>
+			<Caption>إختر برنامج لإسترجاعه</Caption>
+		</lblRestoreProgram>
+		<lblUndoRestoration>
+			<Caption>إختر إسترجاع لإرجاعه</Caption>
+		</lblUndoRestoration>
+		<pmiCopyTo>
+			<Caption>نسخ إلى ...</Caption>
+		</pmiCopyTo>
+		<pmiDelete>
+			<Caption>حذف</Caption>
+		</pmiDelete>
+	</dlgTunRestore>
+	<dlgTUOptions>
+		<btnAddAnalysisProfile>
+			<Caption>إضافة ...</Caption>
+		</btnAddAnalysisProfile>
+		<btnAddChgView>
+			<Caption>إضافة ...</Caption>
+		</btnAddChgView>
+		<btnAddCleaner>
+			<Caption>إضافة ...</Caption>
+		</btnAddCleaner>
+		<btnAddCompareProfile>
+			<Caption>إضافة ...</Caption>
+		</btnAddCompareProfile>
+		<btnAddExclFlds>
+			<Caption>إضافة ...</Caption>
+		</btnAddExclFlds>
+		<btnAddExclKey>
+			<Caption>إضافة ...</Caption>
+		</btnAddExclKey>
+		<btnAddIgnChgFs>
+			<Caption>إضافة ...</Caption>
+		</btnAddIgnChgFs>
+		<btnAddIgnChgReg>
+			<Caption>إضافة ...</Caption>
+		</btnAddIgnChgReg>
+		<btnAddIgnFile>
+			<Caption>إضافة ...</Caption>
+		</btnAddIgnFile>
+		<btnAddInclFlds>
+			<Caption>إضافة ...</Caption>
+		</btnAddInclFlds>
+		<btnAddInclKeys>
+			<Caption>إضافة ...</Caption>
+		</btnAddInclKeys>
+		<btnAddInstallLoc>
+			<Caption>إضافة ...</Caption>
+		</btnAddInstallLoc>
+		<btnAddProtectedFld>
+			<Caption>إضافة ...</Caption>
+		</btnAddProtectedFld>
+		<btnAddProtectedKey>
+			<Caption>إضافة ...</Caption>
+		</btnAddProtectedKey>
+		<btnAddRedo>
+			<Caption>إضافة ..</Caption>
+		</btnAddRedo>
+		<btnAddScanProfile>
+			<Caption>إضافة ...</Caption>
+		</btnAddScanProfile>
+		<btnAddUninst>
+			<Caption>إضافة ...</Caption>
+		</btnAddUninst>
+		<btnAddUninstInst>
+			<Caption>إضافة ...</Caption>
+		</btnAddUninstInst>
+		<btnAddValue>
+			<Caption>إضافة ...</Caption>
+		</btnAddValue>
+		<btnAddVer>
+			<Caption>إضافة ...</Caption>
+		</btnAddVer>
+		<btnAgentAddExcMask>
+			<Caption>إضافة ...</Caption>
+		</btnAgentAddExcMask>
+		<btnAgentAddIncMask>
+			<Caption>إضافة ...</Caption>
+		</btnAgentAddIncMask>
+		<btnAgentRemExcMask>
+			<Caption>إزالة</Caption>
+		</btnAgentRemExcMask>
+		<btnAgentRemIncMask>
+			<Caption>إزالة</Caption>
+		</btnAgentRemIncMask>
+		<btnAnlSaveAs>
+			<Caption>حفظ بإسم ...</Caption>
+		</btnAnlSaveAs>
+		<btnCancel>
+			<Caption>إلغاء</Caption>
+		</btnCancel>
+		<btnChgViewSaveAs>
+			<Caption>حفظ بإسم ...</Caption>
+		</btnChgViewSaveAs>
+		<btnCleanerSaveAs>
+			<Caption>حفظ بإسم ...</Caption>
+		</btnCleanerSaveAs>
+		<btnClnAddExclFs>
+			<Caption>إضافة...</Caption>
+		</btnClnAddExclFs>
+		<btnClnAddExclRegistry>
+			<Caption>إضافة...</Caption>
+		</btnClnAddExclRegistry>
+		<btnClnEditExclFs>
+			<Caption>تحرير...</Caption>
+		</btnClnEditExclFs>
+		<btnClnEditExclRegistry>
+			<Caption>تحرير...</Caption>
+		</btnClnEditExclRegistry>
+		<btnClnRemExclFs>
+			<Caption>إزالة</Caption>
+		</btnClnRemExclFs>
+		<btnClnRemExclRegistry>
+			<Caption>إزالة</Caption>
+		</btnClnRemExclRegistry>
+		<btnCompPlaySound>
+			<Caption>اختبار</Caption>
+		</btnCompPlaySound>
+		<btnCompSaveAs>
+			<Caption>حفظ بإسم ...</Caption>
+		</btnCompSaveAs>
+		<btnEditExclFlds>
+			<Caption>تحرير ...</Caption>
+		</btnEditExclFlds>
+		<btnEditExclKeys>
+			<Caption>تحرير ...</Caption>
+		</btnEditExclKeys>
+		<btnEditIgnChgFs>
+			<Caption>تحرير...</Caption>
+		</btnEditIgnChgFs>
+		<btnEditIgnChgReg>
+			<Caption>تحرير...</Caption>
+		</btnEditIgnChgReg>
+		<btnEditIgnFile>
+			<Caption>تحرير ...</Caption>
+		</btnEditIgnFile>
+		<btnEditIgnValues>
+			<Caption>تحرير ...</Caption>
+		</btnEditIgnValues>
+		<btnEditProtectedFld>
+			<Caption>تحرير ...</Caption>
+		</btnEditProtectedFld>
+		<btnEditProtectedKey>
+			<Caption>تحرير ...</Caption>
+		</btnEditProtectedKey>
+		<btnOK>
+			<Caption>موافق</Caption>
+		</btnOK>
+		<btnRedoSaveAs>
+			<Caption>حفظ بإسم ...</Caption>
+		</btnRedoSaveAs>
+		<btnRemAnalysisProfile>
+			<Caption>إزالة ...</Caption>
+		</btnRemAnalysisProfile>
+		<btnRemChgView>
+			<Caption>إزالة ...</Caption>
+		</btnRemChgView>
+		<btnRemCleaner>
+			<Caption>إزالة ...</Caption>
+		</btnRemCleaner>
+		<btnRemCompareProfile>
+			<Caption>إزالة ...</Caption>
+		</btnRemCompareProfile>
+		<btnRemExclFlds>
+			<Caption>إزالة</Caption>
+		</btnRemExclFlds>
+		<btnRemExclKeys>
+			<Caption>إزالة</Caption>
+		</btnRemExclKeys>
+		<btnRemIgnChgFs>
+			<Caption>إزالة</Caption>
+		</btnRemIgnChgFs>
+		<btnRemIgnChgReg>
+			<Caption>إزالة</Caption>
+		</btnRemIgnChgReg>
+		<btnRemIgnFile>
+			<Caption>إزالة</Caption>
+		</btnRemIgnFile>
+		<btnRemInclFlds>
+			<Caption>إزالة</Caption>
+		</btnRemInclFlds>
+		<btnRemInclKeys>
+			<Caption>إزالة</Caption>
+		</btnRemInclKeys>
+		<btnRemoveInstallLoc>
+			<Caption>إزالة</Caption>
+		</btnRemoveInstallLoc>
+		<btnRemoveRedo>
+			<Caption>إزالة ...</Caption>
+		</btnRemoveRedo>
+		<btnRemProtectedFld>
+			<Caption>إزالة</Caption>
+		</btnRemProtectedFld>
+		<btnRemProtectedKey>
+			<Caption>إزالة</Caption>
+		</btnRemProtectedKey>
+		<btnRemScanProfile>
+			<Caption>إزالة ...</Caption>
+		</btnRemScanProfile>
+		<btnRemUninst>
+			<Caption>إزالة ...</Caption>
+		</btnRemUninst>
+		<btnRemUninstInst>
+			<Caption>إزالة ...</Caption>
+		</btnRemUninstInst>
+		<btnRemValues>
+			<Caption>إزالة</Caption>
+		</btnRemValues>
+		<btnRemVer>
+			<Caption>إزالة</Caption>
+		</btnRemVer>
+		<btnResetAll>
+			<Caption>إعادة تعيين الكل</Caption>
+		</btnResetAll>
+		<btnScanPlaySound>
+			<Caption>اختيار</Caption>
+		</btnScanPlaySound>
+		<btnScanSaveAs>
+			<Caption>حفظ بإسم ...</Caption>
+		</btnScanSaveAs>
+		<btnUninstSaveAs>
+			<Caption>حفظ بإسم ...</Caption>
+		</btnUninstSaveAs>
+		<Caption>خيارات</Caption>
+		<cbAnlProfileDefault>
+			<Caption>إفتراضي</Caption>
+		</cbAnlProfileDefault>
+		<cbAutoStart>
+			<Caption>بدء تلقائي مع الويندوز لمتابعة عمليات المراقبة غير المكتملة</Caption>
+		</cbAutoStart>
+		<cbBackup>
+			<Caption>أخذ نسخة إحتياطية عن التطبيق المزال</Caption>
+		</cbBackup>
+		<cbChgViewDefault>
+			<Caption>إفتراضي</Caption>
+		</cbChgViewDefault>
+		<cbCleanerDefault>
+			<Caption>إفتراضي</Caption>
+		</cbCleanerDefault>
+		<cbCleanerEnable>
+			<Caption>تمكين وحدة التنظيف</Caption>
+		</cbCleanerEnable>
+		<cbClickRestore>
+			<Caption>استعادة بنقرة واحدة</Caption>
+		</cbClickRestore>
+		<cbCompareRegistry>
+			<Caption>مقارنة الريجستري</Caption>
+		</cbCompareRegistry>
+		<cbCompFiles>
+			<Caption>مقارنة الملفات</Caption>
+		</cbCompFiles>
+		<cbCompPlaySound>
+			<Caption>تشغيل ملف عند الانتهاء</Caption>
+		</cbCompPlaySound>
+		<cbCompProfileDefault>
+			<Caption>إفتراضي</Caption>
+		</cbCompProfileDefault>
+		<cbCompProfileFrozen>
+			<Caption>تأمين</Caption>
+		</cbCompProfileFrozen>
+		<cbComputeMD5>
+			<Caption>للملفات الجديدة MD5 حساب</Caption>
+		</cbComputeMD5>
+		<cbCreateKeys>
+			<Caption>إنشاء المفاتيح المحذوفة</Caption>
+		</cbCreateKeys>
+		<cbCreateValues>
+			<Caption>إنشاء القيم المحذوفة</Caption>
+		</cbCreateValues>
+		<cbCustomSnsName>
+			<Caption>السماح باسم مخصص للتصوير</Caption>
+		</cbCustomSnsName>
+		<cbDecrement>
+			<Caption>إنقاص عداد الملفات المشتركة</Caption>
+		</cbDecrement>
+		<cbDelFiles>
+			<Caption>(حذف الملفات المنشأة (الملفات المشتركة فقط إذا وصل العداد 0</Caption>
+		</cbDelFiles>
+		<cbDelFolders>
+			<Caption>حذف المجلدات المنشأة</Caption>
+		</cbDelFolders>
+		<cbDelKeys>
+			<Caption>حذف المفاتيح المنشأة</Caption>
+		</cbDelKeys>
+		<cbDelUseRecycle>
+			<Caption>استخدام سلة المحذوفات</Caption>
+		</cbDelUseRecycle>
+		<cbDelValues>
+			<Caption>حذف القيم المنشاة</Caption>
+		</cbDelValues>
+		<cbDontUseLog>
+			<Caption>لا تستخدم سجل التغييرات المكتشف</Caption>
+		</cbDontUseLog>
+		<cbEnableAgent>
+			<Caption>Total Uninstall تمكين عميل</Caption>
+		</cbEnableAgent>
+		<cbExtractFileVersion>
+			<Caption>إستخراج معلومات عن إصدار الملف</Caption>
+		</cbExtractFileVersion>
+		<cbHexViewerNot64Bit>
+			<Caption>غير مدرك للـ 64بت</Caption>
+		</cbHexViewerNot64Bit>
+		<cbIgnoreMissingItems>
+			<Caption>تجاهل العناصر المفقودة</Caption>
+		</cbIgnoreMissingItems>
+		<cbInstPrgsEnable>
+			<Caption>تمكين وحدة البرامج المثبتة</Caption>
+		</cbInstPrgsEnable>
+		<cbMinToTray>
+			<Caption>تصغير إلى شريط المهام</Caption>
+		</cbMinToTray>
+		<cbMonPrgsEnable>
+			<Caption>تمكين وحدة البرامج المراقبة</Caption>
+		</cbMonPrgsEnable>
+		<cbRedoCreateFiles>
+			<Caption>إستعادة الملفات المنشأة</Caption>
+		</cbRedoCreateFiles>
+		<cbRedoCreateFilesOvr>
+			<Caption>كتابة فوق الملفات</Caption>
+		</cbRedoCreateFilesOvr>
+		<cbRedoCreateFilesOvrLck>
+			<Caption>كتابة فوق الملفات المقفلة</Caption>
+		</cbRedoCreateFilesOvrLck>
+		<cbRedoCreateFolders>
+			<Caption>إستعادة الملفات المنشاة</Caption>
+		</cbRedoCreateFolders>
+		<cbRedoCreateKeys>
+			<Caption>إستعادة المفاتيح المنشأة</Caption>
+		</cbRedoCreateKeys>
+		<cbRedoCreateValues>
+			<Caption>إسترجاع القيم المنشأة</Caption>
+		</cbRedoCreateValues>
+		<cbRedoDefault>
+			<Caption>إفتراضي</Caption>
+		</cbRedoDefault>
+		<cbRedoDeleteFiles>
+			<Caption>حذف الملفات</Caption>
+		</cbRedoDeleteFiles>
+		<cbRedoDeleteFolders>
+			<Caption>حذف المجلدات</Caption>
+		</cbRedoDeleteFolders>
+		<cbRedoDeleteKeys>
+			<Caption>حذف المفاتيح</Caption>
+		</cbRedoDeleteKeys>
+		<cbRedoDeleteValues>
+			<Caption>حذف القيم</Caption>
+		</cbRedoDeleteValues>
+		<cbRedoEnabled>
+			<Caption>تمكين</Caption>
+		</cbRedoEnabled>
+		<cbRedoModifyFiles>
+			<Caption>إستعادة الملفات المعدلة</Caption>
+		</cbRedoModifyFiles>
+		<cbRedoModifyFilesLck>
+			<Caption>الكتابة فوق الملفات المقفلة</Caption>
+		</cbRedoModifyFilesLck>
+		<cbRedoModifyValues>
+			<Caption>إستعادة القيم المعدلة</Caption>
+		</cbRedoModifyValues>
+		<cbRedoSysRestore>
+			<Caption>إنشاء نقطة إستعادة للنظام قبل الإسترجاع</Caption>
+		</cbRedoSysRestore>
+		<cbRestoreValues>
+			<Caption>استعادة القيم المغيرة</Caption>
+		</cbRestoreValues>
+		<cbRstFileCreated>
+			<Caption>استعادة تاريخ الإنشاء للملف</Caption>
+		</cbRstFileCreated>
+		<cbScanForAds>
+			<Caption>فحص عن بيانات نصية أخرى</Caption>
+		</cbScanForAds>
+		<cbScanPlaySound>
+			<Caption>تشغيل صوت عند الانتهاء</Caption>
+		</cbScanPlaySound>
+		<cbScanProfileDefault>
+			<Caption>إفتراضي</Caption>
+		</cbScanProfileDefault>
+		<cbScanProfileFrozen>
+			<Caption>تأمين</Caption>
+		</cbScanProfileFrozen>
+		<cbShell>
+			<Caption>shell خلال Total Uninstall تكامل</Caption>
+		</cbShell>
+		<cbShowAfter>
+			<Caption>عمود تالي</Caption>
+		</cbShowAfter>
+		<cbShowBefore>
+			<Caption>عمود سابق</Caption>
+		</cbShowBefore>
+		<cbShowBinAsText>
+			<Caption>إظهار البيانات الثنائية كـ نص</Caption>
+		</cbShowBinAsText>
+		<cbShowChanged>
+			<Caption>العناصر المغيرة</Caption>
+		</cbShowChanged>
+		<cbShowCreated>
+			<Caption>العناصر المنشأة</Caption>
+		</cbShowCreated>
+		<cbShowCurrent>
+			<Caption>عمود حالي</Caption>
+		</cbShowCurrent>
+		<cbShowDataSize>
+			<Caption>حجم البيانات</Caption>
+		</cbShowDataSize>
+		<cbShowDataType>
+			<Caption>نوع البيانات</Caption>
+		</cbShowDataType>
+		<cbShowDateCreated>
+			<Caption>البيانات المنشأة</Caption>
+		</cbShowDateCreated>
+		<cbShowDateModified>
+			<Caption>تاريخ التعديل</Caption>
+		</cbShowDateModified>
+		<cbShowDeleted>
+			<Caption>العناصر المحذوفة</Caption>
+		</cbShowDeleted>
+		<cbShowFileAttrib>
+			<Caption>صفات الملف</Caption>
+		</cbShowFileAttrib>
+		<cbShowFileSize>
+			<Caption>حجم الملف</Caption>
+		</cbShowFileSize>
+		<cbShowFileVersion>
+			<Caption>اصدار الملف</Caption>
+		</cbShowFileVersion>
+		<cbShowMD5>
+			<Caption>MD5 sum ملف جديد</Caption>
+		</cbShowMD5>
+		<cbSmartAdjustAnalysisLevel>
+			<Caption>مستوى تحليل ذكي</Caption>
+		</cbSmartAdjustAnalysisLevel>
+		<cbSysRestore>
+			<Caption>إنشاء نقطة استعادة النظام قبل إلغاء التثبيت</Caption>
+		</cbSysRestore>
+		<cbSystemFilesAdditional>
+			<Caption>تحليل إضافي</Caption>
+		</cbSystemFilesAdditional>
+		<cbTxtViewerNot64Bit>
+			<Caption>غير مدرك للـ 64بت</Caption>
+		</cbTxtViewerNot64Bit>
+		<cbUninstDefault>
+			<Caption>إفتراضي</Caption>
+		</cbUninstDefault>
+		<cbUninstEnabled>
+			<Caption>ممكن</Caption>
+		</cbUninstEnabled>
+		<cbUseUninstaller>
+			<Caption>استخدام ملغي التثبيت المساعد أولاً</Caption>
+		</cbUseUninstaller>
+		<cmbUpdateFrequency>
+			<Items>يومي\nأسبوعي\nشهري\n</Items>
+		</cmbUpdateFrequency>
+		<cmbUpdateMethod>
+			<Items>يدوي\nمنبه\nتلقائي\n</Items>
+		</cmbUpdateMethod>
+		<gbAgentMasks>
+			<Caption>أقنعة اسم ملف برنامج الإعداد</Caption>
+		</gbAgentMasks>
+		<gbClnExcludeFs>
+			<Caption>إستثناء المجلدات و الملفات</Caption>
+		</gbClnExcludeFs>
+		<gbClnExcludeRegistry>
+			<Caption>إستثناء قيم و مفاتيح التسجيل</Caption>
+		</gbClnExcludeRegistry>
+		<gbCompareIgnChgReg>
+			<Caption>تجاهل العناصر المتغيرة</Caption>
+		</gbCompareIgnChgReg>
+		<gbCompareIgnKeys>
+			<Caption>تجاهل المفاتيح و القيم</Caption>
+		</gbCompareIgnKeys>
+		<gbCompIgnChgFs>
+			<Caption>تجاهل العناصر المتغيرة</Caption>
+		</gbCompIgnChgFs>
+		<gbCompIgnoreFld>
+			<Caption>تجاهل المجلدات و الملفات</Caption>
+		</gbCompIgnoreFld>
+		<gbFileExtensions>
+			<Caption>امتدادات الملفات مع معلومات الاصدار</Caption>
+		</gbFileExtensions>
+		<gbInstallLoc>
+			<Caption>أماكن التثبيت</Caption>
+		</gbInstallLoc>
+		<gbInstallLocation>
+			<Caption>اكتشاف مكان التثبيت</Caption>
+		</gbInstallLocation>
+		<gbLimits>
+			<Caption>حدود مجلد التصاوير</Caption>
+		</gbLimits>
+		<gbPrgData>
+			<Caption>اكتشاف بيانات البرنامج</Caption>
+		</gbPrgData>
+		<gbPrgSettings>
+			<Caption>اكتشاف إعدادات البرنامج</Caption>
+		</gbPrgSettings>
+		<gbPrgShortcuts>
+			<Caption>اكتشاف اختصارات البرنامج</Caption>
+		</gbPrgShortcuts>
+		<gbProtectedFolders>
+			<Caption>مجلدات محمية</Caption>
+		</gbProtectedFolders>
+		<gbProtectedKeys>
+			<Caption>مفاتيح محمية</Caption>
+		</gbProtectedKeys>
+		<gbRegEditor>
+			<Caption>محرر الريجستري</Caption>
+		</gbRegEditor>
+		<gbRegScanner>
+			<Caption>فحص الريجستري</Caption>
+		</gbRegScanner>
+		<gbScanExclFolders>
+			<Caption>استبعاد مجلدات</Caption>
+		</gbScanExclFolders>
+		<gbScanExclKeys>
+			<Caption>استبعاد مفاتيح</Caption>
+		</gbScanExclKeys>
+		<gbScanInclFolders>
+			<Caption>تضمين المجلدات</Caption>
+		</gbScanInclFolders>
+		<gbScanInclKeys>
+			<Caption>تضمين المفاتيح</Caption>
+		</gbScanInclKeys>
+		<gbShellIntegration>
+			<Caption>Shell اكتشاف تكامل</Caption>
+		</gbShellIntegration>
+		<gbSystemFiles>
+			<Caption>اكتشاف ملفات النظام</Caption>
+		</gbSystemFiles>
+		<gbTranslation>
+			<Caption>الترجمة</Caption>
+		</gbTranslation>
+		<grpExistingViewStyle>
+			<Caption>العناصر الموجودة في النظام</Caption>
+		</grpExistingViewStyle>
+		<grpMissingViewStyle>
+			<Caption>العناصر المفقودة من النظام</Caption>
+		</grpMissingViewStyle>
+		<lblAdvanced1>
+			<Caption>متفدم</Caption>
+		</lblAdvanced1>
+		<lblAdvanced2>
+			<Caption>متفدم</Caption>
+		</lblAdvanced2>
+		<lblAdvanced3>
+			<Caption>متفدم</Caption>
+		</lblAdvanced3>
+		<lblAdvanced4>
+			<Caption>متفدم</Caption>
+		</lblAdvanced4>
+		<lblAdvanced5>
+			<Caption>متفدم</Caption>
+		</lblAdvanced5>
+		<lblAdvanced6>
+			<Caption>متفدم</Caption>
+		</lblAdvanced6>
+		<lblAgentExcludeMask>
+			<Caption>استبعاد</Caption>
+		</lblAgentExcludeMask>
+		<lblAgentIncludeMask>
+			<Caption>تضمين</Caption>
+		</lblAgentIncludeMask>
+		<lblAnalysisProfiles>
+			<Caption>تحليل التشكيلات الجانبية</Caption>
+		</lblAnalysisProfiles>
+		<lblAnlProfileDesc>
+			<Caption>الوصف</Caption>
+		</lblAnlProfileDesc>
+		<lblAnlProfileName>
+			<Caption>الاسم</Caption>
+		</lblAnlProfileName>
+		<lblBackupLimiFolderSize>
+			<Caption>حدّ مجلد النسخ الإحتياطي م.ب</Caption>
+		</lblBackupLimiFolderSize>
+		<lblChageViewName>
+			<Caption>الاسم</Caption>
+		</lblChageViewName>
+		<lblChangeViews>
+			<Caption>تغيير العرض</Caption>
+		</lblChangeViews>
+		<lblCheckUpdateMethod>
+			<Caption>طريقة التحديث</Caption>
+		</lblCheckUpdateMethod>
+		<lblCheckUpdatesFrequency>
+			<Caption>التكرار</Caption>
+		</lblCheckUpdatesFrequency>
+		<lblCleanerDescription>
+			<Caption>الوصف</Caption>
+		</lblCleanerDescription>
+		<lblCleanerName>
+			<Caption>الاسم</Caption>
+		</lblCleanerName>
+		<lblCleaners>
+			<Caption>منظفات</Caption>
+		</lblCleaners>
+		<lblCompareProfileDesc>
+			<Caption>الوصف</Caption>
+		</lblCompareProfileDesc>
+		<lblCompareProfileName>
+			<Caption>الاسم</Caption>
+		</lblCompareProfileName>
+		<lblFolderSize>
+			<Caption>حجم المجلد (MB)</Caption>
+		</lblFolderSize>
+		<lblHexViewer>
+			<Caption>Hex عارض</Caption>
+		</lblHexViewer>
+		<lblLanguage>
+			<Caption>Language</Caption>
+		</lblLanguage>
+		<lblNone1>
+			<Caption>بلا</Caption>
+		</lblNone1>
+		<lblNone2>
+			<Caption>بلا</Caption>
+		</lblNone2>
+		<lblNone3>
+			<Caption>بلا</Caption>
+		</lblNone3>
+		<lblNone4>
+			<Caption>بلا</Caption>
+		</lblNone4>
+		<lblNone5>
+			<Caption>بلا</Caption>
+		</lblNone5>
+		<lblNone6>
+			<Caption>بلا</Caption>
+		</lblNone6>
+		<lblProgramDataPath>
+			<Caption>مسار Program data</Caption>
+		</lblProgramDataPath>
+		<lblRedoDescription>
+			<Caption>الوصف</Caption>
+		</lblRedoDescription>
+		<lblRedoName>
+			<Caption>الاٍسم</Caption>
+		</lblRedoName>
+		<lblRedoProfiles>
+			<Caption>إستعادة ملفات التعريف</Caption>
+		</lblRedoProfiles>
+		<lblScanningProfiles>
+			<Caption>فحص التشكيلات الجانبية</Caption>
+		</lblScanningProfiles>
+		<lblScanProfileDesc>
+			<Caption>الوصف</Caption>
+		</lblScanProfileDesc>
+		<lblScanProfileName>
+			<Caption>الاسم</Caption>
+		</lblScanProfileName>
+		<lblSimultaneousTasks>
+			<Caption>محاكاة المهام</Caption>
+		</lblSimultaneousTasks>
+		<lblSnsCompareProfiles>
+			<Caption>تصوير تشكيلات المقارنة</Caption>
+		</lblSnsCompareProfiles>
+		<lblSnsCount>
+			<Caption>عدد التصاوير</Caption>
+		</lblSnsCount>
+		<lblTranslatedBy1>
+			<Caption>Translated by Muhammad Khalifa</Caption>
+		</lblTranslatedBy1>
+		<lblTranslatedBy2>
+			<Caption>Home page: www.smart-arab.com</Caption>
+		</lblTranslatedBy2>
+		<lblTranslatedBy3>
+			<Caption>Email: me@smart-arab.com</Caption>
+		</lblTranslatedBy3>
+		<lblTxtViewer>
+			<Caption>عارض النص</Caption>
+		</lblTxtViewer>
+		<lblUninstallProfiles>
+			<Caption>تشكيلات إلغاء التثبيت</Caption>
+		</lblUninstallProfiles>
+		<lblUninstallProfilesInst>
+			<Caption>تشكيلات جانبية لإلغاء التثبيت</Caption>
+		</lblUninstallProfilesInst>
+		<lblUninstDesc>
+			<Caption>الوصف</Caption>
+		</lblUninstDesc>
+		<lblUninstName>
+			<Caption>الاسم</Caption>
+		</lblUninstName>
+		<lblUninstRemoveLog>
+			<Caption>إزالة البرنامج الملغى تثبيته من القائمة</Caption>
+		</lblUninstRemoveLog>
+		<lblUserInteraction>
+			<Caption>إستخدم إزالة التنصيب المرفقة مع البرنامج أولاً</Caption>
+		</lblUserInteraction>
+		<rbDialog>
+			<Caption>نافذة حوار</Caption>
+		</rbDialog>
+		<rbOtherRegEdit>
+			<Caption>آخر</Caption>
+		</rbOtherRegEdit>
+		<rbTrayBaloon>
+			<Caption>بالون شريط المهام</Caption>
+		</rbTrayBaloon>
+		<rbWinRegEdit>
+			<Caption>محرر التسجيل لويندوز</Caption>
+		</rbWinRegEdit>
+		<rgAgentNotif>
+			<Caption>تنبيه برنامج الإعداد العامل</Caption>
+		</rgAgentNotif>
+		<tabAnlFileSystem>
+			<Caption>ملفات النظام</Caption>
+		</tabAnlFileSystem>
+		<tabAnlGeneral>
+			<Caption>عام</Caption>
+		</tabAnlGeneral>
+		<tabChageViewFileSystem>
+			<Caption>ملفات النظام</Caption>
+		</tabChageViewFileSystem>
+		<tabChageViewGeneral>
+			<Caption>عام</Caption>
+		</tabChageViewGeneral>
+		<tabChageViewRegistry>
+			<Caption>الريجستري</Caption>
+		</tabChageViewRegistry>
+		<tabChageViewView>
+			<Caption>عرض</Caption>
+		</tabChageViewView>
+		<tabCleanerFileSystem>
+			<Caption>ملفات النظام</Caption>
+		</tabCleanerFileSystem>
+		<tabCleanerGen>
+			<Caption>عام</Caption>
+		</tabCleanerGen>
+		<tabCleanerReg>
+			<Caption>الريجستري</Caption>
+		</tabCleanerReg>
+		<tabCmpProfileFileSys>
+			<Caption>ملفات النظام</Caption>
+		</tabCmpProfileFileSys>
+		<tabCompareProfileGen>
+			<Caption>عام</Caption>
+		</tabCompareProfileGen>
+		<tabCompareProfileReg>
+			<Caption>الريجستري</Caption>
+		</tabCompareProfileReg>
+		<tabRedoAdvanced>
+			<Caption>متقدم</Caption>
+		</tabRedoAdvanced>
+		<tabRedoFileSystem>
+			<Caption>ملفات النظام</Caption>
+		</tabRedoFileSystem>
+		<tabRedoGeneral>
+			<Caption>عام</Caption>
+		</tabRedoGeneral>
+		<tabRedoRegistry>
+			<Caption>Registry</Caption>
+		</tabRedoRegistry>
+		<tabScanProfileFolders>
+			<Caption>ملفات النظام</Caption>
+		</tabScanProfileFolders>
+		<tabScanProfileGeneral>
+			<Caption>عام</Caption>
+		</tabScanProfileGeneral>
+		<tabScanProfileRegistry>
+			<Caption>الريجستري</Caption>
+		</tabScanProfileRegistry>
+		<tabUninstAdv>
+			<Caption>متفدم</Caption>
+		</tabUninstAdv>
+		<tabUninstFS>
+			<Caption>ملفات النظام</Caption>
+		</tabUninstFS>
+		<tabUninstGeneral>
+			<Caption>عام</Caption>
+		</tabUninstGeneral>
+		<tabUninstRegistry>
+			<Caption>الريجستري</Caption>
+		</tabUninstRegistry>
+		<tblAnlRegistry>
+			<Caption>الريجستري</Caption>
+		</tblAnlRegistry>
+	</dlgTUOptions>
+	<dlgUninstall>
+		<btnBringToFront>
+			<Caption>جلب إلى الأمام</Caption>
+		</btnBringToFront>
+		<btnCancel>
+			<Caption>إلغاء</Caption>
+		</btnCancel>
+		<btnUninstall>
+			<Caption>إلغاء التثبيت</Caption>
+		</btnUninstall>
+		<lblCreatingRestorePnt>
+			<Caption>إنشاء نقطة استعادة النظام...</Caption>
+		</lblCreatingRestorePnt>
+		<lblProfile>
+			<Caption>اختيار تشكيل إلغاء التثبيت</Caption>
+		</lblProfile>
+		<lblUninstalling>
+			<Caption>إلغاء التثبيت...</Caption>
+		</lblUninstalling>
+		<lblWaitTitle>
+			<Caption>انتظار البرنامج المساعد للإضافة/الإزالة حتى ينتهي</Caption>
+		</lblWaitTitle>
+	</dlgUninstall>
+	<frmInstall>
+		<btnBrowseSetup>
+			<Caption>&amp;استعراض...</Caption>
+		</btnBrowseSetup>
+		<btnCancel>
+			<Caption>إلغاء</Caption>
+		</btnCancel>
+		<btnCompleteLater>
+			<Caption>&amp;اكمال عملية المراقبة لاحقاً</Caption>
+		</btnCompleteLater>
+		<btnLaunchSetup>
+			<Caption>&amp;تشغيل برنامج الإعداد</Caption>
+		</btnLaunchSetup>
+		<btnNext>
+			<Caption>التالي</Caption>
+		</btnNext>
+		<btnProgramIsInstalled>
+			<Caption>ب&amp;رنامج مثبت</Caption>
+		</btnProgramIsInstalled>
+		<btnSuggest>
+			<Caption>اقتر&amp;اح</Caption>
+		</btnSuggest>
+		<lblCreateLog>
+			<Caption>إنشاء سجل التثبيت</Caption>
+		</lblCreateLog>
+		<lblCreateOrSelectSns>
+			<Caption>قبل التثبيت قم بإنشاء تصوير جديد أو اختيار تصوير سابق للنظام.</Caption>
+		</lblCreateOrSelectSns>
+		<lblCreatePreInstallSns>
+			<Caption>pre-install إنشاء تصوير نظام</Caption>
+		</lblCreatePreInstallSns>
+		<lblCreatingLog>
+			<Caption>إنشاء سجل التثبيت</Caption>
+		</lblCreatingLog>
+		<lblCreatingSystemSns>
+			<Caption>إنشاء تصوير النظام</Caption>
+		</lblCreatingSystemSns>
+		<lblFinish>
+			<Caption>تم إنشاء سجل التثبيت بنجاح</Caption>
+		</lblFinish>
+		<lblInstallMonProgram>
+			<Caption>تثبيت البرنامج المراقب</Caption>
+		</lblInstallMonProgram>
+		<lblProfiles>
+			<Caption>&amp;فحص التشكيل</Caption>
+		</lblProfiles>
+		<lblProgramName>
+			<Caption>&amp;اسم البرنامج</Caption>
+		</lblProgramName>
+		<lblProgramSetupPath>
+			<Caption>&amp;مسار برنامج الإعداد</Caption>
+		</lblProgramSetupPath>
+		<lblSnsName>
+			<Caption>اسم الت&amp;صوير</Caption>
+		</lblSnsName>
+		<lblSpecifySnsName>
+			<Caption>&amp;post-install تعيين اسم تصوير</Caption>
+		</lblSpecifySnsName>
+		<rbNewSnapshot>
+			<Caption>&amp;إنشاء تصوير نظام جديد - مستحسن</Caption>
+		</rbNewSnapshot>
+		<rbUseLastSnapshot>
+			<Caption>&amp;استخدام آخر تصوير</Caption>
+		</rbUseLastSnapshot>
+	</frmInstall>
+	<frmTUMain>
+		<btnClear>
+			<Caption>مسح</Caption>
+		</btnClear>
+		<btnGroupAddChild>
+			<Caption>إضافة مجموعة فرعية...</Caption>
+		</btnGroupAddChild>
+		<btnGroupAddRoot>
+			<Caption>إضافة مجموعة أساسية...</Caption>
+		</btnGroupAddRoot>
+		<btnGroupEdit>
+			<Caption>تحرير المجموعة...</Caption>
+		</btnGroupEdit>
+		<btnGroupMoveToRoot>
+			<Caption>نقل إلى الأساس</Caption>
+		</btnGroupMoveToRoot>
+		<btnGroupRemove>
+			<Caption>إزالة المجموعة</Caption>
+		</btnGroupRemove>
+		<btnSearch>
+			<Caption>بدء</Caption>
+		</btnSearch>
+		<cbBundle>
+			<Caption>حزمة</Caption>
+		</cbBundle>
+		<cbCaseSensitive>
+			<Caption>حساسية الحالة</Caption>
+		</cbCaseSensitive>
+		<cbChanged>
+			<Caption>مغيرة</Caption>
+		</cbChanged>
+		<cbCreated>
+			<Caption>منشأة</Caption>
+		</cbCreated>
+		<cbData>
+			<Caption>بيانات</Caption>
+		</cbData>
+		<cbDeleted>
+			<Caption>محذوفة</Caption>
+		</cbDeleted>
+		<cbFiles>
+			<Caption>ملفات</Caption>
+		</cbFiles>
+		<cbFolders>
+			<Caption>مجلدات</Caption>
+		</cbFolders>
+		<cbKeys>
+			<Caption>مفاتيح</Caption>
+		</cbKeys>
+		<cbSearchMask>
+			<Caption>قناع البحث</Caption>
+		</cbSearchMask>
+		<cbUnchanged>
+			<Caption>غير مغيرة</Caption>
+		</cbUnchanged>
+		<cbValues>
+			<Caption>قيم</Caption>
+		</cbValues>
+		<Copy1>
+			<Caption>نسخ</Caption>
+			<Hint>نسخ الملفات المحددة إلى الحافظة</Hint>
+		</Copy1>
+		<Copy2>
+			<Caption>نسخ</Caption>
+			<Hint>نسخ الملفات المحددة إلى الحافظة</Hint>
+		</Copy2>
+		<gbAdvanced>
+			<Caption>متفدم</Caption>
+		</gbAdvanced>
+		<gbChanges>
+			<Caption>عناصر</Caption>
+		</gbChanges>
+		<gbFileSystem>
+			<Caption>نظام الملفات</Caption>
+		</gbFileSystem>
+		<gbRegistry>
+			<Caption>الريجستري</Caption>
+		</gbRegistry>
+		<gbScope>
+			<Caption>بحث في</Caption>
+		</gbScope>
+		<miAddtoCompareIgnoreList>
+			<Caption>إضافة إلى قائمة تجاهل المقارنة</Caption>
+			<Hint>إضافة العنصر إلى قائمة التجاهل لكل تشكيلات المقارنة</Hint>
+		</miAddtoCompareIgnoreList>
+		<miAddtoScanExcludeList>
+			<Caption>إضافة إلى قائمة استبعاد الفحص</Caption>
+			<Hint>إضافة العنصر إلى قائمة الاستبعاد لكل تشكيلات الفحص</Hint>
+		</miAddtoScanExcludeList>
+		<miAppSendTo>
+			<Caption>إرسال إلى مجموعة</Caption>
+		</miAppSendTo>
+		<miAutorunManager>
+			<Caption>المدير التلقائي</Caption>
+		</miAutorunManager>
+		<miChanges>
+			<Caption>التغييرات</Caption>
+			<Hint>التغييرات المكتشفة|إظهار تغييرات النظام التي حصلت بواسطة البرنامج الحالي</Hint>
+		</miChanges>
+		<miCleaner>
+			<Caption>منظف</Caption>
+			<Hint>منظف</Hint>
+		</miCleaner>
+		<miClnItems>
+			<Caption>عناصر</Caption>
+		</miClnItems>
+		<miClnSummary>
+			<Caption>ملخص</Caption>
+			<Hint>ملخص|إظهار معلومات مختصرة عن البرنامج الحالي</Hint>
+		</miClnSummary>
+		<miCollapse>
+			<Caption>تقليص</Caption>
+			<Hint>تقليص عقدة الشجرة الفعالة</Hint>
+		</miCollapse>
+		<miCopyDetail>
+			<Caption>نسخ</Caption>
+		</miCopyDetail>
+		<miDeleteCompletely>
+			<Caption>حذف كلي</Caption>
+			<Hint>إزالة العناصر المحددة من السجل و من النظام</Hint>
+		</miDeleteCompletely>
+		<miDeletefromSystemOnly>
+			<Caption>حذف من النظام فقط</Caption>
+			<Hint>حذف العناصر المحددة من النظام فقط</Hint>
+		</miDeletefromSystemOnly>
+		<miEdit>
+			<Caption>&amp;تحرير</Caption>
+		</miEdit>
+		<miEditAutorunLocateEntry>
+			<Caption>إيجاد توضع بدء التشغيل</Caption>
+		</miEditAutorunLocateEntry>
+		<miEditAutorunLocateTarget>
+			<Caption>البحث عن الهدف</Caption>
+		</miEditAutorunLocateTarget>
+		<miEditAutorunRun>
+			<Caption>تشغيل</Caption>
+		</miEditAutorunRun>
+		<miEditAutorunStop>
+			<Caption>إيقاف</Caption>
+		</miEditAutorunStop>
+		<miEditAutorunTargetProperties>
+			<Caption>خصائص الهدف</Caption>
+		</miEditAutorunTargetProperties>
+		<miEditRedo>
+			<Caption>إعادة</Caption>
+			<Hint>إعادة تغيرات النظام المحددة</Hint>
+		</miEditRedo>
+		<miEditRedoDepth>
+			<Caption>إعادة العمق</Caption>
+			<Hint>إعادة التغيرات المحددة في النظام</Hint>
+		</miEditRedoDepth>
+		<miEditRestoreFromBackup>
+			<Caption>إسترجاع من النسخة الإحتياطية</Caption>
+			<Hint>إستعادة الملفات المحددة , و المجلدات و المجلدات الفرعية من النسخة الإحتياطية</Hint>
+		</miEditRestoreFromBackup>
+		<miEditUndo>
+			<Caption>تراجع</Caption>
+			<Hint>التراجع عن التغييرات المحددة</Hint>
+		</miEditUndo>
+		<miEditUndoDepth>
+			<Caption>تراجع العمق</Caption>
+			<Hint>إعادة التغيرات المحددة من النظام</Hint>
+		</miEditUndoDepth>
+		<miExpand>
+			<Caption>تمدد</Caption>
+			<Hint>تمدد عقدة الشجرة الفعالة</Hint>
+		</miExpand>
+		<miExpChanges>
+			<Caption>التغيرات ...</Caption>
+			<Hint>تصدير شجرة التغييرات</Hint>
+		</miExpChanges>
+		<miExpInstalledApps>
+			<Caption>البرامج المثبتة ...</Caption>
+			<Hint>تصدير قائمة البرامج المثبتة</Hint>
+		</miExpInstalledApps>
+		<miExpMonitoredApps>
+			<Caption>البرامج المراقبة ...</Caption>
+			<Hint>تصدير قائمة البرامج المراقبة</Hint>
+		</miExpMonitoredApps>
+		<miExport>
+			<Caption>تصدير</Caption>
+		</miExport>
+		<miExpRegistry>
+			<Caption>تغييرات الريجستري...</Caption>
+			<Hint>تصدير تغييرات الريجستري للتثبيت و إلغاء التثبيت</Hint>
+		</miExpRegistry>
+		<miExpUninstallLog>
+			<Caption>سجل إلغاء التثبيت...</Caption>
+			<Hint>تصدير سجل إلغاء التثبيت</Hint>
+		</miExpUninstallLog>
+		<miFile>
+			<Caption>&amp;ملف</Caption>
+		</miFile>
+		<miFileAddInstalledPrg>
+			<Caption>إضافة برنامج للقائمة...</Caption>
+		</miFileAddInstalledPrg>
+		<miFileAnalyze>
+			<Caption>تحليل</Caption>
+			<Hint>تحليل|تحليل تغييرات النظام للبرنامج الحالي</Hint>
+		</miFileAnalyze>
+		<miFileAutorunAdd>
+			<Caption>إضافة</Caption>
+		</miFileAutorunAdd>
+		<miFileAutorunDelete>
+			<Caption>حذف</Caption>
+		</miFileAutorunDelete>
+		<miFileChange>
+			<Caption>تغيير</Caption>
+			<Hint>إصلاح ، تعديل أو إلغاء التثبيت</Hint>
+		</miFileChange>
+		<miFileChangeIcon>
+			<Caption>تغيير الأيقونة...</Caption>
+		</miFileChangeIcon>
+		<miFileClnClean>
+			<Caption>تنظيف</Caption>
+			<Hint>تنظيف</Hint>
+		</miFileClnClean>
+		<miFileClnScan>
+			<Caption>فحص</Caption>
+			<Hint>فحص|فحص العناصر المهملة</Hint>
+		</miFileClnScan>
+		<miFileCreateBackup>
+			<Caption>إنشاء نسخة إحتياطية للبرنامج ...</Caption>
+		</miFileCreateBackup>
+		<miFileDelete>
+			<Caption>حذف</Caption>
+			<Hint>حذف سجل التثبيت الحالي</Hint>
+		</miFileDelete>
+		<miFileEditProgram>
+			<Caption>تحرير برنامج ...</Caption>
+		</miFileEditProgram>
+		<miFileExit>
+			<Caption>خروج</Caption>
+			<Hint>خروج من البرنامج</Hint>
+		</miFileExit>
+		<miFileGroupAddChild>
+			<Caption>إضافة مجموعة فرعية...</Caption>
+		</miFileGroupAddChild>
+		<miFileGroupAddRoot>
+			<Caption>إضافة مجموعة أساسية...</Caption>
+		</miFileGroupAddRoot>
+		<miFileGroupEdit>
+			<Caption>تحرير المجموعة...</Caption>
+		</miFileGroupEdit>
+		<miFileGroupMoveToRoot>
+			<Caption>نقل إلى الأساس</Caption>
+		</miFileGroupMoveToRoot>
+		<miFileGroupRemove>
+			<Caption>إزالة المجموعة</Caption>
+		</miFileGroupRemove>
+		<miFileInstall>
+			<Caption>تثبيت جديد...</Caption>
+			<Hint>مراقبة تثبيت برنامج جديد</Hint>
+		</miFileInstall>
+		<miFileInstallUpdate>
+			<Caption>تثبيت تحديث...</Caption>
+			<Hint>تحديث التثبيت|مراقبة تثبيت تحديث البرنامج الحالي</Hint>
+		</miFileInstallUpdate>
+		<miFileNotes>
+			<Caption>ملاحظات...</Caption>
+			<Hint>إضافة ملاحظات إلى سجل التثبيت الحالي</Hint>
+		</miFileNotes>
+		<miFilePrint>
+			<Caption>طباعة</Caption>
+		</miFilePrint>
+		<miFileReload>
+			<Caption>إعادة تحميل</Caption>
+		</miFileReload>
+		<miFileRemoveInstalledPrg>
+			<Caption>إزالة البرنامج من القائمة</Caption>
+		</miFileRemoveInstalledPrg>
+		<miFileRename>
+			<Caption>إعادة تسمية...</Caption>
+			<Hint>إعادة تسمية سجل التحديث</Hint>
+		</miFileRename>
+		<miFileRestoreBackup>
+			<Caption>إسترجاع البرنامج من النسخة الإحتياطية</Caption>
+		</miFileRestoreBackup>
+		<miFileSave>
+			<Caption>&amp;حفظ</Caption>
+			<Hint>حفظ التغييرات</Hint>
+		</miFileSave>
+		<miFileSaveAs>
+			<Caption>حفظ بإسم ...</Caption>
+		</miFileSaveAs>
+		<miFileSendTo>
+			<Caption>إرسال إلى مجموعة</Caption>
+		</miFileSendTo>
+		<miFileUndoRestoration>
+			<Caption>تراجع عن الإسترجاع ...</Caption>
+		</miFileUndoRestoration>
+		<miFileUninstall>
+			<Caption>إلغاء التثبيت...</Caption>
+		</miFileUninstall>
+		<miHelp>
+			<Caption>&amp;تعليمات</Caption>
+		</miHelp>
+		<miHelpAbout>
+			<Caption>حول...</Caption>
+			<Hint>عرض معلومات البرنامج و رقم الإصدار و حقوق النشر</Hint>
+		</miHelpAbout>
+		<miHelpCheckForUpdates>
+			<Caption>البحث عن تحديثات...</Caption>
+			<Hint>تحديث البرنامج</Hint>
+		</miHelpCheckForUpdates>
+		<miHelpContents>
+			<Caption>المحتويات</Caption>
+			<Hint>عرض المحتويات</Hint>
+		</miHelpContents>
+		<miHelpHomePage>
+			<Caption>الصفحة الرئيسية</Caption>
+		</miHelpHomePage>
+		<miHelpPurchase>
+			<Caption>الشراء</Caption>
+		</miHelpPurchase>
+		<miHelpRegister>
+			<Caption>تسجيل...</Caption>
+			<Hint>تسجيل برنامج Total Uninstall</Hint>
+		</miHelpRegister>
+		<miHexView>
+			<Caption>Hex عرض</Caption>
+			<Hint>hex فتح الملف في محرر</Hint>
+		</miHexView>
+		<miImport>
+			<Caption>استيراد</Caption>
+		</miImport>
+		<miInstalledPrograms>
+			<Caption>البرامج المثبتة</Caption>
+			<Hint>البرامج المثبتة|تبديل إلى البرامج المثبتة</Hint>
+		</miInstalledPrograms>
+		<miList>
+			<Caption>قائمة</Caption>
+		</miList>
+		<miListGroupNotes>
+			<Caption>ملاحظات المجموعة</Caption>
+		</miListGroupNotes>
+		<miListLargeIcons>
+			<Caption>أيقونات كبيرة</Caption>
+		</miListLargeIcons>
+		<miListProgramNotes>
+			<Caption>ملاحظات البرنامج</Caption>
+		</miListProgramNotes>
+		<miListSmallIcons>
+			<Caption>أيقونات صغيرة</Caption>
+		</miListSmallIcons>
+		<miModules>
+			<Caption>&amp;وحدات</Caption>
+		</miModules>
+		<miMonAppsGroupAddChild>
+			<Caption>إضافة مجموعة فرعية...</Caption>
+		</miMonAppsGroupAddChild>
+		<miMonAppsGroupAddRoot>
+			<Caption>إضافة مجموعة أساسية...</Caption>
+		</miMonAppsGroupAddRoot>
+		<miMonAppsGroupEdit>
+			<Caption>تحرير المجموعة...</Caption>
+		</miMonAppsGroupEdit>
+		<miMonAppsGroupMoveToRoot>
+			<Caption>نقل إلى الأساس</Caption>
+		</miMonAppsGroupMoveToRoot>
+		<miMonAppsGroupRemove>
+			<Caption>إزالة المجموعة</Caption>
+		</miMonAppsGroupRemove>
+		<miMonitoredPrograms>
+			<Caption>البرامج المراقبة</Caption>
+			<Hint>البرامج المراقبة|تبديل إلى البرامج المراقبة</Hint>
+		</miMonitoredPrograms>
+		<miOpen>
+			<Caption>فتح</Caption>
+			<Hint>فتح ملف ، مجلد أو القفز إلى مفتاح في محرر التسجيل</Hint>
+		</miOpen>
+		<miPendingFileRenameOp>
+			<Caption>تعليق عملية تسمية الملفات...</Caption>
+			<Hint>عرض و تطبيق تعليق عملية تسمية الملفات</Hint>
+		</miPendingFileRenameOp>
+		<miPrgAddInstalledPrg>
+			<Caption>إضافة برنامج إلى القائمة...</Caption>
+		</miPrgAddInstalledPrg>
+		<miPrgAnalyze>
+			<Caption>&amp;تحليل</Caption>
+			<Hint>تحليل|تحليل متغيرات النظام للبرنامج الحالي</Hint>
+		</miPrgAnalyze>
+		<miPrgChangeIcon>
+			<Caption>تغيير الأيقونة...</Caption>
+		</miPrgChangeIcon>
+		<miPrgDelete>
+			<Caption>حذف</Caption>
+			<Hint>حذف سجل التثبيت الحالي</Hint>
+		</miPrgDelete>
+		<miPrgEditInstalledPrg>
+			<Caption>تحرير برنامج ...</Caption>
+		</miPrgEditInstalledPrg>
+		<miPrgNotes>
+			<Caption>ملاحظات...</Caption>
+			<Hint>إضافة ملاحظات</Hint>
+		</miPrgNotes>
+		<miPrgRemoveInstalledPrg>
+			<Caption>إزالة البرنامج من القائمة</Caption>
+		</miPrgRemoveInstalledPrg>
+		<miPrgRename>
+			<Caption>إعادة تسمية...</Caption>
+			<Hint>إعادة تسمية سجل التثبيت</Hint>
+		</miPrgRename>
+		<miPrintChanges>
+			<Caption>التغيرات ...</Caption>
+			<Hint>طباعة شجرة التغيرات</Hint>
+		</miPrintChanges>
+		<miPrintInstalledPrograms>
+			<Caption>البرامج المثبتة ...</Caption>
+		</miPrintInstalledPrograms>
+		<miPrintMonitoredPrograms>
+			<Caption>البرامج المراقبة ...</Caption>
+		</miPrintMonitoredPrograms>
+		<miProperties>
+			<Caption>خصائص</Caption>
+			<Hint>إظهار الخصائص</Hint>
+		</miProperties>
+		<miRemovefromLog>
+			<Caption>إزالة من السجل</Caption>
+			<Hint>إزالة من السجل</Hint>
+		</miRemovefromLog>
+		<miSnsTreeOpen>
+			<Caption>فتح</Caption>
+		</miSnsTreeOpen>
+		<miSummary>
+			<Caption>ملخص</Caption>
+			<Hint>ملخص|إظهار معلومات مختصرة عن البرنامج الحالي</Hint>
+		</miSummary>
+		<miTextView>
+			<Caption>عرض النص</Caption>
+			<Hint>فتح الملف في محرر النص</Hint>
+		</miTextView>
+		<miToolbarLarge>
+			<Caption>كبير</Caption>
+		</miToolbarLarge>
+		<miToolbarMedium>
+			<Caption>متوسط</Caption>
+		</miToolbarMedium>
+		<miToolbarSmall>
+			<Caption>كبير</Caption>
+		</miToolbarSmall>
+		<miTools>
+			<Caption>&amp;أدوات</Caption>
+		</miTools>
+		<miToolsCompareSnapshots>
+			<Caption>تصاوير النظام للمقارنة...</Caption>
+		</miToolsCompareSnapshots>
+		<miToolsFind>
+			<Caption>بحث</Caption>
+			<Hint>بحث|بحث عن نص في التغييرات المكتشفة</Hint>
+		</miToolsFind>
+		<miToolsMergeLogs>
+			<Caption>دمج السجلات...</Caption>
+		</miToolsMergeLogs>
+		<miToolsOptions>
+			<Caption>خيارات...</Caption>
+			<Hint>تكوين الخيارات</Hint>
+		</miToolsOptions>
+		<miToolsSystemRestore>
+			<Caption>استعادة النظام</Caption>
+		</miToolsSystemRestore>
+		<miULogSuccessful>
+			<Caption>إجراءات ناجحة</Caption>
+			<Hint>عرض أو إخفاء الإجراءات الناجحة من سجل إلغاء التثبيت</Hint>
+		</miULogSuccessful>
+		<miULogWarnings>
+			<Caption>التنبيهات</Caption>
+			<Hint>عرض أو إخفاء التنبيهات من سجل إلغاء التثبيت</Hint>
+		</miULogWarnings>
+		<miUninstallLog>
+			<Caption>سجل إلغاء التثبيت</Caption>
+			<Hint>سجل إلغاء التثبيت|إظهار سجل إلغاء التثبيت للبرنامج</Hint>
+		</miUninstallLog>
+		<miUninstallLogDet>
+			<Caption>تفاصيل سجل إلغاء التثبيت</Caption>
+		</miUninstallLogDet>
+		<miView>
+			<Caption>&amp;عرض</Caption>
+		</miView>
+		<miViewBundle>
+			<Caption>حزمة</Caption>
+		</miViewBundle>
+		<miViewColorScheme>
+			<Caption>نظام الألوان</Caption>
+		</miViewColorScheme>
+		<miViewDetails>
+			<Caption>تفاصيل</Caption>
+			<Hint>تفاصيل|عرض أو إخفاء تفاصيل البرنامج</Hint>
+		</miViewDetails>
+		<miViewItemCurrentView>
+			<Caption>العرض الحالي</Caption>
+		</miViewItemCurrentView>
+		<miViewItemDetails>
+			<Caption>تفاصيل العنصر</Caption>
+			<Hint>تفاصيل العقدة المحددة من شجرة التغييرات</Hint>
+		</miViewItemDetails>
+		<miViewNavigator>
+			<Caption>البرامج</Caption>
+			<Hint>البرامج|قائمة البرامج</Hint>
+		</miViewNavigator>
+		<miViewRefresh>
+			<Caption>تحديث</Caption>
+		</miViewRefresh>
+		<miViewStatusBar>
+			<Caption>شريط الحالة</Caption>
+			<Hint>عرض أو إخفاء شريط الحالة</Hint>
+		</miViewStatusBar>
+		<miViewToolbars>
+			<Caption>أشرطة الأدوات</Caption>
+		</miViewToolbars>
+		<miViewToolbarsBtnCaption>
+			<Caption>خيارات الزر</Caption>
+			<Hint>عرض أو إخفاء نص شريط الأدوات</Hint>
+		</miViewToolbarsBtnCaption>
+		<miViewToolbarsBtnSize>
+			<Caption>حجم الزر</Caption>
+		</miViewToolbarsBtnSize>
+		<miViewToolbarsBtnWordWrap>
+			<Caption>إلتفاف تلقائي لنص الزر</Caption>
+		</miViewToolbarsBtnWordWrap>
+		<miViewToolbarsTbrCaption>
+			<Caption>نص شريط الأدوات</Caption>
+			<Hint>إظهار أو إخفاء أسماء شريط الأدوات</Hint>
+		</miViewToolbarsTbrCaption>
+		<miViewToolbarsVisible>
+			<Caption>مرئي</Caption>
+			<Hint>عرض أو إخفاء شريط الأدوات</Hint>
+		</miViewToolbarsVisible>
+		<pmiAutorunAdd>
+			<Caption>إضافة</Caption>
+		</pmiAutorunAdd>
+		<pmiAutorunDelete>
+			<Caption>حذف</Caption>
+		</pmiAutorunDelete>
+		<pmiAutorunLocateEntry>
+			<Caption>بحث عن مدخلات بدء التشغيل</Caption>
+		</pmiAutorunLocateEntry>
+		<pmiAutorunLocateTarget>
+			<Caption>البحث عن الهدف</Caption>
+		</pmiAutorunLocateTarget>
+		<pmiAutorunRun>
+			<Caption>تشغيل</Caption>
+		</pmiAutorunRun>
+		<pmiAutorunStop>
+			<Caption>إيقاف</Caption>
+		</pmiAutorunStop>
+		<pmiAutorunTargetProperties>
+			<Caption>خصائص الهدف</Caption>
+		</pmiAutorunTargetProperties>
+		<pmiChgTreeCompareExcl>
+			<Caption>إضافة إلى قائمة تجاهل المقارنة</Caption>
+			<Hint>إضافة إلى قائمة تجاهل المقارنة</Hint>
+		</pmiChgTreeCompareExcl>
+		<pmiChgTreeDelete>
+			<Caption>حذف كلي</Caption>
+			<Hint>حذف من السجل و النظام</Hint>
+		</pmiChgTreeDelete>
+		<pmiChgTreeDelSys>
+			<Caption>حذف من النظام فقط</Caption>
+			<Hint>حذف من النظام فقط</Hint>
+		</pmiChgTreeDelSys>
+		<pmiChgTreeHexView>
+			<Caption>Hex عرض</Caption>
+			<Hint>hex فتح في محرر</Hint>
+		</pmiChgTreeHexView>
+		<pmiChgTreeOpen>
+			<Caption>فتح</Caption>
+			<Hint>فتح ملف ، مجلد أو القفز لمفتاح</Hint>
+		</pmiChgTreeOpen>
+		<pmiChgTreeProperties>
+			<Caption>خصائص</Caption>
+			<Hint>خصائص</Hint>
+		</pmiChgTreeProperties>
+		<pmiChgTreeRedo>
+			<Caption>إعادة</Caption>
+			<Hint>إعادة تغيرات النظام المحددة</Hint>
+		</pmiChgTreeRedo>
+		<pmiChgTreeRedoDepth>
+			<Caption>إعادة العمق</Caption>
+			<Hint>إعادة التغيرات المحددة في النظام</Hint>
+		</pmiChgTreeRedoDepth>
+		<pmiChgTreeRemove>
+			<Caption>إزالة من السجل</Caption>
+			<Hint>إزالة من السجل</Hint>
+		</pmiChgTreeRemove>
+		<pmiChgTreeRestoreFromBackup>
+			<Caption>إسترجاع من النسخة الإحتياطية</Caption>
+			<Hint>إستعادة الملفات المحددة , و المجلدات و المجلدات الفرعية من النسخة الإحتياطية</Hint>
+		</pmiChgTreeRestoreFromBackup>
+		<pmiChgTreeScanExcl>
+			<Caption>إضافة إلى قائمة استبعاد الفحص</Caption>
+			<Hint>إضافة إلى قائمة استبعاد الفحص</Hint>
+		</pmiChgTreeScanExcl>
+		<pmiChgTreeTextView>
+			<Caption>عرض النص</Caption>
+			<Hint>فتح في محرر النص</Hint>
+		</pmiChgTreeTextView>
+		<pmiChgTreeUndo>
+			<Caption>تراجع</Caption>
+			<Hint>تراجع عن التغييرات</Hint>
+		</pmiChgTreeUndo>
+		<pmiChgTreeUndoDepth>
+			<Caption>تراجع العمق</Caption>
+			<Hint>إعادة التغيرات المحددة من النظام</Hint>
+		</pmiChgTreeUndoDepth>
+		<pmiClnExclude>
+			<Caption>إستثناء</Caption>
+		</pmiClnExclude>
+		<pmiClnSelectBranch>
+			<Caption>تحديد فرع</Caption>
+		</pmiClnSelectBranch>
+		<pmiClnUnselectBranch>
+			<Caption>إلغاء تحديد فرع</Caption>
+		</pmiClnUnselectBranch>
+		<pmiCopySummary>
+			<Caption>نسخ</Caption>
+		</pmiCopySummary>
+		<pmiInstAppsHeaderAutoResize>
+			<Caption>تغيير حجم آلي</Caption>
+		</pmiInstAppsHeaderAutoResize>
+		<pmiLocate>
+			<Caption>إيجاد</Caption>
+		</pmiLocate>
+		<pmiMonAppsHeaderAutoResize>
+			<Caption>تغيير حجم آلي</Caption>
+		</pmiMonAppsHeaderAutoResize>
+		<pmiShowSuccessful>
+			<Caption>إجراءات ناجحة</Caption>
+			<Hint>عرض و إخفاء الإجراءات الناجحة</Hint>
+		</pmiShowSuccessful>
+		<pmiShowWarnings>
+			<Caption>تنبيهات</Caption>
+			<Hint>تنبيهات</Hint>
+		</pmiShowWarnings>
+		<pmiTrayRestore>
+			<Caption>إسترجاع</Caption>
+		</pmiTrayRestore>
+		<rbAll>
+			<Caption>كل البرامج</Caption>
+		</rbAll>
+		<rbSelection>
+			<Caption>التحديد</Caption>
+		</rbSelection>
+		<sbAppClose>
+			<Hint>إغلاق|إغلاق</Hint>
+		</sbAppClose>
+		<sbDetailsClose>
+			<Hint>إغلاق|إغلاق</Hint>
+		</sbDetailsClose>
+		<sbSearchClose>
+			<Hint>إغلاق|إغلاق</Hint>
+		</sbSearchClose>
+		<tabOptions>
+			<Caption>خيارات</Caption>
+		</tabOptions>
+		<tabResults>
+			<Caption>النتائج</Caption>
+		</tabResults>
+		<tbrActions>
+			<Caption>إجراءات</Caption>
+		</tbrActions>
+		<tbrDetails>
+			<Caption>تفاصيل</Caption>
+		</tbrDetails>
+		<tbrLayout>
+			<Caption>مخطط</Caption>
+		</tbrLayout>
+		<tbrModules>
+			<Caption>وحدات</Caption>
+		</tbrModules>
+		<tbrView>
+			<Caption>عرض</Caption>
+		</tbrView>
+		<tbtnAnalyze>
+			<Caption>تحليل</Caption>
+			<Hint>تحليل|تحليل  التغييرات</Hint>
+		</tbtnAnalyze>
+		<tbtnArAdd>
+			<Caption>إضافة</Caption>
+		</tbtnArAdd>
+		<tbtnArDelete>
+			<Caption>حذف</Caption>
+		</tbtnArDelete>
+		<tbtnArRun>
+			<Caption>تشغيل</Caption>
+		</tbtnArRun>
+		<tbtnArStop>
+			<Caption>إيقاف</Caption>
+		</tbtnArStop>
+		<tbtnAutorunMgr>
+			<Caption>المدير التلقائي</Caption>
+		</tbtnAutorunMgr>
+		<tbtnChanges>
+			<Caption>التغييرات</Caption>
+			<Hint>التغييرات المكتشفة|التغييرات</Hint>
+		</tbtnChanges>
+		<tbtnChgView>
+			<Caption>عرض</Caption>
+			<Hint>عرض|عرض</Hint>
+		</tbtnChgView>
+		<tbtnCleaner>
+			<Caption>منظف</Caption>
+			<Hint>منظف</Hint>
+		</tbtnCleaner>
+		<tbtnClnClean>
+			<Caption>تنظيف</Caption>
+			<Hint>تنظيف</Hint>
+		</tbtnClnClean>
+		<tbtnClnItems>
+			<Caption>عناصر</Caption>
+		</tbtnClnItems>
+		<tbtnClnScan>
+			<Caption>فحص</Caption>
+			<Hint>فحص|فحص العناصر المهملة</Hint>
+		</tbtnClnScan>
+		<tbtnClnSummary>
+			<Caption>ملخص</Caption>
+			<Hint>ملخص|إظهار معلومات مختصرة عن البرنامج الحالي</Hint>
+		</tbtnClnSummary>
+		<tbtnCollapse>
+			<Caption>تقليص</Caption>
+			<Hint>تقليص عقدة الشجرة الفعالة</Hint>
+		</tbtnCollapse>
+		<tbtnDetails>
+			<Caption>تفاصيل</Caption>
+			<Hint>تفاصيل البرنامج|تفاصيل البرنامج</Hint>
+		</tbtnDetails>
+		<tbtnExpand>
+			<Caption>تمدد</Caption>
+			<Hint>تمدد عقدة الشجرة الفعالة</Hint>
+		</tbtnExpand>
+		<tbtnInstallModify>
+			<Caption>تغيير</Caption>
+			<Hint>إصلاح ، تعديل أو إلغاء التثبيت</Hint>
+		</tbtnInstallModify>
+		<tbtnInstallNew>
+			<Caption>تثبيت</Caption>
+			<Hint>تثبيت جديد|مراقبة تثبيت جديد لبرنامج</Hint>
+		</tbtnInstallNew>
+		<tbtnInstallUpdate>
+			<Caption>تحديث</Caption>
+			<Hint>تثبيت تحديث|مراقبة تثبيت تحديث</Hint>
+		</tbtnInstallUpdate>
+		<tbtnInstPrograms>
+			<Caption>البرامج المثبتة</Caption>
+			<Hint>البرامج المثبتة|تبديل إلى البرامج المثبتة</Hint>
+		</tbtnInstPrograms>
+		<tbtnMonPrograms>
+			<Caption>البرامج المراقبة</Caption>
+			<Hint>البرامج المراقبة|تبديل إلى البرامج المراقبة</Hint>
+		</tbtnMonPrograms>
+		<tbtnPrograms>
+			<Caption>البرامج</Caption>
+			<Hint>قائمة البرامج|قائمة البرامج</Hint>
+		</tbtnPrograms>
+		<tbtnSave>
+			<Caption>حفظ</Caption>
+			<Hint>حفظ تغييرات سجل التثبيت</Hint>
+		</tbtnSave>
+		<tbtnSearch>
+			<Caption>بحث</Caption>
+			<Hint>بحث|بحث عن نص</Hint>
+		</tbtnSearch>
+		<tbtnShowSnapshot>
+			<Caption>إظهار اللقطات</Caption>
+		</tbtnShowSnapshot>
+		<tbtnSummary>
+			<Caption>ملخص</Caption>
+			<Hint>ملخص|إظهار معلومات مختصرة عن البرنامج الحالي</Hint>
+		</tbtnSummary>
+		<tbtnUninstall>
+			<Caption>إلغاء التثبيت</Caption>
+		</tbtnUninstall>
+		<tbtnUninstallLog>
+			<Caption>سجل إلغاء التثبيت</Caption>
+			<Hint>سجل إلغاء التثبيت|سجل إلغاء التثبيت</Hint>
+		</tbtnUninstallLog>
+		<tpnlSearch>
+			<Caption>بحث</Caption>
+		</tpnlSearch>
+		<tvAutorunItems>
+			<Columns_0>الاسم</Columns_0>
+			<Columns_1>القسم</Columns_1>
+			<Columns_3>الوصف</Columns_3>
+			<Columns_5>الإجراء</Columns_5>
+			<Columns_4>الناشر</Columns_4>
+			<Columns_2>الحالة</Columns_2>
+		</tvAutorunItems>
+		<tvChanges>
+			<Columns_0>التغييرات المكتشفة</Columns_0>
+			<Columns_1>قبل</Columns_1>
+			<Columns_2>بعد</Columns_2>
+			<Columns_3>الحالي</Columns_3>
+		</tvChanges>
+		<tvClnItems>
+			<Columns_0>عناصر</Columns_0>
+			<Columns_1>خصائص</Columns_1>
+		</tvClnItems>
+		<tvResults>
+			<Columns_0>الاسم</Columns_0>
+			<Columns_1>المكان</Columns_1>
+			<Columns_2>البرنامج</Columns_2>
+		</tvResults>
+	</frmTUMain>
+	<RESOURCESTRING>
+		<ACCESS_DENIED_X>وصول غير مسموح :%s</ACCESS_DENIED_X>
+		<ACT_CRE_KEY>إنشاء مفتاح الريجستري: %s</ACT_CRE_KEY>
+		<ACT_CRE_VAL>إنشاء قيمة الريجستري: %s</ACT_CRE_VAL>
+		<ACT_DEC_CNT>إنقاص عداد الملفات المشتركة من الريجستري: %s</ACT_DEC_CNT>
+		<ACT_DEL_ADS>حذف البيانات النصية الأخرى :%s</ACT_DEL_ADS>
+		<ACT_DEL_FILE>حذف الملف: %s</ACT_DEL_FILE>
+		<ACT_DEL_FOLDER>حذف المجلد: %s</ACT_DEL_FOLDER>
+		<ACT_DEL_KEY>حذف مفتاح الريجستري: %s</ACT_DEL_KEY>
+		<ACT_DEL_SERVICE>حذف الخدمات أو الأجهزة :%s</ACT_DEL_SERVICE>
+		<ACT_DEL_VAL>حذف قيمة الريجستري: %s</ACT_DEL_VAL>
+		<ACT_RST_FILE>استعادة خصائص الملف: %s</ACT_RST_FILE>
+		<ACT_RST_VAL>استعادة قيم الريجستري: %s</ACT_RST_VAL>
+		<ACT_STOP_SERVICE>إيقاف خدمة أو جهاز: %s</ACT_STOP_SERVICE>
+		<ADD>إضافة</ADD>
+		<ADVANCED>متفدم</ADVANCED>
+		<AGENT>عميل</AGENT>
+		<ALL>الكل</ALL>
+		<ALL_BRA>(all)</ALL_BRA>
+		<ALL_DETAILS>كل التفاصيل</ALL_DETAILS>
+		<ALWAYS>دائماً</ALWAYS>
+		<ANALYSIS_PROFILE>معرف التحليل</ANALYSIS_PROFILE>
+		<ANALYSIS_PROFILES>تشكيلات التحليل</ANALYSIS_PROFILES>
+		<ANALYZING>تحليل...</ANALYZING>
+		<ASK>سؤال</ASK>
+		<ASK_COMPLETE_LATER>إكمال عملية المراقبة لاحقاً؟</ASK_COMPLETE_LATER>
+		<ASK_IF_NO_ERROR>سؤال إذا لم توجد أخطاء</ASK_IF_NO_ERROR>
+		<ASK_SAVE_CHG>هل تريد حفظ التغييرات من &quot;%s&quot; ?</ASK_SAVE_CHG>
+		<ASK_USER>سؤال المستخدم</ASK_USER>
+		<AUTOMATIC>تلقائي</AUTOMATIC>
+		<AUTORUN_MGR>المدير التلقائي</AUTORUN_MGR>
+		<BACKUP>نسخة إحتياطية</BACKUP>
+		<BACKUP_CREATED>تم إنشاء النسخة الإحتياطية.</BACKUP_CREATED>
+		<BACKUP_CREATED_OK>تم إنشاء النسخة الإحتياطية بنجاح.</BACKUP_CREATED_OK>
+		<BACKUP_PROGRAM>تنظيف النسخة الإحتياطية للبرنامج ...</BACKUP_PROGRAM>
+		<BACKUP_PROGRAM_X>إنشاء نسخة إحتياطية للبرنامج :%s</BACKUP_PROGRAM_X>
+		<BEGIN_UNINSTALL>اضغط إلغاء التثبيت لبدء عملية إلغاء التثبيت</BEGIN_UNINSTALL>
+		<BEGIN_UNINSTALL_LAUNCH>اضغط تشغيل لبدء عملية إلغاء التثبيت</BEGIN_UNINSTALL_LAUNCH>
+		<BROWSE_FOR_FILE>إستعراض ملف</BROWSE_FOR_FILE>
+		<BROWSE_FOR_FOLDER>إستعراض مجلد</BROWSE_FOR_FOLDER>
+		<BROWSE_FOR_FOLDER_OR_FILE>إستعراض ملف أو مجلد</BROWSE_FOR_FOLDER_OR_FILE>
+		<BROWSE_FOR_KEY>إستعراض لمفتاح</BROWSE_FOR_KEY>
+		<BROWSE_FOR_KEY_OR_VALUE>إستعراض لمفتاح أو قيمة</BROWSE_FOR_KEY_OR_VALUE>
+		<BROWSE_FOR_VALUE>استعراض لقيمة</BROWSE_FOR_VALUE>
+		<BTN_CONTINUE>استمرار</BTN_CONTINUE>
+		<BUILT_IN_CANCELLED>إزالة التنصيب الداخلية قد ألغيت و إنتهت العملية بدون إزالة التنصيب.</BUILT_IN_CANCELLED>
+		<BUILT_IN_UNINSTALLER_RUNNING>ميزة الإزالة للبرنامج تعمل</BUILT_IN_UNINSTALLER_RUNNING>
+		<CANCEL>إلغاء</CANCEL>
+		<CANNOT_BROWSE>خطأ في محاولة بدء المتصفح الافتراضي.\nتم نسخ الرابط في الحافظة.</CANNOT_BROWSE>
+		<CANT_EXECUTE>لا يمكن بدء البرنامج &quot;%s&quot;.</CANT_EXECUTE>
+		<CANT_OPEN_KEY>لا يمكن فتح المفتاح</CANT_OPEN_KEY>
+		<CHANGED_ITEMS>العناصر المغيرة</CHANGED_ITEMS>
+		<CHANGES>&quot;%s&quot; تغييرات</CHANGES>
+		<CHECK_UPD_NEW>تحديثات أو أخبار جديدة متوفرة</CHECK_UPD_NEW>
+		<CHECK_UPD_REMINDER>منبه فحص التحديثات</CHECK_UPD_REMINDER>
+		<CHG_VIEWS>تغيير العرض</CHG_VIEWS>
+		<CLEAN_UP>تنظيف</CLEAN_UP>
+		<CLEAN_UP_DESC>إزالة تتبع البرامج المراقبة الملغى تثبيتها</CLEAN_UP_DESC>
+		<CLEANED>نظّف</CLEANED>
+		<CLEANER>منظف</CLEANER>
+		<CLEANING>تنظيف ...</CLEANING>
+		<CLOSE>إغلاق</CLOSE>
+		<CLOSE_PROCESSES>إغلاق العمليات</CLOSE_PROCESSES>
+		<CMP_ERROR>خطأ أثناء مقارنة اللقطات</CMP_ERROR>
+		<CMP_PROFILE>اسم تشكيل المقارنة</CMP_PROFILE>
+		<CNT_DEL_MON>عداد الملفات المشتركة للريجستري حذف أثناء المراقبة</CNT_DEL_MON>
+		<COMMENTS>تعليقات</COMMENTS>
+		<COMMON>شائع</COMMON>
+		<COMP_PROFILES>تشكيلات المقارنة</COMP_PROFILES>
+		<COMPARE>مقارنة</COMPARE>
+		<COMPARING_SNS>تصاوير النظام للمقارنة...</COMPARING_SNS>
+		<COMPLETE>كامل</COMPLETE>
+		<COMPUTER>الكمبيوتر</COMPUTER>
+		<COMPUTER_X>كمبيوتر (%s)</COMPUTER_X>
+		<CONTACT>مراسلة</CONTACT>
+		<CONTINUE>هل تريد المتابعة؟</CONTINUE>
+		<CONTINUE_UNINSTALL>متابعة عملية الإزالة</CONTINUE_UNINSTALL>
+		<CONTINUE_UNINSTALL_Q>إستمرار في عملية إلغاء التنصيب ؟</CONTINUE_UNINSTALL_Q>
+		<CORRUPT_CNT>اكتشاف تغيير غير صالح لعداد الملفات المشتركة : القيمة أنقصت أو وضع فيها بيانات غير صالحة</CORRUPT_CNT>
+		<CREATE_REG_KEYS>إنشاء مفاتيح الريجستري</CREATE_REG_KEYS>
+		<CREATE_REG_VALS>إنشاء قيم الريجستري</CREATE_REG_VALS>
+		<CREATED_ITEMS>العناصر المنشأة</CREATED_ITEMS>
+		<CREATED_ON>أنشئ في</CREATED_ON>
+		<CREATED_X>منشأة: %s</CREATED_X>
+		<DEC_CNT>إنقاص عداد الملفات المشتركة للريجستري</DEC_CNT>
+		<DEFAULT>إفتراضي</DEFAULT>
+		<DEFAULT_PAR>(default)</DEFAULT_PAR>
+		<DEL_AT_STARTUP>حذف عند بدء التشغيل التالي</DEL_AT_STARTUP>
+		<DEL_CNT>حذف عداد الملفات المشتركة للريجستري</DEL_CNT>
+		<DEL_FILES>حذف الملفات</DEL_FILES>
+		<DEL_FOLDERS>حذف المجلدات</DEL_FOLDERS>
+		<DEL_REG_KEYS>حذف مفاتيح الريجستري</DEL_REG_KEYS>
+		<DEL_REG_VALS>قيم قيم الريجستري</DEL_REG_VALS>
+		<DEL_SH_FILE>حذف الملف المشترك من القرص إلى سلة المحذوفات</DEL_SH_FILE>
+		<DELETE_SEL_BACKUPS>حذف النسخ الإحتياطية المحددة ؟</DELETE_SEL_BACKUPS>
+		<DELETE_SEL_UNDO>حذف الإسترجاعات المحددة</DELETE_SEL_UNDO>
+		<DELETE_SYS_SEL_ITEM>حذف العنصر المحدد من النظام ؟</DELETE_SYS_SEL_ITEM>
+		<DELETED_ITEMS>العناصر المحذوفة</DELETED_ITEMS>
+		<DETECTED_CHG>التغييرات المكتشفة</DETECTED_CHG>
+		<DISABLED>معطل</DISABLED>
+		<DISPOSABLE_ITEMS>عناصر مهملة</DISPOSABLE_ITEMS>
+		<DLG_ABORT>إلغاء</DLG_ABORT>
+		<DLG_ALL>الكل</DLG_ALL>
+		<DLG_CANCEL>إلغاء</DLG_CANCEL>
+		<DLG_CLOSE>إغلاق</DLG_CLOSE>
+		<DLG_CNF>تأكيد</DLG_CNF>
+		<DLG_ERR>خطأ</DLG_ERR>
+		<DLG_IGNORE>تجاهل</DLG_IGNORE>
+		<DLG_INF>معلومات</DLG_INF>
+		<DLG_NO>لا</DLG_NO>
+		<DLG_NOTOALL>لا للكل</DLG_NOTOALL>
+		<DLG_OK>موافق</DLG_OK>
+		<DLG_RETRY>إعادة محاولة</DLG_RETRY>
+		<DLG_WRN>تحذير</DLG_WRN>
+		<DLG_YES>نعم</DLG_YES>
+		<DLG_YESTOALL>نعم للكل</DLG_YESTOALL>
+		<DONT_DEL_SH_FILE>اختار المستخدم الاحتفاظ بالملف المشترك</DONT_DEL_SH_FILE>
+		<EDIT_PROGRAM>تحرير برنامج</EDIT_PROGRAM>
+		<ELAPSED>منقضي %d:%2.2d</ELAPSED>
+		<ENTER_IDENTIFIER>أدخل اسم البرنامج المثبت.</ENTER_IDENTIFIER>
+		<ERR>خطأ</ERR>
+		<ERR_BRA>(ERR)</ERR_BRA>
+		<ERR_DEL_FLD_FILES>لا يمكن حذف بعض الملفات أو المجلدات.</ERR_DEL_FLD_FILES>
+		<ERR_DEL_REG_KEYS_VALS>لا يمكن حذف بعض المفاتيح او القيم.</ERR_DEL_REG_KEYS_VALS>
+		<ERR_REDO_REG_KEYS_VALS>لا يمكن إعادة المفاتيح أو القيم</ERR_REDO_REG_KEYS_VALS>
+		<ERR_UNDO_REG_KEYS_VALS>لا يمكن التراجع عن قيمة او مفتاح واحد أو أكثر.</ERR_UNDO_REG_KEYS_VALS>
+		<ERR_WRN_OK_STAT>أخطاء: %d   تنبيهات: %d  إجراءات ناجحة: %d</ERR_WRN_OK_STAT>
+		<EXIT>خروج</EXIT>
+		<EXPERT>خبير</EXPERT>
+		<EXPIRE_DAYS>ينتهي بـ %d يوم.</EXPIRE_DAYS>
+		<EXPORT_ERROR>خطأ في التصدير !</EXPORT_ERROR>
+		<EXTENSION>الامتداد</EXTENSION>
+		<FAMILY_NOT_ACCEPTED>ترخيص Family غير مقبول</FAMILY_NOT_ACCEPTED>
+		<FFILTER_ALL>كافة الملفات (*.*)|*.*</FFILTER_ALL>
+		<FFILTER_DLL>Application extension files (*.dll)|*.dll</FFILTER_DLL>
+		<FFILTER_EXE>الملفات التنفيذية (*.exe)|*.exe</FFILTER_EXE>
+		<FFILTER_HTM>HTML Documents (*.htm, *.html)|*.htm;*html</FFILTER_HTM>
+		<FFILTER_ICL>مجموعة رموز (*.icl)|*.icl</FFILTER_ICL>
+		<FFILTER_ICO>رموز (*.ico)|*.ico</FFILTER_ICO>
+		<FFILTER_MSI>Microsoft installers (*.msi)|*.msi</FFILTER_MSI>
+		<FFILTER_REG>ملفات تسجيل (*.reg)|*.reg</FFILTER_REG>
+		<FFILTER_TXT>مستندات نصية (*.txt)|*.txt</FFILTER_TXT>
+		<FFILTER_WAV>ملفات صوتية (*.wav)|*.wav</FFILTER_WAV>
+		<FFILTER_XML>XML مستندات - (*.xml)|*.xml</FFILTER_XML>
+		<FFILTER_ZIP>Backup files (*.zip)|*.zip</FFILTER_ZIP>
+		<FILE>(FILE)</FILE>
+		<FILE_MASK>قناع الملف</FILE_MASK>
+		<FILE_SYSTEM>ملفات النظام</FILE_SYSTEM>
+		<FILES_CHG_STAT>ملفات معدلة     :%6.1d</FILES_CHG_STAT>
+		<FILES_CREATED_STAT>ملفات منشأة      :%6.1d</FILES_CREATED_STAT>
+		<FILES_DEL_STAT>ملفات محذوفة      :%6.1d</FILES_DEL_STAT>
+		<FILES_NOT_INCLUDED>الملفات غير مضمنة مع النسخ الإحتياطي</FILES_NOT_INCLUDED>
+		<FILES_X>ملفات :%6.1d</FILES_X>
+		<FINISH>النهاية</FINISH>
+		<FLDS_CREATED_STAT>مجلدات منشأة  :%6.1d</FLDS_CREATED_STAT>
+		<FLDS_DEL_STAT>مجلدات محذوفة  :%6.1d</FLDS_DEL_STAT>
+		<FOLDER>(FOLDER)</FOLDER>
+		<FOLDER_MASK>قناع المجلد</FOLDER_MASK>
+		<FOLDERS_X>المجلدات :%6.1d</FOLDERS_X>
+		<FREE_UPDATES_UNTIL>تحديث مجاني حتى %s</FREE_UPDATES_UNTIL>
+		<FS_DET_VIEW_PRF>تفاصيل نظام الملفات [عرض: %s]</FS_DET_VIEW_PRF>
+		<GENERAL>عام</GENERAL>
+		<GENERATED_BY_TU>منشأ بواسطة Total Uninstall</GENERATED_BY_TU>
+		<HIDDEN_NODE>العقدة مخفية.</HIDDEN_NODE>
+		<HIDDEN_NODE_IN_VIEW>العنصر مخفي في العرض الحالي.</HIDDEN_NODE_IN_VIEW>
+		<HIDE_OPTIONS>خيارات الإخفاء</HIDE_OPTIONS>
+		<IF_NO_ERROR>إذا لم توجد أخطاء</IF_NO_ERROR>
+		<IMPORTING_ARCHIVE>جلب الأراشيف ...</IMPORTING_ARCHIVE>
+		<INCLUDE_FOLDER_IN_LOG>تضمين المجلد في السجل</INCLUDE_FOLDER_IN_LOG>
+		<INF_VOLATILE_KEY>المفتاح المتلاشي غير منشأ</INF_VOLATILE_KEY>
+		<INF_VOLATILE_VAL>القيمة المتلاشية غير منشأة</INF_VOLATILE_VAL>
+		<INST_ON>مثبت على</INST_ON>
+		<INST_PRG>البرنامج المثبت</INST_PRG>
+		<INST_PRGS>البرامج المثبتة</INST_PRGS>
+		<INST_SERV_AND_DEV>الخدمات و الأجهزة المثبتة</INST_SERV_AND_DEV>
+		<INSTALL>تثبيت</INSTALL>
+		<INSTALL_HISTORY>تاريخ التثبيت</INSTALL_HISTORY>
+		<INSTALLED_PRGS_CMPS>%d البرامج المثبتة , %d مكتبات النظام</INSTALLED_PRGS_CMPS>
+		<INSTALLER_ERR>اكتشف خطأ في المثبت: عداد الملفات المشتركة منشأ لملف موجود</INSTALLER_ERR>
+		<INTERFACE>الواجهة</INTERFACE>
+		<INVALID_AFTER_CNT>عداد تالي تالف</INVALID_AFTER_CNT>
+		<INVALID_BEFORE_CNT>عداد سابق تالف</INVALID_BEFORE_CNT>
+		<INVALID_CURRENT_CNT>عداد حالي تالف في الريجستري</INVALID_CURRENT_CNT>
+		<INVALID_FILE_FORMAT>نوع ملف غير صالح</INVALID_FILE_FORMAT>
+		<ITEM_X>Item : %s</ITEM_X>
+		<KEYS_CREATED_STAT>مفاتيح منشأة      :%6.1d</KEYS_CREATED_STAT>
+		<KEYS_DEL_STAT>مفاتيح محذوفة      :%6.1d</KEYS_DEL_STAT>
+		<KEYS_X>مفاتيح :%6.1d</KEYS_X>
+		<LAST_CHECK>آخر فحص: %s</LAST_CHECK>
+		<LAST_WRITE_X>آخر كتابة :%s</LAST_WRITE_X>
+		<LAUNCH>تشغيل</LAUNCH>
+		<LAUNCH_SUPPLIED_UNINST>سيتم تشغيل البرنامج المساعد للإضافة/الإزالة.</LAUNCH_SUPPLIED_UNINST>
+		<LAUNCH_TU>تشغيل Total Uninstall</LAUNCH_TU>
+		<LIC_COUNTRY>ترخيص دولة</LIC_COUNTRY>
+		<LIC_FAMILY>ترخيص عائلي</LIC_FAMILY>
+		<LIC_MULTIPLE>ترخيص عدة أجهزة كمبيوتر</LIC_MULTIPLE>
+		<LIC_SINGLE_COMPUTER>ترخيص جهاز كمبيوتر واحد</LIC_SINGLE_COMPUTER>
+		<LIC_SITE>ترخيص موقع</LIC_SITE>
+		<LIC_SMALL_OFFICE>ترخيص مكتب صغير</LIC_SMALL_OFFICE>
+		<LIC_TECHNICIAN>Technician ترخيص</LIC_TECHNICIAN>
+		<LIC_TEMPORARY>ترخيص مؤقت</LIC_TEMPORARY>
+		<LIC_WORLDWIDE>ترخيص عالمي</LIC_WORLDWIDE>
+		<LICENSED_TO>مرخص لـ &quot;%s&quot;</LICENSED_TO>
+		<LNK_EXE_FILTER>اختصارات و ملفات قابلة للتنفيذ (*.lnk, *.exe)|*.lnk;*.exe</LNK_EXE_FILTER>
+		<LOADING>تحميل ...</LOADING>
+		<LOADING_INST_PRGS>تحميل البرامج المثبتة...</LOADING_INST_PRGS>
+		<LOADING_MON_PRGS>تحميل البرامج المراقبة...</LOADING_MON_PRGS>
+		<LOCATE_PRG_LNK_EXE>اختر اختصار لبرنامج أو ملف قابل للتنفيذ</LOCATE_PRG_LNK_EXE>
+		<LOCATE_UNINSTALLER_EXE>حدد ملف الإزالة التنفيذي</LOCATE_UNINSTALLER_EXE>
+		<LOG_FILE_NAME>اسم ملف السجل</LOG_FILE_NAME>
+		<LOGON>تسجيل دخول</LOGON>
+		<MAINTENANCE_ENDED>إنتهت فترة الصيانة لترخيصك.</MAINTENANCE_ENDED>
+		<MAINTENANCE_ENDED_INFO>نسخة البرنامج الجديدة سوف تعمل في الوضع التجريبي</MAINTENANCE_ENDED_INFO>
+		<MANUAL>يدوي</MANUAL>
+		<MISSING_ITEMS>عناصر مفقودة</MISSING_ITEMS>
+		<MON_ON>مراقب على</MON_ON>
+		<MON_PRG>برنامج مراقب</MON_PRG>
+		<MON_PRG_PATH>مسار البرنامج المراقب</MON_PRG_PATH>
+		<MON_PRG_RUNNING>يظهر أن البرنامج المراقب مازال يعمل.</MON_PRG_RUNNING>
+		<MONITOR_WITH_TU>مراقبة مع Total Uninstall</MONITOR_WITH_TU>
+		<MONITORED_PRGS>%d برنامج مراقب</MONITORED_PRGS>
+		<NAME>الاسم</NAME>
+		<NEVER>ابداً</NEVER>
+		<NEW_NAME>اسم جديد</NEW_NAME>
+		<NO>لا</NO>
+		<NO_GROUPS>لا مجموعات</NO_GROUPS>
+		<NO_MORE_INSTANCES_ALLOWED>ترخيصك لا يسمح لك بتشغيل هذا العدد من النسخ .</NO_MORE_INSTANCES_ALLOWED>
+		<NO_RIGHTS>حقوق ناقصة</NO_RIGHTS>
+		<NO_UPDATES>إصدار معطوب.</NO_UPDATES>
+		<NORMAL>عادي</NORMAL>
+		<NOT_A_VALID_UNINST>لم يوجد ملغي تثبيت صالح أو مسجل.</NOT_A_VALID_UNINST>
+		<NOT_AVAILABLE>N.A.</NOT_AVAILABLE>
+		<NOT_DELETED_FILES>ملفات أو مجلدات غير محذوفة</NOT_DELETED_FILES>
+		<NOT_DELETED_FILES_DET>مجلدات أو ملفات لم تحذف أثناء إلغاء التثبيت</NOT_DELETED_FILES_DET>
+		<NOT_DELETED_REG>مفاتيح و قيم ريجستري لم تحذف</NOT_DELETED_REG>
+		<NOT_DELETED_REG_DET>مفاتيح و قيم للريجستري لم تحذف أثناء إلغاء التثبيت</NOT_DELETED_REG_DET>
+		<NOT_EMPTY>غير فارغ</NOT_EMPTY>
+		<NOT_FOUND>غير موجود</NOT_FOUND>
+		<NOT_FOUND_X>غير موجود :%s</NOT_FOUND_X>
+		<NOTES>ملاحظات</NOTES>
+		<OK>موافق</OK>
+		<OK_BRA>(OK)</OK_BRA>
+		<ON_PRG_CLOSE>عند إغلاق البرنامج</ON_PRG_CLOSE>
+		<ON_REFRESH>عند التحديث</ON_REFRESH>
+		<ONLY_FILES_TO_KEEP>غير محذوف. يحتوي فقط ملفات و مجلدات لحفظها.</ONLY_FILES_TO_KEEP>
+		<ONLY_KEYS_TO_KEEP>غير محذوف. يحتوي فقط مفاتيح ريجستري لحفظها.</ONLY_KEYS_TO_KEEP>
+		<OTHER>أخرى</OTHER>
+		<PAGE>صفحة:</PAGE>
+		<PAINT_ITEM_STYLES>عرض عادي\nإخفاء\nنص محدد\nرمز قاتم\nرمز قاتم و نص محدد</PAINT_ITEM_STYLES>
+		<PENDING_FILE_REN>تعليق عملية تسمية الملفات.</PENDING_FILE_REN>
+		<PRE_INST_SNS_NAME>pre-install اسم تشكيل</PRE_INST_SNS_NAME>
+		<PRE_INSTALL>pre-install تصوير نظام</PRE_INSTALL>
+		<PREFERENCES>تفضيلات</PREFERENCES>
+		<PRG_DETECTED>برنامج مكتشف:</PRG_DETECTED>
+		<PRG_NAME>اسم البرنامج</PRG_NAME>
+		<PRG_PART_UNINSTALLED>برنامج تم إلغاء تثبيته جزئياً</PRG_PART_UNINSTALLED>
+		<PRG_RESTORED>تم إسترجاع البرنامج.</PRG_RESTORED>
+		<PRG_UNINSTALLED>برنامج تم إلغاء تثبيته بنجاح</PRG_UNINSTALLED>
+		<PRINT_ERROR>خطأ طباعة !</PRINT_ERROR>
+		<PROCESS_CANCELLED>العملية ألغيت</PROCESS_CANCELLED>
+		<PROCESSING_INSTALLATIONS>معالجة التثبيتات ...</PROCESSING_INSTALLATIONS>
+		<PRODUCT_UPDATES>تحديثات المنتج</PRODUCT_UPDATES>
+		<PROGRAM_WILL_RESTART>سيتم إعادة تشغيل البرنامج لاستكمال التسجيل.</PROGRAM_WILL_RESTART>
+		<PROGRESS_DEFAULT>معالجة, إفتراضي</PROGRESS_DEFAULT>
+		<PST_INST_SNS_NAME>Post-install اسم تصوير</PST_INST_SNS_NAME>
+		<PUBLISHER>الناشر</PUBLISHER>
+		<QST_DEL_FLD_FILES>هل تريد حذف الملفات أو المجدات المحددة ؟</QST_DEL_FLD_FILES>
+		<QST_DEL_REG_KEYS_VALS>هل تريد حذف المفاتيح و القيم المحددة ؟</QST_DEL_REG_KEYS_VALS>
+		<QST_DEL_SERVICES>هل أنت متأكد من حذف الخدمات المحددة ؟</QST_DEL_SERVICES>
+		<QST_REMOVE_INST_PRG_LST>هل تريد إزالة البرنامج المحدد من القائمة ؟</QST_REMOVE_INST_PRG_LST>
+		<QUEST_REMOVE_GROUP>إزالة المجموعة ؟</QUEST_REMOVE_GROUP>
+		<QUIET_PROGRESS_DEFAULT>هادئ , معالجة , إفتراضي</QUIET_PROGRESS_DEFAULT>
+		<README>اقرأني</README>
+		<READY>جاهز</READY>
+		<RECORD_CHANGED_X>تغيرات السجل :%s</RECORD_CHANGED_X>
+		<REDO_PROFILES>إستعادة ملفات التعريف</REDO_PROFILES>
+		<REG_DET_VIEW_PRF>تفاصيل الريجستري [عرض: %s]</REG_DET_VIEW_PRF>
+		<REG_KEY>(REG KEY)</REG_KEY>
+		<REG_RUN>تشغيل</REG_RUN>
+		<REG_RUN_ONCE>تشغيل مرة واحدة</REG_RUN_ONCE>
+		<REG_SCAN_ERROR>خطأ أثناء فحص الريجستري</REG_SCAN_ERROR>
+		<REG_VAL>(REG VAL)</REG_VAL>
+		<REGISTER_DISABLED_KEY>ربما وقعت ضحية للبرامج المزيفة , يجب شراء الترخيص الأصلي.</REGISTER_DISABLED_KEY>
+		<REGISTER_FAILED>فشل التسجيل.</REGISTER_FAILED>
+		<REGISTER_FIREWALL>لقد قام الجدار النار بمنع %s التحقق من صحة التحديث</REGISTER_FIREWALL>
+		<REGISTER_HOST>بعض المدخلات في ملف HOSTS منعت %s التحقق من صحة التحديث</REGISTER_HOST>
+		<REGISTER_INVALID>معلومات تسجيل غير صالحة</REGISTER_INVALID>
+		<REGISTER_PRO>يجب تسجيل البرنامج بمفتاح Professional Edition .</REGISTER_PRO>
+		<REGISTER_THANK_YOU>شكراً على تسجيل %s.</REGISTER_THANK_YOU>
+		<REGISTERED_COMPANY>الشركة المسجلة</REGISTERED_COMPANY>
+		<REGISTERED_OWNER>المالك المسجل</REGISTERED_OWNER>
+		<REGISTRY>الريجستري</REGISTRY>
+		<REMOVE_LEFT_BEHIND>اضغط إلغاء التثبيت لإزالة المجلدات و الملفات و المفاتيح و القيم الباقية المكتشفة.</REMOVE_LEFT_BEHIND>
+		<REMOVE_LOG>حذف سجل التغييرات ؟</REMOVE_LOG>
+		<REMOVE_LOG_DET>أنت قد لا تستطيع استعادة التغييرات المنشأة بواسطة البرنامج المحدد.</REMOVE_LOG_DET>
+		<REMOVE_PRG_DATA>إزالة إعدادات و بيانات البرنامج؟</REMOVE_PRG_DATA>
+		<REMOVE_PRG_DATA_INFO>اختر &quot;لا&quot; إذا كنت تنوي عمل تحديث للبرنامج Total Uninstall</REMOVE_PRG_DATA_INFO>
+		<RENAME>إعادة تسمية</RENAME>
+		<REQUEST_INTERNET_ACCESS>الإتصال بالإنترنت إجباري.</REQUEST_INTERNET_ACCESS>
+		<RESTORATION_UNDONE>تم إلغاء الإسترجاع</RESTORATION_UNDONE>
+		<RESTORE>إستعادة</RESTORE>
+		<RESTORE_PROGRAM>إستعادة برنامج</RESTORE_PROGRAM>
+		<RESTORE_REG_VALS>استعادة قيم الريجستري</RESTORE_REG_VALS>
+		<RESTORING_ARCHIVE>إستعادة الملفات و مدخلات التسجيل ...</RESTORING_ARCHIVE>
+		<RESTORING_FILES_FROM_BKP>إسترجاع الملفات من النسخة الإحتياطية ...</RESTORING_FILES_FROM_BKP>
+		<RST_FILE_PROP>استعادة خصائص الملف</RST_FILE_PROP>
+		<RUN_EVAL_PERIOD>هل تريد تشغيل البرنامج في الفترة التجريبية ؟</RUN_EVAL_PERIOD>
+		<RUNNING_DOMAIN>تشغيل في Windows NT Domain</RUNNING_DOMAIN>
+		<RUNNING_SERVER>تشغيل كخدمة ضمن ويندوز.</RUNNING_SERVER>
+		<RUNNING_VM>تشغيل في Virtual Machine.</RUNNING_VM>
+		<SAFE>آمن</SAFE>
+		<SAVE_AS>حفظ كـ</SAVE_AS>
+		<SCAN_PROFILES>فحص التشكيلات</SCAN_PROFILES>
+		<SCANNING>فحص...</SCANNING>
+		<SCANNING_REGISTRY_AND_FS>فحص الريجستري و نظام الملفات...</SCANNING_REGISTRY_AND_FS>
+		<SCHEDULED_TASKS>مهام مجدولة</SCHEDULED_TASKS>
+		<SEARCH>بحث</SEARCH>
+		<SEARCH_IN_X>بحث في &quot;%s&quot;</SEARCH_IN_X>
+		<SEL_BRA>(الإختيار)</SEL_BRA>
+		<SEL_HAS_HD_NODES>التحديد يحوي على الأقل عقدة مخفية.</SEL_HAS_HD_NODES>
+		<SEL_PRG_UNINSTALLED>البرنامج المحدد تم إلغاء تثبيته بالفعل.</SEL_PRG_UNINSTALLED>
+		<SEL_UNINSTALL_PROFILE>اختر تشكيل إلغاء التثبيت.</SEL_UNINSTALL_PROFILE>
+		<SELECT>تحديد</SELECT>
+		<SERVICES>الخدمات</SERVICES>
+		<SHARED_FILE>ملف مشترك. غير محذوف في هذه المرحلة</SHARED_FILE>
+		<SHARED_FILE_CNT_DEC>تم إنقاص عدد العمليات المشتركة في الملف بشكل مسبق</SHARED_FILE_CNT_DEC>
+		<SHARED_FILE_NOT_FOUND>ملف مشترك غير موجود على القرص</SHARED_FILE_NOT_FOUND>
+		<SHOW_OPTIONS>خيارات &amp;العرض</SHOW_OPTIONS>
+		<SHOW_SYS_COMP>النظام مكونات عرض: %s</SHOW_SYS_COMP>
+		<SIZE>الحجم</SIZE>
+		<SIZE_STAT>الحجم                    : %s</SIZE_STAT>
+		<SKIP>تخطي</SKIP>
+		<SKIP_BUILTIN_UNINSTALLER>إذا كان إلغاء التنصيب المدمج مع البرنامج لا يستجيب , إضغط تجاوز للإستمرار . كي يتم تشغيل إزالة التنصيب التالي.</SKIP_BUILTIN_UNINSTALLER>
+		<SMALL_CNT>عداد الملفات المشتركة موجود صغير جداً في الريجستري</SMALL_CNT>
+		<START>بداية</START>
+		<START_MENU>قائمة إبدأ</START_MENU>
+		<START_SCANNING>إضغط زر الفحص لتبدأ الفحص.</START_SCANNING>
+		<START_UNINSTALL_PROCESS>بدء عملية إلغاء التثبيت.</START_UNINSTALL_PROCESS>
+		<STARTUP_TYPE_X>نوع بدء التشغيل : %s</STARTUP_TYPE_X>
+		<STOP>إيقاف</STOP>
+		<STOP_SERVICES>إيقاف الخدمات</STOP_SERVICES>
+		<SUPPORT_INFO>معلومات الدعم</SUPPORT_INFO>
+		<SUPPORT_PHONE>هاتف الدعم</SUPPORT_PHONE>
+		<SVC_CMD_NOT_ACCEPTED>الخدمة لا تقبل أمر الأيقاف.</SVC_CMD_NOT_ACCEPTED>
+		<SW_VERSION>إصدار %s</SW_VERSION>
+		<SYSTEM>نظام</SYSTEM>
+		<TEMPORARY_FILES>الملفات المؤقتة</TEMPORARY_FILES>
+		<TITLE_MON_INSTALL>مراقبة تثبيت جديد</TITLE_MON_INSTALL>
+		<TITLE_MON_UPDATE_X>مراقبة تحديث البرنامج &quot;%s&quot;</TITLE_MON_UPDATE_X>
+		<TOTAL_LIC_COMPUTERS>إجمالي الأجهزة المرخصة للإسم أعلاه: %s</TOTAL_LIC_COMPUTERS>
+		<TOTAL_UNINSTALL>Total uninstall</TOTAL_UNINSTALL>
+		<TRACES_AFTER_UNINSTALL>تتبع بعد إلغاء التثبيت</TRACES_AFTER_UNINSTALL>
+		<TRIAL_EXPIRED>إنتهت الفترة التجريبية , يرجى التسجيل</TRIAL_EXPIRED>
+		<TU_AGENT>Total Uninstall عميل</TU_AGENT>
+		<TU_MON_PRG_TITLE>البرامج المراقبة</TU_MON_PRG_TITLE>
+		<TU_PRO_EDITION>Total Uninstall إصدار احترافي</TU_PRO_EDITION>
+		<TU_STD_EDITION>Total Uninstall إصدار قياسي</TU_STD_EDITION>
+		<TU_USE_FIRST_UNINST>Total uninstall يستخدم برنامج الإزالة الإفتراضي أولاً</TU_USE_FIRST_UNINST>
+		<TU_USE_FIRST_UNINST_DESC>إزالة مضاد فيروس أو جدار ناري أو تعريف أو أي برنامج يقوم بتثبيت أجهزة للنظام.</TU_USE_FIRST_UNINST_DESC>
+		<UNDO>تراجع</UNDO>
+		<UNDO_RESTORATION>تراجع عن إسترجاع</UNDO_RESTORATION>
+		<UNINST_ANALYZED>إلغاء تثبيت البرنامج المحلل</UNINST_ANALYZED>
+		<UNINST_BUNDLE>إزالة تنصيب حزمة البرنامج الذي تم تحليله</UNINST_BUNDLE>
+		<UNINST_PROFILES>تشكيلات إلغاء التثبيت</UNINST_PROFILES>
+		<UNINSTALL>إلغاء التثبيت</UNINSTALL>
+		<UNINSTALL_INST_HINT>إلغاء التثبيت|إلغاء التثبيت للبرنامج المحدد</UNINSTALL_INST_HINT>
+		<UNINSTALL_MON_HINT>إلغاء التثبيت|إلغاء التثبيت للبرنامج المحدد</UNINSTALL_MON_HINT>
+		<UNINSTALL_PROGRAM_X>إلغاء تثبيت البرنامج &quot;%s&quot;</UNINSTALL_PROGRAM_X>
+		<UNINSTALLED_WITH_TU>ملغى تثبيته بـ Total Uninstall &quot;%s&quot;</UNINSTALLED_WITH_TU>
+		<UNREGISTERED>غير مسجل</UNREGISTERED>
+		<USE_LAST_SNS>استخدام آخر تصوير</USE_LAST_SNS>
+		<USE_LAST_SNS_AGO_D>استخدام آخر تصوير (%d days, %d hours and %d minutes ago)</USE_LAST_SNS_AGO_D>
+		<USE_LAST_SNS_AGO_H>استخدام آخر تصوير (%d hours and %d minutes ago)</USE_LAST_SNS_AGO_H>
+		<USE_LAST_SNS_AGO_M>استخدام آخر تصوير (%d minutes ago)</USE_LAST_SNS_AGO_M>
+		<USE_OLD_PURCHASE_NEW>ثبت النسخة الأقدم أو اشتر التحديث لاستعمال هذه النسخة</USE_OLD_PURCHASE_NEW>
+		<USE_ONLY_PRG_UNINST>استخدام ملغي التثبيت الخاص بالبرنامج فقط</USE_ONLY_PRG_UNINST>
+		<USE_OR_BUILD_SNS>سابق pre-install بناء أو استخدام تصوير</USE_OR_BUILD_SNS>
+		<USR_ABORT>تم الإلغاء بواسطة المستخدم</USR_ABORT>
+		<VALS_CHG_STAT>قيم معدلة  :%6.1d</VALS_CHG_STAT>
+		<VALS_CREATED_STAT>قيم منشأةd   :%6.1d</VALS_CREATED_STAT>
+		<VALS_DEL_STAT>قيم محذوفة   :%6.1d</VALS_DEL_STAT>
+		<VALUES_X>القيم :%6.1d</VALUES_X>
+		<VERSION>إصدار</VERSION>
+		<WAIT_UNINST_REMOVE_LEFT>عندما ينتهي البرنامج المساعد للإضافة/الإزالة اضغط على إلغاء التثبيت لإزالة الملفات، المجلدات، القيم و المفاتيح الباقية</WAIT_UNINST_REMOVE_LEFT>
+		<WRN_BRA>(WRN)</WRN_BRA>
+		<X_BYTE>%s B</X_BYTE>
+		<X_BYTES>%d بايت</X_BYTES>
+		<X_CHANGES>%s - تغييرات</X_CHANGES>
+		<X_GIGABYTE>%s GB</X_GIGABYTE>
+		<X_KILOBYTE>%s KB</X_KILOBYTE>
+		<X_MEGABYTE>%s MB</X_MEGABYTE>
+		<X_RESULTS>%d نتائج</X_RESULTS>
+		<X_UNINSTALL_LOG>&quot;%s&quot; - سجل إلغاء التثبيت</X_UNINSTALL_LOG>
+		<X_UNINSTALL_LOG_FILE>&quot;%s&quot; - UninstallLog.txt</X_UNINSTALL_LOG_FILE>
+		<YES>نعم</YES>
+		<ZERO_LENGTH_DATA>(zero length data)</ZERO_LENGTH_DATA>
+	</RESOURCESTRING>
+</TotalUninstall>

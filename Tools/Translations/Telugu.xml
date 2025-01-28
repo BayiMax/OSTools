@@ -1,0 +1,2509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TotalUninstall>
+	<_System_>
+		<LanguageCode>en</LanguageCode>
+		<LocalizedName>Telugu</LocalizedName>
+		<Version>61700</Version>
+	</_System_>
+	<Cleaner>
+		<CF-BROWSER-CACHE>Browser</CF-BROWSER-CACHE>
+		<CF-BROWSER-CACHE-CHROME>Chrome</CF-BROWSER-CACHE-CHROME>
+		<CF-BROWSER-CACHE-FIREFOX>Firefox</CF-BROWSER-CACHE-FIREFOX>
+		<CF-BROWSER-CACHE-IE>Internet Explorer</CF-BROWSER-CACHE-IE>
+		<CF-BROWSER-CACHE-MAXTHON>Maxthon</CF-BROWSER-CACHE-MAXTHON>
+		<CF-BROWSER-CACHE-OPERA>Opera</CF-BROWSER-CACHE-OPERA>
+		<CF-PROGRAMS>కార్యక్రమాలు</CF-PROGRAMS>
+		<CF-PROGRAMS-ADOBE-FLASH-PLAYER>Adobe Flash Player</CF-PROGRAMS-ADOBE-FLASH-PLAYER>
+		<CF-PROGRAMS-MSOFFICE-RECENT>మైక్రోసాఫ్ట్ ఆఫీస్ ఇటీవలి ఫైళ్లు జాబితా</CF-PROGRAMS-MSOFFICE-RECENT>
+		<CF-PROGRAMS-SUN-JAVA-CACHE>Sun Java cache</CF-PROGRAMS-SUN-JAVA-CACHE>
+		<CF-SYSTEM>వ్యవస్థ</CF-SYSTEM>
+		<CF-SYSTEM-JUNK-FILES>జంక్ ఫైళ్లు</CF-SYSTEM-JUNK-FILES>
+		<CF-SYSTEM-RECYCLE-BIN>రీసైకిల్ బిన్ బలవంతంగా శుభ్రం</CF-SYSTEM-RECYCLE-BIN>
+		<CF-SYSTEM-TEMP-FILES>తాత్కాలిక ఫైళ్లు</CF-SYSTEM-TEMP-FILES>
+		<CF-SYSTEM-THUMBNAILS-CACHE>Thumbnail cache</CF-SYSTEM-THUMBNAILS-CACHE>
+		<CF-WINDOWS>Windows</CF-WINDOWS>
+		<CF-WINDOWS-ERROR-REPORTING>ఎర్రర్ రిపోర్టింగ్</CF-WINDOWS-ERROR-REPORTING>
+		<CF-WINDOWS-EXPLORER>Windows Explorer</CF-WINDOWS-EXPLORER>
+		<CF-WINDOWS-EXPLORER-RECENT-FILES>ఇటీవలి పత్రాలు</CF-WINDOWS-EXPLORER-RECENT-FILES>
+		<CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>వదిలిన ఖాళీ ఫోల్డర్లను</CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>
+		<CF-WINDOWS-LOG-FILES>లాగ్ ఫైళ్లు</CF-WINDOWS-LOG-FILES>
+		<CF-WINDOWS-MEMORY-DUMP-FILES>మెమరీ డంపులు</CF-WINDOWS-MEMORY-DUMP-FILES>
+		<CF-WINDOWS-TEMP-FOLDERS>తాత్కాలిక ఫోల్డర్లను</CF-WINDOWS-TEMP-FOLDERS>
+		<CR-INVALID-ENTRIES>చెల్లని నమోదులు</CR-INVALID-ENTRIES>
+		<CR-INVALID-ENTRIES-FILE-REFERENCES>ఫైలు సిఫార్సులను</CR-INVALID-ENTRIES-FILE-REFERENCES>
+		<CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>వదిలిన ఖాళీ కీలు</CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>
+		<CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>మిస్సింగ్ షేర్డ్ DLLs</CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>
+		<CR-INVALID-ENTRIES-MSI-PATHS>MSI మార్గాలు</CR-INVALID-ENTRIES-MSI-PATHS>
+		<CR-INVALID-ENTRIES-MUI-REFERENCES>MUI సూచనలు</CR-INVALID-ENTRIES-MUI-REFERENCES>
+		<CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>No సమాచారం  ఫైల్ ఫార్మాట్లు</CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>
+	</Cleaner>
+	<dlgAddInstalledPrg>
+		<btnCancel>
+			<Caption>రద్దు</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>అలాగే</Caption>
+		</btnOK>
+		<Caption>జాబితాకు కార్యక్రమం జోడించండి</Caption>
+		<lblBuiltInUninstaller>
+			<Caption>అంతర్నిర్మిత అన్ఇన్స్టాలర్</Caption>
+		</lblBuiltInUninstaller>
+		<lblInstallationFolder>
+			<Caption>ఫోల్డర్లో ఇన్స్టాల్</Caption>
+		</lblInstallationFolder>
+		<lblPrgName>
+			<Caption>కార్యక్రమం పేరు</Caption>
+		</lblPrgName>
+	</dlgAddInstalledPrg>
+	<dlgAskDelItem>
+		<btnOK>
+			<Caption>&amp;అలాగే</Caption>
+		</btnOK>
+		<btnSelectAll>
+			<Caption>&amp;ఎంచుకోండి అన్ని</Caption>
+		</btnSelectAll>
+		<btnUnselectAll>
+			<Caption>&amp;ఎంచుకోవద్దు దేన్నీ</Caption>
+		</btnUnselectAll>
+		<Caption>తొలగించు అంశాలను ?</Caption>
+		<cbAutoSelectAll>
+			<Caption>ఆటో ఎంచుకోండి అన్ని</Caption>
+		</cbAutoSelectAll>
+		<lblDelSel>
+			<Caption>ఎంచుకున్న అంశాలు తీసివేయబడును</Caption>
+		</lblDelSel>
+	</dlgAskDelItem>
+	<dlgAutorunItem>
+		<btnCancel>
+			<Caption>రద్దు</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>అలాగే</Caption>
+		</btnOk>
+		<Caption>ఆటో- రన్ అంశం</Caption>
+		<gbStartLocation>
+			<Caption>ప్రారంభిం చు స్థానం</Caption>
+		</gbStartLocation>
+		<gbUser>
+			<Caption>ఆటో- రన్ లాగాన్ కోసం</Caption>
+		</gbUser>
+		<lblCommand>
+			<Caption>కమాండ్</Caption>
+		</lblCommand>
+		<lblName>
+			<Caption>పేరు</Caption>
+		</lblName>
+		<rbLogonAnyUser>
+			<Caption>ఏదైనా వినియోగదారు</Caption>
+		</rbLogonAnyUser>
+		<rbLogonCurentUser>
+			<Caption>ప్రస్తుత వినియోగదారుడు</Caption>
+		</rbLogonCurentUser>
+		<rbRegRun>
+			<Caption>రిజిస్ట్రీ ప్రతి లాగాన్ అమలు</Caption>
+		</rbRegRun>
+		<rbRegRunOnce>
+			<Caption>రిజిష్టర్లో తదుపరి లాగాన్ ఒక్కసారి మాత్రమే అమలు</Caption>
+		</rbRegRunOnce>
+		<rbStartMenu>
+			<Caption>ప్రారంభం ఫోల్డర్,  ప్రతి లాగాన్ అమలు</Caption>
+		</rbStartMenu>
+	</dlgAutorunItem>
+	<dlgChangeIcon>
+		<btnBrowse>
+			<Caption>బ్రౌజ్...</Caption>
+		</btnBrowse>
+		<btnCancel>
+			<Caption>రద్దు</Caption>
+		</btnCancel>
+		<btnClear>
+			<Caption>స్పష్టమైన</Caption>
+		</btnClear>
+		<btnOk>
+			<Caption>అలాగే</Caption>
+		</btnOk>
+		<Caption>చిహ్నం మార్పు</Caption>
+		<gbIcons>
+			<Caption>చిహ్నాలు</Caption>
+		</gbIcons>
+	</dlgChangeIcon>
+	<dlgCheckUpdates>
+		<btnClose>
+			<Caption>క్లోజ్</Caption>
+		</btnClose>
+		<btnRefresh>
+			<Caption>రిఫ్రెష్</Caption>
+		</btnRefresh>
+		<Caption>తాజాకరణలకోసం ప్రయత్నించండి</Caption>
+	</dlgCheckUpdates>
+	<dlgCompareSns>
+		<btnCancel>
+			<Caption>రద్దు</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>అలాగే</Caption>
+		</btnOK>
+		<Caption>సరిపోల్చండి వ్యవస్థ స్నాప్షాట్లు</Caption>
+		<lblCompareProfile>
+			<Caption>సరిపోల్చండి ప్రొఫైల్ను</Caption>
+		</lblCompareProfile>
+		<lblResultLog>
+			<Caption>ఫలితం లాగ్</Caption>
+		</lblResultLog>
+		<lblSnapshotA>
+			<Caption>వ్యవస్థ స్నాప్షాట్ A</Caption>
+		</lblSnapshotA>
+		<lblSnapshotB>
+			<Caption>వ్యవస్థ స్నాప్షాట్ B</Caption>
+		</lblSnapshotB>
+	</dlgCompareSns>
+	<dlgExportRegistry>
+		<btnCancel>
+			<Caption>రద్దు</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>అలాగే</Caption>
+		</btnOk>
+		<Caption>ఎగుమతి రిజిస్ట్రీ మార్పులు</Caption>
+		<cbCreatedKeys>
+			<Caption>రూపొందించబడింది కీలు</Caption>
+		</cbCreatedKeys>
+		<cbCreatedValues>
+			<Caption>రూపొందించబడింది విలువలు</Caption>
+		</cbCreatedValues>
+		<cbDeletedKeys>
+			<Caption>తొలగించిన కీలు</Caption>
+		</cbDeletedKeys>
+		<cbDeletedValues>
+			<Caption>తొలగించిన విలువలు</Caption>
+		</cbDeletedValues>
+		<cbModifiedValues>
+			<Caption>సవరించిన విలువలు</Caption>
+		</cbModifiedValues>
+		<gbDetails>
+			<Caption>రిజిస్ట్రీ మార్పులు</Caption>
+		</gbDetails>
+		<gbExportType>
+			<Caption>ఎగుమతి రకం</Caption>
+		</gbExportType>
+		<gbRange>
+			<Caption>ఎగుమతి పరిధి</Caption>
+		</gbRange>
+		<rbExpAll>
+			<Caption>అన్ని</Caption>
+		</rbExpAll>
+		<rbExpBranch>
+			<Caption>ఎంచుకున్న బ్రాంచ్</Caption>
+		</rbExpBranch>
+		<rbInstall>
+			<Caption>ఇన్స్టాల్ ఫైలు</Caption>
+		</rbInstall>
+		<rbUninstall>
+			<Caption>అన్ఇన్స్టాల్ ఫైలు</Caption>
+		</rbUninstall>
+	</dlgExportRegistry>
+	<dlgGroupProp>
+		<btnCancel>
+			<Caption>రద్దు</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>అలాగే</Caption>
+		</btnOk>
+		<Caption>గ్రూప్</Caption>
+		<lblIcon>
+			<Caption>ఐకాన్</Caption>
+		</lblIcon>
+		<lblName>
+			<Caption>పేరు</Caption>
+		</lblName>
+	</dlgGroupProp>
+	<dlgMergeLogs>
+		<btnCancel>
+			<Caption>రద్దు</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>అలాగే</Caption>
+		</btnOK>
+		<Caption>విలీనం లాగ్స్</Caption>
+		<cbDeleteUpdate>
+			<Caption>తొలగించు అప్డేట్ లాగ్ విలీనం తర్వాత</Caption>
+		</cbDeleteUpdate>
+		<gbDestination>
+			<Caption>గమ్యం</Caption>
+		</gbDestination>
+		<gbSources>
+			<Caption>సోర్సెస్</Caption>
+		</gbSources>
+		<lblInstallLog>
+			<Caption>సంస్థాపనా లాగ్</Caption>
+		</lblInstallLog>
+		<lblNewName>
+			<Caption>కొత్త పేరు</Caption>
+		</lblNewName>
+		<lblUpdateLog>
+			<Caption>నవీకరణ లాగ్</Caption>
+		</lblUpdateLog>
+		<rbCreateANewLog>
+			<Caption>ఒక కొత్త లాగ్ సృష్టించు</Caption>
+		</rbCreateANewLog>
+		<rbSaveInInstallLog>
+			<Caption>సంస్థాపనా లాగ్  లో సేవ్ చేయి</Caption>
+		</rbSaveInInstallLog>
+	</dlgMergeLogs>
+	<dlgPendingFileRename>
+		<btnApply>
+			<Caption>వర్తించు</Caption>
+		</btnApply>
+		<btnClose>
+			<Caption>క్లోజ్</Caption>
+		</btnClose>
+		<Caption>పెండింగ్లో ఫైలు పేరుమార్పుల కార్యకలాపాలు</Caption>
+		<tvPendingFiles>
+			<Columns_0>మూల</Columns_0>
+			<Columns_1>గమ్యం</Columns_1>
+		</tvPendingFiles>
+	</dlgPendingFileRename>
+	<dlgRegister>
+		<btnBuy>
+			<Caption>కొను</Caption>
+		</btnBuy>
+		<btnCancel>
+			<Caption>రద్దు</Caption>
+		</btnCancel>
+		<btnRegister>
+			<Caption>నమోదు</Caption>
+		</btnRegister>
+		<Caption>నమోదు Total Uninstall</Caption>
+		<lblKey>
+			<Caption>నమోదు కీ</Caption>
+		</lblKey>
+		<lblName>
+			<Caption>నమోదు పేరును</Caption>
+		</lblName>
+		<ulblLostRegistrationInfo>
+			<Caption>&apos;నా నమోదు సమాచారం కోల్పోయి.</Caption>
+		</ulblLostRegistrationInfo>
+	</dlgRegister>
+	<dlgRestrictedFeature>
+		<btnCancel>
+			<Caption>రద్దు</Caption>
+		</btnCancel>
+		<Caption>ఆంక్ష ఫీచర్</Caption>
+		<clinkPurchase>
+			<Caption>కొనుగోలు</Caption>
+			<Note>ఓపెన్ ఆర్డర్ form</Note>
+		</clinkPurchase>
+		<lblInstruction>
+			<Caption>ఈ ఫీచర్ నమోదిత వెర్షన్ లో మాత్రమే అందుబాటులో ఉంది</Caption>
+		</lblInstruction>
+		<lblProfessionalEdition>
+			<Caption>- Professional ఎడిషన్</Caption>
+		</lblProfessionalEdition>
+	</dlgRestrictedFeature>
+	<dlgRmvShared>
+		<btnNo>
+			<Caption>నో</Caption>
+		</btnNo>
+		<btnNoToAll>
+			<Caption>అన్ని నో</Caption>
+		</btnNoToAll>
+		<btnYes>
+			<Caption>అవును</Caption>
+		</btnYes>
+		<btnYesToAll>
+			<Caption>అన్నిటికీ అవును</Caption>
+		</btnYesToAll>
+		<Caption>సామూహిక ఫైళ్ళ తొలగించు?</Caption>
+		<lblFileName>
+			<Caption>ఫైల్ పేరు:</Caption>
+		</lblFileName>
+		<lblLocated>
+			<Caption>అందులో ఉంది:</Caption>
+		</lblLocated>
+		<lblOne>
+			<Caption>వ్యవస్థ క్రింది భాగస్వామ్య ఫైల్ ఏ ప్రోగ్రామ్లతో వాడబడుతుంది ఇకపై సూచిస్తుంది. ఏ కార్యక్రమాలు ఇప్పటికీ ఈ ఫైలు ఉపయోగిస్తున్నారు మరియు అది తొలగించబడుతుంది ఉంటే, ఈ కార్యక్రమాలను పనిచేయకపోవచ్చు. మీరు భాగస్వామ్యం ఫైలు తొలగించడానికి ఉండాలనుకుంటున్నారా?</Caption>
+		</lblOne>
+		<lblTwo>
+			<Caption>మీ కంప్యూటరులో ఈ ఫైలు లీవింగ్ ఎటువంటి హాని చేస్తుంది. మీరు ఏమి ఖచ్చితంగా కాదు ఉంటే, మేము మీరు ఈ షేర్డ్ భాగం తొలగిస్తాడు ఎంచుకోవాలని సూచించారు</Caption>
+		</lblTwo>
+	</dlgRmvShared>
+	<dlgSelect>
+		<btnCancel>
+			<Caption>రద్దు</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>అలాగే</Caption>
+		</btnOk>
+		<Caption>ఎంచుకోండి</Caption>
+	</dlgSelect>
+	<dlgSelectLibIcon>
+		<btnAdd>
+			<Caption>చేర్చు</Caption>
+		</btnAdd>
+		<btnCancel>
+			<Caption>రద్దు</Caption>
+		</btnCancel>
+		<btnDelete>
+			<Caption>తొలగించు</Caption>
+		</btnDelete>
+		<btnOk>
+			<Caption>అలాగే</Caption>
+		</btnOk>
+		<Caption>చిహ్నం ఎంచుకోండి</Caption>
+		<gbIcons>
+			<Caption>చిహ్నాలు</Caption>
+		</gbIcons>
+	</dlgSelectLibIcon>
+	<dlgSysBrowser>
+		<btnCancel>
+			<Caption>&amp;రద్దు</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>&amp;అలాగే</Caption>
+		</btnOk>
+		<lblExpanded>
+			<Caption>విస్తారిత</Caption>
+		</lblExpanded>
+	</dlgSysBrowser>
+	<dlgTUAbout>
+		<btnOK>
+			<Caption>అలాగే</Caption>
+		</btnOK>
+		<Caption>గురించి</Caption>
+		<lblCopyright>
+			<Caption>కాపీరైట్ © 2001-2019, Gavrila Martau</Caption>
+		</lblCopyright>
+		<lblEmail>
+			<Caption>ఇమెయిల్</Caption>
+		</lblEmail>
+		<lblHomePage>
+			<Caption>హోం పేజీ</Caption>
+		</lblHomePage>
+		<ulblBuyUpgrade>
+			<Caption>నవీకరణ కొనుగోలు</Caption>
+		</ulblBuyUpgrade>
+		<ulblDownload>
+			<Caption>ఆఖరి ఉచిత నవీకరణను డౌన్లోడ్</Caption>
+		</ulblDownload>
+	</dlgTUAbout>
+	<dlgTunBackup>
+		<btnCancel>
+			<Caption>రద్దు</Caption>
+		</btnCancel>
+		<btnCopy>
+			<Caption>కు కాపీ ...</Caption>
+		</btnCopy>
+		<btnCreate>
+			<Caption>సృష్టించు</Caption>
+		</btnCreate>
+		<lblArchiving>
+			<Caption>ఆర్కైవ్ చేస్తోంది ఫైళ్లు మరియు రిజిస్ట్రీ అంశాలు ...</Caption>
+		</lblArchiving>
+		<lblCreateBackup>
+			<Caption>కార్యక్రమం కోసం బాకప్ సృష్టించు</Caption>
+		</lblCreateBackup>
+		<lblFilesNotIncluded>
+			<Caption>బ్యాకప్ చేర్చబడలేదు ఫైళ్లు</Caption>
+		</lblFilesNotIncluded>
+	</dlgTunBackup>
+	<dlgTunRestore>
+		<btnImport>
+			<Caption>దిగుమతి</Caption>
+		</btnImport>
+		<cbRestoreOnlyLog>
+			<Caption>సంస్థాపననందు లాగ్ మాత్రమే పునరుద్ధరించు</Caption>
+		</cbRestoreOnlyLog>
+		<lblFilesNotIncluded>
+			<Caption>చర్యలు అమలు కాలేదు</Caption>
+		</lblFilesNotIncluded>
+		<lblRestoreProfile>
+			<Caption>ప్రొఫైల్ పునరుద్ధరించు</Caption>
+		</lblRestoreProfile>
+		<lblRestoreProgram>
+			<Caption>పునరుద్ధరించడానికి ఒక ప్రోగ్రామ్ను ఎంచుకోండి</Caption>
+		</lblRestoreProgram>
+		<lblUndoRestoration>
+			<Caption>ఎంచుకోండి పునరుద్ధరణ దిద్దుబాటు రద్దుచెయ్యిటకు</Caption>
+		</lblUndoRestoration>
+		<pmiCopyTo>
+			<Caption>కు కాపీ ...</Caption>
+		</pmiCopyTo>
+		<pmiDelete>
+			<Caption>తొలగించు</Caption>
+		</pmiDelete>
+	</dlgTunRestore>
+	<dlgTUOptions>
+		<btnAddAnalysisProfile>
+			<Caption>చేర్చు...</Caption>
+		</btnAddAnalysisProfile>
+		<btnAddChgView>
+			<Caption>చేర్చు...</Caption>
+		</btnAddChgView>
+		<btnAddCleaner>
+			<Caption>చేర్చు...</Caption>
+		</btnAddCleaner>
+		<btnAddCompareProfile>
+			<Caption>చేర్చు...</Caption>
+		</btnAddCompareProfile>
+		<btnAddExclFlds>
+			<Caption>చేర్చు...</Caption>
+		</btnAddExclFlds>
+		<btnAddExclKey>
+			<Caption>చేర్చు...</Caption>
+		</btnAddExclKey>
+		<btnAddIgnChgFs>
+			<Caption>చేర్చు...</Caption>
+		</btnAddIgnChgFs>
+		<btnAddIgnChgReg>
+			<Caption>చేర్చు...</Caption>
+		</btnAddIgnChgReg>
+		<btnAddIgnFile>
+			<Caption>చేర్చు...</Caption>
+		</btnAddIgnFile>
+		<btnAddInclFlds>
+			<Caption>చేర్చు...</Caption>
+		</btnAddInclFlds>
+		<btnAddInclKeys>
+			<Caption>చేర్చు...</Caption>
+		</btnAddInclKeys>
+		<btnAddInstallLoc>
+			<Caption>చేర్చు...</Caption>
+		</btnAddInstallLoc>
+		<btnAddProtectedFld>
+			<Caption>చేర్చు...</Caption>
+		</btnAddProtectedFld>
+		<btnAddProtectedKey>
+			<Caption>చేర్చు...</Caption>
+		</btnAddProtectedKey>
+		<btnAddRedo>
+			<Caption>చేర్చు...</Caption>
+		</btnAddRedo>
+		<btnAddScanProfile>
+			<Caption>చేర్చు...</Caption>
+		</btnAddScanProfile>
+		<btnAddUninst>
+			<Caption>చేర్చు...</Caption>
+		</btnAddUninst>
+		<btnAddUninstInst>
+			<Caption>చేర్చు...</Caption>
+		</btnAddUninstInst>
+		<btnAddValue>
+			<Caption>చేర్చు...</Caption>
+		</btnAddValue>
+		<btnAddVer>
+			<Caption>చేర్చు...</Caption>
+		</btnAddVer>
+		<btnAgentAddExcMask>
+			<Caption>చేర్చు...</Caption>
+		</btnAgentAddExcMask>
+		<btnAgentAddIncMask>
+			<Caption>చేర్చు...</Caption>
+		</btnAgentAddIncMask>
+		<btnAgentRemExcMask>
+			<Caption>తొలగించు</Caption>
+		</btnAgentRemExcMask>
+		<btnAgentRemIncMask>
+			<Caption>తొలగించు</Caption>
+		</btnAgentRemIncMask>
+		<btnAnlSaveAs>
+			<Caption>సేవ్ చేయి ...</Caption>
+		</btnAnlSaveAs>
+		<btnCancel>
+			<Caption>రద్దు</Caption>
+		</btnCancel>
+		<btnChgViewSaveAs>
+			<Caption>సేవ్ చేయి ...</Caption>
+		</btnChgViewSaveAs>
+		<btnCleanerSaveAs>
+			<Caption>సేవ్ చేయి ...</Caption>
+		</btnCleanerSaveAs>
+		<btnClnAddExclFs>
+			<Caption>చేర్చు...</Caption>
+		</btnClnAddExclFs>
+		<btnClnAddExclRegistry>
+			<Caption>చేర్చు...</Caption>
+		</btnClnAddExclRegistry>
+		<btnClnEditExclFs>
+			<Caption>సవరించు ...</Caption>
+		</btnClnEditExclFs>
+		<btnClnEditExclRegistry>
+			<Caption>సవరించు ...</Caption>
+		</btnClnEditExclRegistry>
+		<btnClnRemExclFs>
+			<Caption>తొలగించు</Caption>
+		</btnClnRemExclFs>
+		<btnClnRemExclRegistry>
+			<Caption>తొలగించు</Caption>
+		</btnClnRemExclRegistry>
+		<btnCompPlaySound>
+			<Caption>టెస్ట్</Caption>
+		</btnCompPlaySound>
+		<btnCompSaveAs>
+			<Caption>సేవ్ చేయి ...</Caption>
+		</btnCompSaveAs>
+		<btnEditExclFlds>
+			<Caption/>
+		</btnEditExclFlds>
+		<btnEditExclKeys>
+			<Caption>సవరించు ...</Caption>
+		</btnEditExclKeys>
+		<btnEditIgnChgFs>
+			<Caption>సవరించు ...</Caption>
+		</btnEditIgnChgFs>
+		<btnEditIgnChgReg>
+			<Caption>సవరించు ...</Caption>
+		</btnEditIgnChgReg>
+		<btnEditIgnFile>
+			<Caption>సవరించు ...</Caption>
+		</btnEditIgnFile>
+		<btnEditIgnValues>
+			<Caption>సవరించు ...</Caption>
+		</btnEditIgnValues>
+		<btnEditProtectedFld>
+			<Caption>సవరించు ...</Caption>
+		</btnEditProtectedFld>
+		<btnEditProtectedKey>
+			<Caption>సవరించు ...</Caption>
+		</btnEditProtectedKey>
+		<btnOK>
+			<Caption>అలాగే</Caption>
+		</btnOK>
+		<btnRedoSaveAs>
+			<Caption>సేవ్ చేయి ...</Caption>
+		</btnRedoSaveAs>
+		<btnRemAnalysisProfile>
+			<Caption>తొలగించు ...</Caption>
+		</btnRemAnalysisProfile>
+		<btnRemChgView>
+			<Caption>తొలగించు ...</Caption>
+		</btnRemChgView>
+		<btnRemCleaner>
+			<Caption>తొలగించు ...</Caption>
+		</btnRemCleaner>
+		<btnRemCompareProfile>
+			<Caption>తొలగించు ...</Caption>
+		</btnRemCompareProfile>
+		<btnRemExclFlds>
+			<Caption>తొలగించు</Caption>
+		</btnRemExclFlds>
+		<btnRemExclKeys>
+			<Caption>తొలగించు</Caption>
+		</btnRemExclKeys>
+		<btnRemIgnChgFs>
+			<Caption>తొలగించు</Caption>
+		</btnRemIgnChgFs>
+		<btnRemIgnChgReg>
+			<Caption>తొలగించు</Caption>
+		</btnRemIgnChgReg>
+		<btnRemIgnFile>
+			<Caption>తొలగించు</Caption>
+		</btnRemIgnFile>
+		<btnRemInclFlds>
+			<Caption>తొలగించు</Caption>
+		</btnRemInclFlds>
+		<btnRemInclKeys>
+			<Caption>తొలగించు</Caption>
+		</btnRemInclKeys>
+		<btnRemoveInstallLoc>
+			<Caption>తొలగించు</Caption>
+		</btnRemoveInstallLoc>
+		<btnRemoveRedo>
+			<Caption>తొలగించు...</Caption>
+		</btnRemoveRedo>
+		<btnRemProtectedFld>
+			<Caption>తొలగించు</Caption>
+		</btnRemProtectedFld>
+		<btnRemProtectedKey>
+			<Caption>తొలగించు</Caption>
+		</btnRemProtectedKey>
+		<btnRemScanProfile>
+			<Caption>తొలగించు...</Caption>
+		</btnRemScanProfile>
+		<btnRemUninst>
+			<Caption>తొలగించు...</Caption>
+		</btnRemUninst>
+		<btnRemUninstInst>
+			<Caption>తొలగించు...</Caption>
+		</btnRemUninstInst>
+		<btnRemValues>
+			<Caption>తొలగించు</Caption>
+		</btnRemValues>
+		<btnRemVer>
+			<Caption>తొలగించు</Caption>
+		</btnRemVer>
+		<btnResetAll>
+			<Caption>అన్ని రీసెట్</Caption>
+		</btnResetAll>
+		<btnScanPlaySound>
+			<Caption>టెస్ట్</Caption>
+		</btnScanPlaySound>
+		<btnScanSaveAs>
+			<Caption>సేవ్ చేయి ...</Caption>
+		</btnScanSaveAs>
+		<btnUninstSaveAs>
+			<Caption>సేవ్ చేయి ...</Caption>
+		</btnUninstSaveAs>
+		<Caption>ఎంపికలు</Caption>
+		<cbAnlProfileDefault>
+			<Caption>డిఫాల్ట్</Caption>
+		</cbAnlProfileDefault>
+		<cbAutoStart>
+			<Caption>ఆటో స్టార్ట్ Windows తో అసంపూర్తిగా  ఉన పర్యవేక్షణ ప్రక్రియ కొనసాగుతుంది</Caption>
+		</cbAutoStart>
+		<cbBackup>
+			<Caption>బ్యాకప్ అన్ఇన్స్టాల్ కార్యక్రమం</Caption>
+		</cbBackup>
+		<cbChgViewDefault>
+			<Caption>డిఫాల్ట్</Caption>
+		</cbChgViewDefault>
+		<cbCleanerDefault>
+			<Caption>డిఫాల్ట్</Caption>
+		</cbCleanerDefault>
+		<cbCleanerEnable>
+			<Caption>క్లీనర్ మాడ్యూల్ ప్రారంభించు</Caption>
+		</cbCleanerEnable>
+		<cbClickRestore>
+			<Caption>ఒకే క్లిక్ తో పునరుద్ధరించు</Caption>
+		</cbClickRestore>
+		<cbCompareRegistry>
+			<Caption>రిజిస్ట్రీ చార్జీలను సరిపోల్చండి</Caption>
+		</cbCompareRegistry>
+		<cbCompFiles>
+			<Caption>ఫైళ్ళను సరిపోల్చండి</Caption>
+		</cbCompFiles>
+		<cbCompPlaySound>
+			<Caption>ముగింపుతో ధ్వని ప్లే  చేయండి</Caption>
+		</cbCompPlaySound>
+		<cbCompProfileDefault>
+			<Caption>డిఫాల్ట్</Caption>
+		</cbCompProfileDefault>
+		<cbCompProfileFrozen>
+			<Caption>లాక్</Caption>
+		</cbCompProfileFrozen>
+		<cbComputeMD5>
+			<Caption>గణించడండి MD5 కొత్త ఫైళ్ళను కోసం</Caption>
+		</cbComputeMD5>
+		<cbCreateKeys>
+			<Caption>సృష్టించు తొలగించిన కీలు</Caption>
+		</cbCreateKeys>
+		<cbCreateValues>
+			<Caption>సృష్టించు తొలగించిన విలువలు</Caption>
+		</cbCreateValues>
+		<cbCustomSnsName>
+			<Caption>అనుమతించు కస్టమ్ స్నాప్షాట్ పేరు</Caption>
+		</cbCustomSnsName>
+		<cbDecrement>
+			<Caption>తగించు కౌంటర్ సామూహిక ఫైళ్ళకు</Caption>
+		</cbDecrement>
+		<cbDelFiles>
+			<Caption>తొలగించు రూపొందించిన ఫైళ్ళను (సామూహిక ఫైళ్ళకు కౌంటర్  చేరినపుడు 0)</Caption>
+		</cbDelFiles>
+		<cbDelFolders>
+			<Caption>రూపొందించిన ఫోల్డర్లను తొలగించండి</Caption>
+		</cbDelFolders>
+		<cbDelKeys>
+			<Caption>రూపొందించిన కీలు తొలగించు</Caption>
+		</cbDelKeys>
+		<cbDelUseRecycle>
+			<Caption>రీసైకిల్ బిన్ ఉపయోగించండి</Caption>
+		</cbDelUseRecycle>
+		<cbDelValues>
+			<Caption>రూపొందించిన విలువలు తొలగించు</Caption>
+		</cbDelValues>
+		<cbDontUseLog>
+			<Caption>&apos;వాడకండి కనుగొనబడిన  మార్పుల లాగ్</Caption>
+		</cbDontUseLog>
+		<cbEnableAgent>
+			<Caption>ప్రారంభించు Total Uninstall ఏజెంట్</Caption>
+		</cbEnableAgent>
+		<cbExtractFileVersion>
+			<Caption>సంగ్రహం ఫైల్ వెర్షన్ సమాచారం</Caption>
+		</cbExtractFileVersion>
+		<cbHexViewerNot64Bit>
+			<Caption>64-బిట్ కాదు తెలుసా</Caption>
+		</cbHexViewerNot64Bit>
+		<cbIgnoreMissingItems>
+			<Caption>విస్మరించు లేని అంశాలను</Caption>
+		</cbIgnoreMissingItems>
+		<cbInstPrgsEnable>
+			<Caption>ప్రారంభించు ఇన్స్టాల్ కార్యక్రమాలు మాడ్యూల్</Caption>
+		</cbInstPrgsEnable>
+		<cbMinToTray>
+			<Caption>తగ్గించు ట్రే  కి</Caption>
+		</cbMinToTray>
+		<cbMonPrgsEnable>
+			<Caption>ప్రారంభించు మానిటర్ కార్యక్రమాలు మాడ్యూల్</Caption>
+		</cbMonPrgsEnable>
+		<cbRedoCreateFiles>
+			<Caption>పునరుద్ధరించు రూపొందించిన ఫైళ్లు</Caption>
+		</cbRedoCreateFiles>
+		<cbRedoCreateFilesOvr>
+			<Caption>తిరిగి రాయి ఫైళ్లు</Caption>
+		</cbRedoCreateFilesOvr>
+		<cbRedoCreateFilesOvrLck>
+			<Caption>లాక్ ఫైళ్లను తిరిగి రాయి</Caption>
+		</cbRedoCreateFilesOvrLck>
+		<cbRedoCreateFolders>
+			<Caption>పునరుద్ధరించు రూపొందించిన ఫోల్డర్లను</Caption>
+		</cbRedoCreateFolders>
+		<cbRedoCreateKeys>
+			<Caption>పునరుద్ధరించు రూపొందించిన కీలను</Caption>
+		</cbRedoCreateKeys>
+		<cbRedoCreateValues>
+			<Caption>పునరుద్ధరించు రూపొందించిన విలువలు</Caption>
+		</cbRedoCreateValues>
+		<cbRedoDefault>
+			<Caption>డిఫాల్ట్</Caption>
+		</cbRedoDefault>
+		<cbRedoDeleteFiles>
+			<Caption>తొలగించు ఫైళ్లను</Caption>
+		</cbRedoDeleteFiles>
+		<cbRedoDeleteFolders>
+			<Caption>తొలగించు ఫోల్డర్లను</Caption>
+		</cbRedoDeleteFolders>
+		<cbRedoDeleteKeys>
+			<Caption>తొలగించు కీలు</Caption>
+		</cbRedoDeleteKeys>
+		<cbRedoDeleteValues>
+			<Caption>తొలగించు విలువలు</Caption>
+		</cbRedoDeleteValues>
+		<cbRedoEnabled>
+			<Caption>ప్రారంభించబడ్డ</Caption>
+		</cbRedoEnabled>
+		<cbRedoModifyFiles>
+			<Caption>పునరుద్ధరించు మార్పు ఫైళ్లు</Caption>
+		</cbRedoModifyFiles>
+		<cbRedoModifyFilesLck>
+			<Caption>లాక్ ఫైళ్లను తిరిగి రాస్తుంది</Caption>
+		</cbRedoModifyFilesLck>
+		<cbRedoModifyValues>
+			<Caption>పునరుద్ధరించు మార్పు విలువలు</Caption>
+		</cbRedoModifyValues>
+		<cbRedoSysRestore>
+			<Caption>సృష్టించు వ్యవస్థ పునరుద్దరణకు ముందు పాయింట్ పునరుద్ధరించు</Caption>
+		</cbRedoSysRestore>
+		<cbRestoreValues>
+			<Caption>పునరుద్ధరించు మారిన విలువలు</Caption>
+		</cbRestoreValues>
+		<cbRstFileCreated>
+			<Caption>పునరుద్ధరించు ఫైలు రూపొందించి తేదీ</Caption>
+		</cbRstFileCreated>
+		<cbScanForAds>
+			<Caption>స్కాన్ చేయి ప్రత్యామ్నాయ డేటా స్ట్రీమ్స్ కోసం</Caption>
+		</cbScanForAds>
+		<cbScanPlaySound>
+			<Caption>ముగింపుతో ధ్వని ప్లే  చేయండి</Caption>
+		</cbScanPlaySound>
+		<cbScanProfileDefault>
+			<Caption>డిఫాల్ట్</Caption>
+		</cbScanProfileDefault>
+		<cbScanProfileFrozen>
+			<Caption>లాక్</Caption>
+		</cbScanProfileFrozen>
+		<cbShell>
+			<Caption>ఇంటిగ్రేట్ Total Uninstall షెల్ లోకి</Caption>
+		</cbShell>
+		<cbShowAfter>
+			<Caption>కాలమ్ తర్వాత</Caption>
+		</cbShowAfter>
+		<cbShowBefore>
+			<Caption>కాలమ్ ముందు</Caption>
+		</cbShowBefore>
+		<cbShowBinAsText>
+			<Caption>ప్రదర్శించు  బైనరీ డేటా టెక్స్ట్ వలె</Caption>
+		</cbShowBinAsText>
+		<cbShowChanged>
+			<Caption>మార్చబడిన అంశాలను</Caption>
+		</cbShowChanged>
+		<cbShowCreated>
+			<Caption>సృష్టించబడిన అంశాలు</Caption>
+		</cbShowCreated>
+		<cbShowCurrent>
+			<Caption>ప్రస్తుత కాలమ్</Caption>
+		</cbShowCurrent>
+		<cbShowDataSize>
+			<Caption>డేటా పరిమాణం</Caption>
+		</cbShowDataSize>
+		<cbShowDataType>
+			<Caption>డేటా రకం</Caption>
+		</cbShowDataType>
+		<cbShowDateCreated>
+			<Caption>సృష్టించిన తేదీ</Caption>
+		</cbShowDateCreated>
+		<cbShowDateModified>
+			<Caption>సవరించిన తేదీ</Caption>
+		</cbShowDateModified>
+		<cbShowDeleted>
+			<Caption>తొలగించిన అంశాలను</Caption>
+		</cbShowDeleted>
+		<cbShowFileAttrib>
+			<Caption>ఫైల్ లక్షణాలు</Caption>
+		</cbShowFileAttrib>
+		<cbShowFileSize>
+			<Caption>ఫైలు పరిమాణం</Caption>
+		</cbShowFileSize>
+		<cbShowFileVersion>
+			<Caption>ఫైల్ వెర్షన్</Caption>
+		</cbShowFileVersion>
+		<cbShowMD5>
+			<Caption>క్రొత్త ఫైల్ MD5 మొత్తం</Caption>
+		</cbShowMD5>
+		<cbSmartAdjustAnalysisLevel>
+			<Caption>స్మార్ట్ సర్దుబాటు విశ్లేషణ స్థాయిని</Caption>
+		</cbSmartAdjustAnalysisLevel>
+		<cbSysRestore>
+			<Caption>సృష్టించు పునరుద్ధరించు పాయింట్ వ్యవస్థ అన్ఇన్స్టాల్ ముందు</Caption>
+		</cbSysRestore>
+		<cbSystemFilesAdditional>
+			<Caption>అదనపు విశ్లేషణ</Caption>
+		</cbSystemFilesAdditional>
+		<cbTxtViewerNot64Bit>
+			<Caption>64-బిట్ కాదు అని తెలుసు</Caption>
+		</cbTxtViewerNot64Bit>
+		<cbUninstDefault>
+			<Caption>డిఫాల్ట్</Caption>
+		</cbUninstDefault>
+		<cbUninstEnabled>
+			<Caption>ప్రారంభించబడ్డ</Caption>
+		</cbUninstEnabled>
+		<cbUseUninstaller>
+			<Caption>ఉపయోగించండి అంతర్నిర్మిత అన్ఇన్స్టాలర్ మొదట</Caption>
+		</cbUseUninstaller>
+		చేరినపుడు
+		<cmbUpdateFrequency>
+			<Items>డైలీ\nవీక్లీ\nమంత్లీ\n</Items>
+		</cmbUpdateFrequency>
+		<cmbUpdateMethod>
+			<Items>మాన్యువల్\nరిమైండర్\nస్వయంచాలక\n</Items>
+		</cmbUpdateMethod>
+		<gbAgentMasks>
+			<Caption>సెటప్ ప్రోగ్రామ్ ఫైల్ పేరు కోసం ముసుగులు</Caption>
+		</gbAgentMasks>
+		<gbClnExcludeFs>
+			<Caption>మినహాయించు ఫోల్డర్లను మరియు ఫైళ్లను</Caption>
+		</gbClnExcludeFs>
+		<gbClnExcludeRegistry>
+			<Caption>మినహాయించు ిజిస్ట్రీ కీలు మరియు విలువలు</Caption>
+		</gbClnExcludeRegistry>
+		<gbCompareIgnChgReg>
+			<Caption>విస్మరించు మార్చబడింది అంశాలను</Caption>
+		</gbCompareIgnChgReg>
+		<gbCompareIgnKeys>
+			<Caption>విస్మరించు కీస్ మరియు విలువలు</Caption>
+		</gbCompareIgnKeys>
+		<gbCompIgnChgFs>
+			<Caption>విస్మరించు మార్చబడిన అంశాలను</Caption>
+		</gbCompIgnChgFs>
+		<gbCompIgnoreFld>
+			<Caption>విస్మరించు ఫోల్డర్లను మరియు ఫైళ్లను</Caption>
+		</gbCompIgnoreFld>
+		<gbFileExtensions>
+			<Caption>ఫైల్ ఎక్స్టెన్షన్స్ వెర్షన్ సమాచారాన్నితొ</Caption>
+		</gbFileExtensions>
+		<gbInstallLoc>
+			<Caption>సంస్థాపన స్థానాలు</Caption>
+		</gbInstallLoc>
+		<gbInstallLocation>
+			<Caption>సంస్థాపన నగర గుర్తింపును</Caption>
+		</gbInstallLocation>
+		<gbLimits>
+			<Caption>స్నాప్షాట్లు ఫోల్డర్ కోసం పరిమితులు</Caption>
+		</gbLimits>
+		<gbPrgData>
+			<Caption>ప్రోగ్రామ్ డేటా గుర్తింపును</Caption>
+		</gbPrgData>
+		<gbPrgSettings>
+			<Caption>ప్రోగ్రామ్ ఎంపికలు గుర్తింపును</Caption>
+		</gbPrgSettings>
+		<gbPrgShortcuts>
+			<Caption>కార్యక్రమం సత్వరమార్గాలను గుర్తింపును</Caption>
+		</gbPrgShortcuts>
+		<gbProtectedFolders>
+			<Caption>రక్షిత ఫోల్డర్లను</Caption>
+		</gbProtectedFolders>
+		<gbProtectedKeys>
+			<Caption>రక్షిత కీలు</Caption>
+		</gbProtectedKeys>
+		<gbRegEditor>
+			<Caption>రిజిస్ట్రీ ఎడిటర్</Caption>
+		</gbRegEditor>
+		<gbRegScanner>
+			<Caption>రిజిస్ట్రీ స్కానర్</Caption>
+		</gbRegScanner>
+		<gbScanExclFolders>
+			<Caption>మినహాయించు ఫోల్డర్లను</Caption>
+		</gbScanExclFolders>
+		<gbScanExclKeys>
+			<Caption>మినహాయించు కీలు</Caption>
+		</gbScanExclKeys>
+		<gbScanInclFolders>
+			<Caption>ఫోల్డర్లను చేర్చండి</Caption>
+		</gbScanInclFolders>
+		<gbScanInclKeys>
+			<Caption>కీలు చేర్చఅనువాదండి</Caption>
+		</gbScanInclKeys>
+		<gbShellIntegration>
+			<Caption>షెల్ అనుసంధానం గుర్తింపు</Caption>
+		</gbShellIntegration>
+		<gbSystemFiles>
+			<Caption>సిస్టమ్ ఫైళ్లను గుర్తింపు</Caption>
+		</gbSystemFiles>
+		<gbTranslation>
+			<Caption>అనువాదం</Caption>
+		</gbTranslation>
+		<grpExistingViewStyle>
+			<Caption>వ్యవస్థలో ఉన్న అంశాలు</Caption>
+		</grpExistingViewStyle>
+		<grpMissingViewStyle>
+			<Caption>వ్యవస్థ నుండి తప్పిపోయిన అంశాలు</Caption>
+		</grpMissingViewStyle>
+		<lblAdvanced1>
+			<Caption>ఆధునిక</Caption>
+		</lblAdvanced1>
+		<lblAdvanced2>
+			<Caption>ఆధునిక</Caption>
+		</lblAdvanced2>
+		<lblAdvanced3>
+			<Caption>ఆధునిక</Caption>
+		</lblAdvanced3>
+		<lblAdvanced4>
+			<Caption>ఆధునిక</Caption>
+		</lblAdvanced4>
+		<lblAdvanced5>
+			<Caption>ఆధునిక</Caption>
+		</lblAdvanced5>
+		<lblAdvanced6>
+			<Caption>ఆధునిక</Caption>
+		</lblAdvanced6>
+		<lblAgentExcludeMask>
+			<Caption>మినహాయించు</Caption>
+		</lblAgentExcludeMask>
+		<lblAgentIncludeMask>
+			<Caption>చేర్చండి</Caption>
+		</lblAgentIncludeMask>
+		<lblAnalysisProfiles>
+			<Caption>విశ్లేషణ ప్రొఫైల్స్</Caption>
+		</lblAnalysisProfiles>
+		<lblAnlProfileDesc>
+			<Caption>వివరణ</Caption>
+		</lblAnlProfileDesc>
+		<lblAnlProfileName>
+			<Caption>పేరు</Caption>
+		</lblAnlProfileName>
+		<lblBackupLimiFolderSize>
+			<Caption>బ్యాకప్ ఫోల్డర్ పరిమితి (MB)</Caption>
+		</lblBackupLimiFolderSize>
+		<lblChageViewName>
+			<Caption>పేరు</Caption>
+		</lblChageViewName>
+		<lblChangeViews>
+			<Caption>అభిప్రాయాలు మార్చండి</Caption>
+		</lblChangeViews>
+		<lblCheckUpdateMethod>
+			<Caption>నవీకరణ పద్ధతి తనిఖీ</Caption>
+		</lblCheckUpdateMethod>
+		<lblCheckUpdatesFrequency>
+			<Caption>తరచుదనం</Caption>
+		</lblCheckUpdatesFrequency>
+		<lblCleanerDescription>
+			<Caption>వివరణ</Caption>
+		</lblCleanerDescription>
+		<lblCleanerName>
+			<Caption>పేరు</Caption>
+		</lblCleanerName>
+		<lblCleaners>
+			<Caption>క్లీనర్స్</Caption>
+		</lblCleaners>
+		<lblCompareProfileDesc>
+			<Caption>వివరణ</Caption>
+		</lblCompareProfileDesc>
+		<lblCompareProfileName>
+			<Caption>పేరు</Caption>
+		</lblCompareProfileName>
+		<lblFolderSize>
+			<Caption>ఫోల్డర్ పరిమాణం (MB)</Caption>
+		</lblFolderSize>
+		<lblHexViewer>
+			<Caption>Hex viewer</Caption>
+		</lblHexViewer>
+		<lblLanguage>
+			<Caption>భాష</Caption>
+		</lblLanguage>
+		<lblNone1>
+			<Caption>ఏది కాదు</Caption>
+		</lblNone1>
+		<lblNone2>
+			<Caption>ఏది కాదు</Caption>
+		</lblNone2>
+		<lblNone3>
+			<Caption>ఏది కాదు</Caption>
+		</lblNone3>
+		<lblNone4>
+			<Caption>ఏది కాదు</Caption>
+		</lblNone4>
+		<lblNone5>
+			<Caption>ఏది కాదు</Caption>
+		</lblNone5>
+		<lblNone6>
+			<Caption>ఏది కాదు</Caption>
+		</lblNone6>
+		<lblProgramDataPath>
+			<Caption>ప్రోగ్రామ్ డేటా పాత్</Caption>
+		</lblProgramDataPath>
+		<lblRedoDescription>
+			<Caption>వివరణ</Caption>
+		</lblRedoDescription>
+		<lblRedoName>
+			<Caption>పేరు</Caption>
+		</lblRedoName>
+		<lblRedoProfiles>
+			<Caption>ప్రొఫైల్స్ పునరుద్ధరించు</Caption>
+		</lblRedoProfiles>
+		<lblScanningProfiles>
+			<Caption>స్కానింగ్ ప్రొఫైల్స్</Caption>
+		</lblScanningProfiles>
+		<lblScanProfileDesc>
+			<Caption>వివరణ</Caption>
+		</lblScanProfileDesc>
+		<lblScanProfileName>
+			<Caption>పేరు</Caption>
+		</lblScanProfileName>
+		<lblSimultaneousTasks>
+			<Caption>ఉభయ పనులు</Caption>
+		</lblSimultaneousTasks>
+		<lblSnsCompareProfiles>
+			<Caption>స్నాప్షాట్ సరిపోల్చండి ప్రొఫైల్స్</Caption>
+		</lblSnsCompareProfiles>
+		<lblSnsCount>
+			<Caption>స్నాప్షాట్ లెక</Caption>
+		</lblSnsCount>
+		<lblTranslatedBy1>
+			<Caption>J.Kishore Reddy ద్వారా అనువదించబడింది</Caption>
+		</lblTranslatedBy1>
+		<lblTranslatedBy2>
+			<Caption>Home page: www.martau.com</Caption>
+		</lblTranslatedBy2>
+		<lblTranslatedBy3>
+			<Caption>Email: support@martau.com</Caption>
+		</lblTranslatedBy3>
+		<lblTxtViewer>
+			<Caption>టెక్స్ట్ చూడండి</Caption>
+		</lblTxtViewer>
+		<lblUninstallProfiles>
+			<Caption>అన్ఇన్స్టాల్ ప్రొఫైల్స్</Caption>
+		</lblUninstallProfiles>
+		<lblUninstallProfilesInst>
+			<Caption>అన్ఇన్స్టాల్ ప్రొఫైల్స్</Caption>
+		</lblUninstallProfilesInst>
+		<lblUninstDesc>
+			<Caption>వివరణ</Caption>
+		</lblUninstDesc>
+		<lblUninstName>
+			<Caption>పేరు</Caption>
+		</lblUninstName>
+		<lblUninstRemoveLog>
+			<Caption>తొలగించు అన్ఇన్స్టాల్ కార్యక్రమం జాబితా నుండి</Caption>
+		</lblUninstRemoveLog>
+		<lblUserInteraction>
+			<Caption>మొదట అందుబాటులో అంతర్నిర్మిత అన్ఇన్స్టాలర్ వినియోగదారు పరస్పర చర్య ఉపయోగించండి</Caption>
+		</lblUserInteraction>
+		<rbDialog>
+			<Caption>డైలాగ్</Caption>
+		</rbDialog>
+		<rbOtherRegEdit>
+			<Caption>ఇతర</Caption>
+		</rbOtherRegEdit>
+		<rbTrayBaloon>
+			<Caption>ట్రే బెలూన్</Caption>
+		</rbTrayBaloon>
+		<rbWinRegEdit>
+			<Caption>విండోస్ రిజిస్ట్రీ ఎడిటర్</Caption>
+		</rbWinRegEdit>
+		<rgAgentNotif>
+			<Caption>రన్నింగ్ అమర్పు పరిక్రమాన్ని నోటిఫికేషన్</Caption>
+		</rgAgentNotif>
+		<tabAnlFileSystem>
+			<Caption>ఫైల్ సిస్టమ్</Caption>
+		</tabAnlFileSystem>
+		<tabAnlGeneral>
+			<Caption>జనరల్</Caption>
+		</tabAnlGeneral>
+		<tabChageViewFileSystem>
+			<Caption>ఫైల్ సిస్టమ్</Caption>
+		</tabChageViewFileSystem>
+		<tabChageViewGeneral>
+			<Caption>జనరల్</Caption>
+		</tabChageViewGeneral>
+		<tabChageViewRegistry>
+			<Caption>రిజిస్ట్రీ</Caption>
+		</tabChageViewRegistry>
+		<tabChageViewView>
+			<Caption>చూడండి</Caption>
+		</tabChageViewView>
+		<tabCleanerFileSystem>
+			<Caption>ఫైల్ సిస్టమ్</Caption>
+		</tabCleanerFileSystem>
+		<tabCleanerGen>
+			<Caption>జనరల్</Caption>
+		</tabCleanerGen>
+		<tabCleanerReg>
+			<Caption>రిజిస్ట్రీ</Caption>
+		</tabCleanerReg>
+		<tabCmpProfileFileSys>
+			<Caption>ఫైల్ సిస్టమ్</Caption>
+		</tabCmpProfileFileSys>
+		<tabCompareProfileGen>
+			<Caption>జనరల్</Caption>
+		</tabCompareProfileGen>
+		<tabCompareProfileReg>
+			<Caption>రిజిస్ట్రీ</Caption>
+		</tabCompareProfileReg>
+		<tabRedoAdvanced>
+			<Caption>ఆధునిక</Caption>
+		</tabRedoAdvanced>
+		<tabRedoFileSystem>
+			<Caption>ఫైల్ సిస్టమ్</Caption>
+		</tabRedoFileSystem>
+		<tabRedoGeneral>
+			<Caption>జనరల్</Caption>
+		</tabRedoGeneral>
+		<tabRedoRegistry>
+			<Caption>రిజిస్ట్రీ</Caption>
+		</tabRedoRegistry>
+		<tabScanProfileFolders>
+			<Caption>ఫైల్ సిస్టమ్</Caption>
+		</tabScanProfileFolders>
+		<tabScanProfileGeneral>
+			<Caption>జనరల్</Caption>
+		</tabScanProfileGeneral>
+		<tabScanProfileRegistry>
+			<Caption>రిజిస్ట్రీ</Caption>
+		</tabScanProfileRegistry>
+		<tabUninstAdv>
+			<Caption>ఆధునిక</Caption>
+		</tabUninstAdv>
+		<tabUninstFS>
+			<Caption>ఫైల్ సిస్టమ్</Caption>
+		</tabUninstFS>
+		<tabUninstGeneral>
+			<Caption>జనరల్</Caption>
+		</tabUninstGeneral>
+		<tabUninstRegistry>
+			<Caption>రిజిస్ట్రీ</Caption>
+		</tabUninstRegistry>
+		<tblAnlRegistry>
+			<Caption>రిజిస్ట్రీ</Caption>
+		</tblAnlRegistry>
+	</dlgTUOptions>
+	<dlgUninstall>
+		<btnBringToFront>
+			<Caption>ముందుకు తరలించు</Caption>
+		</btnBringToFront>
+		<btnCancel>
+			<Caption>రద్దు</Caption>
+		</btnCancel>
+		<btnUninstall>
+			<Caption>అన్ఇన్స్టాల్</Caption>
+		</btnUninstall>
+		<lblCreatingRestorePnt>
+			<Caption>పునరుద్ధరించు ఒక వ్యవస్థ సృష్టించుట పాయింట్  ...</Caption>
+		</lblCreatingRestorePnt>
+		<lblProfile>
+			<Caption>అన్ఇన్స్టాల్ ప్రొఫైల్ను ఎంచుకోండి</Caption>
+		</lblProfile>
+		<lblUninstalling>
+			<Caption>అన్ఇన్స్టాల్ చేస్తోంది ...</Caption>
+		</lblUninstalling>
+		<lblWaitTitle>
+			<Caption>అంతర్నిర్మిత అన్ఇన్స్టాలర్ కార్యక్రమం పూర్తి కోసం వేచి ఉండండి</Caption>
+		</lblWaitTitle>
+	</dlgUninstall>
+	<frmInstall>
+		<btnBrowseSetup>
+			<Caption>&amp; బ్రౌజ్ ...</Caption>
+		</btnBrowseSetup>
+		<btnCancel>
+			<Caption>రద్దు</Caption>
+		</btnCancel>
+		<btnCompleteLater>
+			<Caption>&amp; పర్యవేక్షణ ప్రక్రియ పూర్తి తరువాత చేయండి</Caption>
+		</btnCompleteLater>
+		<btnLaunchSetup>
+			<Caption>&amp;ప్రారంభం అమర్పు పరిక్రమాన్ని</Caption>
+		</btnLaunchSetup>
+		<btnNext>
+			<Caption>తరువాత</Caption>
+		</btnNext>
+		<btnProgramIsInstalled>
+			<Caption>&amp; పరిక్రమాన్ని సంస్థాపించబడితే</Caption>
+		</btnProgramIsInstalled>
+		<btnSuggest>
+			<Caption>&amp;సూచించండి</Caption>
+		</btnSuggest>
+		<lblCreateLog>
+			<Caption>సంస్థాపన లాగ్ సృష్టించు</Caption>
+		</lblCreateLog>
+		<lblCreateOrSelectSns>
+			<Caption>సంస్థాపన ముందు సృష్టించండి ఒక కొత్త లేదా మునుపటి వ్యవస్థ స్నాప్షాట్ ఎంచుకోండి.</Caption>
+		</lblCreateOrSelectSns>
+		<lblCreatePreInstallSns>
+			<Caption>సృష్టించు ముందు ఇన్స్టాల్ వ్యవస్థ స్నాప్షాట్</Caption>
+		</lblCreatePreInstallSns>
+		<lblCreatingLog>
+			<Caption>సృష్టిస్తోంది సంస్థాపన లాగ్</Caption>
+		</lblCreatingLog>
+		<lblCreatingSystemSns>
+			<Caption>సృష్టిస్తోంది వ్యవస్థ స్నాప్షాట్</Caption>
+		</lblCreatingSystemSns>
+		<lblFinish>
+			<Caption>సంస్థాపన లాగ్ సమర్ధవంతంగా సృష్టించబడింది</Caption>
+		</lblFinish>
+		<lblInstallMonProgram>
+			<Caption>ఇన్స్టాల్ మానిటర్ కార్యక్రమం</Caption>
+		</lblInstallMonProgram>
+		<lblProfiles>
+			<Caption>&amp;స్కానింగ్ ప్రొఫైల్ను</Caption>
+		</lblProfiles>
+		<lblProgramName>
+			<Caption>&amp;కార్యక్రమం పేరు</Caption>
+		</lblProgramName>
+		<lblProgramSetupPath>
+			<Caption>&amp;సెటప్ కార్యక్రమం మార్గం</Caption>
+		</lblProgramSetupPath>
+		<lblSnsName>
+			<Caption>&amp;స్నాప్షాట్  పేరు</Caption>
+		</lblSnsName>
+		<lblSpecifySnsName>
+			<Caption>&amp;సంస్థాపన-స్నాప్షాట్ పేరు పేర్కొనండి</Caption>
+		</lblSpecifySnsName>
+		<rbNewSnapshot>
+			<Caption>&amp; ఒక కొత్త వ్యవస్థ స్నాప్షాట్ సృష్టించు (సిఫార్సు చేయబడింది)</Caption>
+		</rbNewSnapshot>
+		<rbUseLastSnapshot>
+			<Caption>&amp;గత స్నాప్షాట్ ఉపయోగించండి</Caption>
+		</rbUseLastSnapshot>
+	</frmInstall>
+	<frmTUMain>
+		<btnClear>
+			<Caption>స్పష్టమైన</Caption>
+		</btnClear>
+		<btnGroupAddChild>
+			<Caption>పిల్లల సమూహాన్ని జోడించండి ...</Caption>
+		</btnGroupAddChild>
+		<btnGroupAddRoot>
+			<Caption>రూట్ సమూహాన్ని జోడించండి ...</Caption>
+		</btnGroupAddRoot>
+		<btnGroupEdit>
+			<Caption>సమూహం సవరించు ...</Caption>
+		</btnGroupEdit>
+		<btnGroupMoveToRoot>
+			<Caption>రూట్ కి తరలించు</Caption>
+		</btnGroupMoveToRoot>
+		<btnGroupRemove>
+			<Caption>సమూహం తొలగించు</Caption>
+		</btnGroupRemove>
+		<btnSearch>
+			<Caption>ప్రారంభం</Caption>
+		</btnSearch>
+		<cbBundle>
+			<Caption>కట్ట</Caption>
+		</cbBundle>
+		<cbCaseSensitive>
+			<Caption>కేస్ సెన్సిటివ్</Caption>
+		</cbCaseSensitive>
+		<cbChanged>
+			<Caption>మార్చబడింది</Caption>
+		</cbChanged>
+		<cbCreated>
+			<Caption>రూపొందించబడిన</Caption>
+		</cbCreated>
+		<cbData>
+			<Caption>సమాచారం</Caption>
+		</cbData>
+		<cbDeleted>
+			<Caption>తొలగించినవి</Caption>
+		</cbDeleted>
+		<cbFiles>
+			<Caption>ఫైళ్లు</Caption>
+		</cbFiles>
+		<cbFolders>
+			<Caption>ఫోల్డర్లు</Caption>
+		</cbFolders>
+		<cbKeys>
+			<Caption>కీస్</Caption>
+		</cbKeys>
+		<cbSearchMask>
+			<Caption>శోధన ముసుగు</Caption>
+		</cbSearchMask>
+		<cbUnchanged>
+			<Caption>మారకుండా</Caption>
+		</cbUnchanged>
+		<cbValues>
+			<Caption>విలువలు</Caption>
+		</cbValues>
+		<Copy1>
+			<Caption>కాపీ</Caption>
+			<Hint>కాపీ ఎంపిక చేసిన ఫైళ్లు  క్లిప్బోర్డ్కు కి</Hint>
+		</Copy1>
+		<Copy2>
+			<Caption>కాపీ</Caption>
+			<Hint>కాపీ ఎంపిక చేసిన ఫైళ్లు  క్లిప్బోర్డ్కు కి</Hint>
+		</Copy2>
+		<gbAdvanced>
+			<Caption>ఆధునిక</Caption>
+		</gbAdvanced>
+		<gbChanges>
+			<Caption>అంశాలు</Caption>
+		</gbChanges>
+		<gbFileSystem>
+			<Caption>ఫైల్ సిస్టమ్</Caption>
+		</gbFileSystem>
+		<gbRegistry>
+			<Caption>రిజిస్ట్రీ</Caption>
+		</gbRegistry>
+		<gbScope>
+			<Caption>లో శోధన</Caption>
+		</gbScope>
+		<miAddtoCompareIgnoreList>
+			<Caption>జోడించు విస్మరించబడిన జాబితా సరిపోల్చండి</Caption>
+			<Hint>జోడించండి ఎంచుకున్న అంశాలను విస్మరించడానికి జాబితా లో అన్ని పోల్చడం ప్రొఫైల్స్</Hint>
+		</miAddtoCompareIgnoreList>
+		<miAddtoScanExcludeList>
+			<Caption>జోడించండి స్కాన్ మినహాయించాలన జాబితా</Caption>
+			<Hint>జోడించండి ఎంచుకున్న అంశాలను మినహాయించాలన జాబితా అన్ని స్కానింగ్ ప్రొఫైల్స్ కి</Hint>
+		</miAddtoScanExcludeList>
+		<miAppSendTo>
+			<Caption>గ్రూప్  కి పంపు</Caption>
+		</miAppSendTo>
+		<miAutorunManager>
+			<Caption>ఆటో-రన్ మేనేజర్</Caption>
+		</miAutorunManager>
+		<miChanges>
+			<Caption>మార్పులు</Caption>
+			<Hint>కనుగొనబడిన మార్పులు|షో కనుగొనబడిన ప్రస్తుత కార్యక్రమం చేసిన వ్యవస్థ మార్పులు</Hint>
+		</miChanges>
+		<miCleaner>
+			<Caption>క్లీనర్</Caption>
+			<Hint>క్లీనర్</Hint>
+		</miCleaner>
+		<miClnItems>
+			<Caption>అంశాలు</Caption>
+		</miClnItems>
+		<miClnSummary>
+			<Caption>సారాంశం</Caption>
+			<Hint>సారాంశం | పునర్వినియోగపరచలేని విషయాలకు సంబంధించిన సమాచారం యొక్క సారాంశం చూపించు</Hint>
+		</miClnSummary>
+		<miCollapse>
+			<Caption>కుదించు</Caption>
+			<Hint>కుదించు క్రియాశీల చెట్టు నోడ్</Hint>
+		</miCollapse>
+		<miCopyDetail>
+			<Caption>కాపీ</Caption>
+		</miCopyDetail>
+		<miDeleteCompletely>
+			<Caption>పూర్తిగా తొలగించు</Caption>
+			<Hint>తొలగించు లాగ్ మరియు వ్యవస్థ నుండి ఎంచుకున్న అంశాన్ని</Hint>
+		</miDeleteCompletely>
+		<miDeletefromSystemOnly>
+			<Caption>సిస్టమ్ నుండి మాత్రమే తొలగించండి</Caption>
+			<Hint>సిస్టమ్ నుండి ఎంచుకున్న అంశం మాత్రమే తొలగించండి</Hint>
+		</miDeletefromSystemOnly>
+		<miEdit>
+			<Caption>&amp;సవరించు</Caption>
+		</miEdit>
+		<miEditAutorunLocateEntry>
+			<Caption>ఆటో రన్ ఎంట్రీ గుర్తించండి</Caption>
+		</miEditAutorunLocateEntry>
+		<miEditAutorunLocateTarget>
+			<Caption>లక్ష్యం గుర్తించండి</Caption>
+		</miEditAutorunLocateTarget>
+		<miEditAutorunRun>
+			<Caption>రన్</Caption>
+		</miEditAutorunRun>
+		<miEditAutorunStop>
+			<Caption>ఆపు</Caption>
+		</miEditAutorunStop>
+		<miEditAutorunTargetProperties>
+			<Caption>టార్గెట్ లక్షణాలు</Caption>
+		</miEditAutorunTargetProperties>
+		<miEditRedo>
+			<Caption>చర్య పునరావృతం</Caption>
+			<Hint>వ్యవస్థలో ఎంచుకున్న మార్పులను చర్య పునరావృతం</Hint>
+		</miEditRedo>
+		<miEditRedoDepth>
+			<Caption>లోతు చర్య పునరావృతం</Caption>
+			<Hint>లోతు వ్యవస్థలో ఎంచుకున్న మార్పులను చర్య పునరావృతం</Hint>
+		</miEditRedoDepth>
+		<miEditRestoreFromBackup>
+			<Caption>బ్యాకప్ నుండి పునరుద్ధరించు</Caption>
+			<Hint>బ్యాకప్ నుండి ఎంచుకున్న ఫైల్లను, ఫోల్డర్లను మరియు సబ్ ఫోల్డర్లు పునరుద్ధరించు</Hint>
+		</miEditRestoreFromBackup>
+		<miEditUndo>
+			<Caption>అన్డు</Caption>
+			<Hint>సిస్టమ్ నుండి ఎంచుకున్న మార్పులను అన్డు</Hint>
+		</miEditUndo>
+		<miEditUndoDepth>
+			<Caption>లోతు అన్డు</Caption>
+			<Hint>లోతు సిస్టమ్ నుండి ఎంచుకున్న మార్పులను అన్డు</Hint>
+		</miEditUndoDepth>
+		<miExpand>
+			<Caption>విస్తరించు</Caption>
+			<Hint>క్రియాశీల చెట్టు నోడ్ విస్తరించు</Hint>
+		</miExpand>
+		<miExpChanges>
+			<Caption>మార్పులు ...</Caption>
+			<Hint>ఎగుమతి మార్పులు చెట్టు</Hint>
+		</miExpChanges>
+		<miExpInstalledApps>
+			<Caption>ఇన్స్టాల్ కార్యక్రమాలు ...</Caption>
+			<Hint>ఇన్స్టాల్ కార్యక్రమాలను ఎక్స్పోర్ట్ జాబితాలో</Hint>
+		</miExpInstalledApps>
+		<miExpMonitoredApps>
+			<Caption>మానిటర్ కార్యక్రమాలు ...</Caption>
+			<Hint>మానిటర్ కార్యక్రమాలను ఎక్స్పోర్ట్ జాబితాలో</Hint>
+		</miExpMonitoredApps>
+		<miExport>
+			<Caption>ఎగుమతి</Caption>
+		</miExport>
+		<miExpRegistry>
+			<Caption>రిజిస్ట్రీ మార్పులు ...</Caption>
+			<Hint>ఇన్స్టాల్ లేదా అన్ఇన్స్టాల్ ఎక్స్పోర్ట్ రిజిస్ట్రీ మార్పులు</Hint>
+		</miExpRegistry>
+		<miExpUninstallLog>
+			<Caption>అన్ఇన్స్టాల్ లాగ్ ...</Caption>
+			<Hint>ఎగుమతి అన్ఇన్స్టాల్ లాగ్</Hint>
+		</miExpUninstallLog>
+		<miFile>
+			<Caption>&amp; ఫైల్</Caption>
+		</miFile>
+		<miFileAddInstalledPrg>
+			<Caption>జాబితాకు కార్యక్రమాన్ని జోడించండి ...</Caption>
+		</miFileAddInstalledPrg>
+		<miFileAnalyze>
+			<Caption>విశ్లేషించడానికి</Caption>
+			<Hint>విశ్లేషించండి | ప్రస్తుత కార్యక్రమం చేసిన మార్పులను విశ్లేషించండి</Hint>
+		</miFileAnalyze>
+		<miFileAutorunAdd>
+			<Caption>చేర్చు</Caption>
+		</miFileAutorunAdd>
+		<miFileAutorunDelete>
+			<Caption>తొలగించు</Caption>
+		</miFileAutorunDelete>
+		<miFileChange>
+			<Caption>మార్చు</Caption>
+			<Hint>మరమ్మతు, సవరించడానికి లేదా అన్ఇన్స్టాల్</Hint>
+		</miFileChange>
+		<miFileChangeIcon>
+			<Caption>చిహ్నం మార్పు ...</Caption>
+		</miFileChangeIcon>
+		<miFileClnClean>
+			<Caption>క్లీన్</Caption>
+			<Hint>క్లీన్</Hint>
+		</miFileClnClean>
+		<miFileClnScan>
+			<Caption>స్కాన్</Caption>
+			<Hint>స్కాన్ | పునర్వినియోగపరచలేని అంశాలను స్కాన్</Hint>
+		</miFileClnScan>
+		<miFileCreateBackup>
+			<Caption>కార్యక్రమం కోసం బాకప్ సృష్టించు ...</Caption>
+		</miFileCreateBackup>
+		<miFileDelete>
+			<Caption>తొలగించు</Caption>
+			<Hint>ప్రస్తుత సంస్థాపన లాగ్ తొలగించు</Hint>
+		</miFileDelete>
+		<miFileEditProgram>
+			<Caption>కార్యక్రమం సవరించు ...</Caption>
+		</miFileEditProgram>
+		<miFileExit>
+			<Caption>నిష్క్రమించు</Caption>
+			<Hint>కార్యక్రమం నుండి నిష్క్రమించు</Hint>
+		</miFileExit>
+		<miFileGroupAddChild>
+			<Caption>పిల్లల సమూహాన్ని జోడించండి ...</Caption>
+		</miFileGroupAddChild>
+		<miFileGroupAddRoot>
+			<Caption>రూట్ సమూహాన్ని జోడించండి ...</Caption>
+		</miFileGroupAddRoot>
+		<miFileGroupEdit>
+			<Caption>సమూహం సవరించు ...</Caption>
+		</miFileGroupEdit>
+		<miFileGroupMoveToRoot>
+			<Caption>రూట్ కి తరలించు</Caption>
+		</miFileGroupMoveToRoot>
+		<miFileGroupRemove>
+			<Caption>గుంపును తొలగించు</Caption>
+		</miFileGroupRemove>
+		<miFileInstall>
+			<Caption>కొత్తవి ఇన్స్టాల్ ...</Caption>
+			<Hint>ఒక కొత్త కార్యక్రమం సంస్థాపన మానిటర్</Hint>
+		</miFileInstall>
+		<miFileInstallUpdate>
+			<Caption>నవీకరణ ఇన్స్టాల్ ...</Caption>
+			<Hint>నవీకరణ ఇన్స్టాల్ | ప్రస్తుత కార్యక్రమం కోసం నవీకరణ యొక్క సంస్థాపన మానిటర్</Hint>
+		</miFileInstallUpdate>
+		<miFileNotes>
+			<Caption>గమనికలు ...</Caption>
+			<Hint>ప్రస్తుత సంస్థాపన లాగ్ గమనికలు జోడించండి</Hint>
+		</miFileNotes>
+		<miFilePrint>
+			<Caption>ప్రింట్</Caption>
+		</miFilePrint>
+		<miFileReload>
+			<Caption>రీలోడ్</Caption>
+		</miFileReload>
+		<miFileRemoveInstalledPrg>
+			<Caption>జాబితా నుండి కార్యక్రమం తొలగించు</Caption>
+		</miFileRemoveInstalledPrg>
+		<miFileRename>
+			<Caption>పేరుమార్చు ...</Caption>
+			<Hint>ప్రస్తుత సంస్థాపన లాగ్ పేరుమార్చు</Hint>
+		</miFileRename>
+		<miFileRestoreBackup>
+			<Caption>బ్యాకప్ నుండి ఒక కార్యక్రమం పునరుద్ధరించు ...</Caption>
+		</miFileRestoreBackup>
+		<miFileSave>
+			<Caption>సేవ్</Caption>
+			<Hint>ప్రస్తుత సంస్థాపన లాగ్ నుండి మార్పులను సేవ్</Hint>
+		</miFileSave>
+		<miFileSaveAs>
+			<Caption>సేవ్ చేయి ...</Caption>
+		</miFileSaveAs>
+		<miFileSendTo>
+			<Caption>సమూహానికి పంపండి</Caption>
+		</miFileSendTo>
+		<miFileUndoRestoration>
+			<Caption>అన్డు పునరుద్ధరణ ...</Caption>
+		</miFileUndoRestoration>
+		<miFileUninstall>
+			<Caption>అన్ఇన్స్టాల్ ...</Caption>
+		</miFileUninstall>
+		<miHelp>
+			<Caption>&amp; సహాయం</Caption>
+		</miHelp>
+		<miHelpAbout>
+			<Caption>గురించి ...</Caption>
+			<Hint>ప్రోగ్రామ్ సమాచారాన్ని, సంస్కరణ సంఖ్యను మరియు కాపీరైట్ను చూపిస్తుంది</Hint>
+		</miHelpAbout>
+		<miHelpCheckForUpdates>
+			<Caption>తాజాకరణలకోసం ప్రయత్నించండి...</Caption>
+			<Hint>&apos;ఉత్పత్తి నవీకరణలను రచయిత యొక్క వెబ్ సైట్ తనిఖీ</Hint>
+		</miHelpCheckForUpdates>
+		<miHelpContents>
+			<Caption>కంటెంటు</Caption>
+			<Hint>సహాయం పేజీ యొక్క కంటెంట్లను ప్రదర్శించు</Hint>
+		</miHelpContents>
+		<miHelpHomePage>
+			<Caption>హోం పేజీ</Caption>
+		</miHelpHomePage>
+		<miHelpPurchase>
+			<Caption>కొనుగోలు</Caption>
+		</miHelpPurchase>
+		<miHelpRegister>
+			<Caption>నమోదు ...</Caption>
+			<Hint>నమోదు Total Uninstall కార్యక్రమం</Hint>
+		</miHelpRegister>
+		<miHexView>
+			<Caption>హెక్స్ వీక్షణ</Caption>
+			<Hint>హెక్స్ ఎడిటర్ లో ఫైల్ ఓపెన్</Hint>
+		</miHexView>
+		<miImport>
+			<Caption>దిగుమతి</Caption>
+		</miImport>
+		<miInstalledPrograms>
+			<Caption>ఇన్స్టాల్ కార్యక్రమాలు</Caption>
+			<Hint>ఇన్స్టాల్ కార్యక్రమాలు | ఇన్స్టాల్ కార్యక్రమాలు మారండి</Hint>
+		</miInstalledPrograms>
+		<miList>
+			<Caption>జాబితా</Caption>
+		</miList>
+		<miListGroupNotes>
+			<Caption>గ్రూప్ గమనికలు</Caption>
+		</miListGroupNotes>
+		<miListLargeIcons>
+			<Caption>లార్జ్ ఐకాన్స్</Caption>
+		</miListLargeIcons>
+		<miListProgramNotes>
+			<Caption>ప్రోగ్రాం నోట్స్</Caption>
+		</miListProgramNotes>
+		<miListSmallIcons>
+			<Caption>స్మాల్ ఐకాన్స్</Caption>
+		</miListSmallIcons>
+		<miModules>
+			<Caption>&amp;గుణకాలు</Caption>
+		</miModules>
+		<miMonAppsGroupAddChild>
+			<Caption>పిల్లల సమూహాన్ని జోడించండి ...</Caption>
+		</miMonAppsGroupAddChild>
+		<miMonAppsGroupAddRoot>
+			<Caption>రూట్ సమూహాన్ని జోడించండి ...</Caption>
+		</miMonAppsGroupAddRoot>
+		<miMonAppsGroupEdit>
+			<Caption>సమూహం సవరించు ...</Caption>
+		</miMonAppsGroupEdit>
+		<miMonAppsGroupMoveToRoot>
+			<Caption>రూట్ కి తరలించు</Caption>
+		</miMonAppsGroupMoveToRoot>
+		<miMonAppsGroupRemove>
+			<Caption>గుంపును తొలగించు</Caption>
+		</miMonAppsGroupRemove>
+		<miMonitoredPrograms>
+			<Caption>మానిటర్డ్ కార్యక్రమాలు</Caption>
+			<Hint>మానిటర్డ్ కార్యక్రమాలు | మానిటర్డ్ కార్యక్రమాలు మారండి</Hint>
+		</miMonitoredPrograms>
+		<miOpen>
+			<Caption>ఓపెన్</Caption>
+			<Hint>ఓపెన్ ఫైలు, ఫోల్డర్ లేదా జంప్ రిజిస్ట్రీ ఎడిటర్  కీ లోకి</Hint>
+		</miOpen>
+		<miPendingFileRenameOp>
+			<Caption>ఫైలు పేరుమార్పుల కార్యకలాపాలు పెండింగ్ ...</Caption>
+			<Hint>చూడండి మరియు ఫైల్ పేరుమార్పుల కార్యకలాపాలు పెండింగ్లో దరఖాస్తు</Hint>
+		</miPendingFileRenameOp>
+		<miPrgAddInstalledPrg>
+			<Caption>జాబితాకు కార్యక్రమాన్ని జోడించండి ...</Caption>
+		</miPrgAddInstalledPrg>
+		<miPrgAnalyze>
+			<Caption>&amp;విశ్లేషించండి</Caption>
+			<Hint>విశ్లేషించండి | ప్రస్తుత కార్యక్రమం చేసిన మార్పులను విశ్లేషించండి</Hint>
+		</miPrgAnalyze>
+		<miPrgChangeIcon>
+			<Caption>చిహ్నం మార్పు ...</Caption>
+		</miPrgChangeIcon>
+		<miPrgDelete>
+			<Caption>తొలగించు</Caption>
+			<Hint>తొలగించు ప్రస్తుత సంస్థాపన లాగ్</Hint>
+		</miPrgDelete>
+		<miPrgEditInstalledPrg>
+			<Caption>కార్యక్రమం సవరించు ...</Caption>
+		</miPrgEditInstalledPrg>
+		<miPrgNotes>
+			<Caption>గమనికలు ...</Caption>
+			<Hint>ప్రస్తుత సంస్థాపన దుంగ గమనికలు జోడించండి</Hint>
+		</miPrgNotes>
+		<miPrgRemoveInstalledPrg>
+			<Caption>జాబితా నుండి కార్యక్రమం తొలగించు</Caption>
+		</miPrgRemoveInstalledPrg>
+		<miPrgRename>
+			<Caption>పేరుమార్చు ...</Caption>
+			<Hint>ప్రస్తుత సంస్థాపన లాగ్ పేరుమార్చు</Hint>
+		</miPrgRename>
+		<miPrintChanges>
+			<Caption>మార్పులు ...</Caption>
+			<Hint>మార్పులు చెట్టు ముద్రించండి</Hint>
+		</miPrintChanges>
+		<miPrintInstalledPrograms>
+			<Caption>ఇన్స్టాల్ కార్యక్రమాలు ...</Caption>
+		</miPrintInstalledPrograms>
+		<miPrintMonitoredPrograms>
+			<Caption>మానిటర్ కార్యక్రమాలు ...</Caption>
+		</miPrintMonitoredPrograms>
+		<miProperties>
+			<Caption>గుణాలు</Caption>
+			<Hint>ఎంచుకున్న ఫైల్ లేదా ఫోల్డర్ యొక్క లక్షణాలు చూపించు</Hint>
+		</miProperties>
+		<miRemovefromLog>
+			<Caption>లాగ్ నుండి తొలగించు</Caption>
+			<Hint>తీసివేయండి ఎంచుకున్న అంశాలను లాగ్ నుండి</Hint>
+		</miRemovefromLog>
+		<miSnsTreeOpen>
+			<Caption>ఓపెన్</Caption>
+		</miSnsTreeOpen>
+		<miSummary>
+			<Caption>సారాంశం</Caption>
+			<Hint>సారాంశం | ప్రస్తుత కార్యక్రమం గురించి సమాచారాన్ని సారాంశం చూపించు</Hint>
+		</miSummary>
+		<miTextView>
+			<Caption>టెక్స్ట్ చూడండి</Caption>
+			<Hint>టెక్స్ట్ ఎడిటర్ లో ఫైల్ ఓపెన్</Hint>
+		</miTextView>
+		<miToolbarLarge>
+			<Caption>పెద్ద</Caption>
+		</miToolbarLarge>
+		<miToolbarMedium>
+			<Caption>మీడియం</Caption>
+		</miToolbarMedium>
+		<miToolbarSmall>
+			<Caption>మీడియం</Caption>
+		</miToolbarSmall>
+		<miTools>
+			<Caption>&amp;ఉపకరణాలు</Caption>
+		</miTools>
+		<miToolsCompareSnapshots>
+			<Caption>వ్యవస్థ స్నాప్షాట్లు సరిపోల్చండి ...</Caption>
+		</miToolsCompareSnapshots>
+		<miToolsFind>
+			<Caption>శోధన</Caption>
+			<Hint>శోధన | ఒక టెక్స్ట్ కోసం కనుగొనబడిన మార్పులలో శోధన  చేయండి</Hint>
+		</miToolsFind>
+		<miToolsMergeLogs>
+			<Caption>విలీనం  చేయండి లాగ్లు...</Caption>
+		</miToolsMergeLogs>
+		<miToolsOptions>
+			<Caption>ఎంపికలు...</Caption>
+			<Hint>సాఫ్ట్వేర్ ఎంపికలు ఆకృతీకరించుటకు</Hint>
+		</miToolsOptions>
+		<miToolsSystemRestore>
+			<Caption>వ్యవస్థ పునరుద్ధరణ</Caption>
+		</miToolsSystemRestore>
+		<miULogSuccessful>
+			<Caption>విజయవంతమైన చర్యలు</Caption>
+			<Hint>చూపించు లేదా దాచు అన్ఇన్స్టాల్ లాగ్ నుండి విజయవంతమైన చర్యలు</Hint>
+		</miULogSuccessful>
+		<miULogWarnings>
+			<Caption>హెచ్చరికలు</Caption>
+			<Hint>చూపించు లేదా దాచు అన్ఇన్స్టాల్ లాగ్ నుండి హెచ్చరికలు</Hint>
+		</miULogWarnings>
+		<miUninstallLog>
+			<Caption>అన్ఇన్స్టాల్ లాగ్</Caption>
+			<Hint>అన్ఇన్స్టాల్ లాగ్ | చూపించు కార్యక్రమం అన్ఇన్స్టాల్ లాగ్</Hint>
+		</miUninstallLog>
+		<miUninstallLogDet>
+			<Caption>అన్ఇన్స్టాల్ లాగ్ వివరాలు</Caption>
+		</miUninstallLogDet>
+		<miView>
+			<Caption>&amp;వీక్షించండి</Caption>
+		</miView>
+		<miViewAutoGroupPrograms>
+			<Caption>ఆటో-గ్రూప్ కార్యక్రమాలు</Caption>
+		</miViewAutoGroupPrograms>
+		<miViewBundle>
+			<Caption>కట్ట</Caption>
+		</miViewBundle>
+		<miViewColorScheme>
+			<Caption>రంగు పథకం</Caption>
+		</miViewColorScheme>
+		<miViewDetails>
+			<Caption>వివరాలు</Caption>
+			<Hint>ప్రోగ్రామ్ వివరాలు | చూపించు లేదా దాచు ప్రోగ్రామ్ వివరాలు</Hint>
+		</miViewDetails>
+		<miViewItemCurrentView>
+			<Caption>ప్రస్తుత వీక్షణ</Caption>
+		</miViewItemCurrentView>
+		<miViewItemDetails>
+			<Caption>అంశం వివరాలు</Caption>
+			<Hint>చూపించు లేదా దాచు మార్పులు చెట్టు నుండి ఎంపిక నోడ్ యొక్క వివరాలను</Hint>
+		</miViewItemDetails>
+		<miViewNavigator>
+			<Caption>ప్రోగ్రామ్లు</Caption>
+			<Hint>ప్రోగ్రామ్ వివరాలు | చూపించు లేదా దాచు ప్రోగ్రామ్ వివరాలు</Hint>
+		</miViewNavigator>
+		<miViewRefresh>
+			<Caption>రిఫ్రెష్</Caption>
+		</miViewRefresh>
+		<miViewStatusBar>
+			<Caption>సస్థితి బార్</Caption>
+			<Hint>చూపించు లేదా దాచు స్థితి బార్</Hint>
+		</miViewStatusBar>
+		<miViewSystemComponents>
+			<Caption>వ్యవస్థ భాగాలు</Caption>
+		</miViewSystemComponents>
+		<miViewToolbars>
+			<Caption>టూల్బార్లు</Caption>
+		</miViewToolbars>
+		<miViewToolbarsBtnCaption>
+			<Caption>బటన్ శీర్షిక</Caption>
+			<Hint>చూపించు లేదా దాచు టూల్బార్ బటన్ శీర్షికలు</Hint>
+		</miViewToolbarsBtnCaption>
+		<miViewToolbarsBtnSize>
+			<Caption>బటన్ పరిమాణం</Caption>
+		</miViewToolbarsBtnSize>
+		<miViewToolbarsBtnWordWrap>
+			<Caption>బటన్ శీర్షిక పదం చుట్టు</Caption>
+		</miViewToolbarsBtnWordWrap>
+		<miViewToolbarsTbrCaption>
+			<Caption>ఉపకరణపట్టీ శీర్షిక</Caption>
+			<Hint>చూపించు లేదా దాచు టూల్బార్ శీర్షికలు</Hint>
+		</miViewToolbarsTbrCaption>
+		<miViewToolbarsVisible>
+			<Caption>కనిపించే</Caption>
+			<Hint>చూపించు లేదా  దాచు టూల్బార్</Hint>
+		</miViewToolbarsVisible>
+		<pmiAutorunAdd>
+			<Caption>చేర్చు</Caption>
+		</pmiAutorunAdd>
+		<pmiAutorunDelete>
+			<Caption>తొలగించు</Caption>
+		</pmiAutorunDelete>
+		<pmiAutorunLocateEntry>
+			<Caption>ఆటో - రన్ ఎంట్రీ గుర్తించండి</Caption>
+		</pmiAutorunLocateEntry>
+		<pmiAutorunLocateTarget>
+			<Caption>లక్ష్యం గుర్తించండి</Caption>
+		</pmiAutorunLocateTarget>
+		<pmiAutorunRun>
+			<Caption>రన్</Caption>
+		</pmiAutorunRun>
+		<pmiAutorunStop>
+			<Caption>ఆపు</Caption>
+		</pmiAutorunStop>
+		<pmiAutorunTargetProperties>
+			<Caption>టార్గెట్ లక్షణాలు</Caption>
+		</pmiAutorunTargetProperties>
+		<pmiChgTreeCompareExcl>
+			<Caption>జోడించు విస్మరించబడిన జాబితా సరిపోల్చండి</Caption>
+			<Hint>జోడించండి విస్మరించడానికి ఎంచుకున్న అంశాలను అన్ని పోల్చడం ప్రొఫైల్స్ జాబితాలో</Hint>
+		</pmiChgTreeCompareExcl>
+		<pmiChgTreeDelete>
+			<Caption>పూర్తిగా తొలగించు</Caption>
+			<Hint>లాగ్ నుండి మరియు వ్యవస్థ నుండి ఎంచుకున్న అంశాన్ని తొలగించు</Hint>
+		</pmiChgTreeDelete>
+		<pmiChgTreeDelSys>
+			<Caption>సిస్టమ్ నుండి మాత్రమే తొలగించండి</Caption>
+			<Hint>సిస్టమ్ నుండి ఎంచుకున్న అంశం మాత్రమే తొలగించండి</Hint>
+		</pmiChgTreeDelSys>
+		<pmiChgTreeHexView>
+			<Caption>హెక్స్ వీక్షణ</Caption>
+			<Hint>హెక్స్ ఎడిటర్ లో ఫైల్ ఓపెన్</Hint>
+		</pmiChgTreeHexView>
+		<pmiChgTreeOpen>
+			<Caption>ఓపెన్</Caption>
+			<Hint>ఓపెన్ ఫైలు, ఫోల్డర్ లేదా జంప్ కీ  లోకి రిజిస్ట్రీ ఎడిటర్ లో</Hint>
+		</pmiChgTreeOpen>
+		<pmiChgTreeProperties>
+			<Caption>గుణాలు</Caption>
+			<Hint>ఎంచుకున్న ఫైల్ లేదా ఫోల్డర్ కోసం లక్షణాలు చూపించు</Hint>
+		</pmiChgTreeProperties>
+		<pmiChgTreeRedo>
+			<Caption>చర్య పునరావృతం</Caption>
+			<Hint>వ్యవస్థలో ఎంచుకున్న మార్పులను చర్య పునరావృతం</Hint>
+		</pmiChgTreeRedo>
+		<pmiChgTreeRedoDepth>
+			<Caption>లోతు చర్య పునరావృతం</Caption>
+			<Hint>లోతు వ్యవస్థలో ఎంచుకున్న మార్పులను చర్య పునరావృతం</Hint>
+		</pmiChgTreeRedoDepth>
+		<pmiChgTreeRemove>
+			<Caption>లాగ్ నుండి తొలగించు</Caption>
+			<Hint>ఎంచుకున్న అంశం లాగ్ నుండి తొలగించు</Hint>
+		</pmiChgTreeRemove>
+		<pmiChgTreeRestoreFromBackup>
+			<Caption>బ్యాకప్ నుండి పునరుద్ధరించు</Caption>
+			<Hint>పునరుద్ధరించు ఎంచుకున్న ఫైల్లను, ఫోల్డర్లను మరియు ఉప ఫోల్డర్లు బ్యాకప్ నుండి</Hint>
+		</pmiChgTreeRestoreFromBackup>
+		<pmiChgTreeScanExcl>
+			<Caption>జోడించండి ాబితా మినహాయించాలని స్కాన్కి</Caption>
+			<Hint>అన్ని స్కానింగ్ ప్రొఫైల్స్ మినహాయించాలని జాబితాకు ఎంపిక అంశాలను జోడించండి</Hint>
+		</pmiChgTreeScanExcl>
+		<pmiChgTreeTextView>
+			<Caption>టెక్స్ట్ వీక్షణ</Caption>
+			<Hint>టెక్స్ట్ ఎడిటర్ లో ఫైల్ ఓపెన్</Hint>
+		</pmiChgTreeTextView>
+		<pmiChgTreeUndo>
+			<Caption>అన్డు</Caption>
+			<Hint>సిస్టమ్ నుండి ఎంచుకున్న మార్పులను అన్డు</Hint>
+		</pmiChgTreeUndo>
+		<pmiChgTreeUndoDepth>
+			<Caption>లోతు అన్డు</Caption>
+			<Hint>అన్డు లోతు ఎంచుకున్న మార్పులను సిస్టమ్ నుండి</Hint>
+		</pmiChgTreeUndoDepth>
+		<pmiClnExclude>
+			<Caption>మినహాయించాలన</Caption>
+		</pmiClnExclude>
+		<pmiClnSelectBranch>
+			<Caption>బ్రాంచ్ ఎంచుకోండి</Caption>
+		</pmiClnSelectBranch>
+		<pmiClnUnselectBranch>
+			<Caption>ఎంచుకోని బ్రాంచ్</Caption>
+		</pmiClnUnselectBranch>
+		<pmiCopySummary>
+			<Caption>కాపీ</Caption>
+		</pmiCopySummary>
+		<pmiInstAppsHeaderAutoResize>
+			<Caption>ఆటో పునఃపరిమాణం</Caption>
+		</pmiInstAppsHeaderAutoResize>
+		<pmiLocate>
+			<Caption>గుర్తించండి</Caption>
+		</pmiLocate>
+		<pmiMonAppsHeaderAutoResize>
+			<Caption>ఆటో పునఃపరిమాణం</Caption>
+		</pmiMonAppsHeaderAutoResize>
+		<pmiShowSuccessful>
+			<Caption>విజయవంతమైన చర్యలు</Caption>
+			<Hint>చూపించు లేదా దాచు విజయవంతమైన చర్యలు అన్ఇన్స్టాల్ లాగ్ నుండి</Hint>
+		</pmiShowSuccessful>
+		<pmiShowWarnings>
+			<Caption>హెచ్చరికలు</Caption>
+			<Hint>చూపించు లేదా దాచు హెచ్చరికలు అన్ఇన్స్టాల్ లాగ్ నుండి</Hint>
+		</pmiShowWarnings>
+		<pmiTrayRestore>
+			<Caption>పునరుద్ధరించు</Caption>
+		</pmiTrayRestore>
+		<rbAll>
+			<Caption>అన్ని కార్యక్రమాలు</Caption>
+		</rbAll>
+		<rbSelection>
+			<Caption>ఎంపిక</Caption>
+		</rbSelection>
+		<sbAppClose>
+			<Hint>క్లోజ్ | క్లోజ్</Hint>
+		</sbAppClose>
+		<sbDetailsClose>
+			<Hint>క్లోజ్ | క్లోజ్</Hint>
+		</sbDetailsClose>
+		<sbSearchClose>
+			<Hint>క్లోజ్ | క్లోజ్</Hint>
+		</sbSearchClose>
+		<tabOptions>
+			<Caption>ఎంపికలు</Caption>
+		</tabOptions>
+		<tabResults>
+			<Caption>ఫలితాలు</Caption>
+		</tabResults>
+		<tbrActions>
+			<Caption>చర్యలు</Caption>
+		</tbrActions>
+		<tbrDetails>
+			<Caption>వివరాలు</Caption>
+		</tbrDetails>
+		<tbrLayout>
+			<Caption>లేఅవుట్</Caption>
+		</tbrLayout>
+		<tbrModules>
+			<Caption>గుణకాలు</Caption>
+		</tbrModules>
+		<tbrView>
+			<Caption>చూడండి</Caption>
+		</tbrView>
+		<tbtnAnalyze>
+			<Caption>విశ్లేషించండి</Caption>
+			<Hint>విశ్లేషించండి | విశ్లేషించండి కార్యక్రమం చేసిన ప్రస్తుత మార్పులను</Hint>
+		</tbtnAnalyze>
+		<tbtnArAdd>
+			<Caption>చేర్చు</Caption>
+		</tbtnArAdd>
+		<tbtnArDelete>
+			<Caption>తొలగించు</Caption>
+		</tbtnArDelete>
+		<tbtnArRun>
+			<Caption>రన్</Caption>
+		</tbtnArRun>
+		<tbtnArStop>
+			<Caption>ఆపు</Caption>
+		</tbtnArStop>
+		<tbtnAutorunMgr>
+			<Caption>ఆటో- రన్ మేనేజర్</Caption>
+		</tbtnAutorunMgr>
+		<tbtnChanges>
+			<Caption>మార్పులు</Caption>
+			<Hint>కనుగొనబడిన మార్పులు | షో కనుగొనబడింది వ్యవస్థ మార్పులు చేసిన ప్రస్తుత కార్యక్రమం</Hint>
+		</tbtnChanges>
+		<tbtnChgView>
+			<Caption>చూడండి</Caption>
+			<Hint>చూడండి | నిర్వచిత మార్పు వీక్షణ వర్తించును</Hint>
+		</tbtnChgView>
+		<tbtnCleaner>
+			<Caption>క్లీనర్</Caption>
+			<Hint>క్లీనర్</Hint>
+		</tbtnCleaner>
+		<tbtnClnClean>
+			<Caption>క్లీను</Caption>
+			<Hint>క్లీను</Hint>
+		</tbtnClnClean>
+		<tbtnClnItems>
+			<Caption>అంశాలు</Caption>
+		</tbtnClnItems>
+		<tbtnClnScan>
+			<Caption>స్కాన్</Caption>
+			<Hint>స్కాన్ | పునర్వినియోగపరచలేని అంశాల కొసము స్కాన్</Hint>
+		</tbtnClnScan>
+		<tbtnClnSummary>
+			<Caption>సారాంశం</Caption>
+			<Hint>సారాంశం | పునర్వినియోగపరచలేని విషయాలకు సంబంధించిన సమాచారం యొక్క సారాంశం చూపించు</Hint>
+		</tbtnClnSummary>
+		<tbtnCollapse>
+			<Caption>కుదించు</Caption>
+			<Hint>క్రియాశీల చెట్టు నోడ్ కుదించు</Hint>
+		</tbtnCollapse>
+		<tbtnDetails>
+			<Caption>వివరాలు</Caption>
+			<Hint>ప్రోగ్రామ్ వివరాలు | చూపించు లేదా దాచు ప్రోగ్రామ్ వివరాలు</Hint>
+		</tbtnDetails>
+		<tbtnExpand>
+			<Caption>విస్తరించు</Caption>
+			<Hint>క్రియాశీల చెట్టు నోడ్ విస్తరించు</Hint>
+		</tbtnExpand>
+		<tbtnInstallModify>
+			<Caption>మార్చు</Caption>
+			<Hint>మరమ్మతు, సవరించడానికి లేదా అన్ఇన్స్టాల్</Hint>
+		</tbtnInstallModify>
+		<tbtnInstallNew>
+			<Caption>ఇన్స్టాల్</Caption>
+			<Hint>కొత్తవి ఇన్స్టాల్ | మానిటర్ ఒక కొత్త కార్యక్రమం సంస్థాపన</Hint>
+		</tbtnInstallNew>
+		<tbtnInstallUpdate>
+			<Caption>నవీకరణ</Caption>
+			<Hint>నవీకరణ ఇన్స్టాల్ | మానిటర్ ప్రస్తుత కార్యక్రమం కోసం నవీకరణ యొక్క సంస్థాపన</Hint>
+		</tbtnInstallUpdate>
+		<tbtnInstPrograms>
+			<Caption>ఇన్స్టాల్ కార్యక్రమాలు</Caption>
+			<Hint>ఇన్స్టాల్ కార్యక్రమాలు | ఇన్స్టాల్ కార్యక్రమాలు మారండి</Hint>
+		</tbtnInstPrograms>
+		<tbtnMonPrograms>
+			<Caption>మానిటర్ కార్యక్రమాలు</Caption>
+			<Hint>మానిటర్ కార్యక్రమాలు | మానిటర్ కార్యక్రమాలు మారండి</Hint>
+		</tbtnMonPrograms>
+		<tbtnPrograms>
+			<Caption>కార్యక్రమాలు</Caption>
+			<Hint>ప్రోగ్రామ్ జాబితాలో | షో లేదా దాచు ప్రోగ్రామ్ జాబితా</Hint>
+		</tbtnPrograms>
+		<tbtnSave>
+			<Caption>సేవ్</Caption>
+			<Hint>సేవ్ ప్రస్తుత సంస్థాపన లాగ్ నుండి మార్పులను</Hint>
+		</tbtnSave>
+		<tbtnSearch>
+			<Caption>శోధన</Caption>
+			<Hint>శోధన | కనుగొనబడింది మార్పులు ఒక టెక్స్ట్ కోసం శోధన</Hint>
+		</tbtnSearch>
+		<tbtnShowSnapshot>
+			<Caption>షో స్నాప్షాట్</Caption>
+		</tbtnShowSnapshot>
+		<tbtnSummary>
+			<Caption>సారాంశం</Caption>
+			<Hint>సారాంశం |  చూపించు సారాంశం ప్రస్తుత కార్యక్రమం గురించి సమాచారాన్ని</Hint>
+		</tbtnSummary>
+		<tbtnUninstall>
+			<Caption>అన్ఇన్స్టాల్</Caption>
+		</tbtnUninstall>
+		<tbtnUninstallLog>
+			<Caption>అన్ఇన్స్టాల్ లాగ్</Caption>
+			<Hint>అన్ఇన్స్టాల్ లాగ్ | కార్యక్రమం అన్ఇన్స్టాల్ లాగ్ చూపించు</Hint>
+		</tbtnUninstallLog>
+		<tpnlSearch>
+			<Caption>శోధన</Caption>
+		</tpnlSearch>
+		<tvAutorunItems>
+			<Columns_0>పేరు</Columns_0>
+			<Columns_1>విభాగం</Columns_1>
+			<Columns_2>స్థితి</Columns_2>
+			<Columns_3>వివరణ</Columns_3>
+			<Columns_4>ప్రచురణ</Columns_4>
+			<Columns_5>కమాండ్</Columns_5>
+		</tvAutorunItems>
+		<tvChanges>
+			<Columns_0>కనుగొనబడిన మార్పులు</Columns_0>
+			<Columns_1>ముందు</Columns_1>
+			<Columns_2>తరువాత</Columns_2>
+			<Columns_3>ప్రస్తుత</Columns_3>
+		</tvChanges>
+		<tvClnItems>
+			<Columns_0>అంశాలు</Columns_0>
+			<Columns_1>గుణాలు</Columns_1>
+		</tvClnItems>
+		<tvResults>
+			<Columns_0>పేరు</Columns_0>
+			<Columns_1>స్థానం</Columns_1>
+			<Columns_2>ప్రోగ్రామ్</Columns_2>
+		</tvResults>
+	</frmTUMain>
+	<RESOURCESTRING>
+		<ACCESS_DENIED_X>ప్రాప్యత తిరస్కరించబడింది: %s</ACCESS_DENIED_X>
+		<ACT_CRE_KEY>రిజిస్ట్రీ కీ సృష్టించండి: %s</ACT_CRE_KEY>
+		<ACT_CRE_VAL>రిజిస్ట్రీ విలువ సృష్టించు: %s</ACT_CRE_VAL>
+		<ACT_DEC_CNT>తరుగుదల రిజిస్ట్రీ నుండి సామూహిక ఫైలును కౌంటర్: %s</ACT_DEC_CNT>
+		<ACT_DEL_ADS>ప్రత్యామ్నాయ డేటా స్ట్రీమ్లో తొలగించండి: %s</ACT_DEL_ADS>
+		<ACT_DEL_FILE>ఫైలు తొలగించు: %s</ACT_DEL_FILE>
+		<ACT_DEL_FOLDER>ఫోల్డర్ను తొలగించు: %s</ACT_DEL_FOLDER>
+		<ACT_DEL_KEY>రిజిస్ట్రీ కీ తొలగించు: %s</ACT_DEL_KEY>
+		<ACT_DEL_SERVICE>సేవ లేదా పరికరాన్ని తొలగించండ: %s</ACT_DEL_SERVICE>
+		<ACT_DEL_VAL>రిజిస్ట్రీ విలువ తొలగించు: %s</ACT_DEL_VAL>
+		<ACT_RST_FILE>ఫైలు లక్షణాలు పునరుద్ధరించు: %s</ACT_RST_FILE>
+		<ACT_RST_VAL>రిజిస్ట్రీ విలువ పునరుద్ధరించు: %s</ACT_RST_VAL>
+		<ACT_STOP_SERVICE>సేవ లేదా పరికరాన్ని ఆపు: %s</ACT_STOP_SERVICE>
+		<ADD>చేర్చు</ADD>
+		<ADVANCED>ఆధునిక</ADVANCED>
+		<AGENT>ఏజెంట్</AGENT>
+		<ALL>అన్ని</ALL>
+		<ALL_BRA>(అన్ని)</ALL_BRA>
+		<ALL_DETAILS>అన్ని వివరాలు</ALL_DETAILS>
+		<ALWAYS>ఎల్లప్పుడూ</ALWAYS>
+		<ANALYSIS_PROFILE>విశ్లేషణ ప్రొఫైల్ను</ANALYSIS_PROFILE>
+		<ANALYSIS_PROFILES>విశ్లేషణ ప్రొఫైల్స్</ANALYSIS_PROFILES>
+		<ANALYZING>విశ్లేషిస్తోంది ...</ANALYZING>
+		<ASK>అడగండి</ASK>
+		<ASK_COMPLETE_LATER>తరువాత పర్యవేక్షణ ప్రక్రియ పూర్తి?</ASK_COMPLETE_LATER>
+		<ASK_IF_NO_ERROR>ఎటువంటి దోషాలు  లేన్ని అడగండి</ASK_IF_NO_ERROR>
+		<ASK_SAVE_CHG>మీరు నుండి మార్పులను సేవ్ చేయాలనుకుంటున్నారా? &quot;%s&quot; ?</ASK_SAVE_CHG>
+		<ASK_USER>యూజర్ని అడగండి</ASK_USER>
+		<AUTOMATIC>స్వయంచాలక</AUTOMATIC>
+		<AUTORUN_ITEMS>ఆటో- రన్ అంశాలను</AUTORUN_ITEMS>
+		<AUTORUN_MGR>ఆటో- రన్ మేనేజర్</AUTORUN_MGR>
+		<BACKUP>బ్యాకప్</BACKUP>
+		<BACKUP_CREATED>బ్యాకప్ సృష్టించింది.</BACKUP_CREATED>
+		<BACKUP_CREATED_OK>బ్యాకప్ విజయవంతంగా సృష్టించింది.</BACKUP_CREATED_OK>
+		<BACKUP_PROGRAM>కార్యక్రమం కోసం ఒక బ్యాకప్ సృష్టిస్తోంది ...</BACKUP_PROGRAM>
+		<BACKUP_PROGRAM_X>కార్యక్రమం కోసం బాకప్ సృష్టించు &quot;%s&quot;</BACKUP_PROGRAM_X>
+		<BEGIN_UNINSTALL>అన్ఇన్స్టాల్ ప్రక్రియ ప్రారంభం కోసం ప్రెస్ అన్ఇన్స్టాల్ .</BEGIN_UNINSTALL>
+		<BEGIN_UNINSTALL_LAUNCH>అన్ఇన్స్టాల్ ప్రక్రియ ప్రారంభించడానికి ప్రెస్ ప్రారంభం.</BEGIN_UNINSTALL_LAUNCH>
+		<BROWSE_FOR_FILE>ఫైల్ కోసం బ్రౌజ్</BROWSE_FOR_FILE>
+		<BROWSE_FOR_FOLDER>ఫోల్డర్ కోసం బ్రౌజ్</BROWSE_FOR_FOLDER>
+		<BROWSE_FOR_FOLDER_OR_FILE>ఫోల్డర్ లేదా ఫైల్ కోసం బ్రౌజ్</BROWSE_FOR_FOLDER_OR_FILE>
+		<BROWSE_FOR_KEY>కీ కోసం బ్రౌజ్</BROWSE_FOR_KEY>
+		<BROWSE_FOR_KEY_OR_VALUE>కీ లేదా విలువ కోసం బ్రౌజ్</BROWSE_FOR_KEY_OR_VALUE>
+		<BROWSE_FOR_VALUE>విలువ కోసం బ్రౌజ్</BROWSE_FOR_VALUE>
+		<BTN_CONTINUE>కొనసాగించు</BTN_CONTINUE>
+		<BUILT_IN_CANCELLED>అంతర్నిర్మిత అన్ఇన్స్టాలర్ రద్దు లేదా అన్ఇన్స్టాల్ ప్రక్రియ పూర్తి కాకుండా రద్దు.</BUILT_IN_CANCELLED>
+		<BUILT_IN_UNINSTALLER_RUNNING>అంతర్నిర్మిత అన్ఇన్స్టాలర్ కార్యక్రమం నడుస్తుంటే.</BUILT_IN_UNINSTALLER_RUNNING>
+		<CANCEL>రద్దు</CANCEL>
+		<CANNOT_BROWSE>డిఫాల్ట్ బ్రౌజర్ ప్రారంభించడానికి ప్రయత్నిస్తున్నారు దోషం వున్నది.\nలింక్ క్లిప్బోర్డ్కు కాపీ చేయబడింది.</CANNOT_BROWSE>
+		<CANT_EXECUTE>&apos;కార్యక్రమం ప్రారంభం కాదు. &quot;%s&quot;.</CANT_EXECUTE>
+		<CANT_OPEN_KEY>కీ  తెరవడానికి కాదు</CANT_OPEN_KEY>
+		<CHANGED_ITEMS>మార్చబడింది అంశాలను</CHANGED_ITEMS>
+		<CHANGES>&quot;%s&quot; మార్పులు</CHANGES>
+		డిఫాల్ట్ బ్రౌజర్ ప్రారంభించడానికి ప్రయత్నిస్తున్నారు దోషం వున్నది. \ n లింక్ క్లిప్బోర్డ్కు కాపీ చేయబడింది.
+		<CHECK_UPD_NEW>నవీకరణలు లేదా వార్తలు అందుబాటులో</CHECK_UPD_NEW>
+		<CHECK_UPD_REMINDER>నవీకరణలను రిమైండర్ తనిఖీ</CHECK_UPD_REMINDER>
+		<CHG_VIEWS>అభిప్రాయాలు మార్చండి</CHG_VIEWS>
+		<CLEAN_UP>శుబ్రం చేయి</CLEAN_UP>
+		<CLEAN_UP_DESC>ఒక అన్ఇన్స్టాల్ మానిటర్ కార్యక్రమం జాడలు తొలగించండి</CLEAN_UP_DESC>
+		<CLEANED>శుభ్రం</CLEANED>
+		<CLEANER>క్లీనర్</CLEANER>
+		<CLEANING>శుభ్రపరచడం...</CLEANING>
+		<CLOSE>క్లోజ్</CLOSE>
+		<CLOSE_PROCESSES>ప్రక్రియలు క్లోజ్</CLOSE_PROCESSES>
+		<CMP_ERROR>స్నాప్షాట్ పోలిక సమయంలో లోపం ఏర్పడింది.</CMP_ERROR>
+		<CMP_PROFILE>ప్రొఫైల్ పేరు సరిపోల్చండి</CMP_PROFILE>
+		<CNT_DEL_MON>రిజిస్ట్రీ అందరి ఫైళ్ళ కౌంటర్ పర్యవేక్షణ తొలగించారు</CNT_DEL_MON>
+		<COMMENTS>వ్యాఖ్యలు</COMMENTS>
+		<COMMON>సాధారణ</COMMON>
+		<COMP_PROFILES>పోలిక ప్రొఫైల్స్</COMP_PROFILES>
+		<COMPARE>సరిపోల్చండి</COMPARE>
+		<COMPARING_SNS>వ్యవస్థ స్నాప్షాట్లు పోల్చడం ...</COMPARING_SNS>
+		<COMPLETE>పూర్తి</COMPLETE>
+		<COMPUTER>కంప్యూటర్</COMPUTER>
+		<COMPUTER_X>కంప్యూటర్ (%s)</COMPUTER_X>
+		<CONTACT>సంప్రదించండి</CONTACT>
+		<CONTINUE>మీరు కొనసాగాలని అనుకుంటున్నారా?</CONTINUE>
+		<CONTINUE_UNINSTALL>అన్ఇన్స్టాల్ ప్రక్రియ కొనసాగుతుంది</CONTINUE_UNINSTALL>
+		<CONTINUE_UNINSTALL_Q>అన్ఇన్స్టాల్ ప్రక్రియ కొనసాగుతుంది?</CONTINUE_UNINSTALL_Q>
+		<CORRUPT_CNT>చెల్లని మార్పు గుర్తించబడినది రిజిస్ట్రీ అందరి ఫైళ్ళ కౌంటర్: విలువ తరుగుదల లేదా చెల్లని డేటా తో</CORRUPT_CNT>
+		<CREATE_REG_KEYS>రిజిస్ట్రీ కీలు సృష్టించు</CREATE_REG_KEYS>
+		<CREATE_REG_VALS>రిజిస్ట్రీ విలువలు సృష్టించు</CREATE_REG_VALS>
+		<CREATED>సృష్టించబడిన</CREATED>
+		<CREATED_ITEMS>సృష్టించబడిన అంశాలు</CREATED_ITEMS>
+		<CREATED_ON>లో సృష్టించబడిన</CREATED_ON>
+		<CREATED_X>సృష్టించబడిన: %s</CREATED_X>
+		<DEC_CNT>తరుగుదల రిజిస్ట్రీ అందరి ఫైళ్ళ కౌంటర్</DEC_CNT>
+		<DEFAULT>డిఫాల్ట్</DEFAULT>
+		<DEFAULT_PAR>(డిఫాల్ట్)</DEFAULT_PAR>
+		<DEL_AT_STARTUP>క్యూ తొలగించబడుటకు తదుపరి ప్రారంభం అయినపుడు</DEL_AT_STARTUP>
+		<DEL_CNT>రిజిస్ట్రీ అందరి ఫైళ్ళ కౌంటర్ తొలగించు</DEL_CNT>
+		<DEL_FILES>ఫైళ్లను తొలగించు</DEL_FILES>
+		<DEL_FOLDERS>ఫోల్డర్లను తొలగించండి</DEL_FOLDERS>
+		<DEL_REG_KEYS>రిజిస్ట్రీ కీలు తొలగించు</DEL_REG_KEYS>
+		<DEL_REG_VALS>రిజిస్ట్రీ విలువలు తొలగించు</DEL_REG_VALS>
+		<DEL_SH_FILE>తొలగించు సామూహిక ఫైలును డిస్కు నుండి రీసైకిల్ బిన్ కి</DEL_SH_FILE>
+		<DELETE_SEL_BACKUPS>తొలగించు ఎంపిక బ్యాకప్ (లు)?</DELETE_SEL_BACKUPS>
+		<DELETE_SEL_UNDO>ఎంపిక దిద్దుబాటు రద్దుచెయ్యి ఎంట్రీలు తొలగించు?</DELETE_SEL_UNDO>
+		<DELETE_SYS_SEL_ITEM>వ్యవస్థ నుండి ఎంపిక అంశాన్ని తొలగించాలా?</DELETE_SYS_SEL_ITEM>
+		<DELETED>తొలగించినవి</DELETED>
+		<DELETED_ITEMS>తొలగించిన అంశాలను</DELETED_ITEMS>
+		<DETECTED_CHG>కనుగొనబడిన మార్పులు</DETECTED_CHG>
+		<DISABLED>వికలాంగుల</DISABLED>
+		<DISPOSABLE_ITEMS>డిస్పోజబుల్ అంశాలు</DISPOSABLE_ITEMS>
+		<DLG_ABORT>ఆపివేయి</DLG_ABORT>
+		<DLG_ALL>అన్ని</DLG_ALL>
+		<DLG_CANCEL>రద్దు</DLG_CANCEL>
+		<DLG_CLOSE>క్లోజ్</DLG_CLOSE>
+		<DLG_CNF>నిర్ధారించండి</DLG_CNF>
+		<DLG_ERR>లోపం</DLG_ERR>
+		<DLG_IGNORE>పట్టించుకోకుండా</DLG_IGNORE>
+		<DLG_INF>సమాచారం</DLG_INF>
+		<DLG_NO>కాదు</DLG_NO>
+		<DLG_NOTOALL>అన్నిటికీ కాదు</DLG_NOTOALL>
+		<DLG_OK>అలాగే</DLG_OK>
+		<DLG_RETRY>తిరిగి ప్రయత్నించు</DLG_RETRY>
+		<DLG_WRN>హెచ్చరిక</DLG_WRN>
+		<DLG_YES>అవును</DLG_YES>
+		<DLG_YESTOALL>అన్నిటికీ ఔను</DLG_YESTOALL>
+		<DONT_DEL_SH_FILE>వాడుకరి భాగస్వామ్య ఫైల్ ఉంచడానికి ఇష్టపడతాడు</DONT_DEL_SH_FILE>
+		<EDIT_PROGRAM>కార్యక్రమం మార్చు</EDIT_PROGRAM>
+		<ELAPSED>గతించిన %d:%2.2d</ELAPSED>
+		<ENTER_IDENTIFIER>ఇన్స్టాల్ ప్రోగ్రామ్ యొక్క పేరు ఎంటర్ చేయండి.</ENTER_IDENTIFIER>
+		<ERR>లోపం</ERR>
+		<ERR_BRA>(ERR)</ERR_BRA>
+		<ERR_DEL_FLD_FILES>ఒకటి లేదా మరిన్ని ఫోల్డర్లను లేదా ఫైళ్ళను తొలగించలేరు.</ERR_DEL_FLD_FILES>
+		<ERR_DEL_REG_KEYS_VALS>ఒకటి లేదా ఎక్కువ కీలు లేదా విలువలను తొలగించలేరు.</ERR_DEL_REG_KEYS_VALS>
+		<ERR_REDO_REG_KEYS_VALS>ఒకటి లేదా ఎక్కువ కీలు లేదా విలువలను పునరావృత్తం కాదు.</ERR_REDO_REG_KEYS_VALS>
+		<ERR_UNDO_REG_KEYS_VALS>ఒకటి లేదా ఎక్కువ కీలు లేదా విలువలను రద్దు చేయలేరు.</ERR_UNDO_REG_KEYS_VALS>
+		<ERR_WRN_OK_STAT>లోపం (లు): %d   చ్చరిక (లు): %d  యవంతమైన చర్య (లు): %d</ERR_WRN_OK_STAT>
+		<EXIT>ఎగ్జిట్</EXIT>
+		<EXPERT>నిపుణుడు</EXPERT>
+		<EXPIRE_DAYS>ముగుస్తుంది గడువు %d రోజులు.</EXPIRE_DAYS>
+		<EXPORT_ERROR>లోపం ఎగుమతి !</EXPORT_ERROR>
+		<EXTENSION>పొడిగింపు</EXTENSION>
+		<FAMILY_NOT_ACCEPTED>కుటుంబ లైసెన్స్ చెల్లుబాటు కాదు.</FAMILY_NOT_ACCEPTED>
+		<FFILTER_ALL>అన్ని ఫైళ్లు (*.*)|*.*</FFILTER_ALL>
+		<FFILTER_DLL>అప్లికేషన్ పొడిగింపు ఫైళ్ళను (*.dll)|*.dll</FFILTER_DLL>
+		<FFILTER_EXE>నిర్వర్తించే (*.exe)|*.exe</FFILTER_EXE>
+		<FFILTER_HTM>HTML డాక్యుమెంట్లు (*.htm, *.html)|*.htm;*html</FFILTER_HTM>
+		<FFILTER_ICL>ఐకాన్ సేకరణలు (*.icl)|*.icl</FFILTER_ICL>
+		<FFILTER_ICO>ఐకాన్ ఫైళ్లు (*.ico)|*.ico</FFILTER_ICO>
+		<FFILTER_MSI>మైక్రోసాఫ్ట్ ఇన్స్టాలర్ (*.msi)|*.msi</FFILTER_MSI>
+		<FFILTER_REG>నమోదు ఫైళ్లు (*.reg)|*.reg</FFILTER_REG>
+		<FFILTER_TXT>టెక్స్ట్ డాక్యుమెంట్లు (*.txt)|*.txt</FFILTER_TXT>
+		<FFILTER_WAV>సౌండ్ ఫైళ్లు (*.wav)|*.wav</FFILTER_WAV>
+		<FFILTER_XML>XML డాక్యుమెంట్లు - (*.xml)|*.xml</FFILTER_XML>
+		<FFILTER_ZIP>బ్యాకప్ ఫైళ్లు (*.zip)|*.zip</FFILTER_ZIP>
+		<FILE>(ఫైల్)</FILE>
+		<FILE_>ఫైల్</FILE_>
+		<FILE_MASK>ఫైలు ముసుగు</FILE_MASK>
+		<FILE_SYSTEM>ఫైల్ సిస్టమ్</FILE_SYSTEM>
+		<FILES_CHG_STAT>ఫైళ్ళు  modified :%6.1d</FILES_CHG_STAT>
+		<FILES_CREATED_STAT>రూపొందించిన  ఫైళ్ళు    :%6.1d</FILES_CREATED_STAT>
+		<FILES_DEL_STAT>తొలగించబడ ఫైళ్ళు       :%6.1d</FILES_DEL_STAT>
+		<FILES_NOT_INCLUDED>బ్యాకప్ చేర్చబడని ఫైళ్లు</FILES_NOT_INCLUDED>
+		<FILES_X>ఫైళ్లు   :%6.1d</FILES_X>
+		<FILTER>వడపోత</FILTER>
+		<FINISH>ముగించు</FINISH>
+		<FLDS_CREATED_STAT>రూపొందించిన ఫోల్డర్లు   :%6.1d</FLDS_CREATED_STAT>
+		<FLDS_DEL_STAT>తొలగించిన ఫోల్డర్లు   :%6.1d</FLDS_DEL_STAT>
+		<FOLDER>(ఫోల్డర్)</FOLDER>
+		<FOLDER_>ఫోల్డర్</FOLDER_>
+		<FOLDER_MASK>ఫోల్డర్ ముసుగు</FOLDER_MASK>
+		<FOLDERS_X>ఫోల్డర్లు :%6.1d</FOLDERS_X>
+		<FREE_UPDATES_UNTIL>వరకు ఉచిత నవీకరణలను %s</FREE_UPDATES_UNTIL>
+		<FS_DET_VIEW_PRF>ఫైల్ సిస్టమ్ వివరాలు [ చూడండి: %s]</FS_DET_VIEW_PRF>
+		<GENERAL>జనరల్</GENERAL>
+		<GENERATED_BY_TU>Total Uninstall ద్వారా ఉత్పత్తి</GENERATED_BY_TU>
+		<HIDDEN_NODE>నోడ్ దాగి ఉంది.</HIDDEN_NODE>
+		<HIDDEN_NODE_IN_VIEW>అంశం ప్రస్తుత వీక్షణలో దాగి ఉంది.</HIDDEN_NODE_IN_VIEW>
+		<HIDE_OPTIONS>&amp;దాచు ఎంపికలు</HIDE_OPTIONS>
+		<IF_NO_ERROR>ఎటువంటి దోషాలు లేనియడల</IF_NO_ERROR>
+		<IMPORTING_ARCHIVE>దిగుమతి ఆర్కైవ్ (లు) ...</IMPORTING_ARCHIVE>
+		<INCLUDE_FOLDER_IN_LOG>చేర్చండి ఫోల్డర్ లాగ్ లో</INCLUDE_FOLDER_IN_LOG>
+		<INF_VOLATILE_KEY>వోలటైల్ కీ సృష్టించలేదు</INF_VOLATILE_KEY>
+		<INF_VOLATILE_VAL>వోలటైల్ విలువ సృష్టించలేదు</INF_VOLATILE_VAL>
+		<INST_ON>ఇన్స్టాల్ చేసిన</INST_ON>
+		<INST_PRG>ప్రోగ్రామ్ను ఇన్స్టాల్</INST_PRG>
+		<INST_PRGS>ఇన్స్టాల్ కార్యక్రమాలు</INST_PRGS>
+		<INST_SERV_AND_DEV>ఇన్స్టాల్ సేవలు మరియు పరికరాలు</INST_SERV_AND_DEV>
+		<INSTALL>ఇన్స్టాల్</INSTALL>
+		<INSTALL_HISTORY>ఇన్స్టాల్ చరిత్ర</INSTALL_HISTORY>
+		<INSTALLED_PRGS_CMPS>%d ఇన్స్టాల్ కార్యక్రమాలు, %d వ్యవస్థ భాగాలు</INSTALLED_PRGS_CMPS>
+		<INSTALLER_ERR>ఇన్స్టాలర్ లోపం గుర్తించబడింది: షేర్డ్ ఫైలు కౌంటర్ కోసం సృష్టించిన ప్రస్తుతం ఉన్న ఫైల్</INSTALLER_ERR>
+		<INTERFACE>ఇంటర్ఫేస్</INTERFACE>
+		<INVALID_AFTER_CNT>చెల్లని తరువాత కౌంటర్</INVALID_AFTER_CNT>
+		<INVALID_BEFORE_CNT>చెల్లని ముందు కౌంటర్</INVALID_BEFORE_CNT>
+		<INVALID_CURRENT_CNT>చెల్లని ప్రస్తుత కౌంటర్ రిజిస్ట్రీ లోకనిపించేను</INVALID_CURRENT_CNT>
+		<INVALID_FILE_FORMAT>చెల్లని ఫైల్ ఫార్మాట్</INVALID_FILE_FORMAT>
+		<ITEM_X>అంశం : %s</ITEM_X>
+		<KEY>కీ</KEY>
+		<KEYS_CREATED_STAT>రూపొందించిన  కీస్      :%6.1d</KEYS_CREATED_STAT>
+		<KEYS_DEL_STAT>తొలగించిన కీస్      :%6.1d</KEYS_DEL_STAT>
+		<KEYS_X>కీస్    :%6.1d</KEYS_X>
+		<LAST_CHECK>చివరి పరిశీలన: %s</LAST_CHECK>
+		<LAST_WRITE_X>చివరి రాత: %s</LAST_WRITE_X>
+		<LAUNCH>ప్రారంభం</LAUNCH>
+		<LAUNCH_SUPPLIED_UNINST>అంతర్నిర్మిత అన్ఇన్స్టాలర్ కార్యక్రమం ప్రారంభించబడుతుంది.</LAUNCH_SUPPLIED_UNINST>
+		<LAUNCH_TU>ప్రారంభించు Total Uninstall</LAUNCH_TU>
+		<LIC_COUNTRY>దేశం లైసెన్సు</LIC_COUNTRY>
+		<LIC_FAMILY>కుటుంబ లైసెన్సు</LIC_FAMILY>
+		<LIC_MULTIPLE>బహుళ కంప్యూటర్లు లైసెన్సు</LIC_MULTIPLE>
+		<LIC_SINGLE_COMPUTER>ఒకే కంప్యూటర్ లైసెన్సు</LIC_SINGLE_COMPUTER>
+		<LIC_SITE>సైట్ లైసెన్సు</LIC_SITE>
+		<LIC_SMALL_OFFICE>చిన్న ఆఫీసు లైసెన్సు</LIC_SMALL_OFFICE>
+		<LIC_TECHNICIAN>టెక్నీషియన్ లైసెన్సు</LIC_TECHNICIAN>
+		<LIC_TEMPORARY>తాత్కాలిక లైసెన్సు</LIC_TEMPORARY>
+		<LIC_WORLDWIDE>ప్రపంచవ్యాప్తంగా లైసెన్సు</LIC_WORLDWIDE>
+		<LICENSED_TO>లైసెన్స్డ్ to &quot;%s&quot;</LICENSED_TO>
+		<LNK_EXE_FILTER>షార్ట్కట్లు మరియు ఎగ్జిక్యూటబుల్ ఫైళ్లు (*.lnk, *.exe)|*.lnk;*.exe</LNK_EXE_FILTER>
+		<LOADING>లోడ్...</LOADING>
+		<LOADING_INST_PRGS>ఇన్స్టాల్ కార్యక్రమాలు లోడ్ ...</LOADING_INST_PRGS>
+		<LOADING_MON_PRGS>మానిటర్ కార్యక్రమాలు లోడ్ ...</LOADING_MON_PRGS>
+		<LOCATE_PRG_LNK_EXE>కార్యక్రమం షార్ట్కట్లు లేదా ఎగ్జిక్యూటబుల్ ఎంచుకోండి</LOCATE_PRG_LNK_EXE>
+		<LOCATE_UNINSTALLER_EXE>అన్ఇన్స్టాలర్ ఎక్జిక్యూటబుల్ ఎంచుకోండి</LOCATE_UNINSTALLER_EXE>
+		<LOG_FILE_NAME>ఫైలు పేరు ప్రవేశించండి</LOG_FILE_NAME>
+		<LOGON>లాగాన్</LOGON>
+		<MAINTENANCE_ENDED>మీ లైసెన్స్ కోసం నిర్వహణ వ్యవధి ముగిసింది.</MAINTENANCE_ENDED>
+		<MAINTENANCE_ENDED_INFO>క్రొత్త ఇన్స్టాల్ ప్రోగ్రామ్ను వెర్షన్ విచారణ మోడ్లో అమలు అవుతుంది.</MAINTENANCE_ENDED_INFO>
+		<MANUAL>మాన్యువల్</MANUAL>
+		<MISSING_ITEMS>తప్పిపోయిన అంశాలు</MISSING_ITEMS>
+		<MODIFIED>సవరించిన</MODIFIED>
+		<MON_ON>మానిటర్ on</MON_ON>
+		<MON_PRG>మానిటర్ కార్యక్రమం</MON_PRG>
+		<MON_PRG_PATH>మానిటర్ కార్యక్రమం మార్గం</MON_PRG_PATH>
+		<MON_PRG_RUNNING>మానిటర్ ప్రోగ్రామ్ ఇప్పటికీ నడుస్తున్నటు కనిపిస్తోంది.</MON_PRG_RUNNING>
+		<MONITOR_WITH_TU>Total Uninstall తొ మానిటర్  చేయండి</MONITOR_WITH_TU>
+		<MONITORED_PRGS>%d మానిటర్డ్ కార్యక్రమాలు</MONITORED_PRGS>
+		<NAME>పేరు</NAME>
+		<NEVER>ఎప్పుడూ  కాదు</NEVER>
+		<NEW_NAME>కొత్త పేరు</NEW_NAME>
+		<NO>కాదు</NO>
+		<NO_GROUPS>గ్రూపులు లేవు</NO_GROUPS>
+		<NO_MORE_INSTANCES_ALLOWED>మీ లైసెన్స్ ఈ ప్రోగ్రామ్ యొక్క మరింత సందర్భాల్లో నడువుటకు చెల్లుబాటు కాదు.</NO_MORE_INSTANCES_ALLOWED>
+		<NO_RIGHTS>సరిపోయినన్ని హక్కులు లేవు</NO_RIGHTS>
+		<NO_UPDATES>వెర్షన్ మారిపోయింది.</NO_UPDATES>
+		<NORMAL>సాధారణ</NORMAL>
+		<NOT_A_VALID_UNINST>చెలుబడి లేదా నమోదిత అన్ఇన్స్టాలర్ దొరకలేదు.</NOT_A_VALID_UNINST>
+		<NOT_AVAILABLE>N.A.</NOT_AVAILABLE>
+		<NOT_DELETED_FILES>తొలగించని ఫోల్డర్లను మరియు ఫైళ్లను</NOT_DELETED_FILES>
+		<NOT_DELETED_FILES_DET>అన్ఇన్స్టాలేషన్ సమయంలో ఫోల్డర్లు మరియు ఫైళ్లను తొలగించనివి</NOT_DELETED_FILES_DET>
+		<NOT_DELETED_REG>తొలగించని రిజిస్ట్రీ కీలు మరియు విలువలు</NOT_DELETED_REG>
+		<NOT_DELETED_REG_DET>అన్ఇన్స్టాలేషన్ సమయంలో రిజిస్ట్రీ కీలు మరియు విలువలు తొలగించనివి</NOT_DELETED_REG_DET>
+		<NOT_EMPTY>ఖాళీగా లేదు</NOT_EMPTY>
+		<NOT_FOUND>దొరకలేదు</NOT_FOUND>
+		<NOT_FOUND_X>దొరకలేదు: %s</NOT_FOUND_X>
+		<NOTES>గమనికలు</NOTES>
+		<OK>అలాగే</OK>
+		<OK_BRA>(అలాగే)</OK_BRA>
+		<ON_PRG_CLOSE>కార్యక్రమం మూసివేస్తామని</ON_PRG_CLOSE>
+		<ON_REFRESH>On రిఫ్రెష్</ON_REFRESH>
+		<ONLY_FILES_TO_KEEP>తొలగించ లేదు. కలిగివున ఫైళ్లు లేదా ఫోల్డర్లను ఉంచడానికి మాత్రమే.</ONLY_FILES_TO_KEEP>
+		<ONLY_KEYS_TO_KEEP>తొలగించ లేదు. కలిగివున రిజిస్ట్రీ కీలు ఉంచడానికి మాత్రమే.</ONLY_KEYS_TO_KEEP>
+		<OTHER>ఇతర</OTHER>
+		<PAGE>పేజీ:</PAGE>
+		<PAINT_ITEM_STYLES>సాధారణ\nదాచు\nహైలైట్ టెక్స్ట్\nడిమ్ చిహ్నం\nడిమ్ చిహ్నం మరియు హైలైట్ టెక్స్ట్</PAINT_ITEM_STYLES>
+		<PENDING_FILE_REN>ఫైలు పేరుమార్పుల కార్యకలాపాలు పెండింగ్లో ఉన్నాయి.</PENDING_FILE_REN>
+		<PRE_INST_SNS_NAME>ఇన్స్టాల్ ముందు స్నాప్షాట్ పేరు</PRE_INST_SNS_NAME>
+		<PRE_INSTALL>ఇన్స్టాల్ ముందు వ్యవస్థ స్నాప్షాట్</PRE_INSTALL>
+		<PREFERENCES>ప్రాధాన్యతలు</PREFERENCES>
+		<PRG_DETECTED>కార్యక్రమం గుర్తించిన:</PRG_DETECTED>
+		<PRG_NAME>కార్యక్రమం పేరు</PRG_NAME>
+		<PRG_PART_UNINSTALLED>కార్యక్రమం పాక్షికంగా అన్ఇన్స్టాల్</PRG_PART_UNINSTALLED>
+		<PRG_RESTORED>కార్యక్రమం పునరుద్ధరించబడింది..</PRG_RESTORED>
+		<PRG_UNINSTALLED>ప్రోగ్రామ్ విజయవంతంగా అన్ఇన్స్టాల్</PRG_UNINSTALLED>
+		<PRINT_ERROR>ప్రింటింగ్ లోపం !</PRINT_ERROR>
+		<PROCESS_CANCELLED>ప్రాసెస్ రద్దు చేయబడింది.</PROCESS_CANCELLED>
+		<PROCESSING_INSTALLATIONS>ప్రోసెసింగ్ సంస్థాపనలు ...</PROCESSING_INSTALLATIONS>
+		<PRODUCT_UPDATES>కార్యక్రమం నవీకరణలు</PRODUCT_UPDATES>
+		<PROGRAM_WILL_RESTART>కార్యక్రమం నమోదు పూర్తి పునఃప్రారంభించబడుతుంది.</PROGRAM_WILL_RESTART>
+		<PROGRESS_DEFAULT>ప్రోగ్రెస్, డిఫాల్ట్</PROGRESS_DEFAULT>
+		<PST_INST_SNS_NAME>ఇన్స్టాల్ అనంతరము స్నాప్షాట్ పేరు</PST_INST_SNS_NAME>
+		<PUBLISHER>ప్రచురణ</PUBLISHER>
+		<QST_DEL_FLD_FILES>మీరు ఎంచుకున్న ఫోల్డర్లను లేదా ఫైళ్ళను తొలగించడానికి నిశ్చయించుకున్నారా?</QST_DEL_FLD_FILES>
+		<QST_DEL_REG_KEYS_VALS>మీరు ఎంచుకున్న కీలు లేదా విలువలను తొలగించడానికి నిశ్చయించుకున్నారా?</QST_DEL_REG_KEYS_VALS>
+		<QST_DEL_SERVICES>మీరు ఎంచుకున్న సేవలు తొలగించడానికి నిశ్చయించుకున్నారా?</QST_DEL_SERVICES>
+		<QST_REMOVE_INST_PRG_LST>మీరు జాబితా నుండి ఎంచుకున్న కార్యక్రమం తొలగించాలని నిశ్చయించుకున్నారా?</QST_REMOVE_INST_PRG_LST>
+		<QUEST_REMOVE_GROUP>గుంపును తొలగించు?</QUEST_REMOVE_GROUP>
+		<QUIET_PROGRESS_DEFAULT>క్వైట్, పురోగతి, డిఫాల్ట్</QUIET_PROGRESS_DEFAULT>
+		<README>నను చదువు</README>
+		<READY>రెడీ</READY>
+		<RECORD_CHANGED_X>రికార్డ్ మారింది: %s</RECORD_CHANGED_X>
+		<REDO_PROFILES>ప్రొఫైల్స్ పునరుద్ధరించు</REDO_PROFILES>
+		<REG_DET_VIEW_PRF>రిజిస్ట్రీ వివరాలు [చూడండి: %s]</REG_DET_VIEW_PRF>
+		<REG_KEY>(REG KEY)</REG_KEY>
+		<REG_RUN>రన్</REG_RUN>
+		<REG_RUN_ONCE>ఒకసారి రన్</REG_RUN_ONCE>
+		<REG_SCAN_ERROR>రిజిస్ట్రీ స్కాన్ సమయంలో లోపం ఏర్పడింది.</REG_SCAN_ERROR>
+		<REG_VAL>(REG VAL)</REG_VAL>
+		<REGISTER_DISABLED_KEY>మీరు నకిలీ సాఫ్ట్వేర్ బాధితురాలు కావచ్చు. ఒక వాస్తవమైన లైసెన్స్ కీ కొనుగోలు చేయండి దయచేసి.</REGISTER_DISABLED_KEY>
+		<REGISTER_FAILED>నమోదు విఫలమైంది.</REGISTER_FAILED>
+		<REGISTER_FIREWALL>ఒక ఫైర్వాల్ మీ లైసెన్స్ ఆన్లైన్ ధ్రువీకరణ నిరోధిస్తునది</REGISTER_FIREWALL>
+		<REGISTER_HOST>అతిధేయ ఫైల్ లో ప్రవేశము మీ లైసెన్స్ ఆన్లైన్ ధ్రువీకరణ నిరోధిస్తున్నాయి.</REGISTER_HOST>
+		<REGISTER_INVALID>చెల్లని రిజిస్ట్రీ నమోదు సమాచారము</REGISTER_INVALID>
+		<REGISTER_PRO>మీరు ప్రొఫెషనల్ ఎడిషన్ కోసం ఒక కీ తో కార్యక్రమం నమోదు చేయాలి.</REGISTER_PRO>
+		<REGISTER_THANK_YOU>నమోదునకు ధన్యవాదాలు. %s.</REGISTER_THANK_YOU>
+		<REGISTERED_COMPANY>నమోదైన కంపెనీ</REGISTERED_COMPANY>
+		<REGISTERED_OWNER>నమోదైన యజమాని</REGISTERED_OWNER>
+		<REGISTRY>రిజిస్ట్రీ</REGISTRY>
+		<REMOVE_LEFT_BEHIND>ప్రెస్ అన్ఇన్స్టాల్ మిగిలిన కనుగొనబడిన ఫోల్డర్లను, ఫైళ్లు, రిజిస్ట్రీ కీలు మరియు విలువలు తొలగించడానికి.</REMOVE_LEFT_BEHIND>
+		<REMOVE_LOG>తొలగించు మార్పుల లాగ్?</REMOVE_LOG>
+		<REMOVE_LOG_DET>మీరు ఎంచుకున్న కార్యక్రమం చేసిన మార్పులు పునరుద్ధరించడం చేయలేరు.</REMOVE_LOG_DET>
+		<REMOVE_PRG_DATA>సెట్టింగులను మరియు ప్రోగ్రామ్ డేటాను తీసివెయ్యి?</REMOVE_PRG_DATA>
+		<REMOVE_PRG_DATA_INFO>ఎంచుకోండి &quot;నో&quot; మీరు అప్డేట్ లేదా నవీకరించటానికి ఎంచుకోండి</REMOVE_PRG_DATA_INFO>
+		<RENAME>పేరుమార్చు</RENAME>
+		<REQUEST_INTERNET_ACCESS>ఇంటర్నెట్ సదుపాయం అవసరం.</REQUEST_INTERNET_ACCESS>
+		<RESTORATION_UNDONE>పునరుద్ధరణ రద్దు చేశారు.</RESTORATION_UNDONE>
+		<RESTORE>పునరుద్ధరించు</RESTORE>
+		<RESTORE_PROGRAM>కార్యక్రమం పునరుద్ధరించు</RESTORE_PROGRAM>
+		<RESTORE_REG_VALS>రిజిస్ట్రీ విలువలు పునరుద్ధరించు</RESTORE_REG_VALS>
+		<RESTORING_ARCHIVE>ఫైళ్లు మరియు రిజిస్ట్రీ అంశాలను పునరుద్ధరించడం ...</RESTORING_ARCHIVE>
+		<RESTORING_FILES_FROM_BKP>బ్యాకప్ నుండి పునరుద్దరణ ఫైళ్ళను ...</RESTORING_FILES_FROM_BKP>
+		<RST_FILE_PROP>ఫైలు లక్షణాలు పునరుద్ధరించు</RST_FILE_PROP>
+		<RUN_EVAL_PERIOD>పరిశోధన కాలం లో ప్రోగ్రామ్ను అమలు?</RUN_EVAL_PERIOD>
+		<RUNNING>రన్నింగ్</RUNNING>
+		<RUNNING_DOMAIN>Windows NT డొమైన్ లో నడుస్తోంది.</RUNNING_DOMAIN>
+		<RUNNING_SERVER>Windows సర్వర్ లో నడుస్తోంది.</RUNNING_SERVER>
+		<RUNNING_VM>virtual machine లో నడుస్తోంది..</RUNNING_VM>
+		<SAFE>సేఫ్</SAFE>
+		<SAVE_AS>గా సేవ్</SAVE_AS>
+		<SCAN_PROFILES>స్కానింగ్ ప్రొఫైల్స్</SCAN_PROFILES>
+		<SCANNING>స్కానింగ్ ...</SCANNING>
+		<SCANNING_REGISTRY_AND_FS>స్కానింగ్ రిజిస్ట్రీ మరియు ఫైల్ వ్యవస్థ ...</SCANNING_REGISTRY_AND_FS>
+		<SCHEDULED_TASKS>షెడ్యూల్డ్ పనులు</SCHEDULED_TASKS>
+		<SEARCH>శోధన</SEARCH>
+		<SEARCH_IN_X>లో శోధన  &quot;%s&quot;</SEARCH_IN_X>
+		<SEL_BRA>(ఎన్నిక)</SEL_BRA>
+		<SEL_HAS_HD_NODES>ఎంపిక కనీసం ఒక దాచిన నోడ్ కలిగి ఉనది.</SEL_HAS_HD_NODES>
+		<SEL_PRG_UNINSTALLED>ఎంపిక కార్యక్రమం ఇప్పటికే అన్ఇన్స్టాల్.</SEL_PRG_UNINSTALLED>
+		<SEL_UNINSTALL_PROFILE>ఒక అన్ఇన్స్టాల్ ప్రొఫైల్ను ఎంచుకోండి.</SEL_UNINSTALL_PROFILE>
+		<SELECT>ఎంచుకోండి</SELECT>
+		<SERVICE>సర్వీస్</SERVICE>
+		<SERVICES>సర్వీస్లు</SERVICES>
+		<SHARED_FILE>భాగస్వామ్య ఫైలు. ఈ దశలో తొలగించలేదు</SHARED_FILE>
+		<SHARED_FILE_CNT_DEC>భాగస్వామ్య ఫైళ్ళ కౌంటర్ ఇప్పటికే తరుగుదల అయింది</SHARED_FILE_CNT_DEC>
+		<SHARED_FILE_NOT_FOUND>డిస్కులో భాగస్వామ్య ఫైల్ కనుగొనబడలేదు</SHARED_FILE_NOT_FOUND>
+		<SHOW_OPTIONS>&amp;చూపించు ఎంపికలను</SHOW_OPTIONS>
+		<SHOW_SYS_COMP>చూపించు వ్యవస్థ భాగాలు: %s</SHOW_SYS_COMP>
+		<SIZE>పరిమాణం</SIZE>
+		<SIZE_STAT>పరిమాణం                    : %s</SIZE_STAT>
+		<SKIP>దాటవేయి</SKIP>
+		<SKIP_BUILTIN_UNINSTALLER>నడుస్తున్న అంతర్నిర్మిత అన్ఇన్స్టాలర్ స్పందించనపుడు, ప్రెస్ చేయండి దాటవేయి కొనసాగించడానికి . తదుపరి అంతర్నిర్మిత అన్ఇన్స్టాలర్ ప్రారంభించబడుతుంది.</SKIP_BUILTIN_UNINSTALLER>
+		<SMALL_CNT>భాగస్వామ్య ఫైళ్ళకౌంటర్ రిజిస్ట్రీలో చాలా చిన్నదిగ ఉనది.</SMALL_CNT>
+		<START>ప్రారంభం</START>
+		<START_MENU>ప్రారంభం మెనూ</START_MENU>
+		<START_SCANNING>ప్రెస్ స్కాన్ బటన్ స్కానింగ్ ప్రారంభించడానికి.</START_SCANNING>
+		<START_UNINSTALL_PROCESS>అన్ఇన్స్టాల్ ప్రక్రియ ప్రారంభం చేయండి.</START_UNINSTALL_PROCESS>
+		<STARTUP_TYPE_X>ప్రారంభ రకం : %s</STARTUP_TYPE_X>
+		<STOP>ఆపు</STOP>
+		<STOP_SERVICES>సేవలు ఆపు</STOP_SERVICES>
+		<STOPPED>ఆగిపోయింది</STOPPED>
+		<SUMMARY>సారాంశం</SUMMARY>
+		<SUPPORT_INFO>మద్దతు సమాచారం</SUPPORT_INFO>
+		<SUPPORT_PHONE>మద్దతు టెలిఫోన్</SUPPORT_PHONE>
+		<SVC_CMD_NOT_ACCEPTED>సర్వీస్ స్టాప్ ఆదేశం అంగీకరించడం లేదు.</SVC_CMD_NOT_ACCEPTED>
+		<SW_VERSION>సంస్కరణ %s</SW_VERSION>
+		<SYSTEM>వ్యవస్థ</SYSTEM>
+		<TEMPORARY_FILES>తాత్కాలిక  ఫైళ్లు</TEMPORARY_FILES>
+		<TITLE_MON_INSTALL>న్యూ సంస్థాపన మానిటర్</TITLE_MON_INSTALL>
+		<TITLE_MON_UPDATE_X>మానిటర్ ప్రోగ్రామ్ నవీకరణ &quot;%s&quot;</TITLE_MON_UPDATE_X>
+		<TOTAL_LIC_COMPUTERS>పైన పేరు కోసం మొత్తం లైసెన్స్ కంప్యూటర్లు: %s</TOTAL_LIC_COMPUTERS>
+		<TOTAL_UNINSTALL>Total uninstall</TOTAL_UNINSTALL>
+		<TRACES_AFTER_UNINSTALL>అన్ఇన్స్టాల్ తర్వాత అవశేషాలు</TRACES_AFTER_UNINSTALL>
+		<TRIAL_EXPIRED>ట్రయల్ వ్యవధి ముగిసింది. నమోదు చేయండి.</TRIAL_EXPIRED>
+		<TU_AGENT>Total Uninstall ఏజెంట్</TU_AGENT>
+		<TU_MON_PRG_TITLE>మానిటర్ కార్యక్రమాలు</TU_MON_PRG_TITLE>
+		<TU_PRO_EDITION>Total Uninstall Professional Edition</TU_PRO_EDITION>
+		<TU_STD_EDITION>Total Uninstall Standard Edition</TU_STD_EDITION>
+		<TU_ULT_EDITION>Total Uninstall Ultimate Edition</TU_ULT_EDITION>
+		<TU_USE_FIRST_UNINST>Total uninstall తొలి అందించిన అన్ఇన్స్టాలర్ ఉపయోగిస్తోంది</TU_USE_FIRST_UNINST>
+		<TU_USE_FIRST_UNINST_DESC>Uninstall anti-virus, anti-spyware, firewall, driver or any program that installs system devices.</TU_USE_FIRST_UNINST_DESC>
+		<UNDO>అన్డు</UNDO>
+		<UNDO_RESTORATION>అన్డు పునరుద్ధరణ</UNDO_RESTORATION>
+		<UNINST_ANALYZED>అన్ఇన్స్టాల్ విశ్లేషించిన కార్యక్రమం</UNINST_ANALYZED>
+		<UNINST_BUNDLE>అన్ఇన్స్టాల్ విశ్లేషించిన కార్యక్రమాలు - కట్ట</UNINST_BUNDLE>
+		<UNINST_PROFILES>అన్ఇన్స్టాల్ ప్రొఫైల్స్</UNINST_PROFILES>
+		<UNINSTALL>అన్ఇన్స్టాల్</UNINSTALL>
+		<UNINSTALL_INST_HINT>అన్ఇన్స్టాల్ |అన్ఇన్స్టాల్ ఎంపిక విశ్లేషించిన కార్యక్రమం</UNINSTALL_INST_HINT>
+		<UNINSTALL_LOG>అన్ఇన్స్టాల్ లాగ్</UNINSTALL_LOG>
+		<UNINSTALL_MON_HINT>అన్ఇన్స్టాల్ |అన్ఇన్స్టాల్ ఎంపిక మానిటర్ కార్యక్రమం</UNINSTALL_MON_HINT>
+		<UNINSTALL_PROGRAM_X>అన్ఇన్స్టాల్ ప్రోగ్రామ్ &quot;%s&quot;</UNINSTALL_PROGRAM_X>
+		<UNINSTALLED_WITH_TU>Total Uninstall తో అన్ఇన్స్టాల్ &quot;%s&quot;</UNINSTALLED_WITH_TU>
+		<UNREGISTERED>నమోదుకాని</UNREGISTERED>
+		<USE_LAST_SNS>గత స్నాప్షాట్ ఉపయోగించండి</USE_LAST_SNS>
+		<USE_LAST_SNS_AGO_D>గత స్నాప్షాట్ ఉపయోగించండి (%d రోజులు, %d గంటలు మరియు %d నిమిషాల క్రితం)</USE_LAST_SNS_AGO_D>
+		<USE_LAST_SNS_AGO_H>గత స్నాప్షాట్ ఉపయోగించండి (%d గంటలు మరియు %d నిమిషాల క్రితం)</USE_LAST_SNS_AGO_H>
+		<USE_LAST_SNS_AGO_M>గత స్నాప్షాట్ ఉపయోగించండి (%d నిమిషాల క్రితం)</USE_LAST_SNS_AGO_M>
+		<USE_OLD_PURCHASE_NEW>పాత వెర్షన్ ఇన్స్టాల్ చేయండి, లేదా ఈ వెర్షన్ ఉపయోగించడానికి నవీకరణ కొనుగోలు చేయండి.</USE_OLD_PURCHASE_NEW>
+		<USE_ONLY_PRG_UNINST>ఉపయోగించండి ప్రోగ్రామ్ యొక్క అన్ఇన్స్టాలర్ మాత్రమే &apos;</USE_ONLY_PRG_UNINST>
+		<USE_OR_BUILD_SNS>బిల్డ్ లేదా ఒక మునుపటి ముందు ఇన్స్టాల్ స్నాప్షాట్ ఉపయోగించండి.</USE_OR_BUILD_SNS>
+		<USR_ABORT>యూజర్ ద్వారా ఆగిపోయిన</USR_ABORT>
+		<VALS_CHG_STAT>విలువలు సవరించబడిన  :%6.1d</VALS_CHG_STAT>
+		<VALS_CREATED_STAT>రూపొందించిన విలువలు   :%6.1d</VALS_CREATED_STAT>
+		<VALS_DEL_STAT>విలువలు తొలగించబడినవి   :%6.1d</VALS_DEL_STAT>
+		<VALUE>విలువ</VALUE>
+		<VALUES_X>విలువలు  :%6.1d</VALUES_X>
+		<VERSION>వెర్షన్</VERSION>
+		<WAIT_UNINST_REMOVE_LEFT>అంతర్నిర్మిత అన్ఇన్స్టాలర్ కార్యక్రమం పూర్తి అయినప్పుడు, మిగిలిన ఫోల్డర్లను, ఫైళ్లు, రిజిస్ట్రీ కీలు మరియు విలువలు తొలగించడానికి అన్ఇన్స్టాల్ బటన్ నొక్కండి.</WAIT_UNINST_REMOVE_LEFT>
+		<WRN_BRA>(WRN)</WRN_BRA>
+		<X_BYTE>%s B</X_BYTE>
+		<X_BYTES>%d bytes</X_BYTES>
+		<X_CHANGES>%s - మార్పులు</X_CHANGES>
+		<X_GIGABYTE>%s GB</X_GIGABYTE>
+		<X_KILOBYTE>%s KB</X_KILOBYTE>
+		<X_MEGABYTE>%s MB</X_MEGABYTE>
+		<X_RESULTS>%d ఫలితం (లు)</X_RESULTS>
+		<X_UNINSTALL_LOG>&quot;%s&quot; - అన్ఇన్స్టాల్ లాగ్</X_UNINSTALL_LOG>
+		<X_UNINSTALL_LOG_FILE>&quot;%s&quot; - అన్ఇన్స్టాల్ లాగ్.txt</X_UNINSTALL_LOG_FILE>
+		<YES>అవును</YES>
+		<ZERO_LENGTH_DATA>(సున్నా పొడవు డేటా)</ZERO_LENGTH_DATA>
+	</RESOURCESTRING>
+</TotalUninstall>

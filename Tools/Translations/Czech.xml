@@ -1,0 +1,2619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TotalUninstall>
+	<_System_>
+		<Flag>
+			<Size>1974</Size>
+			<Data>Qk22BwAAAAAAADYAAAAoAAAAIAAAABQAAAABABgAAAAAAIAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/wAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA////////////////////////////////////////////////////////////////////////////////////AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA////////////////////////////////////////////////////////////////////////////////////////AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA////////////////////////////////////////////////////////////////////////////////////////////AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA////////////////////////////////////////////////////////////////////////////////////////////////AAAAAAAA/wAA/wAA/wAA/wAA/wAA////////////////////////////////////////////////////////////////////////////////////////////////////AAAAAAAA/wAA/wAA/wAA/wAA////////////////////////////////////////////////////////////////////////////////////////////////////////AAAAAAAA/wAA/wAA/wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////AAAAAAAA/wAA/wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAAAAAAA/wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Data>
+		</Flag>
+		<LanguageCode>en</LanguageCode>
+		<LocalizedName>Čeština</LocalizedName>
+		<Version>62400</Version>
+	</_System_>
+	<Cleaner>
+		<CF-BROWSER-CACHE>Prohlížeč</CF-BROWSER-CACHE>
+		<CF-BROWSER-CACHE-FIREFOX>Firefox</CF-BROWSER-CACHE-FIREFOX>
+		<CF-BROWSER-CACHE-CHROME>Chrome</CF-BROWSER-CACHE-CHROME>
+		<CF-BROWSER-CACHE-IE>Internet Explorer</CF-BROWSER-CACHE-IE>
+		<CF-BROWSER-CACHE-MAXTHON>Maxthon</CF-BROWSER-CACHE-MAXTHON>
+		<CF-BROWSER-CACHE-OPERA>Opera</CF-BROWSER-CACHE-OPERA>
+		<CF-PROGRAMS>Programy</CF-PROGRAMS>
+		<CF-PROGRAMS-ADOBE-FLASH-PLAYER>Adobe Flash Player</CF-PROGRAMS-ADOBE-FLASH-PLAYER>
+		<CF-PROGRAMS-MSOFFICE-RECENT>Seznam nedávných souborů Microsoft Office</CF-PROGRAMS-MSOFFICE-RECENT>
+		<CF-PROGRAMS-SUN-JAVA-CACHE>Cache Sun Java</CF-PROGRAMS-SUN-JAVA-CACHE>
+		<CF-SYSTEM>Systém</CF-SYSTEM>
+		<CF-SYSTEM-JUNK-FILES>Odpadní soubory</CF-SYSTEM-JUNK-FILES>
+		<CF-SYSTEM-RECYCLE-BIN>Koš pro vynucené mazání</CF-SYSTEM-RECYCLE-BIN>
+		<CF-SYSTEM-TEMP-FILES>Dočasné soubory</CF-SYSTEM-TEMP-FILES>
+		<CF-SYSTEM-THUMBNAILS-CACHE>Cache miniatur</CF-SYSTEM-THUMBNAILS-CACHE>
+		<CF-WINDOWS>Windows</CF-WINDOWS>
+		<CF-WINDOWS-ERROR-REPORTING>Chybové hlášení</CF-WINDOWS-ERROR-REPORTING>
+		<CF-WINDOWS-ETL-FILES>Soubory protokolu trasování událostí</CF-WINDOWS-ETL-FILES>
+		<CF-WINDOWS-EVL-FILES>Prohlížeč událostí souboru protokolu</CF-WINDOWS-EVL-FILES>
+		<CF-WINDOWS-EXPLORER>Windows Explorer</CF-WINDOWS-EXPLORER>
+		<CF-WINDOWS-EXPLORER-RECENT-FILES>Nedávné dokumenty</CF-WINDOWS-EXPLORER-RECENT-FILES>
+		<CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>Vynechané prázdné složky</CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>
+		<CF-WINDOWS-LOG-FILES>Záznamové soubory</CF-WINDOWS-LOG-FILES>
+		<CF-WINDOWS-MEMORY-DUMP-FILES>Výpisy z paměti</CF-WINDOWS-MEMORY-DUMP-FILES>
+		<CF-WINDOWS-TEMP-FOLDERS>Dočasné složky</CF-WINDOWS-TEMP-FOLDERS>
+		<CR-INVALID-ENTRIES>Neplatné položky</CR-INVALID-ENTRIES>
+		<CR-INVALID-ENTRIES-FILE-REFERENCES>Odkazy souboru</CR-INVALID-ENTRIES-FILE-REFERENCES>
+		<CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>Vynechané prázdné klíče</CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>
+		<CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>Chybějící sdílené DLL</CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>
+		<CR-INVALID-ENTRIES-MSI-PATHS>Cesty MSI</CR-INVALID-ENTRIES-MSI-PATHS>
+		<CR-INVALID-ENTRIES-MUI-REFERENCES>Odkazy MUI</CR-INVALID-ENTRIES-MUI-REFERENCES>
+		<CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>Formáty souboru bez informací</CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>
+		<CR-MUI-REFERENCES>Odkazy MUI</CR-MUI-REFERENCES>
+	</Cleaner>
+	<dlgAddInstalledPrg>
+		<btnCancel>
+			<Caption>Storno</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Přidat program do seznamu</Caption>
+		<lblBuiltInUninstaller>
+			<Caption>Vložený odinstalátor</Caption>
+		</lblBuiltInUninstaller>
+		<lblInstallationFolder>
+			<Caption>Nainstalovaný ve složce</Caption>
+		</lblInstallationFolder>
+		<lblPrgName>
+			<Caption>Název programu</Caption>
+		</lblPrgName>
+	</dlgAddInstalledPrg>
+	<dlgAskDelItem>
+		<btnOK>
+			<Caption>&amp;OK</Caption>
+		</btnOK>
+		<btnSelectAll>
+			<Caption>&amp;Označit všechny</Caption>
+		</btnSelectAll>
+		<btnUnselectAll>
+			<Caption>&amp;Odznačit všechny</Caption>
+		</btnUnselectAll>
+		<Caption>Smazat položky?</Caption>
+		<cbAutoSelectAll>
+			<Caption>Automaticky označit vše</Caption>
+		</cbAutoSelectAll>
+		<lblDelSel>
+			<Caption>Vybrané položky budou smazány</Caption>
+		</lblDelSel>
+	</dlgAskDelItem>
+	<dlgAutorunItem>
+		<btnCancel>
+			<Caption>Storno</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Položka Po spuštění</Caption>
+		<gbStartLocation>
+			<Caption>Umístění spuštění</Caption>
+		</gbStartLocation>
+		<gbUser>
+			<Caption>Po spuštění a přihlášení</Caption>
+		</gbUser>
+		<lblCommand>
+			<Caption>Příkaz</Caption>
+		</lblCommand>
+		<lblName>
+			<Caption>Název</Caption>
+		</lblName>
+		<rbLogonAnyUser>
+			<Caption>Každý uživatel</Caption>
+		</rbLogonAnyUser>
+		<rbLogonCurentUser>
+			<Caption>Aktuální uživatel</Caption>
+		</rbLogonCurentUser>
+		<rbRegRun>
+			<Caption>Registr, spustit po každém přihlášení</Caption>
+		</rbRegRun>
+		<rbRegRunOnce>
+			<Caption>Registr, spustit pouze jednou při příštím přihlášení</Caption>
+		</rbRegRunOnce>
+		<rbStartMenu>
+			<Caption>Složka Po spuštění, spustit po každém přihlášení</Caption>
+		</rbStartMenu>
+	</dlgAutorunItem>
+	<dlgCompareSns>
+		<btnCancel>
+			<Caption>Storno</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Porovnat snímky systému</Caption>
+		<lblCompareProfile>
+			<Caption>Porovnat profily</Caption>
+		</lblCompareProfile>
+		<lblResultLog>
+			<Caption>Záznam s výsledky</Caption>
+		</lblResultLog>
+		<lblSnapshotA>
+			<Caption>Snímek systému A</Caption>
+		</lblSnapshotA>
+		<lblSnapshotB>
+			<Caption>Snímek systému B</Caption>
+		</lblSnapshotB>
+	</dlgCompareSns>
+	<dlgExportRegistry>
+		<btnCancel>
+			<Caption>Storno</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Export změn registru</Caption>
+		<cbCreatedKeys>
+			<Caption>Vytvořené klíče</Caption>
+		</cbCreatedKeys>
+		<cbCreatedValues>
+			<Caption>Vytvořené hodnoty</Caption>
+		</cbCreatedValues>
+		<cbDeletedKeys>
+			<Caption>Smazané klíče</Caption>
+		</cbDeletedKeys>
+		<cbDeletedValues>
+			<Caption>Smazané hodnoty</Caption>
+		</cbDeletedValues>
+		<cbModifiedValues>
+			<Caption>Změněné hodnoty</Caption>
+		</cbModifiedValues>
+		<gbDetails>
+			<Caption>Změny registru</Caption>
+		</gbDetails>
+		<gbExportType>
+			<Caption>Typ exportu</Caption>
+		</gbExportType>
+		<gbRange>
+			<Caption>Rozsah exportu</Caption>
+		</gbRange>
+		<rbExpAll>
+			<Caption>Vše</Caption>
+		</rbExpAll>
+		<rbExpBranch>
+			<Caption>Vybraná větev</Caption>
+		</rbExpBranch>
+		<rbInstall>
+			<Caption>Soubor instalace</Caption>
+		</rbInstall>
+		<rbUninstall>
+			<Caption>Soubor odinstalace</Caption>
+		</rbUninstall>
+	</dlgExportRegistry>
+	<dlgGroupProp>
+		<btnCancel>
+			<Caption>Storno</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Skupina</Caption>
+		<lblIcon>
+			<Caption>Ikona</Caption>
+		</lblIcon>
+		<lblName>
+			<Caption>Název</Caption>
+		</lblName>
+	</dlgGroupProp>
+	<dlgChangeIcon>
+		<btnBrowse>
+			<Caption>Procházet...</Caption>
+		</btnBrowse>
+		<btnCancel>
+			<Caption>Storno</Caption>
+		</btnCancel>
+		<btnClear>
+			<Caption>Vyčistit</Caption>
+		</btnClear>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Změnit ikonu</Caption>
+		<gbIcons>
+			<Caption>Ikony</Caption>
+		</gbIcons>
+	</dlgChangeIcon>
+	<dlgCheckUpdates>
+		<btnClose>
+			<Caption>Zavřít</Caption>
+		</btnClose>
+		<btnRefresh>
+			<Caption>Obnovit</Caption>
+		</btnRefresh>
+		<Caption>Ověřit aktualizace</Caption>
+	</dlgCheckUpdates>
+	<dlgMergeLogs>
+		<btnCancel>
+			<Caption>Storno</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Sloučit záznamy</Caption>
+		<cbDeleteUpdate>
+			<Caption>Po sloučení smazat záznam aktualizace</Caption>
+		</cbDeleteUpdate>
+		<gbDestination>
+			<Caption>Cílové umístění</Caption>
+		</gbDestination>
+		<gbSources>
+			<Caption>Zdroje</Caption>
+		</gbSources>
+		<lblInstallLog>
+			<Caption>Záznam instalace</Caption>
+		</lblInstallLog>
+		<lblNewName>
+			<Caption>Nový název</Caption>
+		</lblNewName>
+		<lblUpdateLog>
+			<Caption>Záznam aktualizace</Caption>
+		</lblUpdateLog>
+		<rbCreateANewLog>
+			<Caption>Vytvořit nový záznam</Caption>
+		</rbCreateANewLog>
+		<rbSaveInInstallLog>
+			<Caption>Uložit do instalačního záznamu</Caption>
+		</rbSaveInInstallLog>
+	</dlgMergeLogs>
+	<dlgPendingFileRename>
+		<btnApply>
+			<Caption>Použít</Caption>
+		</btnApply>
+		<btnClose>
+			<Caption>Zavřít</Caption>
+		</btnClose>
+		<Caption>Operace, čekající na přejmenování souboru</Caption>
+		<tvPendingFiles>
+			<Columns_0>Zdroj</Columns_0>
+			<Columns_1>Cílové umístění</Columns_1>
+		</tvPendingFiles>
+	</dlgPendingFileRename>
+	<dlgRegister>
+		<btnBuy>
+			<Caption>Koupit</Caption>
+		</btnBuy>
+		<btnCancel>
+			<Caption>Storno</Caption>
+		</btnCancel>
+		<btnRegister>
+			<Caption>Registrovat</Caption>
+		</btnRegister>
+		<Caption>Registrovat Total Uninstall</Caption>
+		<lblKey>
+			<Caption>Registrační klíč</Caption>
+		</lblKey>
+		<lblName>
+			<Caption>Registrační jméno</Caption>
+		</lblName>
+		<ulblLostRegistrationInfo>
+			<Caption>Ztratil jsem své registrační informace.</Caption>
+		</ulblLostRegistrationInfo>
+	</dlgRegister>
+	<dlgRestrictedFeature>
+		<btnCancel>
+			<Caption>Storno</Caption>
+		</btnCancel>
+		<Caption>Omezení vlastnosti</Caption>
+		<clinkPurchase>
+			<Caption>Koupit</Caption>
+			<Note>Otevřít objednávkový formulář</Note>
+		</clinkPurchase>
+		<lblInstruction>
+			<Caption>Tato vlastnost je dostupná pouze v registrované verzi</Caption>
+		</lblInstruction>
+		<lblProfessionalEdition>
+			<Caption>-  Profesionální edice</Caption>
+		</lblProfessionalEdition>
+	</dlgRestrictedFeature>
+	<dlgRmvShared>
+		<btnNo>
+			<Caption>Ne</Caption>
+		</btnNo>
+		<btnNoToAll>
+			<Caption>Ne všem</Caption>
+		</btnNoToAll>
+		<btnYes>
+			<Caption>Ano</Caption>
+		</btnYes>
+		<btnYesToAll>
+			<Caption>Ano všem</Caption>
+		</btnYesToAll>
+		<Caption>Odstranit sdílený soubor?</Caption>
+		<lblFileName>
+			<Caption>Název souboru:</Caption>
+		</lblFileName>
+		<lblLocated>
+			<Caption>Umístění:</Caption>
+		</lblLocated>
+		<lblOne>
+			<Caption>Systém zjistil, že sdílený soubor již není používán žádným programem. Pokud jej odstraníte, a některý ho bude potřebovat, nebude bez něj pracovat. Přejete si níže zobrazený sdílený soubor ze systému odstranit?</Caption>
+		</lblOne>
+		<lblTwo>
+			<Caption>Ponechání souboru je pro systém neškodné. Jestliže si nejste jisti, co máte udělat, je lépe sdílený soubor v systému ponechat a neodstraňovat jej.</Caption>
+		</lblTwo>
+	</dlgRmvShared>
+	<dlgSelect>
+		<btnCancel>
+			<Caption>Storno</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Vybrat</Caption>
+	</dlgSelect>
+	<dlgSelectLibIcon>
+		<btnAdd>
+			<Caption>Přidat</Caption>
+		</btnAdd>
+		<btnCancel>
+			<Caption>Storno</Caption>
+		</btnCancel>
+		<btnDelete>
+			<Caption>Smazat</Caption>
+		</btnDelete>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Vybrat ikonu</Caption>
+		<gbIcons>
+			<Caption>Ikony</Caption>
+		</gbIcons>
+	</dlgSelectLibIcon>
+	<dlgSysBrowser>
+		<btnCancel>
+			<Caption>&amp;Storno</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>&amp;OK</Caption>
+		</btnOk>
+		<lblExpanded>
+			<Caption>Rozbalené</Caption>
+		</lblExpanded>
+	</dlgSysBrowser>
+	<dlgTUAbout>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>O programu</Caption>
+		<lblCopyright>
+			<Caption>Autorská práva © 2001-2019, Gavrila Martau</Caption>
+		</lblCopyright>
+		<lblEmail>
+			<Caption>Email:</Caption>
+		</lblEmail>
+		<lblHomePage>
+			<Caption>Domovská stránka:</Caption>
+		</lblHomePage>
+		<ulblBuyUpgrade>
+			<Caption>Koupit aktualizaci</Caption>
+		</ulblBuyUpgrade>
+		<ulblDownload>
+			<Caption>Stáhnout zdarma nejnovější aktualizaci</Caption>
+		</ulblDownload>
+	</dlgTUAbout>
+	<dlgTunBackup>
+		<btnCancel>
+			<Caption>Storno</Caption>
+		</btnCancel>
+		<btnCopy>
+			<Caption>Kopírovat do...</Caption>
+		</btnCopy>
+		<btnCreate>
+			<Caption>Vytvořit</Caption>
+		</btnCreate>
+		<lblArchiving>
+			<Caption>Archivují se soubory a položky registru...</Caption>
+		</lblArchiving>
+		<lblCreateBackup>
+			<Caption>Vytvořit zálohu programu</Caption>
+		</lblCreateBackup>
+		<lblFilesNotIncluded>
+			<Caption>Soubory nezahrnuté do zálohy</Caption>
+		</lblFilesNotIncluded>
+	</dlgTunBackup>
+	<dlgTunRestore>
+		<btnImport>
+			<Caption>Import</Caption>
+		</btnImport>
+		<cbRestoreOnlyLog>
+			<Caption>Obnovit jen záznam instalace</Caption>
+		</cbRestoreOnlyLog>
+		<lblFilesNotIncluded>
+			<Caption>Akce není spuštěna</Caption>
+		</lblFilesNotIncluded>
+		<lblRestoreProfile>
+			<Caption>Obnovit profil</Caption>
+		</lblRestoreProfile>
+		<lblRestoreProgram>
+			<Caption>Vybrat program k obnovení</Caption>
+		</lblRestoreProgram>
+		<lblUndoRestoration>
+			<Caption>Vybrat obnovení pro zpět</Caption>
+		</lblUndoRestoration>
+		<pmiCopyTo>
+			<Caption>Kopírovat do...</Caption>
+		</pmiCopyTo>
+		<pmiDelete>
+			<Caption>Smazat</Caption>
+		</pmiDelete>
+	</dlgTunRestore>
+	<dlgTUOptions>
+		<btnAddAnalysisProfile>
+			<Caption>Přidat...</Caption>
+		</btnAddAnalysisProfile>
+		<btnAddAutorunView>
+			<Caption>Přidat...</Caption>
+		</btnAddAutorunView>
+		<btnAddCleaner>
+			<Caption>Přidat...</Caption>
+		</btnAddCleaner>
+		<btnAddCompareProfile>
+			<Caption>Přidat...</Caption>
+		</btnAddCompareProfile>
+		<btnAddExclFlds>
+			<Caption>Přidat...</Caption>
+		</btnAddExclFlds>
+		<btnAddExclKey>
+			<Caption>Přidat...</Caption>
+		</btnAddExclKey>
+		<btnAddExcludeProduct>
+			<Caption>Přidat...</Caption>
+		</btnAddExcludeProduct>
+		<btnAddExcludePublisher>
+			<Caption>Přidat...</Caption>
+		</btnAddExcludePublisher>
+		<btnAddChgView>
+			<Caption>Přidat...</Caption>
+		</btnAddChgView>
+		<btnAddIgnFile>
+			<Caption>Přidat...</Caption>
+		</btnAddIgnFile>
+		<btnAddIgnChgFs>
+			<Caption>Přidat...</Caption>
+		</btnAddIgnChgFs>
+		<btnAddIgnChgReg>
+			<Caption>Přidat...</Caption>
+		</btnAddIgnChgReg>
+		<btnAddInclFlds>
+			<Caption>Přidat...</Caption>
+		</btnAddInclFlds>
+		<btnAddInclKeys>
+			<Caption>Přidat...</Caption>
+		</btnAddInclKeys>
+		<btnAddIncludeProduct>
+			<Caption>Přidat...</Caption>
+		</btnAddIncludeProduct>
+		<btnAddIncludePublisher>
+			<Caption>Přidat...</Caption>
+		</btnAddIncludePublisher>
+		<btnAddInstallLoc>
+			<Caption>Přidat...</Caption>
+		</btnAddInstallLoc>
+		<btnAddProtectedFld>
+			<Caption>Přidat...</Caption>
+		</btnAddProtectedFld>
+		<btnAddProtectedKey>
+			<Caption>Přidat...</Caption>
+		</btnAddProtectedKey>
+		<btnAddRedo>
+			<Caption>Přidat...</Caption>
+		</btnAddRedo>
+		<btnAddScanProfile>
+			<Caption>Přidat...</Caption>
+		</btnAddScanProfile>
+		<btnAddUninst>
+			<Caption>Přidat...</Caption>
+		</btnAddUninst>
+		<btnAddUninstInst>
+			<Caption>Přidat...</Caption>
+		</btnAddUninstInst>
+		<btnAddValue>
+			<Caption>Přidat...</Caption>
+		</btnAddValue>
+		<btnAddVer>
+			<Caption>Přidat...</Caption>
+		</btnAddVer>
+		<btnAgentAddExcMask>
+			<Caption>Přidat...</Caption>
+		</btnAgentAddExcMask>
+		<btnAgentAddIncMask>
+			<Caption>Přidat...</Caption>
+		</btnAgentAddIncMask>
+		<btnAgentRemExcMask>
+			<Caption>Odebrat</Caption>
+		</btnAgentRemExcMask>
+		<btnAgentRemIncMask>
+			<Caption>Odebrat</Caption>
+		</btnAgentRemIncMask>
+		<btnAnlSaveAs>
+			<Caption>Uložit jako...</Caption>
+		</btnAnlSaveAs>
+		<btnAutorunViewSaveAs>
+			<Caption>Uložit jako...</Caption>
+		</btnAutorunViewSaveAs>
+		<btnCancel>
+			<Caption>Storno</Caption>
+		</btnCancel>
+		<btnCleanerSaveAs>
+			<Caption>Uložit jako...</Caption>
+		</btnCleanerSaveAs>
+		<btnClnAddExclFs>
+			<Caption>Přidat...</Caption>
+		</btnClnAddExclFs>
+		<btnClnAddExclRegistry>
+			<Caption>Přidat...</Caption>
+		</btnClnAddExclRegistry>
+		<btnClnEditExclFs>
+			<Caption>Upravit...</Caption>
+		</btnClnEditExclFs>
+		<btnClnEditExclRegistry>
+			<Caption>Upravit...</Caption>
+		</btnClnEditExclRegistry>
+		<btnClnRemExclFs>
+			<Caption>Odebrat</Caption>
+		</btnClnRemExclFs>
+		<btnClnRemExclRegistry>
+			<Caption>Odebrat</Caption>
+		</btnClnRemExclRegistry>
+		<btnCompPlaySound>
+			<Caption>Otestovat</Caption>
+		</btnCompPlaySound>
+		<btnCompSaveAs>
+			<Caption>Uložit jako...</Caption>
+		</btnCompSaveAs>
+		<btnEditExclFlds>
+			<Caption>Upravit...</Caption>
+		</btnEditExclFlds>
+		<btnEditExclKeys>
+			<Caption>Upravit...</Caption>
+		</btnEditExclKeys>
+		<btnEditIgnFile>
+			<Caption>Upravit...</Caption>
+		</btnEditIgnFile>
+		<btnEditIgnChgFs>
+			<Caption>Upravit...</Caption>
+		</btnEditIgnChgFs>
+		<btnEditIgnChgReg>
+			<Caption>Upravit...</Caption>
+		</btnEditIgnChgReg>
+		<btnEditIgnValues>
+			<Caption>Upravit...</Caption>
+		</btnEditIgnValues>
+		<btnEditProtectedFld>
+			<Caption>Upravit...</Caption>
+		</btnEditProtectedFld>
+		<btnEditProtectedKey>
+			<Caption>Upravit...</Caption>
+		</btnEditProtectedKey>
+		<btnChgViewSaveAs>
+			<Caption>Uložit jako...</Caption>
+		</btnChgViewSaveAs>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<btnRedoSaveAs>
+			<Caption>Uložit jako...</Caption>
+		</btnRedoSaveAs>
+		<btnRemAnalysisProfile>
+			<Caption>Odstranit...</Caption>
+		</btnRemAnalysisProfile>
+		<btnRemAutorunView>
+			<Caption>Odstranit...</Caption>
+		</btnRemAutorunView>
+		<btnRemCleaner>
+			<Caption>Odstranit...</Caption>
+		</btnRemCleaner>
+		<btnRemCompareProfile>
+			<Caption>Odstranit...</Caption>
+		</btnRemCompareProfile>
+		<btnRemExclFlds>
+			<Caption>Odebrat</Caption>
+		</btnRemExclFlds>
+		<btnRemExclKeys>
+			<Caption>Odebrat</Caption>
+		</btnRemExclKeys>
+		<btnRemExcludeProduct>
+			<Caption>Odebrat</Caption>
+		</btnRemExcludeProduct>
+		<btnRemExcludePublisher>
+			<Caption>Odebrat</Caption>
+		</btnRemExcludePublisher>
+		<btnRemChgView>
+			<Caption>Odstranit...</Caption>
+		</btnRemChgView>
+		<btnRemIgnFile>
+			<Caption>Odebrat</Caption>
+		</btnRemIgnFile>
+		<btnRemIgnChgFs>
+			<Caption>Odebrat</Caption>
+		</btnRemIgnChgFs>
+		<btnRemIgnChgReg>
+			<Caption>Odebrat</Caption>
+		</btnRemIgnChgReg>
+		<btnRemInclFlds>
+			<Caption>Odebrat</Caption>
+		</btnRemInclFlds>
+		<btnRemInclKeys>
+			<Caption>Odebrat</Caption>
+		</btnRemInclKeys>
+		<btnRemIncludeProduct>
+			<Caption>Odebrat</Caption>
+		</btnRemIncludeProduct>
+		<btnRemIncludePublisher>
+			<Caption>Odebrat</Caption>
+		</btnRemIncludePublisher>
+		<btnRemoveInstallLoc>
+			<Caption>Odebrat</Caption>
+		</btnRemoveInstallLoc>
+		<btnRemoveRedo>
+			<Caption>Odstranit...</Caption>
+		</btnRemoveRedo>
+		<btnRemProtectedFld>
+			<Caption>Odebrat</Caption>
+		</btnRemProtectedFld>
+		<btnRemProtectedKey>
+			<Caption>Odebrat</Caption>
+		</btnRemProtectedKey>
+		<btnRemScanProfile>
+			<Caption>Odstranit...</Caption>
+		</btnRemScanProfile>
+		<btnRemUninst>
+			<Caption>Odstranit...</Caption>
+		</btnRemUninst>
+		<btnRemUninstInst>
+			<Caption>Odstranit...</Caption>
+		</btnRemUninstInst>
+		<btnRemValues>
+			<Caption>Odebrat</Caption>
+		</btnRemValues>
+		<btnRemVer>
+			<Caption>Odebrat</Caption>
+		</btnRemVer>
+		<btnResetAll>
+			<Caption>Vynulovat vše</Caption>
+		</btnResetAll>
+		<btnScanPlaySound>
+			<Caption>Otestovat</Caption>
+		</btnScanPlaySound>
+		<btnScanSaveAs>
+			<Caption>Uložit jako...</Caption>
+		</btnScanSaveAs>
+		<btnUninstSaveAs>
+			<Caption>Uložit jako...</Caption>
+		</btnUninstSaveAs>
+		<Caption>Možnosti</Caption>
+		<cbAnlProfileDefault>
+			<Caption>Výchozí</Caption>
+		</cbAnlProfileDefault>
+		<cbAutorunDefault>
+			<Caption>Výchozí</Caption>
+		</cbAutorunDefault>
+		<cbAutoStart>
+			<Caption>Spustit s Windows a navázat nedokončené sledování</Caption>
+		</cbAutoStart>
+		<cbBackup>
+			<Caption>Záloha odinstalovaného programu</Caption>
+		</cbBackup>
+		<cbCleanerDefault>
+			<Caption>Výchozí</Caption>
+		</cbCleanerDefault>
+		<cbCleanerEnable>
+			<Caption>Povolit modul čističe</Caption>
+		</cbCleanerEnable>
+		<cbClickRestore>
+			<Caption>Obnovit kliknutím</Caption>
+		</cbClickRestore>
+		<cbCompareRegistry>
+			<Caption>Porovnat registr</Caption>
+		</cbCompareRegistry>
+		<cbCompFiles>
+			<Caption>Porovnat soubory</Caption>
+		</cbCompFiles>
+		<cbCompPlaySound>
+			<Caption>Po dokončení přehrát zvuk</Caption>
+		</cbCompPlaySound>
+		<cbCompProfileDefault>
+			<Caption>Výchozí</Caption>
+		</cbCompProfileDefault>
+		<cbCompProfileFrozen>
+			<Caption>Zamknout</Caption>
+		</cbCompProfileFrozen>
+		<cbComputeMD5>
+			<Caption>U nových souborů vypočítat hodnotu MD5</Caption>
+		</cbComputeMD5>
+		<cbCreateKeys>
+			<Caption>Vytvořit smazané klíče</Caption>
+		</cbCreateKeys>
+		<cbCreateValues>
+			<Caption>Vytvořit smazané hodnoty</Caption>
+		</cbCreateValues>
+		<cbCustomSnsName>
+			<Caption>Povolit vlastní název snímku</Caption>
+		</cbCustomSnsName>
+		<cbDecrement>
+			<Caption>Zmenšit čítač sdílených souborů</Caption>
+		</cbDecrement>
+		<cbDelFiles>
+			<Caption>Smazat vytvořené soubory (sdílené jen tehdy, pokud je čítač 0)</Caption>
+		</cbDelFiles>
+		<cbDelFolders>
+			<Caption>Smazat vytvořené složky</Caption>
+		</cbDelFolders>
+		<cbDelKeys>
+			<Caption>Smazat vytvořené klíče</Caption>
+		</cbDelKeys>
+		<cbDelUseRecycle>
+			<Caption>Používat koš</Caption>
+		</cbDelUseRecycle>
+		<cbDelValues>
+			<Caption>Smazat vytvořené hodnoty</Caption>
+		</cbDelValues>
+		<cbDontUseLog>
+			<Caption>Nepoužívat záznam se zjištěnými změnami</Caption>
+		</cbDontUseLog>
+		<cbEnableAgent>
+			<Caption>Povolit agenta Total Uninstall</Caption>
+		</cbEnableAgent>
+		<cbExtractFileVersion>
+			<Caption>Získat informaci o verzi souboru</Caption>
+		</cbExtractFileVersion>
+		<cbExtractLastWriteTime>
+			<Caption>Získat poslední čas zápisu v aktuálním sloupci</Caption>
+		</cbExtractLastWriteTime>
+		<cbHexViewerNot64Bit>
+			<Caption>Není vědomost o 64-bit</Caption>
+		</cbHexViewerNot64Bit>
+		<cbChgViewDefault>
+			<Caption>Výchozí</Caption>
+		</cbChgViewDefault>
+		<cbIgnoreMissingItems>
+			<Caption>Ignorovat chybějící položky</Caption>
+		</cbIgnoreMissingItems>
+		<cbInstPrgsEnable>
+			<Caption>Povolit modul "Nainstalované programy"</Caption>
+		</cbInstPrgsEnable>
+		<cbMinToTray>
+			<Caption>Minimalizovat do systémové lišty</Caption>
+		</cbMinToTray>
+		<cbMonPrgsEnable>
+			<Caption>Povolit modul "Sledované programy"</Caption>
+		</cbMonPrgsEnable>
+		<cbRedoCreateFiles>
+			<Caption>Obnovit vytvořené soubory</Caption>
+		</cbRedoCreateFiles>
+		<cbRedoCreateFilesOvr>
+			<Caption>Přepsat soubory</Caption>
+		</cbRedoCreateFilesOvr>
+		<cbRedoCreateFilesOvrLck>
+			<Caption>Přepsat zamknuté soubory</Caption>
+		</cbRedoCreateFilesOvrLck>
+		<cbRedoCreateFolders>
+			<Caption>Obnovit vytvořené složky</Caption>
+		</cbRedoCreateFolders>
+		<cbRedoCreateKeys>
+			<Caption>Obnovit vytvořené klíče</Caption>
+		</cbRedoCreateKeys>
+		<cbRedoCreateUndo>
+			<Caption>Vytvořit zpětné informace</Caption>
+		</cbRedoCreateUndo>
+		<cbRedoCreateValues>
+			<Caption>Obnovit vytvořené hodnoty</Caption>
+		</cbRedoCreateValues>
+		<cbRedoDefault>
+			<Caption>Výchozí</Caption>
+		</cbRedoDefault>
+		<cbRedoDeleteFiles>
+			<Caption>Smazat soubory</Caption>
+		</cbRedoDeleteFiles>
+		<cbRedoDeleteFolders>
+			<Caption>Smazat složky</Caption>
+		</cbRedoDeleteFolders>
+		<cbRedoDeleteKeys>
+			<Caption>Smazat klíče</Caption>
+		</cbRedoDeleteKeys>
+		<cbRedoDeleteValues>
+			<Caption>Smazat hodnoty</Caption>
+		</cbRedoDeleteValues>
+		<cbRedoEnabled>
+			<Caption>Povolit</Caption>
+		</cbRedoEnabled>
+		<cbRedoModifyFiles>
+			<Caption>Obnovit změněné soubory</Caption>
+		</cbRedoModifyFiles>
+		<cbRedoModifyFilesLck>
+			<Caption>Přepsat zamknuté soubory</Caption>
+		</cbRedoModifyFilesLck>
+		<cbRedoModifyValues>
+			<Caption>Obnovit změněné klíče</Caption>
+		</cbRedoModifyValues>
+		<cbRedoSysRestore>
+			<Caption>Před obnovením vytvořit Bod obnovení systému</Caption>
+		</cbRedoSysRestore>
+		<cbRestoreValues>
+			<Caption>Obnovit změněné hodnoty</Caption>
+		</cbRestoreValues>
+		<cbRstFileCreated>
+			<Caption>Obnovit datum vytvoření souboru</Caption>
+		</cbRstFileCreated>
+		<cbScanForAds>
+			<Caption>Skenovat alternující datové proudy (ADS)</Caption>
+		</cbScanForAds>
+		<cbScanPlaySound>
+			<Caption>Po dokončení přehrát zvuk</Caption>
+		</cbScanPlaySound>
+		<cbScanProfileDefault>
+			<Caption>Výchozí</Caption>
+		</cbScanProfileDefault>
+		<cbScanProfileFrozen>
+			<Caption>Zamknout</Caption>
+		</cbScanProfileFrozen>
+		<cbShell>
+			<Caption>Integrovat Total Uninstall do kontextové nabídky</Caption>
+		</cbShell>
+		<cbShowAfter>
+			<Caption>Sloupec "Stav po instalaci"</Caption>
+		</cbShowAfter>
+		<cbShowBefore>
+			<Caption>Sloupec "Stav před instalací"</Caption>
+		</cbShowBefore>
+		<cbShowBinAsText>
+			<Caption>Zobrazit binární data jako text</Caption>
+		</cbShowBinAsText>
+		<cbShowCreated>
+			<Caption>Vytvořené položky</Caption>
+		</cbShowCreated>
+		<cbShowCurrent>
+			<Caption>Sloupec "Aktuální"</Caption>
+		</cbShowCurrent>
+		<cbShowDataSize>
+			<Caption>Velikost dat</Caption>
+		</cbShowDataSize>
+		<cbShowDataType>
+			<Caption>Typ dat</Caption>
+		</cbShowDataType>
+		<cbShowDateCreated>
+			<Caption>Datum vytvoření</Caption>
+		</cbShowDateCreated>
+		<cbShowDateModified>
+			<Caption>Datum změny</Caption>
+		</cbShowDateModified>
+		<cbShowDeleted>
+			<Caption>Smazané položky</Caption>
+		</cbShowDeleted>
+		<cbShowFileAttrib>
+			<Caption>Atributy souboru</Caption>
+		</cbShowFileAttrib>
+		<cbShowFileSize>
+			<Caption>Velikost souboru</Caption>
+		</cbShowFileSize>
+		<cbShowFileVersion>
+			<Caption>Verze souboru</Caption>
+		</cbShowFileVersion>
+		<cbShowChanged>
+			<Caption>Změněné položky</Caption>
+		</cbShowChanged>
+		<cbShowMD5>
+			<Caption>Hodnota MD5 nového souboru</Caption>
+		</cbShowMD5>
+		<cbSmartAdjustAnalysisLevel>
+			<Caption>Chytré nastavení úrovně analýzy</Caption>
+		</cbSmartAdjustAnalysisLevel>
+		<cbSysRestore>
+			<Caption>Před odinstalací vytvořit bod obnovy systému</Caption>
+		</cbSysRestore>
+		<cbSystemFilesAdditional>
+			<Caption>Dodatečná analýza</Caption>
+		</cbSystemFilesAdditional>
+		<cbTxtViewerNot64Bit>
+			<Caption>Není vědomost o 64-bit</Caption>
+		</cbTxtViewerNot64Bit>
+		<cbUninstDefault>
+			<Caption>Výchozí</Caption>
+		</cbUninstDefault>
+		<cbUninstEnabled>
+			<Caption>Povolit</Caption>
+		</cbUninstEnabled>
+		<cbUseUninstaller>
+			<Caption>Nejdřív použít výchozí odinstalátor</Caption>
+		</cbUseUninstaller>
+		<cbWinAppsEnable>
+			<Caption>Povolit modul Windows Apps</Caption>
+		</cbWinAppsEnable>
+		<cmbUpdateFrequency>
+			<Items>Denně\nTýdně\nMěsíčně\n</Items>
+		</cmbUpdateFrequency>
+		<cmbUpdateMethod>
+			<Items>Ručně\nPřipomenutí\nAutomaticky\n</Items>
+		</cmbUpdateMethod>
+		<gbAgentMasks>
+			<Caption>Masky pro název souboru instalace</Caption>
+		</gbAgentMasks>
+		<gbClnExcludeFs>
+			<Caption>Vyloučit složky a soubory</Caption>
+		</gbClnExcludeFs>
+		<gbClnExcludeRegistry>
+			<Caption>Vyloučit klíče a hodnoty registru</Caption>
+		</gbClnExcludeRegistry>
+		<gbCompareIgnChgReg>
+			<Caption>Ignorovat změněné položky</Caption>
+		</gbCompareIgnChgReg>
+		<gbCompareIgnKeys>
+			<Caption>Ignorovat klíče a hodnoty</Caption>
+		</gbCompareIgnKeys>
+		<gbCompIgnChgFs>
+			<Caption>Ignorovat změněné položky</Caption>
+		</gbCompIgnChgFs>
+		<gbCompIgnoreFld>
+			<Caption>Ignorovat složky a soubory</Caption>
+		</gbCompIgnoreFld>
+		<gbExcludeProducts>
+			<Caption>Vyloučit produkty</Caption>
+		</gbExcludeProducts>
+		<gbExcludePublishers>
+			<Caption>Vyloučit vydavatele</Caption>
+		</gbExcludePublishers>
+		<gbFileExtensions>
+			<Caption>Přípona souboru s info o verzi</Caption>
+		</gbFileExtensions>
+		<gbIncludeProducts>
+			<Caption>Zahrnout produkty</Caption>
+		</gbIncludeProducts>
+		<gbIncludePublishers>
+			<Caption>Zahrnout vydavatele</Caption>
+		</gbIncludePublishers>
+		<gbInstallLoc>
+			<Caption>Umístění instalací</Caption>
+		</gbInstallLoc>
+		<gbInstallLocation>
+			<Caption>Zjistit umístění instalace</Caption>
+		</gbInstallLocation>
+		<gbLimits>
+			<Caption>Omezení složky snímků</Caption>
+		</gbLimits>
+		<gbPrgData>
+			<Caption>Zjistit data programu</Caption>
+		</gbPrgData>
+		<gbPrgSettings>
+			<Caption>Zjistit nastavení programu</Caption>
+		</gbPrgSettings>
+		<gbPrgShortcuts>
+			<Caption>Zjistit zástupce programu</Caption>
+		</gbPrgShortcuts>
+		<gbProtectedFolders>
+			<Caption>Chráněné složky</Caption>
+		</gbProtectedFolders>
+		<gbProtectedKeys>
+			<Caption>Chráněné klíče</Caption>
+		</gbProtectedKeys>
+		<gbRegEditor>
+			<Caption>Editor registru</Caption>
+		</gbRegEditor>
+		<gbRegScanner>
+			<Caption>Skener registru</Caption>
+		</gbRegScanner>
+		<gbScanExclFolders>
+			<Caption>Vyloučit složky</Caption>
+		</gbScanExclFolders>
+		<gbScanExclKeys>
+			<Caption>Vyloučit klíče</Caption>
+		</gbScanExclKeys>
+		<gbScanInclFolders>
+			<Caption>Zahrnout složky</Caption>
+		</gbScanInclFolders>
+		<gbScanInclKeys>
+			<Caption>Zahrnout klíče</Caption>
+		</gbScanInclKeys>
+		<gbShellIntegration>
+			<Caption>Zjistit integraci do kontextové nabídky</Caption>
+		</gbShellIntegration>
+		<gbSystemFiles>
+			<Caption>Zjistit systémové soubory</Caption>
+		</gbSystemFiles>
+		<gbTranslation>
+			<Caption>Překlad</Caption>
+		</gbTranslation>
+		<grpAlteredViewStyle>
+			<Caption>Položky změněné v systému</Caption>
+		</grpAlteredViewStyle>
+		<grpExistingViewStyle>
+			<Caption>Stávající položky v systému</Caption>
+		</grpExistingViewStyle>
+		<grpMissingViewStyle>
+			<Caption>Chybějící položky v systému</Caption>
+		</grpMissingViewStyle>
+		<lblAdvanced1>
+			<Caption>Pokročilé</Caption>
+		</lblAdvanced1>
+		<lblAdvanced2>
+			<Caption>Pokročilé</Caption>
+		</lblAdvanced2>
+		<lblAdvanced3>
+			<Caption>Pokročilé</Caption>
+		</lblAdvanced3>
+		<lblAdvanced4>
+			<Caption>Pokročilé</Caption>
+		</lblAdvanced4>
+		<lblAdvanced5>
+			<Caption>Pokročilé</Caption>
+		</lblAdvanced5>
+		<lblAdvanced6>
+			<Caption>Pokročilé</Caption>
+		</lblAdvanced6>
+		<lblAgentExcludeMask>
+			<Caption>Vyloučit</Caption>
+		</lblAgentExcludeMask>
+		<lblAgentIncludeMask>
+			<Caption>Zahrnout</Caption>
+		</lblAgentIncludeMask>
+		<lblAnalysisProfiles>
+			<Caption>Profily analýzy</Caption>
+		</lblAnalysisProfiles>
+		<lblAnlProfileDesc>
+			<Caption>Popis</Caption>
+		</lblAnlProfileDesc>
+		<lblAnlProfileName>
+			<Caption>Název</Caption>
+		</lblAnlProfileName>
+		<lblAutorunViewName>
+			<Caption>Název</Caption>
+		</lblAutorunViewName>
+		<lblAutorunViews>
+			<Caption>Zobrazit autorun</Caption>
+		</lblAutorunViews>
+		<lblBackupLimiFolderSize>
+			<Caption>Limit složky zálohy (MB)</Caption>
+		</lblBackupLimiFolderSize>
+		<lblCleanerDescription>
+			<Caption>Popis</Caption>
+		</lblCleanerDescription>
+		<lblCleanerName>
+			<Caption>Název</Caption>
+		</lblCleanerName>
+		<lblCleaners>
+			<Caption>Čističe</Caption>
+		</lblCleaners>
+		<lblCompareProfileDesc>
+			<Caption>Popis</Caption>
+		</lblCompareProfileDesc>
+		<lblCompareProfileName>
+			<Caption>Název</Caption>
+		</lblCompareProfileName>
+		<lblFolderSize>
+			<Caption>Velikost složky (MB)</Caption>
+		</lblFolderSize>
+		<lblHexViewer>
+			<Caption>Hexa prohlížeč</Caption>
+		</lblHexViewer>
+		<lblChageViewName>
+			<Caption>Název</Caption>
+		</lblChageViewName>
+		<lblChangeViews>
+			<Caption>Zobrazit změny</Caption>
+		</lblChangeViews>
+		<lblCheckUpdateMethod>
+			<Caption>Způsob kontroly aktualizací</Caption>
+		</lblCheckUpdateMethod>
+		<lblCheckUpdatesFrequency>
+			<Caption>Opakování</Caption>
+		</lblCheckUpdatesFrequency>
+		<lblLanguage>
+			<Caption>Jazyk</Caption>
+		</lblLanguage>
+		<lblNone1>
+			<Caption>Nic</Caption>
+		</lblNone1>
+		<lblNone2>
+			<Caption>Nic</Caption>
+		</lblNone2>
+		<lblNone3>
+			<Caption>Nic</Caption>
+		</lblNone3>
+		<lblNone4>
+			<Caption>Nic</Caption>
+		</lblNone4>
+		<lblNone5>
+			<Caption>Nic</Caption>
+		</lblNone5>
+		<lblNone6>
+			<Caption>Nic</Caption>
+		</lblNone6>
+		<lblProgramDataPath>
+			<Caption>Cesta k datům programu</Caption>
+		</lblProgramDataPath>
+		<lblRedoDescription>
+			<Caption>Popis</Caption>
+		</lblRedoDescription>
+		<lblRedoName>
+			<Caption>Název</Caption>
+		</lblRedoName>
+		<lblRedoProfiles>
+			<Caption>Obnovit profily</Caption>
+		</lblRedoProfiles>
+		<lblScanningProfiles>
+			<Caption>Profily skenování</Caption>
+		</lblScanningProfiles>
+		<lblScanProfileDesc>
+			<Caption>Popis</Caption>
+		</lblScanProfileDesc>
+		<lblScanProfileName>
+			<Caption>Název</Caption>
+		</lblScanProfileName>
+		<lblSimultaneousTasks>
+			<Caption>Souběžné úlohy</Caption>
+		</lblSimultaneousTasks>
+		<lblSnsCompareProfiles>
+			<Caption>Profily porovnávání snímků systému</Caption>
+		</lblSnsCompareProfiles>
+		<lblSnsCount>
+			<Caption>Počet snímků</Caption>
+		</lblSnsCount>
+		<lblTranslatedBy1>
+			<Caption>Přeložil: Třasák Jiří</Caption>
+		</lblTranslatedBy1>
+		<lblTranslatedBy2>
+			<Caption>Domovská stránka: Není</Caption>
+		</lblTranslatedBy2>
+		<lblTranslatedBy3>
+			<Caption> Email: support@martau.com</Caption>
+		</lblTranslatedBy3>
+		<lblTxtViewer>
+			<Caption>Textový prohlížeč</Caption>
+		</lblTxtViewer>
+		<lblUninstallProfiles>
+			<Caption>Profily odinstalace</Caption>
+		</lblUninstallProfiles>
+		<lblUninstallProfilesInst>
+			<Caption>Profily odinstalace</Caption>
+		</lblUninstallProfilesInst>
+		<lblUninstDesc>
+			<Caption>Popis</Caption>
+		</lblUninstDesc>
+		<lblUninstName>
+			<Caption>Název</Caption>
+		</lblUninstName>
+		<lblUninstRemoveLog>
+			<Caption>Odebrat odinstalovaný program ze seznamu</Caption>
+		</lblUninstRemoveLog>
+		<lblUserInteraction>
+			<Caption>Použít nejdříve dostupný vložený odinstalátor uživatelské interakce</Caption>
+		</lblUserInteraction>
+		<rbDialog>
+			<Caption> Dialog</Caption>
+		</rbDialog>
+		<rbOtherRegEdit>
+			<Caption>Jiný</Caption>
+		</rbOtherRegEdit>
+		<rbTrayBaloon>
+			<Caption>Bublina v systémové liště</Caption>
+		</rbTrayBaloon>
+		<rbWinRegEdit>
+			<Caption>Editor registru Windows</Caption>
+		</rbWinRegEdit>
+		<rgAgentNotif>
+			<Caption>Upozornit na spuštění instalace</Caption>
+		</rgAgentNotif>
+		<tabAnlFileSystem>
+			<Caption>Systémový soubor</Caption>
+		</tabAnlFileSystem>
+		<tabAnlGeneral>
+			<Caption>Obecné</Caption>
+		</tabAnlGeneral>
+		<tabAutorunViewGeneral>
+			<Caption>Obecné</Caption>
+		</tabAutorunViewGeneral>
+		<tabAutorunViewView>
+			<Caption>Zobrazit</Caption>
+		</tabAutorunViewView>
+		<tabCleanerFileSystem>
+			<Caption>Systémový soubor</Caption>
+		</tabCleanerFileSystem>
+		<tabCleanerGen>
+			<Caption>Obecné</Caption>
+		</tabCleanerGen>
+		<tabCleanerReg>
+			<Caption>Registr</Caption>
+		</tabCleanerReg>
+		<tabCmpProfileFileSys>
+			<Caption>Systémový soubor</Caption>
+		</tabCmpProfileFileSys>
+		<tabCompareProfileGen>
+			<Caption>Obecné</Caption>
+		</tabCompareProfileGen>
+		<tabCompareProfileReg>
+			<Caption>Registr</Caption>
+		</tabCompareProfileReg>
+		<tabChageViewFileSystem>
+			<Caption>Systémový soubor</Caption>
+		</tabChageViewFileSystem>
+		<tabChageViewGeneral>
+			<Caption>Obecné</Caption>
+		</tabChageViewGeneral>
+		<tabChageViewRegistry>
+			<Caption>Registr</Caption>
+		</tabChageViewRegistry>
+		<tabChageViewView>
+			<Caption>Zobrazit</Caption>
+		</tabChageViewView>
+		<tabRedoAdvanced>
+			<Caption>Pokročilé</Caption>
+		</tabRedoAdvanced>
+		<tabRedoFileSystem>
+			<Caption>Systémový soubor</Caption>
+		</tabRedoFileSystem>
+		<tabRedoGeneral>
+			<Caption>Obecné</Caption>
+		</tabRedoGeneral>
+		<tabRedoRegistry>
+			<Caption>Registr</Caption>
+		</tabRedoRegistry>
+		<tabScanProfileFolders>
+			<Caption>Systémový soubor</Caption>
+		</tabScanProfileFolders>
+		<tabScanProfileGeneral>
+			<Caption>Obecné</Caption>
+		</tabScanProfileGeneral>
+		<tabScanProfileRegistry>
+			<Caption>Registr</Caption>
+		</tabScanProfileRegistry>
+		<tabUninstAdv>
+			<Caption>Pokročilé</Caption>
+		</tabUninstAdv>
+		<tabUninstFS>
+			<Caption>Systémový soubor</Caption>
+		</tabUninstFS>
+		<tabUninstGeneral>
+			<Caption>Obecné</Caption>
+		</tabUninstGeneral>
+		<tabUninstRegistry>
+			<Caption>Registr</Caption>
+		</tabUninstRegistry>
+		<tblAnlRegistry>
+			<Caption>Registr</Caption>
+		</tblAnlRegistry>
+	</dlgTUOptions>
+	<dlgUninstall>
+		<btnBringToFront>
+			<Caption>Převést na písmo</Caption>
+		</btnBringToFront>
+		<btnCancel>
+			<Caption>Storno</Caption>
+		</btnCancel>
+		<btnUninstall>
+			<Caption>Odinstalovat</Caption>
+		</btnUninstall>
+		<lblCreatingRestorePnt>
+			<Caption>Vytváří se bod obnovy systému...</Caption>
+		</lblCreatingRestorePnt>
+		<lblProfile>
+			<Caption>Výběr profilu odinstalace</Caption>
+		</lblProfile>
+		<lblUninstalling>
+			<Caption>Probíhá odinstalace...</Caption>
+		</lblUninstalling>
+		<lblWaitTitle>
+			<Caption>Počkejte na dokončení odinstalace výchozím vloženým odinstalátorem</Caption>
+		</lblWaitTitle>
+	</dlgUninstall>
+	<frmInstall>
+		<btnBrowseSetup>
+			<Caption>&amp;Procházet...</Caption>
+		</btnBrowseSetup>
+		<btnCancel>
+			<Caption>Storno</Caption>
+		</btnCancel>
+		<btnCompleteLater>
+			<Caption>&amp;Dokončit sledování později</Caption>
+		</btnCompleteLater>
+		<btnLaunchSetup>
+			<Caption>&amp;Spustit instalaci programu</Caption>
+		</btnLaunchSetup>
+		<btnNext>
+			<Caption>Další</Caption>
+		</btnNext>
+		<btnProgramIsInstalled>
+			<Caption>P&amp;rogram je nainstalován</Caption>
+		</btnProgramIsInstalled>
+		<btnSuggest>
+			<Caption>Ná&amp;vrh</Caption>
+		</btnSuggest>
+		<lblCreateLog>
+			<Caption>Vytvořit záznam instalace</Caption>
+		</lblCreateLog>
+		<lblCreateOrSelectSns>
+			<Caption>Před instalací vytvořte nový snímek systému nebo vyberte předchozí.</Caption>
+		</lblCreateOrSelectSns>
+		<lblCreatePreInstallSns>
+			<Caption>Vytvořit snímek systému před instalací</Caption>
+		</lblCreatePreInstallSns>
+		<lblCreatingLog>
+			<Caption>Vytváření instalačního záznamu</Caption>
+		</lblCreatingLog>
+		<lblCreatingSystemSns>
+			<Caption>Vytváření snímku systému</Caption>
+		</lblCreatingSystemSns>
+		<lblFinish>
+			<Caption>Záznam instalace byl úspěšně vytvořen</Caption>
+		</lblFinish>
+		<lblInstallMonProgram>
+			<Caption>Instalace sledovaného programu</Caption>
+		</lblInstallMonProgram>
+		<lblProfiles>
+			<Caption>Profil &amp;skenování</Caption>
+		</lblProfiles>
+		<lblProgramName>
+			<Caption>Název &amp;programu</Caption>
+		</lblProgramName>
+		<lblProgramSetupPath>
+			<Caption>Ce&amp;sta k instalačnímu souboru</Caption>
+		</lblProgramSetupPath>
+		<lblSnsName>
+			<Caption>&amp;Název snímku</Caption>
+		</lblSnsName>
+		<lblSpecifySnsName>
+			<Caption>Upře&amp;snit název snímku po instalaci</Caption>
+		</lblSpecifySnsName>
+		<rbNewSnapshot>
+			<Caption>&amp;Vytvořit nový snímek systému (doporučeno)</Caption>
+		</rbNewSnapshot>
+		<rbUseLastSnapshot>
+			<Caption>Po&amp;užít poslední snímek</Caption>
+		</rbUseLastSnapshot>
+	</frmInstall>
+	<frmTUMain>
+		<btnClear>
+			<Caption>Vyčistit</Caption>
+		</btnClear>
+		<btnGroupAddChild>
+			<Caption>Přidat podřízenou skupinu...</Caption>
+		</btnGroupAddChild>
+		<btnGroupAddRoot>
+			<Caption>Přidat kořenovou skupinu...</Caption>
+		</btnGroupAddRoot>
+		<btnGroupEdit>
+			<Caption>Upravit skupinu...</Caption>
+		</btnGroupEdit>
+		<btnGroupMoveToRoot>
+			<Caption>Přesun do kořene</Caption>
+		</btnGroupMoveToRoot>
+		<btnGroupRemove>
+			<Caption>Odebrat skupinu</Caption>
+		</btnGroupRemove>
+		<btnSearch>
+			<Caption>Spustit</Caption>
+		</btnSearch>
+		<cbBundle>
+			<Caption>Balíček</Caption>
+		</cbBundle>
+		<cbCaseSensitive>
+			<Caption>Rozlišovat a/A</Caption>
+		</cbCaseSensitive>
+		<cbCreated>
+			<Caption>Vytvořeno</Caption>
+		</cbCreated>
+		<cbData>
+			<Caption>Data</Caption>
+		</cbData>
+		<cbDeleted>
+			<Caption>Smazáno</Caption>
+		</cbDeleted>
+		<cbFiles>
+			<Caption>Soubory</Caption>
+		</cbFiles>
+		<cbFolders>
+			<Caption>Složky</Caption>
+		</cbFolders>
+		<cbChanged>
+			<Caption>Změněno</Caption>
+		</cbChanged>
+		<cbKeys>
+			<Caption>Klíče</Caption>
+		</cbKeys>
+		<cbSearchMask>
+			<Caption>Maska hledání</Caption>
+		</cbSearchMask>
+		<cbUnchanged>
+			<Caption>Nezměněno</Caption>
+		</cbUnchanged>
+		<cbValues>
+			<Caption>Hodnoty</Caption>
+		</cbValues>
+		<Copy1>
+			<Caption>Kopírovat</Caption>
+			<Hint>Kopírovat vybrané soubory do schránky</Hint>
+		</Copy1>
+		<Copy2>
+			<Caption>Kopírovat</Caption>
+			<Hint>Kopírovat vybrané soubory do schránky</Hint>
+		</Copy2>
+		<gbAdvanced>
+			<Caption>Pokročilé</Caption>
+		</gbAdvanced>
+		<gbFileSystem>
+			<Caption>Systémové soubory</Caption>
+		</gbFileSystem>
+		<gbChanges>
+			<Caption>Položky</Caption>
+		</gbChanges>
+		<gbRegistry>
+			<Caption>Registr</Caption>
+		</gbRegistry>
+		<gbScope>
+			<Caption>Prohledat</Caption>
+		</gbScope>
+		<miAddtoCompareIgnoreList>
+			<Caption>Přidat do seznamu vyloučených z porovnávání</Caption>
+			<Hint>Přidat výběr do seznamu profilů vyloučených z porovnávání</Hint>
+		</miAddtoCompareIgnoreList>
+		<miAddtoScanExcludeList>
+			<Caption>Přidat do seznamu vyloučených ze skenování</Caption>
+			<Hint>Přidat výběr do seznamu profilů vyloučených ze skenování</Hint>
+		</miAddtoScanExcludeList>
+		<miAppSendTo>
+			<Caption>Odeslat do skupiny</Caption>
+		</miAppSendTo>
+		<miAutorunManager>
+			<Caption>Správce Po spuštění</Caption>
+		</miAutorunManager>
+		<miCleaner>
+			<Caption>Čistič</Caption>
+			<Hint>Čistič</Hint>
+		</miCleaner>
+		<miClnItems>
+			<Caption>Položky</Caption>
+		</miClnItems>
+		<miClnSummary>
+			<Caption>Souhrn</Caption>
+			<Hint>Souhrn|Zobrazit stručné informace o aktuálním programu</Hint>
+		</miClnSummary>
+		<miCollapse>
+			<Caption>Sbalit</Caption>
+			<Hint>Sbalit aktivní uzel stromu</Hint>
+		</miCollapse>
+		<miCopyDetail>
+			<Caption>Kopírovat</Caption>
+		</miCopyDetail>
+		<miDeleteCompletely>
+			<Caption>Zcela smazat</Caption>
+			<Hint>Odstranit vybranou položku ze záznamu i systému</Hint>
+		</miDeleteCompletely>
+		<miDeletefromSystemOnly>
+			<Caption>Smazat jen ze systému</Caption>
+			<Hint>Smaže vybranou položku jen ze systému</Hint>
+		</miDeletefromSystemOnly>
+		<miEdit>
+			<Caption>&amp;Upravit</Caption>
+		</miEdit>
+		<miEditAutorunLocateEntry>
+			<Caption>Najít položku autospuštění</Caption>
+		</miEditAutorunLocateEntry>
+		<miEditAutorunLocateTarget>
+			<Caption>Vyhledat cíl</Caption>
+		</miEditAutorunLocateTarget>
+		<miEditAutorunRun>
+			<Caption>Spustit</Caption>
+		</miEditAutorunRun>
+		<miEditAutorunStop>
+			<Caption>Zastavit</Caption>
+		</miEditAutorunStop>
+		<miEditAutorunTargetProperties>
+			<Caption>Vlastnosti cíle</Caption>
+		</miEditAutorunTargetProperties>
+		<miEditRedo>
+			<Caption>Zrušit</Caption>
+			<Hint>Zrušit vrácení vybraných systémových změn</Hint>
+		</miEditRedo>
+		<miEditRedoDepth>
+			<Caption>Hloubka zrušení</Caption>
+			<Hint>Určit hloubku zrušení vrácení vybraných systémových změn</Hint>
+		</miEditRedoDepth>
+		<miEditRestoreFromBackup>
+			<Caption>Obnovit ze zálohy</Caption>
+			<Hint>Obnoví ze zálohy vybrané soubory, složky a podsložky</Hint>
+		</miEditRestoreFromBackup>
+		<miEditUndo>
+			<Caption>Vrátit</Caption>
+			<Hint>Vrátí vybrané systémové změny</Hint>
+		</miEditUndo>
+		<miEditUndoDepth>
+			<Caption>Hloubka vrácení</Caption>
+			<Hint>Určit hloubku vrácení vybraných systémových změn</Hint>
+		</miEditUndoDepth>
+		<miExpand>
+			<Caption>Rozbalit</Caption>
+			<Hint>Rozbalí aktivní uzel stromu</Hint>
+		</miExpand>
+		<miExpChanges>
+			<Caption>Změny...</Caption>
+			<Hint>Export stromu se změnami</Hint>
+		</miExpChanges>
+		<miExpInstalledApps>
+			<Caption>Nainstalované programy...</Caption>
+			<Hint>Export seznamu nainstalovaných programů</Hint>
+		</miExpInstalledApps>
+		<miExpMonitoredApps>
+			<Caption>Sledované programy...</Caption>
+			<Hint>Export seznamu sledovaných programů</Hint>
+		</miExpMonitoredApps>
+		<miExport>
+			<Caption> Export</Caption>
+		</miExport>
+		<miExpRegistry>
+			<Caption>Změny registru...</Caption>
+			<Hint>Export instalačních a odinstalačních změn registru</Hint>
+		</miExpRegistry>
+		<miExpUninstallLog>
+			<Caption>Záznam odinstalace...</Caption>
+			<Hint>Export záznamu odinstalace</Hint>
+		</miExpUninstallLog>
+		<miFile>
+			<Caption>&amp;Soubor</Caption>
+		</miFile>
+		<miFileAddInstalledPrg>
+			<Caption>Přidat program do seznamu...</Caption>
+		</miFileAddInstalledPrg>
+		<miFileAnalyze>
+			<Caption>Analyzovat</Caption>
+			<Hint>Analyzovat|Analyzovat změny provedené v systému aktuálním programem</Hint>
+		</miFileAnalyze>
+		<miFileAutorunAdd>
+			<Caption>Přidat</Caption>
+		</miFileAutorunAdd>
+		<miFileAutorunDelete>
+			<Caption>Smazat</Caption>
+		</miFileAutorunDelete>
+		<miFileClnClean>
+			<Caption>Vyčistit</Caption>
+			<Hint>Vyčistí</Hint>
+		</miFileClnClean>
+		<miFileClnScan>
+			<Caption>Skenovat</Caption>
+			<Hint>Skenovat|Skenovat dosažitelné položky</Hint>
+		</miFileClnScan>
+		<miFileCreateBackup>
+			<Caption>Vytvořit zálohu programu...</Caption>
+		</miFileCreateBackup>
+		<miFileDelete>
+			<Caption>Smazat</Caption>
+			<Hint>Smazat aktuální záznam instalace</Hint>
+		</miFileDelete>
+		<miFileEditProgram>
+			<Caption>Upravit program...</Caption>
+		</miFileEditProgram>
+		<miFileExit>
+			<Caption>Ukončit</Caption>
+			<Hint>Ukončit program</Hint>
+		</miFileExit>
+		<miFileGroupAddChild>
+			<Caption>Přidat podřízenou skupinu...</Caption>
+		</miFileGroupAddChild>
+		<miFileGroupAddRoot>
+			<Caption>Přidat kořenovou skupinu...</Caption>
+		</miFileGroupAddRoot>
+		<miFileGroupEdit>
+			<Caption>Upravit skupinu...</Caption>
+		</miFileGroupEdit>
+		<miFileGroupMoveToRoot>
+			<Caption>Přesun do kořene</Caption>
+		</miFileGroupMoveToRoot>
+		<miFileGroupRemove>
+			<Caption>Odebrat skupinu</Caption>
+		</miFileGroupRemove>
+		<miFileChange>
+			<Caption>Změnit</Caption>
+			<Hint>Opravit, upravit nebo odinstalovat</Hint>
+		</miFileChange>
+		<miFileChangeIcon>
+			<Caption>Změnit ikonu...</Caption>
+		</miFileChangeIcon>
+		<miFileInstall>
+			<Caption>Nová instalace...</Caption>
+			<Hint>Sleduje instalaci nového programu</Hint>
+		</miFileInstall>
+		<miFileInstallUpdate>
+			<Caption>Instalovat aktualizaci...</Caption>
+			<Hint>Instalovat aktualizaci|Sledovat instalaci aktualizace aktuálního programu</Hint>
+		</miFileInstallUpdate>
+		<miFileNotes>
+			<Caption>Poznámky...</Caption>
+			<Hint>Přidat poznámky do aktuálního instalačního záznamu</Hint>
+		</miFileNotes>
+		<miFilePrint>
+			<Caption>Vytisknout</Caption>
+		</miFilePrint>
+		<miFileReload>
+			<Caption>Načíst znovu</Caption>
+		</miFileReload>
+		<miFileRemoveInstalledPrg>
+			<Caption>Odebrat program ze seznamu</Caption>
+		</miFileRemoveInstalledPrg>
+		<miFileRename>
+			<Caption>Přejmenovat...</Caption>
+			<Hint>Přejmenovat aktuální záznam instalace</Hint>
+		</miFileRename>
+		<miFileRestoreBackup>
+			<Caption>Obnovit program ze zálohy...</Caption>
+		</miFileRestoreBackup>
+		<miFileSave>
+			<Caption>&amp;Uložit</Caption>
+			<Hint>Uložit změny aktuálního instalačního záznamu</Hint>
+		</miFileSave>
+		<miFileSaveAs>
+			<Caption>Uložit jako...</Caption>
+		</miFileSaveAs>
+		<miFileSendTo>
+			<Caption>Odeslat do skupiny</Caption>
+		</miFileSendTo>
+		<miFileUndoRestoration>
+			<Caption>Vrátit obnovení...</Caption>
+		</miFileUndoRestoration>
+		<miFileUninstall>
+			<Caption>Odinstalovat...</Caption>
+		</miFileUninstall>
+		<miHelp>
+			<Caption>&amp;Nápověda</Caption>
+		</miHelp>
+		<miHelpAbout>
+			<Caption>O programu...</Caption>
+			<Hint>Zobrazit informace o programu, čísle verze a autorských právech.</Hint>
+		</miHelpAbout>
+		<miHelpContents>
+			<Caption>Obsah</Caption>
+			<Hint>Zobrazit obsah stránky s nápovědou</Hint>
+		</miHelpContents>
+		<miHelpHomePage>
+			<Caption>Domovská stránka</Caption>
+		</miHelpHomePage>
+		<miHelpCheckForUpdates>
+			<Caption>Kontrola aktualizací...</Caption>
+			<Hint>Zkontroluje aktualizace produktu na domovské stránce</Hint>
+		</miHelpCheckForUpdates>
+		<miHelpPurchase>
+			<Caption>Koupit</Caption>
+		</miHelpPurchase>
+		<miHelpRegister>
+			<Caption>Registrovat...</Caption>
+			<Hint>Registrace programu Total Uninstall</Hint>
+		</miHelpRegister>
+		<miHexView>
+			<Caption>Zobrazit v hexa</Caption>
+			<Hint>Otevře soubor v hexa editoru</Hint>
+		</miHexView>
+		<miChanges>
+			<Caption>Změny</Caption>
+			<Hint>Zjistit změny|Zobrazit zjištěné změny, provedené v systému aktuálním programem</Hint>
+		</miChanges>
+		<miImport>
+			<Caption> Import</Caption>
+		</miImport>
+		<miInstalledPrograms>
+			<Caption>Nainstalované programy</Caption>
+			<Hint>Nainstalované programy|Přepnout na "Nainstalované programy"</Hint>
+		</miInstalledPrograms>
+		<miList>
+			<Caption>Seznam</Caption>
+		</miList>
+		<miListGroupNotes>
+			<Caption>Poznámky o skupině</Caption>
+		</miListGroupNotes>
+		<miListLargeIcons>
+			<Caption>Velké ikony</Caption>
+		</miListLargeIcons>
+		<miListProgramNotes>
+			<Caption>Poznámky o programu</Caption>
+		</miListProgramNotes>
+		<miListSmallIcons>
+			<Caption>Malé ikony</Caption>
+		</miListSmallIcons>
+		<miModules>
+			<Caption>&amp;Moduly</Caption>
+		</miModules>
+		<miMonAppsGroupAddChild>
+			<Caption>Přidat podřízenou skupinu...</Caption>
+		</miMonAppsGroupAddChild>
+		<miMonAppsGroupAddRoot>
+			<Caption>Přidat kořenovou skupinu...</Caption>
+		</miMonAppsGroupAddRoot>
+		<miMonAppsGroupEdit>
+			<Caption>Upravit skupinu...</Caption>
+		</miMonAppsGroupEdit>
+		<miMonAppsGroupMoveToRoot>
+			<Caption>Přesun do kořene</Caption>
+		</miMonAppsGroupMoveToRoot>
+		<miMonAppsGroupRemove>
+			<Caption>Odebrat skupinu</Caption>
+		</miMonAppsGroupRemove>
+		<miMonitoredPrograms>
+			<Caption>Sledované programy</Caption>
+			<Hint>Sledované programy|Přepne na "Sledované programy"</Hint>
+		</miMonitoredPrograms>
+		<miOpen>
+			<Caption>Otevřít</Caption>
+			<Hint>Otevře soubor, složku nebo přejde na klíč v editoru registru.</Hint>
+		</miOpen>
+		<miPendingFileRenameOp>
+			<Caption>Čekání na přejmenování...</Caption>
+			<Hint>Zobrazit a provede operace čekající na přejmenování souboru</Hint>
+		</miPendingFileRenameOp>
+		<miPrgAddInstalledPrg>
+			<Caption>Přidat program do seznamu...</Caption>
+		</miPrgAddInstalledPrg>
+		<miPrgAnalyze>
+			<Caption>&amp;Analyzovat</Caption>
+			<Hint>Analyzovat|Analyzovat změny provedené v systému aktuálním programem</Hint>
+		</miPrgAnalyze>
+		<miPrgDelete>
+			<Caption>Smazat</Caption>
+			<Hint>Smazat aktuální záznam instalace</Hint>
+		</miPrgDelete>
+		<miPrgEditInstalledPrg>
+			<Caption>Upravit program...</Caption>
+		</miPrgEditInstalledPrg>
+		<miPrgChangeIcon>
+			<Caption>Změnit ikonu...</Caption>
+		</miPrgChangeIcon>
+		<miPrgNotes>
+			<Caption>Poznámky...</Caption>
+			<Hint>Přidat poznámky do aktuálního instalačního záznamu</Hint>
+		</miPrgNotes>
+		<miPrgRemoveInstalledPrg>
+			<Caption>Odstranit program ze seznamu</Caption>
+		</miPrgRemoveInstalledPrg>
+		<miPrgRename>
+			<Caption>Přejmenovat...</Caption>
+			<Hint>Přejmenovat aktuální záznam instalace</Hint>
+		</miPrgRename>
+		<miPrintChanges>
+			<Caption>Změny...</Caption>
+			<Hint>Vytiskne strom s nalezenými změnami</Hint>
+		</miPrintChanges>
+		<miPrintInstalledPrograms>
+			<Caption>Nainstalované programy...</Caption>
+		</miPrintInstalledPrograms>
+		<miPrintMonitoredPrograms>
+			<Caption>Sledované programy...</Caption>
+		</miPrintMonitoredPrograms>
+		<miProperties>
+			<Caption>Vlastnosti</Caption>
+			<Hint>Zobrazit vlastnosti vybraného souboru nebo složky</Hint>
+		</miProperties>
+		<miRemovefromLog>
+			<Caption>Odebrat ze záznamu</Caption>
+			<Hint>Odebrat vybrané položky ze záznamu</Hint>
+		</miRemovefromLog>
+		<miSnsTreeOpen>
+			<Caption>Otevřít</Caption>
+		</miSnsTreeOpen>
+		<miSummary>
+			<Caption>Souhrn</Caption>
+			<Hint>Souhrn|Zobrazit souhrnné informace o aktuálním programu</Hint>
+		</miSummary>
+		<miTextView>
+			<Caption>Zobrazit jako text</Caption>
+			<Hint>Otevře soubor v textovém editoru</Hint>
+		</miTextView>
+		<miToolbarLarge>
+			<Caption>Velké</Caption>
+		</miToolbarLarge>
+		<miToolbarMedium>
+			<Caption>Střední</Caption>
+		</miToolbarMedium>
+		<miToolbarSmall>
+			<Caption>Malé</Caption>
+		</miToolbarSmall>
+		<miTools>
+			<Caption>&amp;Nástroje</Caption>
+		</miTools>
+		<miToolsCompareSnapshots>
+			<Caption>Porovnat snímky systému...</Caption>
+		</miToolsCompareSnapshots>
+		<miToolsFind>
+			<Caption>Hledat</Caption>
+			<Hint>Hledat|Vyhledat text ve zjištěných změnách</Hint>
+		</miToolsFind>
+		<miToolsMergeLogs>
+			<Caption>Sloučit záznamy...</Caption>
+		</miToolsMergeLogs>
+		<miToolsOptions>
+			<Caption>Možnosti...</Caption>
+			<Hint>Konfiguruje možnosti software</Hint>
+		</miToolsOptions>
+		<miToolsSystemRestore>
+			<Caption>Obnovení systému</Caption>
+		</miToolsSystemRestore>
+		<miULogSuccessful>
+			<Caption>Úspěšné akce</Caption>
+			<Hint>Zobrazit nebo skrýt úspěšné akce z odinstalačního záznamu</Hint>
+		</miULogSuccessful>
+		<miULogWarnings>
+			<Caption>Upozornění</Caption>
+			<Hint>Zobrazit nebo skrýt upozornění z odinstalačního záznamu</Hint>
+		</miULogWarnings>
+		<miUninstallLog>
+			<Caption>Záznam odinstalace</Caption>
+			<Hint>Zobrazit záznam odinstalace programu</Hint>
+		</miUninstallLog>
+		<miUninstallLogDet>
+			<Caption>Podrobnosti záznamu odinstalace</Caption>
+		</miUninstallLogDet>
+		<miView>
+			<Caption>&amp;Zobrazit</Caption>
+		</miView>
+		<miViewAutoGroupPrograms>
+			<Caption>Programy autoskupiny</Caption>
+		</miViewAutoGroupPrograms>
+		<miViewBundle>
+			<Caption>Balíček</Caption>
+		</miViewBundle>
+		<miViewColorScheme>
+			<Caption>Barevné schéma</Caption>
+		</miViewColorScheme>
+		<miViewDetails>
+			<Caption>Podrobnosti</Caption>
+			<Hint>Podrobnosti o programu|Zobrazit nebo skrýt podrobnosti o programu</Hint>
+		</miViewDetails>
+		<miViewItemCurrentView>
+			<Caption>Aktuální náhled</Caption>
+		</miViewItemCurrentView>
+		<miViewItemDetails>
+			<Caption>Podrobnosti položky</Caption>
+			<Hint>Zobrazit nebo skrýt podrobnosti změn ve vybraném uzlu stromu</Hint>
+		</miViewItemDetails>
+		<miViewNavigator>
+			<Caption>Programy</Caption>
+			<Hint>Seznam programů|Zobrazit nebo skrýt seznam programů</Hint>
+		</miViewNavigator>
+		<miViewRefresh>
+			<Caption>Obnovit</Caption>
+		</miViewRefresh>
+		<miViewStatusBar>
+			<Caption>Stavový řádek</Caption>
+			<Hint>Zobrazit nebo skrýt stavový řádek</Hint>
+		</miViewStatusBar>
+		<miViewSystemComponents>
+			<Caption>Součásti systému</Caption>
+		</miViewSystemComponents>
+		<miViewToolbars>
+			<Caption>Panely nástrojů</Caption>
+		</miViewToolbars>
+		<miViewToolbarsBtnCaption>
+			<Caption>Text tlačítka</Caption>
+			<Hint>Zobrazit nebo skrýt text tlačítek na panelu nástrojů</Hint>
+		</miViewToolbarsBtnCaption>
+		<miViewToolbarsBtnSize>
+			<Caption>Velikost tlačítka</Caption>
+		</miViewToolbarsBtnSize>
+		<miViewToolbarsBtnWordWrap>
+			<Caption>Zalomit text titulku tlačítka</Caption>
+		</miViewToolbarsBtnWordWrap>
+		<miViewToolbarsTbrCaption>
+			<Caption>Záhlaví panelu nástrojů</Caption>
+			<Hint>Zobrazit nebo skrýt záhlaví panelu nástrojů</Hint>
+		</miViewToolbarsTbrCaption>
+		<miViewToolbarsVisible>
+			<Caption>Zviditelnit</Caption>
+			<Hint>Zobrazit nebo skrýt panel nástrojů</Hint>
+		</miViewToolbarsVisible>
+		<miWindowsApps>
+			<Caption>Programy Windows</Caption>
+		</miWindowsApps>
+		<pmiAutorunAdd>
+			<Caption>Přidat</Caption>
+		</pmiAutorunAdd>
+		<pmiAutorunDelete>
+			<Caption>Smazat</Caption>
+		</pmiAutorunDelete>
+		<pmiAutorunLocateEntry>
+			<Caption>Najít položku autospuštění</Caption>
+		</pmiAutorunLocateEntry>
+		<pmiAutorunLocateTarget>
+			<Caption>Vyhledat cíl</Caption>
+		</pmiAutorunLocateTarget>
+		<pmiAutorunRun>
+			<Caption>Spustit</Caption>
+		</pmiAutorunRun>
+		<pmiAutorunStop>
+			<Caption>Zastavit</Caption>
+		</pmiAutorunStop>
+		<pmiAutorunTargetProperties>
+			<Caption>Vlastnosti cíle</Caption>
+		</pmiAutorunTargetProperties>
+		<pmiClnExclude>
+			<Caption>Vyloučit</Caption>
+		</pmiClnExclude>
+		<pmiClnSelectBranch>
+			<Caption>Označit větev</Caption>
+		</pmiClnSelectBranch>
+		<pmiClnUnselectBranch>
+			<Caption>Odznačit větev</Caption>
+		</pmiClnUnselectBranch>
+		<pmiCopySummary>
+			<Caption>Kopírovat</Caption>
+		</pmiCopySummary>
+		<pmiChgTreeCompareExcl>
+			<Caption>Přidat do seznamu vyloučených z porovnávání</Caption>
+			<Hint>Přidat výběr do seznamu profilů vyloučených z porovnávání</Hint>
+		</pmiChgTreeCompareExcl>
+		<pmiChgTreeDelete>
+			<Caption>Kompletně smazat</Caption>
+			<Hint>Odstranit vybranou položku ze záznamu i systému</Hint>
+		</pmiChgTreeDelete>
+		<pmiChgTreeDelSys>
+			<Caption>Smazat jen ze systému</Caption>
+			<Hint>Smaže vybranou položku jen ze systému</Hint>
+		</pmiChgTreeDelSys>
+		<pmiChgTreeExportRegistryChanges>
+			<Caption>Export změn registru...</Caption>
+			<Hint>Export změn registru pro nový instal nebo odinstal</Hint>
+		</pmiChgTreeExportRegistryChanges>
+		<pmiChgTreeHexView>
+			<Caption>Zobrazit v hexa</Caption>
+			<Hint>Otevře soubor v hexa editoru</Hint>
+		</pmiChgTreeHexView>
+		<pmiChgTreeOpen>
+			<Caption>Otevřít</Caption>
+			<Hint>Otevře soubor, složku nebo přejde na klíč v editoru registru</Hint>
+		</pmiChgTreeOpen>
+		<pmiChgTreeProperties>
+			<Caption>Vlastnosti</Caption>
+			<Hint>Zobrazit vlastnosti vybraného souboru nebo složky</Hint>
+		</pmiChgTreeProperties>
+		<pmiChgTreeRedo>
+			<Caption>Zrušit</Caption>
+			<Hint>Zrušit vrácení vybraných systémových změn</Hint>
+		</pmiChgTreeRedo>
+		<pmiChgTreeRedoDepth>
+			<Caption>Hloubka zrušení</Caption>
+			<Hint>Určit hloubku zrušení vrácení vybraných systémových změn</Hint>
+		</pmiChgTreeRedoDepth>
+		<pmiChgTreeRemove>
+			<Caption>Odebrat ze záznamu</Caption>
+			<Hint>Odebrat vybrané položky ze záznamu</Hint>
+		</pmiChgTreeRemove>
+		<pmiChgTreeRestoreFromBackup>
+			<Caption>Obnovit ze zálohy</Caption>
+			<Hint>Obnoví ze zálohy vybrané soubory, složky a podsložky</Hint>
+		</pmiChgTreeRestoreFromBackup>
+		<pmiChgTreeScanExcl>
+			<Caption>Přidat do seznamu vyloučených ze skenování</Caption>
+			<Hint>Přidat výběr do seznamu profilů vyloučených ze skenování</Hint>
+		</pmiChgTreeScanExcl>
+		<pmiChgTreeTextView>
+			<Caption>Zobrazit jako text</Caption>
+			<Hint>Otevře soubor v textovém editoru</Hint>
+		</pmiChgTreeTextView>
+		<pmiChgTreeUndo>
+			<Caption>Vrátit</Caption>
+			<Hint>Vrátí vybrané systémové změny</Hint>
+		</pmiChgTreeUndo>
+		<pmiChgTreeUndoDepth>
+			<Caption>Hloubka vrácení</Caption>
+			<Hint>Určit hloubku vrácení vybraných systémových změn</Hint>
+		</pmiChgTreeUndoDepth>
+		<pmiInstAppsHeaderAutoResize>
+			<Caption>Automatická velikost</Caption>
+		</pmiInstAppsHeaderAutoResize>
+		<pmiLocate>
+			<Caption>Najít umístění</Caption>
+		</pmiLocate>
+		<pmiMonAppsHeaderAutoResize>
+			<Caption>Automatická velikost</Caption>
+		</pmiMonAppsHeaderAutoResize>
+		<pmiShowSuccessful>
+			<Caption>Úspěšné akce</Caption>
+			<Hint>Zobrazit nebo skrýt úspěšné akce z odinstalačního záznamu</Hint>
+		</pmiShowSuccessful>
+		<pmiShowWarnings>
+			<Caption>Upozornění</Caption>
+			<Hint>Zobrazit nebo skrýt upozornění z odinstalačního záznamu</Hint>
+		</pmiShowWarnings>
+		<pmiTrayRestore>
+			<Caption>Obnovit</Caption>
+		</pmiTrayRestore>
+		<rbAll>
+			<Caption>Všechny programy</Caption>
+		</rbAll>
+		<rbSelection>
+			<Caption>Výběr</Caption>
+		</rbSelection>
+		<sbAppClose>
+			<Hint>Zavřít|Zavře</Hint>
+		</sbAppClose>
+		<sbDetailsClose>
+			<Hint>Zavřít|Zavře</Hint>
+		</sbDetailsClose>
+		<sbSearchClose>
+			<Hint>Zavřít|Zavře</Hint>
+		</sbSearchClose>
+		<tabOptions>
+			<Caption>Možnosti</Caption>
+		</tabOptions>
+		<tabResults>
+			<Caption>Výsledky</Caption>
+		</tabResults>
+		<tbrActions>
+			<Caption>Akce</Caption>
+		</tbrActions>
+		<tbrDetails>
+			<Caption>Podrobnosti</Caption>
+		</tbrDetails>
+		<tbrLayout>
+			<Caption>Návrh</Caption>
+		</tbrLayout>
+		<tbrModules>
+			<Caption>Moduly</Caption>
+		</tbrModules>
+		<tbrView>
+			<Caption>Zobrazit</Caption>
+		</tbrView>
+		<tbtnAnalyze>
+			<Caption>Analyzovat</Caption>
+			<Hint>Analyzovat|Analyzovat změny provedené v systému aktuálním programem</Hint>
+		</tbtnAnalyze>
+		<tbtnArAdd>
+			<Caption>Přidat</Caption>
+		</tbtnArAdd>
+		<tbtnArDelete>
+			<Caption>Smazat</Caption>
+		</tbtnArDelete>
+		<tbtnArRun>
+			<Caption>Spustit</Caption>
+		</tbtnArRun>
+		<tbtnArStop>
+			<Caption>Zastavit</Caption>
+		</tbtnArStop>
+		<tbtnAutorunMgr>
+			<Caption>Správce Po spuštění</Caption>
+		</tbtnAutorunMgr>
+		<tbtnCleaner>
+			<Caption>Čistič</Caption>
+			<Hint>Čistič</Hint>
+		</tbtnCleaner>
+		<tbtnClnClean>
+			<Caption>Vyčistit</Caption>
+			<Hint>Vyčistí</Hint>
+		</tbtnClnClean>
+		<tbtnClnItems>
+			<Caption>Položky</Caption>
+		</tbtnClnItems>
+		<tbtnClnScan>
+			<Caption>Skenovat</Caption>
+			<Hint>Skenovat|Skenovat dosažitelné položky</Hint>
+		</tbtnClnScan>
+		<tbtnClnSummary>
+			<Caption>Souhrn</Caption>
+			<Hint>Souhrn|Zobrazit stručné informace o aktuálním programu</Hint>
+		</tbtnClnSummary>
+		<tbtnCollapse>
+			<Caption>Sbalit</Caption>
+			<Hint>Sbalit aktivní uzel stromu</Hint>
+		</tbtnCollapse>
+		<tbtnDetails>
+			<Caption>Podrobnosti</Caption>
+			<Hint>Podrobnosti o programu|Zobrazit nebo skrýt podrobnosti o programu</Hint>
+		</tbtnDetails>
+		<tbtnExpand>
+			<Caption>Rozbalit</Caption>
+			<Hint>Rozbalí aktivní uzel stromu</Hint>
+		</tbtnExpand>
+		<tbtnChanges>
+			<Caption>Změny</Caption>
+			<Hint>Zjistit změny|Zobrazit zjištěné změny, provedené v systému aktuálním programem</Hint>
+		</tbtnChanges>
+		<tbtnChgView>
+			<Caption>Zobrazit</Caption>
+			<Hint>Zobrazit|Použije definovaný náhled na změny</Hint>
+		</tbtnChgView>
+		<tbtnInstallModify>
+			<Caption>Změnit</Caption>
+			<Hint>Opravit, upravit nebo odinstalovat</Hint>
+		</tbtnInstallModify>
+		<tbtnInstallNew>
+			<Caption>Instalovat</Caption>
+			<Hint>Instalovat nový|Sleduje instalaci nového programu</Hint>
+		</tbtnInstallNew>
+		<tbtnInstallUpdate>
+			<Caption>Aktualizace</Caption>
+			<Hint>Instalovat aktualizaci|Sledovat instalaci aktualizace aktuálního programu</Hint>
+		</tbtnInstallUpdate>
+		<tbtnInstPrograms>
+			<Caption>Nainstalované programy</Caption>
+			<Hint>Nainstalované programy|Přepnout na "Nainstalované programy"</Hint>
+		</tbtnInstPrograms>
+		<tbtnMonPrograms>
+			<Caption>Sledované programy</Caption>
+			<Hint>Sledované programy|Přepne na "Sledované programy"</Hint>
+		</tbtnMonPrograms>
+		<tbtnPrograms>
+			<Caption>Programy</Caption>
+			<Hint>Seznam programů|Zobrazit nebo skrýt seznam programů</Hint>
+		</tbtnPrograms>
+		<tbtnSave>
+			<Caption>Uložit</Caption>
+			<Hint>Uložit změny aktuálního instalačního záznamu</Hint>
+		</tbtnSave>
+		<tbtnSearch>
+			<Caption>Hledat</Caption>
+			<Hint>Hledat|Vyhledat text ve zjištěných změnách</Hint>
+		</tbtnSearch>
+		<tbtnShowSnapshot>
+			<Caption>Zobrazit snímek</Caption>
+		</tbtnShowSnapshot>
+		<tbtnSummary>
+			<Caption>Souhrn</Caption>
+			<Hint>Souhrn|Zobrazit souhrnné informace o aktuálním programu</Hint>
+		</tbtnSummary>
+		<tbtnUninstall>
+			<Caption>Odinstalovat</Caption>
+		</tbtnUninstall>
+		<tbtnUninstallLog>
+			<Caption>Záznam odinstalace</Caption>
+			<Hint>Zobrazit záznam odinstalace programu</Hint>
+		</tbtnUninstallLog>
+		<tbtnWinApps>
+			<Caption>Programy Windows</Caption>
+		</tbtnWinApps>
+		<tpnlSearch>
+			<Caption>Hledat</Caption>
+		</tpnlSearch>
+		<tvAutorunItems>
+			<Columns_0>Název</Columns_0>
+			<Columns_1>Sekce</Columns_1>
+			<Columns_2>Stav</Columns_2>
+			<Columns_3>Popis</Columns_3>
+			<Columns_4>Vydavatel</Columns_4>
+			<Columns_5>Příkaz</Columns_5>
+		</tvAutorunItems>
+		<tvClnItems>
+			<Columns_0>Položky</Columns_0>
+			<Columns_1>Vlastnosti</Columns_1>
+		</tvClnItems>
+		<tvChanges>
+			<Columns_0>Zjištěné změny</Columns_0>
+			<Columns_1>Stav před instalací</Columns_1>
+			<Columns_2>Stav po instalaci</Columns_2>
+			<Columns_3>Aktuální</Columns_3>
+		</tvChanges>
+		<tvResults>
+			<Columns_0>Název</Columns_0>
+			<Columns_1>Umístění</Columns_1>
+			<Columns_2> Program</Columns_2>
+		</tvResults>
+		<btnAddProgramToList>
+			<Caption>Přidat program do seznamu...</Caption>
+			<Notes>Přetáhněte klávesovou zkratku nebo stiskněte tlačítko a přidejte alespoň název pro spuštění nucené odinstalace\n</Notes>
+		</btnAddProgramToList>
+	</frmTUMain>
+	<RESOURCESTRING>
+		<ACCESS_DENIED_X>Přístup odepřen: %s</ACCESS_DENIED_X>
+		<ACT_CRE_KEY>Vytvořit klíč registru: %s</ACT_CRE_KEY>
+		<ACT_CRE_VAL>Vytvořit hodnotu registru: %s</ACT_CRE_VAL>
+		<ACT_DEC_CNT>Zmenšit čítač sdílených souborů registru na: %s</ACT_DEC_CNT>
+		<ACT_DEL_ADS>Smazat alternující datový proud (ADS): %s</ACT_DEL_ADS>
+		<ACT_DEL_FILE>Smazat soubor: %s</ACT_DEL_FILE>
+		<ACT_DEL_FOLDER>Smazat složku: %s</ACT_DEL_FOLDER>
+		<ACT_DEL_KEY>Smazat klíč registru: %s</ACT_DEL_KEY>
+		<ACT_DEL_SERVICE>Smazat službu nebo zařízení: %s</ACT_DEL_SERVICE>
+		<ACT_DEL_VAL>Smazat hodnotu registru: %s</ACT_DEL_VAL>
+		<ACT_RST_FILE>Obnovit vlastnosti souboru: %s</ACT_RST_FILE>
+		<ACT_RST_VAL>Obnovit hodnotu registru: %s</ACT_RST_VAL>
+		<ACT_STOP_SERVICE>Ukončit službu nebo zařízení: %s</ACT_STOP_SERVICE>
+		<ADD>Přidat</ADD>
+		<ADVANCED>Pokročilé</ADVANCED>
+		<AGENT>Zástupce</AGENT>
+		<ALL>Vše</ALL>
+		<ALL_BRA>(Vše)</ALL_BRA>
+		<ALL_DETAILS>Všechny podrobnosti</ALL_DETAILS>
+		<ALWAYS>Vždy</ALWAYS>
+		<ANALYSIS_PROFILE>Profil analýzy</ANALYSIS_PROFILE>
+		<ANALYSIS_PROFILES>Profily analýzy</ANALYSIS_PROFILES>
+		<ANALYZING>Probíhá analýza...</ANALYZING>
+		<ASK>Ptát se</ASK>
+		<ASK_COMPLETE_LATER>Chcete dokončit sledování později?</ASK_COMPLETE_LATER>
+		<ASK_IF_NO_ERROR>Ptát se, pokud nedošlo k chybám</ASK_IF_NO_ERROR>
+		<ASK_SAVE_CHG>Chcete uložit nalezené změny z &quot;%s&quot;?</ASK_SAVE_CHG>
+		<ASK_USER>Ptát se uživatele</ASK_USER>
+		<AUTOMATIC>Automaticky</AUTOMATIC>
+		<AUTORUN_ITEMS>Položky Po spuštění</AUTORUN_ITEMS>
+		<AUTORUN_MGR>Správce Po spuštění</AUTORUN_MGR>
+		<BACKUP>Záloha</BACKUP>
+		<BACKUP_CREATED>Vytvořená záloha.</BACKUP_CREATED>
+		<BACKUP_CREATED_OK>Záloha byla úspěšně vytvořena.</BACKUP_CREATED_OK>
+		<BACKUP_PROGRAM>Vytváří se záloha programu...</BACKUP_PROGRAM>
+		<BACKUP_PROGRAM_X>Vytvořit zálohu programu &quot;%s&quot;</BACKUP_PROGRAM_X>
+		<BEGIN_UNINSTALL>Odinstalace začne po kliknutí na "Odinstalovat".</BEGIN_UNINSTALL>
+		<BEGIN_UNINSTALL_LAUNCH>Odinstalace začne po kliknutí na "Spustit".</BEGIN_UNINSTALL_LAUNCH>
+		<BROWSE_FOR_FILE>Vyhledat soubor</BROWSE_FOR_FILE>
+		<BROWSE_FOR_FOLDER>Vyhledat složku</BROWSE_FOR_FOLDER>
+		<BROWSE_FOR_FOLDER_OR_FILE>Vyhledat složku nebo soubor</BROWSE_FOR_FOLDER_OR_FILE>
+		<BROWSE_FOR_KEY>Vyhledat klíč</BROWSE_FOR_KEY>
+		<BROWSE_FOR_KEY_OR_VALUE>Vyhledat klíč nebo hodnotu</BROWSE_FOR_KEY_OR_VALUE>
+		<BROWSE_FOR_VALUE>Vyhledat hodnotu</BROWSE_FOR_VALUE>
+		<BTN_CONTINUE>Pokračovat</BTN_CONTINUE>
+		<BUILT_IN_CANCELLED>Vložený odinstalátor byl zrušen nebo vrácen bez kompletního dokončení odinstalace.</BUILT_IN_CANCELLED>
+		<BUILT_IN_UNINSTALLER_RUNNING>Vložený odinstalátor programu je spuštěný.</BUILT_IN_UNINSTALLER_RUNNING>
+		<CANCEL>Storno</CANCEL>
+		<CANNOT_BROWSE>Při pokusu o spuštění výchozího prohlížeče došlo k chybě.\nOdkaz byl nakopírován do schránky.</CANNOT_BROWSE>
+		<CANT_EXECUTE>Nelze spustit program &quot;%s&quot;.</CANT_EXECUTE>
+		<CANT_OPEN_KEY>Nelze otevřít klíč</CANT_OPEN_KEY>
+		<CLEAN_UP>Vyčištění</CLEAN_UP>
+		<CLEAN_UP_DESC>Odstranit stopy po odinstalovaném sledovaném programu</CLEAN_UP_DESC>
+		<CLEANED>Vyčištěno</CLEANED>
+		<CLEANER>Čistič</CLEANER>
+		<CLEANING>Probíhá čištění...</CLEANING>
+		<CLOSE>Zavřít</CLOSE>
+		<CLOSE_PROCESSES>Zavřít procesy</CLOSE_PROCESSES>
+		<CMP_ERROR>Chyba při porovnávání snímků.</CMP_ERROR>
+		<CMP_PROFILE>Názvy profilů pro porovnávání</CMP_PROFILE>
+		<CNT_DEL_MON>Čítač sdílených souborů registru byl během sledování smazán</CNT_DEL_MON>
+		<COMMENTS>Komentáře</COMMENTS>
+		<COMMON>Obecné</COMMON>
+		<COMP_PROFILES>Profily porovnávání</COMP_PROFILES>
+		<COMPARE>Porovnat</COMPARE>
+		<COMPARING_SNS>Porovnávají se snímky systému...</COMPARING_SNS>
+		<COMPLETE>Úplně</COMPLETE>
+		<COMPUTER>Počítač</COMPUTER>
+		<COMPUTER_X>Počítač (%s)</COMPUTER_X>
+		<CONTACT>Kontakt</CONTACT>
+		<CONTINUE>Chcete pokračovat?</CONTINUE>
+		<CONTINUE_UNINSTALL>Pokračovat v odinstalaci</CONTINUE_UNINSTALL>
+		<CONTINUE_UNINSTALL_Q>Chcete pokračovat v odinstalaci?</CONTINUE_UNINSTALL_Q>
+		<CORRUPT_CNT>V čítači sdíleného souboru registru byla zjištěna chyba: hodnota byla zmenšena nebo obsahuje neplatná data</CORRUPT_CNT>
+		<CREATE_REG_KEYS>Vytvořit klíče registru</CREATE_REG_KEYS>
+		<CREATE_REG_VALS>Vytvořit hodnoty registru</CREATE_REG_VALS>
+		<CREATED>Vytvořeno</CREATED>
+		<CREATED_ITEMS>Vytvořené položky</CREATED_ITEMS>
+		<CREATED_ON>Vytvořeno</CREATED_ON>
+		<CREATED_X>Vytvořeno: %s</CREATED_X>
+		<DEC_CNT>Zmenšit čítač sdílených souborů registru</DEC_CNT>
+		<DEEP_AUDIT> Hluboký
+ audit</DEEP_AUDIT>
+		<DEFAULT>Výchozí</DEFAULT>
+		<DEFAULT_PAR>(Výchozí)</DEFAULT_PAR>
+		<DEL_AT_STARTUP>Fronta bude smazána při restartu systému</DEL_AT_STARTUP>
+		<DEL_CNT>Smazat čítač sdílených souborů registru</DEL_CNT>
+		<DEL_FILES>Smazat soubory</DEL_FILES>
+		<DEL_FOLDERS>Smazat složky</DEL_FOLDERS>
+		<DEL_REG_KEYS>Smazat klíče registru</DEL_REG_KEYS>
+		<DEL_REG_VALS>Smazat hodnoty registru</DEL_REG_VALS>
+		<DEL_SH_FILE>Vyhodit sdílené soubory z disku do koše</DEL_SH_FILE>
+		<DELETE_SEL_BACKUPS>Smazat vybrané zálohy?</DELETE_SEL_BACKUPS>
+		<DELETE_SEL_UNDO>Smazat vybrané vrácené položky?</DELETE_SEL_UNDO>
+		<DELETE_SYS_SEL_ITEM>Smazat ze systému vybranou položku?</DELETE_SYS_SEL_ITEM>
+		<DELETED>Smazáno</DELETED>
+		<DELETED_ITEMS>Smazané položky</DELETED_ITEMS>
+		<DEPENDS_ON_PACKAGES>Podle na balíčků</DEPENDS_ON_PACKAGES>
+		<DETECTED_CHG>Zjištěné změny</DETECTED_CHG>
+		<DISABLED>Vypnuto</DISABLED>
+		<DISPOSABLE_ITEMS>Použitelné položky</DISPOSABLE_ITEMS>
+		<DLG_ABORT>Přerušit</DLG_ABORT>
+		<DLG_ALL>Vše</DLG_ALL>
+		<DLG_CANCEL>Storno</DLG_CANCEL>
+		<DLG_CLOSE>Zavřít</DLG_CLOSE>
+		<DLG_CNF>Potvrdit</DLG_CNF>
+		<DLG_ERR>Chyba</DLG_ERR>
+		<DLG_IGNORE>Ignorovat</DLG_IGNORE>
+		<DLG_INF>Informace</DLG_INF>
+		<DLG_NO>Ne</DLG_NO>
+		<DLG_NOTOALL>Ne všem</DLG_NOTOALL>
+		<DLG_OK> OK</DLG_OK>
+		<DLG_RETRY>Opakovat</DLG_RETRY>
+		<DLG_WRN>Upozornění</DLG_WRN>
+		<DLG_YES>Ano</DLG_YES>
+		<DLG_YESTOALL>Ano, všechny</DLG_YESTOALL>
+		<DONT_DEL_SH_FILE>Zachování sdíleného souboru zvolí uživatel</DONT_DEL_SH_FILE>
+		<EDIT_PROGRAM>Upravit program</EDIT_PROGRAM>
+		<ELAPSED>Uplynulý čas:  %d:%2.2d</ELAPSED>
+		<ENTER_IDENTIFIER>Zadejte název instalovaného programu</ENTER_IDENTIFIER>
+		<ERR>Chyba</ERR>
+		<ERR_BRA>(CHYBA)</ERR_BRA>
+		<ERR_DEL_FLD_FILES>Nelze smazat jednu nebo více složek či souborů.</ERR_DEL_FLD_FILES>
+		<ERR_DEL_REG_KEYS_VALS>Nelze smazat jeden nebo více klíčů či hodnot.</ERR_DEL_REG_KEYS_VALS>
+		<ERR_REDO_REG_KEYS_VALS>Nelze zrušit vrácení jednoho či více klíčů nebo hodnot registru.</ERR_REDO_REG_KEYS_VALS>
+		<ERR_UNDO_REG_KEYS_VALS>Nelze vrátit jeden či více klíčů nebo hodnot registru.</ERR_UNDO_REG_KEYS_VALS>
+		<ERR_WRN_OK_STAT>Chyby: %d   Upozornění: %d  Úspěšné akce: %d</ERR_WRN_OK_STAT>
+		<ERROR_UNINST_X_APPS>Chyba odinstalace %d aplikace(í).</ERROR_UNINST_X_APPS>
+		<EXIT>Ukončit</EXIT>
+		<EXPERT>Zkušený</EXPERT>
+		<EXPIRE_DAYS>Počet dní do konce zkušební doby: %d</EXPIRE_DAYS>
+		<EXPORT_ERROR>Chyba při exportu!</EXPORT_ERROR>
+		<EXTENSION>Přípona</EXTENSION>
+		<FAMILY_NOT_ACCEPTED>Rodinná licence nebyla přijata.</FAMILY_NOT_ACCEPTED>
+		<FFILTER_ALL>Všechny soubory (*.*)|*.*</FFILTER_ALL>
+		<FFILTER_DLL>Soubory rozšíření aplikací (*.dll)|*.dll</FFILTER_DLL>
+		<FFILTER_EXE>Spustitelné soubory (*.exe)|*.exe</FFILTER_EXE>
+		<FFILTER_EXE_MSI>Spustitelné, Instalační balíčky Windows</FFILTER_EXE_MSI>
+		<FFILTER_HTM>Dokumenty HTML (*.htm, *.html)|*.htm;*html</FFILTER_HTM>
+		<FFILTER_ICL>Kolekce ikon (*.icl)|*.icl</FFILTER_ICL>
+		<FFILTER_ICO>Soubory ikon (*.ico)|*.ico</FFILTER_ICO>
+		<FFILTER_MSI>Instalátory Microsoftu (*.msi)|*.msi</FFILTER_MSI>
+		<FFILTER_REG>Soubory registru (*.reg)|*.reg</FFILTER_REG>
+		<FFILTER_TXT>Textové dokumenty (*.txt)|*.txt</FFILTER_TXT>
+		<FFILTER_WAV>Zvukové soubory (*.wav)|*.wav</FFILTER_WAV>
+		<FFILTER_XML>Dokumenty XML (*.xml)|*.xml</FFILTER_XML>
+		<FFILTER_ZIP>Soubory zálohy (*.zip)|*.zip</FFILTER_ZIP>
+		<FILE>(SOUBOR)</FILE>
+		<FILE_>Soubor</FILE_>
+		<FILE_MASK>Maska souboru</FILE_MASK>
+		<FILE_SYSTEM>Systémový soubor</FILE_SYSTEM>
+		<FILES_CREATED_STAT>Vytvořené soubory    :%6.1d</FILES_CREATED_STAT>
+		<FILES_DEL_STAT>Smazané soubory      :%6.1d</FILES_DEL_STAT>
+		<FILES_CHG_STAT>Změněné soubory      :%6.1d</FILES_CHG_STAT>
+		<FILES_NOT_INCLUDED>Soubory nezahrnuté do zálohy</FILES_NOT_INCLUDED>
+		<FILES_X>Soubory :%6.1d</FILES_X>
+		<FILTER>Filtr</FILTER>
+		<FINISH>Dokončit</FINISH>
+		<FLDS_CREATED_STAT>Vytvořené složky        :%6.1d</FLDS_CREATED_STAT>
+		<FLDS_DEL_STAT>Smazané složky          :%6.1d</FLDS_DEL_STAT>
+		<FOLDER>(SLOŽKA)</FOLDER>
+		<FOLDER_>Složka</FOLDER_>
+		<FOLDER_MASK>Maska složky</FOLDER_MASK>
+		<FOLDERS_X>Složky  :%6.1d</FOLDERS_X>
+		<FREE_UPDATES_UNTIL>Aktualizace jsou zdarma do: %s</FREE_UPDATES_UNTIL>
+		<FS_DET_VIEW_PRF>Podrobnosti souboru systému [Náhled: %s]</FS_DET_VIEW_PRF>
+		<GENERAL>Obecné</GENERAL>
+		<GENERATED_BY_TU>Vytvořeno programem Total Uninstall</GENERATED_BY_TU>
+		<HIDDEN_NODE>Uzel je skrytý.</HIDDEN_NODE>
+		<HIDDEN_NODE_IN_VIEW>Položka je v aktuálním náhledu skrytá.</HIDDEN_NODE_IN_VIEW>
+		<HIDE_OPTIONS>Skrýt m&amp;ožnosti</HIDE_OPTIONS>
+		<CHANGED_ITEMS>Změněné položky</CHANGED_ITEMS>
+		<CHANGES>Počet změn: &quot;%s&quot;</CHANGES>
+		<CHECK_UPD_NEW>Byla nalezena nová aktualizace nebo novinka</CHECK_UPD_NEW>
+		<CHECK_UPD_REMINDER>Připomínka: zkontrolujte aktualizace!</CHECK_UPD_REMINDER>
+		<CHG_VIEWS>Zobrazit změny</CHG_VIEWS>
+		<IF_NO_ERROR>Pokud nebyly chyby</IF_NO_ERROR>
+		<IMPORTING_ARCHIVE>Importování archivu(ů)</IMPORTING_ARCHIVE>
+		<INCLUDE_FOLDER_IN_LOG>Zahrnout složku do záznamu</INCLUDE_FOLDER_IN_LOG>
+		<INF_VOLATILE_KEY>Přechodný klíč nebyl vytvořen</INF_VOLATILE_KEY>
+		<INF_VOLATILE_VAL>Přechodná hodnota nebyla vytvořena</INF_VOLATILE_VAL>
+		<INST_ON>Nainstalováno</INST_ON>
+		<INST_PRG>Nainstalovaný program</INST_PRG>
+		<INST_PRGS>Nainstalované programy</INST_PRGS>
+		<INST_SERV_AND_DEV>Nainstalované služby a zařízení</INST_SERV_AND_DEV>
+		<INSTALL>Instalovat</INSTALL>
+		<INSTALL_HISTORY>Historie instalací</INSTALL_HISTORY>
+		<INSTALLED_APPS>%d nainstalováno aplikací</INSTALLED_APPS>
+		<INSTALLED_PRGS_CMPS>Počet instalovaných programů %d, systémových součástí %d.</INSTALLED_PRGS_CMPS>
+		<INSTALLER_ERR>Byla zjištěna chyba instalátoru: Počítadlo sdílených souborů vytvořeno pro existující soubor</INSTALLER_ERR>
+		<INTERFACE>Rozhraní</INTERFACE>
+		<INVALID_AFTER_CNT>Neplatný čítač pro " PO INSTALACI"</INVALID_AFTER_CNT>
+		<INVALID_BEFORE_CNT>Neplatný čítač pro "PŘED INSTALACÍ"</INVALID_BEFORE_CNT>
+		<INVALID_CURRENT_CNT>V registru byl nalezen neplatný čítač pro "AKTUÁLNÍ"</INVALID_CURRENT_CNT>
+		<INVALID_FILE_FORMAT>Neplatný formát souboru</INVALID_FILE_FORMAT>
+		<INVALID_SERVER_RESPONSE>Neplatná odpověď serveru ověření. S největší pravděpodobností brání firewall komunikaci.</INVALID_SERVER_RESPONSE>
+		<ITEM_X>Položka : %s</ITEM_X>
+		<ITEMS_AFTER_INST>Následující položky byly vytvořeny po instalaci.\nMohou je potřebovat jiné programy.</ITEMS_AFTER_INST>
+		<KEY>Klíč</KEY>
+		<KEYS_CREATED_STAT>Vytvořené klíče          :%6.1d</KEYS_CREATED_STAT>
+		<KEYS_DEL_STAT>Smazané klíče            :%6.1d</KEYS_DEL_STAT>
+		<KEYS_X>Klíče   :%6.1d</KEYS_X>
+		<LAST_CHECK>Poslední kontrola: %s</LAST_CHECK>
+		<LAST_WRITE_X>Poslední zápis: %s</LAST_WRITE_X>
+		<LAUNCH>Spustit</LAUNCH>
+		<LAUNCH_SUPPLIED_UNINST>Bude spuštěn vložený odinstalační program.</LAUNCH_SUPPLIED_UNINST>
+		<LAUNCH_TU>Spustit Total Uninstall</LAUNCH_TU>
+		<LIC_COUNTRY>Licence pro stát</LIC_COUNTRY>
+		<LIC_FAMILY>Rodinná licence</LIC_FAMILY>
+		<LIC_MULTIPLE>Licence pro více počítačů</LIC_MULTIPLE>
+		<LIC_SINGLE_COMPUTER>Licence pro jeden počítač</LIC_SINGLE_COMPUTER>
+		<LIC_SITE>Síťová licence</LIC_SITE>
+		<LIC_SMALL_OFFICE>Licence pro malý úřad</LIC_SMALL_OFFICE>
+		<LIC_TECHNICIAN>Technická licence</LIC_TECHNICIAN>
+		<LIC_TEMPORARY>Dočasná licence</LIC_TEMPORARY>
+		<LIC_WORLDWIDE>Celosvětová licence</LIC_WORLDWIDE>
+		<LICENSED_TO>Držitel licence:  &quot;%s&quot;</LICENSED_TO>
+		<LNK_EXE_FILTER>Zástupci a spustitelné soubory (*.lnk, *.exe)|*.lnk;*.exe</LNK_EXE_FILTER>
+		<LOADING>Načítání...</LOADING>
+		<LOADING_INST_PRGS>Načítání nainstalovaných programů...</LOADING_INST_PRGS>
+		<LOADING_MON_PRGS>Načítání sledovaných programů...</LOADING_MON_PRGS>
+		<LOADING_WINDOWS_APPS>Načítání aplikací Windows...</LOADING_WINDOWS_APPS>
+		<LOCATE_PRG_LNK_EXE>Vybrat zástupce programu nebo spustitelný soubor</LOCATE_PRG_LNK_EXE>
+		<LOCATE_UNINSTALLER_EXE>Vybrat spustitelný odinstalátor</LOCATE_UNINSTALLER_EXE>
+		<LOG_FILE_NAME>Název souboru záznamu</LOG_FILE_NAME>
+		<LOGON>Přihlásit</LOGON>
+		<MAINTENANCE_ENDED>Lhůta pro údržbu vaši licence skončila.</MAINTENANCE_ENDED>
+		<MAINTENANCE_ENDED_INFO>Nově nainstalovaná verze programu poběží ve zkušebním režimu.</MAINTENANCE_ENDED_INFO>
+		<MANUAL>Ručně</MANUAL>
+		<MICROSOFT>Microsoft</MICROSOFT>
+		<MISSING_ITEMS>Chybějící položky</MISSING_ITEMS>
+		<MODIFIED>Změněno</MODIFIED>
+		<MON_ON>Sledováno</MON_ON>
+		<MON_PRG>Sledovaný program</MON_PRG>
+		<MON_PRG_PATH>Cesta sledovaného programu</MON_PRG_PATH>
+		<MON_PRG_RUNNING>Sledovaný program je pravděpodobně spuštěn.</MON_PRG_RUNNING>
+		<MONITOR_WITH_TU>Sledovat s Total Uninstall</MONITOR_WITH_TU>
+		<MONITORED_PRGS>%d sledovaných programů</MONITORED_PRGS>
+		<NAME>Název</NAME>
+		<NEVER>Nikdy</NEVER>
+		<NEW_NAME>Nový název</NEW_NAME>
+		<NO>ne</NO>
+		<NO_GROUPS>Žádné skupiny</NO_GROUPS>
+		<NO_MORE_INSTANCES_ALLOWED>Vaše licence nepovoluje větší počet spuštěných instancí tohoto programu.</NO_MORE_INSTANCES_ALLOWED>
+		<NO_RIGHTS>Nedostatečná práva</NO_RIGHTS>
+		<NO_UPDATES>Poškozená verze.</NO_UPDATES>
+		<NON_MICROSOFT>Není Microsoft</NON_MICROSOFT>
+		<NON_WINDOWS>Není Windows</NON_WINDOWS>
+		<NORMAL>Běžně</NORMAL>
+		<NOT_A_VALID_UNINST>Nebyl nalezen žádný registrovaný odinstalátor.</NOT_A_VALID_UNINST>
+		<NOT_AVAILABLE> Není</NOT_AVAILABLE>
+		<NOT_DELETED_FILES>Nesmazány žádné soubory a složky</NOT_DELETED_FILES>
+		<NOT_DELETED_FILES_DET>Složky a soubory nebyly smazány během odinstalace</NOT_DELETED_FILES_DET>
+		<NOT_DELETED_REG>Nesmazány žádné klíče a hodnoty registru</NOT_DELETED_REG>
+		<NOT_DELETED_REG_DET>Klíče a hodnoty registru nebyly smazány během odinstalování</NOT_DELETED_REG_DET>
+		<NOT_EMPTY>Není prázdný</NOT_EMPTY>
+		<NOT_FOUND>Nebyl nalezen</NOT_FOUND>
+		<NOT_FOUND_X>Nebyl nalezen: %s</NOT_FOUND_X>
+		<NOTES>Poznámky</NOTES>
+		<OK> OK</OK>
+		<OK_BRA> (OK)</OK_BRA>
+		<ON_PRG_CLOSE>Ukončit program</ON_PRG_CLOSE>
+		<ON_REFRESH>Obnovit</ON_REFRESH>
+		<ONLY_FILES_TO_KEEP>Nesmazáno. Obsahuje pouze soubory a složky pro zachování.</ONLY_FILES_TO_KEEP>
+		<ONLY_KEYS_TO_KEEP>Nesmazáno. Obsahuje pouze klíče registru pro zachování.</ONLY_KEYS_TO_KEEP>
+		<OTHER>Jiný</OTHER>
+		<PACKAGES>Balíčky</PACKAGES>
+		<PAGE>Stránka:</PAGE>
+		<PAINT_ITEM_STYLES>Zobrazit běžný\nSkrytý\nZvýrazněný text\nTmavá ikona\nTmavá ikona a zvýrazněný text</PAINT_ITEM_STYLES>
+		<PENDING_FILE_REN>Čekání na přejmenování.</PENDING_FILE_REN>
+		<PRE_INST_SNS_NAME>Název snímku před instalováním</PRE_INST_SNS_NAME>
+		<PRE_INSTALL>Snímek systému před instalováním</PRE_INSTALL>
+		<PREFERENCES>Předvolby</PREFERENCES>
+		<PRG_DETECTED>Zjištěno programů:</PRG_DETECTED>
+		<PRG_NAME>Název programu</PRG_NAME>
+		<PRG_PART_UNINSTALLED>Program byl částečně odinstalován</PRG_PART_UNINSTALLED>
+		<PRG_RESTORED>Program byl obnoven.</PRG_RESTORED>
+		<PRG_UNINSTALLED>Program byl úspěšně odinstalován</PRG_UNINSTALLED>
+		<PRINT_ERROR>Chyba tisku !</PRINT_ERROR>
+		<PROCESS_CANCELLED>Proces byl zrušen.</PROCESS_CANCELLED>
+		<PROCESSING_INSTALLATIONS>Zpracování instalací...</PROCESSING_INSTALLATIONS>
+		<PRODUCT_UPDATES>Aktualizace produktu</PRODUCT_UPDATES>
+		<PROGRAM_WILL_RESTART>Pro dokončení registrace se program restartuje</PROGRAM_WILL_RESTART>
+		<PROGRESS_DEFAULT>Průběh, výchozí</PROGRESS_DEFAULT>
+		<PST_INST_SNS_NAME>Název snímku po instalování</PST_INST_SNS_NAME>
+		<PUBLISHER>Vydavatel</PUBLISHER>
+		<QST_DEL_FLD_FILES>Opravdu chcete smazat vybrané složky a soubory?</QST_DEL_FLD_FILES>
+		<QST_DEL_REG_KEYS_VALS>Opravdu chcete smazat vybrané klíče a hodnoty?</QST_DEL_REG_KEYS_VALS>
+		<QST_DEL_SERVICES>Opravdu chcete smazat vybrané služby?</QST_DEL_SERVICES>
+		<QST_REMOVE_INST_PRG_LST>Opravdu chcete odstranit vybraný program ze seznamu?</QST_REMOVE_INST_PRG_LST>
+		<QUEST_REMOVE_GROUP>Odebrat skupinu?</QUEST_REMOVE_GROUP>
+		<QUIET_PROGRESS_DEFAULT>Tiché, průběh, výchozí</QUIET_PROGRESS_DEFAULT>
+		<README>Přečíst</README>
+		<READY>Připraven</READY>
+		<RECORD_CHANGED_X>Změněno záznamů: %s</RECORD_CHANGED_X>
+		<REDO_PROFILES>Obnovit profily</REDO_PROFILES>
+		<REG_DET_VIEW_PRF>Detaily registru [Zobrazit: %s]</REG_DET_VIEW_PRF>
+		<REG_KEY> (REG KEY)</REG_KEY>
+		<REG_RUN>Spustit</REG_RUN>
+		<REG_RUN_ONCE>Spustit jednou</REG_RUN_ONCE>
+		<REG_SCAN_ERROR>Chyba během skenování registru.</REG_SCAN_ERROR>
+		<REG_VAL> (REG VAL)</REG_VAL>
+		<REGISTER_DISABLED_KEY>Můžete být obětí softwarového padělku. Kupte si původní licenční klíč.</REGISTER_DISABLED_KEY>
+		<REGISTER_FAILED>Registrace selhala.</REGISTER_FAILED>
+		<REGISTER_FIREWALL>Firewall brání online ověření vaší licence.</REGISTER_FIREWALL>
+		<REGISTER_HOST>Záznam v souboru HOSTS brání %s online ověření vaší licence.</REGISTER_HOST>
+		<REGISTER_INVALID>Neplatné registrační informace</REGISTER_INVALID>
+		<REGISTER_PORTABLE>Techniciká přenosná verze musí být registrována</REGISTER_PORTABLE>
+		<REGISTER_PRO>Program musíte zaregistrovat klíčem pro Profesionální edici.</REGISTER_PRO>
+		<REGISTER_THANK_YOU>Děkujeme za vaši registraci %s.</REGISTER_THANK_YOU>
+		<REGISTERED_COMPANY>Registrovaná firma</REGISTERED_COMPANY>
+		<REGISTERED_OWNER>Registrovaný vlastník</REGISTERED_OWNER>
+		<REGISTRY>Registr</REGISTRY>
+		<REMOVE_LEFT_BEHIND>Pro odstranění zjištěných zanechaných složek, souborů, klíčů a hodnot registru stiskněte tlačítko Odinstalovat.</REMOVE_LEFT_BEHIND>
+		<REMOVE_LOG>Smazat změněný záznam?</REMOVE_LOG>
+		<REMOVE_LOG_DET>Nebudete moci obnovit změny vybraného programu.</REMOVE_LOG_DET>
+		<REMOVE_PRG_DATA>Odstranit nastavení a data programu?</REMOVE_PRG_DATA>
+		<REMOVE_PRG_DATA_INFO>Vyberte &quot;Ne&quot;, pokud chcete aktualizovat Total Uninstall</REMOVE_PRG_DATA_INFO>
+		<RENAME>Přejmenovat</RENAME>
+		<REQUEST_INTERNET_ACCESS>Přístup k internetu je povinný.</REQUEST_INTERNET_ACCESS>
+		<RESTORATION_UNDONE>Obnovování bude vráceno.</RESTORATION_UNDONE>
+		<RESTORE>Obnovit</RESTORE>
+		<RESTORE_PROGRAM>Obnovit program</RESTORE_PROGRAM>
+		<RESTORE_REG_VALS>Obnovit hodnoty registru</RESTORE_REG_VALS>
+		<RESTORING_ARCHIVE>Obnovování souborů a položek registru...</RESTORING_ARCHIVE>
+		<RESTORING_FILES_FROM_BKP>Obnovování souborů ze zálohy...</RESTORING_FILES_FROM_BKP>
+		<RST_FILE_PROP>Obnovit změněné vlastnosti</RST_FILE_PROP>
+		<RUN_EVAL_PERIOD>Spustit program ve zkušebním období?</RUN_EVAL_PERIOD>
+		<RUNNING>Spouštění</RUNNING>
+		<RUNNING_DOMAIN>Spuštění v doméně Windows NZ</RUNNING_DOMAIN>
+		<RUNNING_SERVER>Spuštění ve Windows Server</RUNNING_SERVER>
+		<RUNNING_VM>Spouštění ve virtuálním stroji</RUNNING_VM>
+		<SAFE>Bezpečně</SAFE>
+		<SAVE_AS>Uložit jako</SAVE_AS>
+		<SCAN_PROFILES>Profily skenování</SCAN_PROFILES>
+		<SCANNING>Hledání...</SCANNING>
+		<SCANNING_REGISTRY_AND_FS>Skenování registru a souborového systému...</SCANNING_REGISTRY_AND_FS>
+		<SEARCH>Hledat</SEARCH>
+		<SEARCH_IN_X>Prohledat &quot;%s&quot;</SEARCH_IN_X>
+		<SEL_BRA>Výběr</SEL_BRA>
+		<SEL_HAS_HD_NODES>Výběr obsahuje nejméně jeden skrytý uzel.</SEL_HAS_HD_NODES>
+		<SEL_PRG_UNINSTALLED>Vybraný program byl již odinstalován.</SEL_PRG_UNINSTALLED>
+		<SEL_UNINSTALL_PROFILE>Vyberte profil odinstalace.</SEL_UNINSTALL_PROFILE>
+		<SELECT>Vybrat</SELECT>
+		<SERVICE>Služba</SERVICE>
+		<SERVICES>Služby</SERVICES>
+		<SHARED_FILE>Sdílený soubor. V této fázi nebude smazán</SHARED_FILE>
+		<SHARED_FILE_CNT_DEC>Čítač sdílených souborů je již zmenšen</SHARED_FILE_CNT_DEC>
+		<SHARED_FILE_NOT_FOUND>Sdílený soubor nebyl na disku nalezen</SHARED_FILE_NOT_FOUND>
+		<SHOW_OPTIONS>Zobrazit v&amp;olby</SHOW_OPTIONS>
+		<SHOW_SYS_COMP>Zobrazit součásti systému: %s</SHOW_SYS_COMP>
+		<SCHEDULED_TASKS>Naplánované úlohy</SCHEDULED_TASKS>
+		<SIZE>Velikost</SIZE>
+		<SIZE_STAT>Velikost                    : %s</SIZE_STAT>
+		<SKIP>Vynechat</SKIP>
+		<SKIP_BUILTIN_UNINSTALLER>Pokud vložený odinstalátor neodpovídá, stiskněte pro pokračování tlačítko Přejít. Bude spuštěn další vložený odinstalátor.</SKIP_BUILTIN_UNINSTALLER>
+		<SMALL_CNT>Čítač sdílených souborů nalezl málo v registru</SMALL_CNT>
+		<START>Spustit</START>
+		<START_MENU>Menu Start</START_MENU>
+		<START_SCANNING>Pro spuštění kontroly stiskněte tlačítko Skenovat.</START_SCANNING>
+		<START_UNINSTALL_PROCESS>Spustit proces odinstalování.</START_UNINSTALL_PROCESS>
+		<STARTUP_TYPE_X>Typ autospuštění : %s</STARTUP_TYPE_X>
+		<STOP>Zastavit</STOP>
+		<STOP_SERVICES>Zastavit služby</STOP_SERVICES>
+		<STOPPED>Zastaveno</STOPPED>
+		<SUMMARY>Souhrn</SUMMARY>
+		<SUPPORT_INFO>Informace o podpoře</SUPPORT_INFO>
+		<SUPPORT_PHONE>Podpora telefonem</SUPPORT_PHONE>
+		<SVC_CMD_NOT_ACCEPTED>Služba nepřijímá příkaz k zastavení.</SVC_CMD_NOT_ACCEPTED>
+		<SW_VERSION>Verze %s</SW_VERSION>
+		<SYSTEM>Systém</SYSTEM>
+		<TEMPORARY_FILES>Dočasné soubory</TEMPORARY_FILES>
+		<TITLE_MON_INSTALL>Sledovat novou instalaci</TITLE_MON_INSTALL>
+		<TITLE_MON_UPDATE_X>Aktualizovat sledovaný program &quot;%s&quot;</TITLE_MON_UPDATE_X>
+		<TOTAL_LIC_COMPUTERS>Celkový počet licencí pro uvedené jméno: %s</TOTAL_LIC_COMPUTERS>
+		<TOTAL_UNINSTALL>Total uninstall</TOTAL_UNINSTALL>
+		<TRACES_AFTER_UNINSTALL>Stopy po odinstalaci</TRACES_AFTER_UNINSTALL>
+		<TRIAL_EXPIRED>Zkušební doba vypršela. Registrujte se.</TRIAL_EXPIRED>
+		<TU_AGENT>Agent Total Uninstall</TU_AGENT>
+		<TU_MON_PRG_TITLE>Sledované programy</TU_MON_PRG_TITLE>
+		<TU_PRO_EDITION>Total Uninstall Profesionální edice</TU_PRO_EDITION>
+		<TU_STD_EDITION>Total Uninstall Standard edice</TU_STD_EDITION>
+		<TU_ULT_EDITION> Total Uninstall Ultimate Edition</TU_ULT_EDITION>
+		<TU_USE_FIRST_UNINST>Total Uninstall použije první poskytnutý odinstalátor</TU_USE_FIRST_UNINST>
+		<TU_USE_FIRST_UNINST_DESC>Odinstalovat antivirus, antispyware, firewall, ovladač nebo program, který instaloval systémové zařízení.</TU_USE_FIRST_UNINST_DESC>
+		<UNDO>Vrátit</UNDO>
+		<UNDO_RESTORATION>Vrátit obnovení</UNDO_RESTORATION>
+		<UNINST_ANALYZED>Odinstalovat analyzovaný program</UNINST_ANALYZED>
+		<UNINST_BUNDLE>Odinstalovat analyzované programy - balíček</UNINST_BUNDLE>
+		<UNINST_PROFILES>Profily odinstalace</UNINST_PROFILES>
+		<UNINSTALL>Odinstalovat</UNINSTALL>
+		<UNINSTALL_INST_HINT>Odinstalovat|Odinstalovat vybraný analyzovaný program</UNINSTALL_INST_HINT>
+		<UNINSTALL_LOG>Záznam odinstalace</UNINSTALL_LOG>
+		<UNINSTALL_MON_HINT>Odinstalovat|Odinstalovat vybraný sledovaný program</UNINSTALL_MON_HINT>
+		<UNINSTALL_PROGRAM_X>Odinstalovat program &quot;%s&quot;</UNINSTALL_PROGRAM_X>
+		<UNINSTALL_USER_WIN_APP_HINT>Odinstalovat|Odinstalovat vybranou aplikaci Windows z účtu uživatele</UNINSTALL_USER_WIN_APP_HINT>
+		<UNINSTALL_WIN_APPS>Odinstalovat vybrané aplikace?</UNINSTALL_WIN_APPS>
+		<UNINSTALLED_WITH_TU>Odinstalovat s Total Uninstall &quot;%s&quot;</UNINSTALLED_WITH_TU>
+		<UNREGISTERED>Neregistrováno</UNREGISTERED>
+		<USE_LAST_SNS>Použít poslední snímek</USE_LAST_SNS>
+		<USE_LAST_SNS_AGO_D>Použít poslední snímek (před %d dny, %d hodinami a %d minutami)</USE_LAST_SNS_AGO_D>
+		<USE_LAST_SNS_AGO_H>Použít poslední snímek (před %d hodinami a %d minutami)</USE_LAST_SNS_AGO_H>
+		<USE_LAST_SNS_AGO_M>Použít poslední snímek (před %d minutami)</USE_LAST_SNS_AGO_M>
+		<USE_OLD_PURCHASE_NEW>Nainstalujte si starší verzi nebo si kupte aktualizaci pro používání tuto verzi.</USE_OLD_PURCHASE_NEW>
+		<USE_ONLY_PRG_UNINST>Použít pouze odinstalátor programu</USE_ONLY_PRG_UNINST>
+		<USE_OR_BUILD_SNS>Vytvořit nebo použít dřívější před instalační snímek.</USE_OR_BUILD_SNS>
+		<USR_ABORT>Přerušeno uživatelem</USR_ABORT>
+		<VALS_CREATED_STAT>Vytvořené hodnoty   :%6.1d</VALS_CREATED_STAT>
+		<VALS_DEL_STAT>Smazané hodnoty   :%6.1d</VALS_DEL_STAT>
+		<VALS_CHG_STAT>Změněné hodnoty  :%6.1d</VALS_CHG_STAT>
+		<VALUE>Hodnota</VALUE>
+		<VALUES_X>Hodnoty  :%6.1d</VALUES_X>
+		<VERSION>Verze</VERSION>
+		<WAIT_UNINST_REMOVE_LEFT>Když je vložený odinstalátor programu dokončen, stiskněte tlačítko Odinstalovat pro odebrání zanechaných složek, souborů, klíčů a hodnot registru.</WAIT_UNINST_REMOVE_LEFT>
+		<WIN_APP_NAME>Název aplikace</WIN_APP_NAME>
+		<WIN_APPS>Programy Windows</WIN_APPS>
+		<WINDOWS>Windows</WINDOWS>
+		<WRN_BRA>(WRN)</WRN_BRA>
+		<X_BYTE>%s B</X_BYTE>
+		<X_BYTES>%d bajtů</X_BYTES>
+		<X_GIGABYTE>%s GB</X_GIGABYTE>
+		<X_CHANGES>%s - změn</X_CHANGES>
+		<X_KILOBYTE>%s KB</X_KILOBYTE>
+		<X_MEGABYTE>%s MB</X_MEGABYTE>
+		<X_RESULTS>výsledek(y) %d</X_RESULTS>
+		<X_UNINSTALL_LOG>&quot;%s&quot; - záznam odinstalace</X_UNINSTALL_LOG>
+		<X_UNINSTALL_LOG_FILE>&quot;%s&quot; - UninstallLog.txt</X_UNINSTALL_LOG_FILE>
+		<YES>ano</YES>
+		<ZERO_LENGTH_DATA>(nulová délka dat)</ZERO_LENGTH_DATA>
+	</RESOURCESTRING>
+</TotalUninstall>

@@ -1,0 +1,2602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Dịch bởi Nguyễn Trường Bình - binhbnt@hotmail.com-->
+<TotalUninstall>
+	<_System_>
+		<Flag>
+			<Size>1974</Size>
+			<Data>Qk22BwAAAAAAADYAAAAoAAAAIAAAABQAAAABABgAAAAAAIAHAADEDgAAxA4AAAAAAAAAAAAAHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHhzYHSLZHSXaHSXaHSXaHSXaHSLZHhzYHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHhzYEIXqHR7YHhrYHSTZHSTaHhrYHR7YEITpHhzYHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHhzYFGPkAP//FVjiIAvVIAvVFlbiAP//FGTkHhzYHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSTZIA3VAP//AP//CqzwC6rwAP//AP//IA3VHSTZHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHxLWDKTvAP//AP//AP//AP//DKPvHxLWHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHh3YIAvVCbXyAP//AP//AP//AP//CbbyIAvVHhzYHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSTZHxPXGEXfAP//AP//AP//AP//AP//AP//AP//AP//GEbfHxPXHSTZHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSTZHhvYDo/sAP//AfT9Au/8APv+AP//AP//APv+Au/8AfT9AP//DpHsHhvYHSTZHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSTZHhrYIA7WIA3WIAjVGjfdAP//AP//GjfdIAjVIA3WIA7WHhrYHSTZHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSTZIAnVAP3+AP3+IAnVHSTZHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHhbXDKXvDKXvHhbXHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSDZF0rgF0rgHSDZHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSTaHSDZHSDZHSTaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSTaHSTaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXaHSXa</Data>
+		</Flag>
+		<LanguageCode>en</LanguageCode>
+		<LocalizedName>Tiếng Việt</LocalizedName>
+		<Version>62000</Version>
+	</_System_>
+	<Cleaner>
+		<CF-BROWSER-CACHE>Trình duyệt</CF-BROWSER-CACHE>
+		<CF-BROWSER-CACHE-CHROME>Chrome</CF-BROWSER-CACHE-CHROME>
+		<CF-BROWSER-CACHE-FIREFOX>Firefox</CF-BROWSER-CACHE-FIREFOX>
+		<CF-BROWSER-CACHE-IE>Internet Explorer</CF-BROWSER-CACHE-IE>
+		<CF-BROWSER-CACHE-MAXTHON>Maxthon</CF-BROWSER-CACHE-MAXTHON>
+		<CF-BROWSER-CACHE-OPERA>Opera</CF-BROWSER-CACHE-OPERA>
+		<CF-PROGRAMS>Chương trình</CF-PROGRAMS>
+		<CF-PROGRAMS-ADOBE-FLASH-PLAYER>Adobe Flash Player</CF-PROGRAMS-ADOBE-FLASH-PLAYER>
+		<CF-PROGRAMS-MSOFFICE-RECENT>Danh sách các tập tin gần đây của Microsoft Office</CF-PROGRAMS-MSOFFICE-RECENT>
+		<CF-PROGRAMS-SUN-JAVA-CACHE>Bộ nhớ đệm Sun Java</CF-PROGRAMS-SUN-JAVA-CACHE>
+		<CF-SYSTEM>Hệ thống</CF-SYSTEM>
+		<CF-SYSTEM-JUNK-FILES>Các tập tin rác</CF-SYSTEM-JUNK-FILES>
+		<CF-SYSTEM-RECYCLE-BIN>Đang bắt buộc dọn sạch thùng rác</CF-SYSTEM-RECYCLE-BIN>
+		<CF-SYSTEM-TEMP-FILES>Tập tin tạm thời</CF-SYSTEM-TEMP-FILES>
+		<CF-SYSTEM-THUMBNAILS-CACHE>Bộ nhớ đệm hình thu nhỏ</CF-SYSTEM-THUMBNAILS-CACHE>
+		<CF-WINDOWS>Cửa sổ</CF-WINDOWS>
+		<CF-WINDOWS-ERROR-REPORTING>Báo cáo lỗi</CF-WINDOWS-ERROR-REPORTING>
+		<CF-WINDOWS-EXPLORER>Windows Explorer</CF-WINDOWS-EXPLORER>
+		<CF-WINDOWS-EXPLORER-RECENT-FILES>Tài liệu gần đây</CF-WINDOWS-EXPLORER-RECENT-FILES>
+		<CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>Bỏ qua thư mục rỗng</CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>
+		<CF-WINDOWS-LOG-FILES>Nhật ký các tập tin</CF-WINDOWS-LOG-FILES>
+		<CF-WINDOWS-MEMORY-DUMP-FILES>Kết xuất bộ nhớ</CF-WINDOWS-MEMORY-DUMP-FILES>
+		<CF-WINDOWS-TEMP-FOLDERS>Thư mục tạm thời</CF-WINDOWS-TEMP-FOLDERS>
+		<CR-INVALID-ENTRIES>Mục nhập không hợp lệ</CR-INVALID-ENTRIES>
+		<CR-INVALID-ENTRIES-FILE-REFERENCES>Tham chiếu tập tin</CR-INVALID-ENTRIES-FILE-REFERENCES>
+		<CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>Bỏ qua phím rỗng</CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>
+		<CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>Thiếu các DLL được chia sẻ</CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>
+		<CR-INVALID-ENTRIES-MSI-PATHS>Đường dẫn MSI</CR-INVALID-ENTRIES-MSI-PATHS>
+		<CR-INVALID-ENTRIES-MUI-REFERENCES>Tham chiếu MUI</CR-INVALID-ENTRIES-MUI-REFERENCES>
+		<CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>Không có thông tin định dạng tập tin</CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>
+	</Cleaner>
+	<dlgAddInstalledPrg>
+		<btnCancel>
+			<Caption>Hủy bỏ</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>Đồng ý</Caption>
+		</btnOK>
+		<Caption>Thêm chương trình vào danh sách</Caption>
+		<lblBuiltInUninstaller>
+			<Caption>Trình gỡ cài đặt tích hợp</Caption>
+		</lblBuiltInUninstaller>
+		<lblInstallationFolder>
+			<Caption>Đã cài đặt trong thư mục</Caption>
+		</lblInstallationFolder>
+		<lblPrgName>
+			<Caption>Tên chương trình</Caption>
+		</lblPrgName>
+	</dlgAddInstalledPrg>
+	<dlgAskDelItem>
+		<btnOK>
+			<Caption>Đồ&amp;ng ý</Caption>
+		</btnOK>
+		<btnSelectAll>
+			<Caption>&amp;Chọn hết</Caption>
+		</btnSelectAll>
+		<btnUnselectAll>
+			<Caption>&amp;Bỏ chọn hết</Caption>
+		</btnUnselectAll>
+		<Caption>Xóa mục?</Caption>
+		<cbAutoSelectAll>
+			<Caption>Tự chọn hết</Caption>
+		</cbAutoSelectAll>
+		<lblDelSel>
+			<Caption>Các mục đã chọn sẽ bị xóa</Caption>
+		</lblDelSel>
+	</dlgAskDelItem>
+	<dlgAutorunItem>
+		<btnCancel>
+			<Caption>Hủy bỏ</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>Đồng ý</Caption>
+		</btnOk>
+		<Caption>Mục tự động chạy</Caption>
+		<gbStartLocation>
+			<Caption>Bắt đầu vị trí</Caption>
+		</gbStartLocation>
+		<gbUser>
+			<Caption>Tự động chạy khi đăng nhập</Caption>
+		</gbUser>
+		<lblCommand>
+			<Caption>Lệnh</Caption>
+		</lblCommand>
+		<lblName>
+			<Caption>Tên</Caption>
+		</lblName>
+		<rbLogonAnyUser>
+			<Caption>Bất kỳ người dùng nào</Caption>
+		</rbLogonAnyUser>
+		<rbLogonCurentUser>
+			<Caption>Người dùng hiện tại</Caption>
+		</rbLogonCurentUser>
+		<rbRegRun>
+			<Caption>Registry, chạy mỗi khi đăng nhập</Caption>
+		</rbRegRun>
+		<rbRegRunOnce>
+			<Caption>Registry, chỉ chạy một lần tại lần đăng nhập tiếp theo</Caption>
+		</rbRegRunOnce>
+		<rbStartMenu>
+			<Caption>Thư mục khởi động, chạy mỗi khi đăng nhập</Caption>
+		</rbStartMenu>
+	</dlgAutorunItem>
+	<dlgChangeIcon>
+		<btnBrowse>
+			<Caption>Duyệt...</Caption>
+		</btnBrowse>
+		<btnCancel>
+			<Caption>Hủy bỏ</Caption>
+		</btnCancel>
+		<btnClear>
+			<Caption>Dọn sạch</Caption>
+		</btnClear>
+		<btnOk>
+			<Caption>Đồng ý</Caption>
+		</btnOk>
+		<Caption>Đổi biểu tượng</Caption>
+		<gbIcons>
+			<Caption>Biểu tượng</Caption>
+		</gbIcons>
+	</dlgChangeIcon>
+	<dlgCheckUpdates>
+		<btnClose>
+			<Caption>Đóng</Caption>
+		</btnClose>
+		<btnRefresh>
+			<Caption>Tải lại</Caption>
+		</btnRefresh>
+		<Caption>Kiểm tra cập nhật</Caption>
+	</dlgCheckUpdates>
+	<dlgCompareSns>
+		<btnCancel>
+			<Caption>Hủy bỏ</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>Đồng ý</Caption>
+		</btnOK>
+		<Caption>So sánh ảnh chụp nhanh hệ thống</Caption>
+		<lblCompareProfile>
+			<Caption>So sánh hồ sơ</Caption>
+		</lblCompareProfile>
+		<lblResultLog>
+			<Caption>Kết quả nhật ký</Caption>
+		</lblResultLog>
+		<lblSnapshotA>
+			<Caption>Chụp ảnh hệ thống A</Caption>
+		</lblSnapshotA>
+		<lblSnapshotB>
+			<Caption>Chụp ảnh hệ thống B</Caption>
+		</lblSnapshotB>
+	</dlgCompareSns>
+	<dlgExportRegistry>
+		<btnCancel>
+			<Caption>Hủy bỏ</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>Đồng ý</Caption>
+		</btnOk>
+		<Caption>Xuất registry thay đổi</Caption>
+		<cbCreatedKeys>
+			<Caption>Các khóa đã tạo</Caption>
+		</cbCreatedKeys>
+		<cbCreatedValues>
+			<Caption>Giá trị đã tạo</Caption>
+		</cbCreatedValues>
+		<cbDeletedKeys>
+			<Caption>Các khóa đã xóa</Caption>
+		</cbDeletedKeys>
+		<cbDeletedValues>
+			<Caption>Giá trị đã xóa</Caption>
+		</cbDeletedValues>
+		<cbModifiedValues>
+			<Caption>Giá trị đã sửa</Caption>
+		</cbModifiedValues>
+		<gbDetails>
+			<Caption>Registry thay đổi</Caption>
+		</gbDetails>
+		<gbExportType>
+			<Caption>Loại xuất</Caption>
+		</gbExportType>
+		<gbRange>
+			<Caption>Phạm vi xuất</Caption>
+		</gbRange>
+		<rbExpAll>
+			<Caption>Tất cả</Caption>
+		</rbExpAll>
+		<rbExpBranch>
+			<Caption>Nhánh đã chọn</Caption>
+		</rbExpBranch>
+		<rbInstall>
+			<Caption>Cài đặt tập tin</Caption>
+		</rbInstall>
+		<rbUninstall>
+			<Caption>Gõ bỏ tập tin</Caption>
+		</rbUninstall>
+	</dlgExportRegistry>
+	<dlgGroupProp>
+		<btnCancel>
+			<Caption>Hủy bỏ</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>Đồng ý</Caption>
+		</btnOk>
+		<Caption>Nhóm</Caption>
+		<lblIcon>
+			<Caption>Biểu tượng</Caption>
+		</lblIcon>
+		<lblName>
+			<Caption>Tên</Caption>
+		</lblName>
+	</dlgGroupProp>
+	<dlgMergeLogs>
+		<btnCancel>
+			<Caption>Hủy bỏ</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>Đồng ý</Caption>
+		</btnOK>
+		<Caption>Hợp nhất nhật ký</Caption>
+		<cbDeleteUpdate>
+			<Caption>Xóa cập nhật nhật ký sau khi hợp nhất</Caption>
+		</cbDeleteUpdate>
+		<gbDestination>
+			<Caption>Đích</Caption>
+		</gbDestination>
+		<gbSources>
+			<Caption>Nguồn</Caption>
+		</gbSources>
+		<lblInstallLog>
+			<Caption>Cài đặt nhật ký</Caption>
+		</lblInstallLog>
+		<lblNewName>
+			<Caption>Tên mới</Caption>
+		</lblNewName>
+		<lblUpdateLog>
+			<Caption>Nhật ký cập nhật</Caption>
+		</lblUpdateLog>
+		<rbCreateANewLog>
+			<Caption>Tạo một nhật ký mới</Caption>
+		</rbCreateANewLog>
+		<rbSaveInInstallLog>
+			<Caption>Lưu trong nhật ký cài đặt</Caption>
+		</rbSaveInInstallLog>
+	</dlgMergeLogs>
+	<dlgPendingFileRename>
+		<btnApply>
+			<Caption>Thực hiện</Caption>
+		</btnApply>
+		<btnClose>
+			<Caption>Đóng</Caption>
+		</btnClose>
+		<Caption>Đang chờ hoạt động đổi tên tập tin</Caption>
+		<tvPendingFiles>
+			<Columns_0>Nguồn</Columns_0>
+			<Columns_1>Đích</Columns_1>
+		</tvPendingFiles>
+	</dlgPendingFileRename>
+	<dlgRegister>
+		<btnBuy>
+			<Caption>Mua</Caption>
+		</btnBuy>
+		<btnCancel>
+			<Caption>Hủy bỏ</Caption>
+		</btnCancel>
+		<btnRegister>
+			<Caption>Đăng ký</Caption>
+		</btnRegister>
+		<Caption>Đăng ký Total Uninstall</Caption>
+		<lblKey>
+			<Caption>Khóa đăng ký</Caption>
+		</lblKey>
+		<lblName>
+			<Caption>Tên đăng ký</Caption>
+		</lblName>
+		<ulblLostRegistrationInfo>
+			<Caption>Tôi đã mất thông tin đăng ký.</Caption>
+		</ulblLostRegistrationInfo>
+	</dlgRegister>
+	<dlgRestrictedFeature>
+		<btnCancel>
+			<Caption>Hủy bỏ</Caption>
+		</btnCancel>
+		<Caption>Tính năng bị hạn chế</Caption>
+		<clinkPurchase>
+			<Caption>Mua</Caption>
+			<Note>Mở đơn đặt hàng</Note>
+		</clinkPurchase>
+		<lblInstruction>
+			<Caption>Tính năng này chỉ có sẵn trong phiên bản đăng ký</Caption>
+		</lblInstruction>
+		<lblProfessionalEdition>
+			<Caption>- Phiên bản chuyên nghiệp</Caption>
+		</lblProfessionalEdition>
+	</dlgRestrictedFeature>
+	<dlgRmvShared>
+		<btnNo>
+			<Caption>Không</Caption>
+		</btnNo>
+		<btnNoToAll>
+			<Caption>Không Để Tất cả</Caption>
+		</btnNoToAll>
+		<btnYes>
+			<Caption>Có</Caption>
+		</btnYes>
+		<btnYesToAll>
+			<Caption>Có tất cả</Caption>
+		</btnYesToAll>
+		<Caption>Loại bỏ tập tin đã chia sẻ?</Caption>
+		<lblFileName>
+			<Caption>Tên tập tin:</Caption>
+		</lblFileName>
+		<lblLocated>
+			<Caption>Nằm ở:</Caption>
+		</lblLocated>
+		<lblOne>
+			<Caption>Hệ thống chỉ ra rằng tập tin chia sẻ sau đây không còn được sử dụng bởi bất kỳ chương trình nào. Nếu bất kỳ chương trình nào vẫn đang sử dụng tập tin này và nó sẽ bị xóa, các chương trình này có thể không hoạt động. Bạn có chắc chắn muốn xóa tập tin được chia sẻ không??</Caption>
+		</lblOne>
+		<lblTwo>
+			<Caption>Để tập tin này trên hệ thống của bạn không tổn hại gì. Nếu bạn không chắc chắn nên làm gì, chúng tôi khuyên bạn nên chọn không loại bỏ thành phần được chia sẻ này.</Caption>
+		</lblTwo>
+	</dlgRmvShared>
+	<dlgSelect>
+		<btnCancel>
+			<Caption>Hủy bỏ</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>Đồng ý</Caption>
+		</btnOk>
+		<Caption>Chọn</Caption>
+	</dlgSelect>
+	<dlgSelectLibIcon>
+		<btnAdd>
+			<Caption>Thêm</Caption>
+		</btnAdd>
+		<btnCancel>
+			<Caption>Hủy bỏ</Caption>
+		</btnCancel>
+		<btnDelete>
+			<Caption>Xóa</Caption>
+		</btnDelete>
+		<btnOk>
+			<Caption>Đồng ý</Caption>
+		</btnOk>
+		<Caption>Chọn biểu tượng</Caption>
+		<gbIcons>
+			<Caption>Biểu tượng</Caption>
+		</gbIcons>
+	</dlgSelectLibIcon>
+	<dlgSysBrowser>
+		<btnCancel>
+			<Caption>&amp;Hủy bỏ</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>Đồ&amp;ng ý</Caption>
+		</btnOk>
+		<lblExpanded>
+			<Caption>Mở rộng</Caption>
+		</lblExpanded>
+	</dlgSysBrowser>
+	<dlgTUAbout>
+		<btnOK>
+			<Caption>Đồng ý</Caption>
+		</btnOK>
+		<Caption>Thông tin</Caption>
+		<lblCopyright>
+			<Caption>Bản quyền © 2001-2019, Gavrila Martau</Caption>
+		</lblCopyright>
+		<lblEmail>
+			<Caption>Email</Caption>
+		</lblEmail>
+		<lblHomePage>
+			<Caption>Trang chủ</Caption>
+		</lblHomePage>
+		<ulblBuyUpgrade>
+			<Caption>Mua nâng cấp</Caption>
+		</ulblBuyUpgrade>
+		<ulblDownload>
+			<Caption>Tải xuống bản cập nhật miễn phí mới nhất</Caption>
+		</ulblDownload>
+	</dlgTUAbout>
+	<dlgTunBackup>
+		<btnCancel>
+			<Caption>Hủy bỏ</Caption>
+		</btnCancel>
+		<btnCopy>
+			<Caption>Sao chép tới...</Caption>
+		</btnCopy>
+		<btnCreate>
+			<Caption>Tạo</Caption>
+		</btnCreate>
+		<lblArchiving>
+			<Caption>Lưu trữ tập tin và mục đăng ký...</Caption>
+		</lblArchiving>
+		<lblCreateBackup>
+			<Caption>Tạo một bản sao lưu cho chương trình</Caption>
+		</lblCreateBackup>
+		<lblFilesNotIncluded>
+			<Caption>Các tập tin không bao gồm trong bản sao lưu</Caption>
+		</lblFilesNotIncluded>
+	</dlgTunBackup>
+	<dlgTunRestore>
+		<btnImport>
+			<Caption>Nhập</Caption>
+		</btnImport>
+		<cbRestoreOnlyLog>
+			<Caption>Chỉ khôi phục nhật ký cài đặt</Caption>
+		</cbRestoreOnlyLog>
+		<lblFilesNotIncluded>
+			<Caption>Hành động không được thực hiện</Caption>
+		</lblFilesNotIncluded>
+		<lblRestoreProfile>
+			<Caption>Khôi phục hồ sơ</Caption>
+		</lblRestoreProfile>
+		<lblRestoreProgram>
+			<Caption>Chọn một chương trình để khôi phục</Caption>
+		</lblRestoreProgram>
+		<lblUndoRestoration>
+			<Caption>Chọn khôi phục để hoàn tác</Caption>
+		</lblUndoRestoration>
+		<pmiCopyTo>
+			<Caption>Sao chép tới...</Caption>
+		</pmiCopyTo>
+		<pmiDelete>
+			<Caption>Xóa</Caption>
+		</pmiDelete>
+	</dlgTunRestore>
+	<dlgTUOptions>
+		<btnAddAnalysisProfile>
+			<Caption>Thêm...</Caption>
+		</btnAddAnalysisProfile>
+		<btnAddAutorunView>
+			<Caption>Thêm...</Caption>
+		</btnAddAutorunView>
+		<btnAddChgView>
+			<Caption>Thêm...</Caption>
+		</btnAddChgView>
+		<btnAddCleaner>
+			<Caption>Thêm...</Caption>
+		</btnAddCleaner>
+		<btnAddCompareProfile>
+			<Caption>Thêm...</Caption>
+		</btnAddCompareProfile>
+		<btnAddExclFlds>
+			<Caption>Thêm...</Caption>
+		</btnAddExclFlds>
+		<btnAddExclKey>
+			<Caption>Thêm...</Caption>
+		</btnAddExclKey>
+		<btnAddExcludeProduct>
+			<Caption>Thêm...</Caption>
+		</btnAddExcludeProduct>
+		<btnAddExcludePublisher>
+			<Caption>Thêm...</Caption>
+		</btnAddExcludePublisher>
+		<btnAddIgnChgFs>
+			<Caption>Thêm...</Caption>
+		</btnAddIgnChgFs>
+		<btnAddIgnChgReg>
+			<Caption>Thêm...</Caption>
+		</btnAddIgnChgReg>
+		<btnAddIgnFile>
+			<Caption>Thêm...</Caption>
+		</btnAddIgnFile>
+		<btnAddInclFlds>
+			<Caption>Thêm...</Caption>
+		</btnAddInclFlds>
+		<btnAddInclKeys>
+			<Caption>Thêm...</Caption>
+		</btnAddInclKeys>
+		<btnAddIncludeProduct>
+			<Caption>Thêm...</Caption>
+		</btnAddIncludeProduct>
+		<btnAddIncludePublisher>
+			<Caption>Thêm...</Caption>
+		</btnAddIncludePublisher>
+		<btnAddInstallLoc>
+			<Caption>Thêm...</Caption>
+		</btnAddInstallLoc>
+		<btnAddProtectedFld>
+			<Caption>Thêm...</Caption>
+		</btnAddProtectedFld>
+		<btnAddProtectedKey>
+			<Caption>Thêm...</Caption>
+		</btnAddProtectedKey>
+		<btnAddRedo>
+			<Caption>Thêm...</Caption>
+		</btnAddRedo>
+		<btnAddScanProfile>
+			<Caption>Thêm...</Caption>
+		</btnAddScanProfile>
+		<btnAddUninst>
+			<Caption>Thêm...</Caption>
+		</btnAddUninst>
+		<btnAddUninstInst>
+			<Caption>Thêm...</Caption>
+		</btnAddUninstInst>
+		<btnAddValue>
+			<Caption>Thêm...</Caption>
+		</btnAddValue>
+		<btnAddVer>
+			<Caption>Thêm...</Caption>
+		</btnAddVer>
+		<btnAgentAddExcMask>
+			<Caption>Thêm...</Caption>
+		</btnAgentAddExcMask>
+		<btnAgentAddIncMask>
+			<Caption>Thêm...</Caption>
+		</btnAgentAddIncMask>
+		<btnAgentRemExcMask>
+			<Caption>Loại bỏ</Caption>
+		</btnAgentRemExcMask>
+		<btnAgentRemIncMask>
+			<Caption>Loại bỏ</Caption>
+		</btnAgentRemIncMask>
+		<btnAnlSaveAs>
+			<Caption>Lưu như...</Caption>
+		</btnAnlSaveAs>
+		<btnAutorunViewSaveAs>
+			<Caption>Lưu như...</Caption>
+		</btnAutorunViewSaveAs>
+		<btnCancel>
+			<Caption>Hủy bỏ</Caption>
+		</btnCancel>
+		<btnChgViewSaveAs>
+			<Caption>Lưu như...</Caption>
+		</btnChgViewSaveAs>
+		<btnCleanerSaveAs>
+			<Caption>Lưu như...</Caption>
+		</btnCleanerSaveAs>
+		<btnClnAddExclFs>
+			<Caption>Thêm...</Caption>
+		</btnClnAddExclFs>
+		<btnClnAddExclRegistry>
+			<Caption>Thêm...</Caption>
+		</btnClnAddExclRegistry>
+		<btnClnEditExclFs>
+			<Caption>Sửa...</Caption>
+		</btnClnEditExclFs>
+		<btnClnEditExclRegistry>
+			<Caption>Sửa...</Caption>
+		</btnClnEditExclRegistry>
+		<btnClnRemExclFs>
+			<Caption>Loại bỏ</Caption>
+		</btnClnRemExclFs>
+		<btnClnRemExclRegistry>
+			<Caption>Loại bỏ</Caption>
+		</btnClnRemExclRegistry>
+		<btnCompPlaySound>
+			<Caption>Kiểm tra</Caption>
+		</btnCompPlaySound>
+		<btnCompSaveAs>
+			<Caption>Lưu như...</Caption>
+		</btnCompSaveAs>
+		<btnEditExclFlds>
+			<Caption>Sửa...</Caption>
+		</btnEditExclFlds>
+		<btnEditExclKeys>
+			<Caption>Sửa...</Caption>
+		</btnEditExclKeys>
+		<btnEditIgnChgFs>
+			<Caption>Sửa...</Caption>
+		</btnEditIgnChgFs>
+		<btnEditIgnChgReg>
+			<Caption>Sứa...</Caption>
+		</btnEditIgnChgReg>
+		<btnEditIgnFile>
+			<Caption>Sửa...</Caption>
+		</btnEditIgnFile>
+		<btnEditIgnValues>
+			<Caption>Sửa...</Caption>
+		</btnEditIgnValues>
+		<btnEditProtectedFld>
+			<Caption>Sửa...</Caption>
+		</btnEditProtectedFld>
+		<btnEditProtectedKey>
+			<Caption>Sửa...</Caption>
+		</btnEditProtectedKey>
+		<btnOK>
+			<Caption>Đồng ý</Caption>
+		</btnOK>
+		<btnRedoSaveAs>
+			<Caption>Lưu như...</Caption>
+		</btnRedoSaveAs>
+		<btnRemAnalysisProfile>
+			<Caption>Loại bỏ...</Caption>
+		</btnRemAnalysisProfile>
+		<btnRemAutorunView>
+			<Caption>Loại bỏ...</Caption>
+		</btnRemAutorunView>
+		<btnRemChgView>
+			<Caption>Loại bỏ...</Caption>
+		</btnRemChgView>
+		<btnRemCleaner>
+			<Caption>Loại bỏ...</Caption>
+		</btnRemCleaner>
+		<btnRemCompareProfile>
+			<Caption>Loại bỏ...</Caption>
+		</btnRemCompareProfile>
+		<btnRemExclFlds>
+			<Caption>Loại bỏ</Caption>
+		</btnRemExclFlds>
+		<btnRemExclKeys>
+			<Caption>Loại bỏ</Caption>
+		</btnRemExclKeys>
+		<btnRemExcludeProduct>
+			<Caption>Loại bỏ</Caption>
+		</btnRemExcludeProduct>
+		<btnRemExcludePublisher>
+			<Caption>Loại bỏ</Caption>
+		</btnRemExcludePublisher>
+		<btnRemIgnChgFs>
+			<Caption>Loại bỏ</Caption>
+		</btnRemIgnChgFs>
+		<btnRemIgnChgReg>
+			<Caption>Loại bỏ</Caption>
+		</btnRemIgnChgReg>
+		<btnRemIgnFile>
+			<Caption>Loại bỏ</Caption>
+		</btnRemIgnFile>
+		<btnRemInclFlds>
+			<Caption>Loại bỏ</Caption>
+		</btnRemInclFlds>
+		<btnRemInclKeys>
+			<Caption>Loại bỏ</Caption>
+		</btnRemInclKeys>
+		<btnRemIncludeProduct>
+			<Caption>Loại bỏ</Caption>
+		</btnRemIncludeProduct>
+		<btnRemIncludePublisher>
+			<Caption>Loại bỏ</Caption>
+		</btnRemIncludePublisher>
+		<btnRemoveInstallLoc>
+			<Caption>Loại bỏ</Caption>
+		</btnRemoveInstallLoc>
+		<btnRemoveRedo>
+			<Caption>Loại bỏ...</Caption>
+		</btnRemoveRedo>
+		<btnRemProtectedFld>
+			<Caption>Loại bỏ</Caption>
+		</btnRemProtectedFld>
+		<btnRemProtectedKey>
+			<Caption>Loại bỏ</Caption>
+		</btnRemProtectedKey>
+		<btnRemScanProfile>
+			<Caption>Loại bỏ...</Caption>
+		</btnRemScanProfile>
+		<btnRemUninst>
+			<Caption>Loại bỏ...</Caption>
+		</btnRemUninst>
+		<btnRemUninstInst>
+			<Caption>Loại bỏ...</Caption>
+		</btnRemUninstInst>
+		<btnRemValues>
+			<Caption>Loại bỏ</Caption>
+		</btnRemValues>
+		<btnRemVer>
+			<Caption>Loại bỏ</Caption>
+		</btnRemVer>
+		<btnResetAll>
+			<Caption>Đặt lại tất cả</Caption>
+		</btnResetAll>
+		<btnScanPlaySound>
+			<Caption>Kiểm tra</Caption>
+		</btnScanPlaySound>
+		<btnScanSaveAs>
+			<Caption>Lưu như...</Caption>
+		</btnScanSaveAs>
+		<btnUninstSaveAs>
+			<Caption>Lưu như...</Caption>
+		</btnUninstSaveAs>
+		<Caption>Tùy chọn</Caption>
+		<cbAnlProfileDefault>
+			<Caption>Mặc định</Caption>
+		</cbAnlProfileDefault>
+		<cbAutorunDefault>
+			<Caption>Mặc định</Caption>
+		</cbAutorunDefault>
+		<cbAutoStart>
+			<Caption>Tự động khởi động với Windows để tiếp tục quá trình giám sát chưa hoàn thành</Caption>
+		</cbAutoStart>
+		<cbBackup>
+			<Caption>Sao lưu gỡ cài đặt chương trình</Caption>
+		</cbBackup>
+		<cbChgViewDefault>
+			<Caption>Mặc định</Caption>
+		</cbChgViewDefault>
+		<cbCleanerDefault>
+			<Caption>Mặc định</Caption>
+		</cbCleanerDefault>
+		<cbCleanerEnable>
+			<Caption>Bật mô-đun làm sạch</Caption>
+		</cbCleanerEnable>
+		<cbClickRestore>
+			<Caption>Khôi phục bằng một cú nhấp chuột</Caption>
+		</cbClickRestore>
+		<cbCompareRegistry>
+			<Caption>So sánh registry</Caption>
+		</cbCompareRegistry>
+		<cbCompFiles>
+			<Caption>So sánh các tập tin</Caption>
+		</cbCompFiles>
+		<cbCompPlaySound>
+			<Caption>Phát âm thanh khi hoàn thành</Caption>
+		</cbCompPlaySound>
+		<cbCompProfileDefault>
+			<Caption>Mặc định</Caption>
+		</cbCompProfileDefault>
+		<cbCompProfileFrozen>
+			<Caption>Khóa</Caption>
+		</cbCompProfileFrozen>
+		<cbComputeMD5>
+			<Caption>Tính MD5 cho các tập tin mới</Caption>
+		</cbComputeMD5>
+		<cbCreateKeys>
+			<Caption>Tạo khóa đã xóa</Caption>
+		</cbCreateKeys>
+		<cbCreateValues>
+			<Caption>Tạo giá trị đã xóa</Caption>
+		</cbCreateValues>
+		<cbCustomSnsName>
+			<Caption>Cho phép  tùy chỉnh ảnh chụp nhanh</Caption>
+		</cbCustomSnsName>
+		<cbDecrement>
+			<Caption>Giảm số lượt truy cập cho các tập tin chia sẻ</Caption>
+		</cbDecrement>
+		<cbDelFiles>
+			<Caption>Xóa các tập tin được tạo ra (các tệp chia sẻ chỉ khi truy cập đến 0)</Caption>
+		</cbDelFiles>
+		<cbDelFolders>
+			<Caption>Xóa các thư mục đã tạo</Caption>
+		</cbDelFolders>
+		<cbDelKeys>
+			<Caption>Xóa các khóa đã tạo</Caption>
+		</cbDelKeys>
+		<cbDelUseRecycle>
+			<Caption>Dùng thùng rác</Caption>
+		</cbDelUseRecycle>
+		<cbDelValues>
+			<Caption>Xóa giá trị được tạo</Caption>
+		</cbDelValues>
+		<cbDontUseLog>
+			<Caption>Không phát hiện đã sử dụng nhật ký thay đổi</Caption>
+		</cbDontUseLog>
+		<cbEnableAgent>
+			<Caption>Kích hoạt hành động Total Uninstall</Caption>
+		</cbEnableAgent>
+		<cbExtractFileVersion>
+			<Caption>Trích xuất thông tin phiên bản tập tin</Caption>
+		</cbExtractFileVersion>
+		<cbExtractLastWriteTime>
+			<Caption>Trích xuất thời gian ghi cuối cùng trong cột hiện tại</Caption>
+		</cbExtractLastWriteTime>
+		<cbHexViewerNot64Bit>
+			<Caption>Không nhận biết 64 bit</Caption>
+		</cbHexViewerNot64Bit>
+		<cbIgnoreMissingItems>
+			<Caption>Bỏ qua các mục bị thiếu</Caption>
+		</cbIgnoreMissingItems>
+		<cbInstPrgsEnable>
+			<Caption>Bật mô-đun chương trình đã cài đặt</Caption>
+		</cbInstPrgsEnable>
+		<cbMinToTray>
+			<Caption>Thu nhỏ tới khay</Caption>
+		</cbMinToTray>
+		<cbMonPrgsEnable>
+			<Caption>Bật mô đun theo dõi chương trình</Caption>
+		</cbMonPrgsEnable>
+		<cbRedoCreateFiles>
+			<Caption>Khôi phục các tập tin đã tạo</Caption>
+		</cbRedoCreateFiles>
+		<cbRedoCreateFilesOvr>
+			<Caption>Ghi đè lên các tập tin</Caption>
+		</cbRedoCreateFilesOvr>
+		<cbRedoCreateFilesOvrLck>
+			<Caption>Ghi đè các tập tin bị khóa</Caption>
+		</cbRedoCreateFilesOvrLck>
+		<cbRedoCreateFolders>
+			<Caption>Khôi phục thư mục đã tạo</Caption>
+		</cbRedoCreateFolders>
+		<cbRedoCreateKeys>
+			<Caption>Khôi phục khóa đã tạo</Caption>
+		</cbRedoCreateKeys>
+		<cbRedoCreateValues>
+			<Caption>Khôi phục giá trị đã tạo</Caption>
+		</cbRedoCreateValues>
+		<cbRedoDefault>
+			<Caption>Mặc định</Caption>
+		</cbRedoDefault>
+		<cbRedoDeleteFiles>
+			<Caption>Xóa các tập tin</Caption>
+		</cbRedoDeleteFiles>
+		<cbRedoDeleteFolders>
+			<Caption>Xóa các thư mục</Caption>
+		</cbRedoDeleteFolders>
+		<cbRedoDeleteKeys>
+			<Caption>Xóa các khóa</Caption>
+		</cbRedoDeleteKeys>
+		<cbRedoDeleteValues>
+			<Caption>Xóa các giá trị</Caption>
+		</cbRedoDeleteValues>
+		<cbRedoEnabled>
+			<Caption>Kích hoạt</Caption>
+		</cbRedoEnabled>
+		<cbRedoModifyFiles>
+			<Caption>Khôi phục tập tin đã sửa</Caption>
+		</cbRedoModifyFiles>
+		<cbRedoModifyFilesLck>
+			<Caption>Ghi đè các tập tin bị khóa</Caption>
+		</cbRedoModifyFilesLck>
+		<cbRedoModifyValues>
+			<Caption>Khôi phục các giá trị đã sửa</Caption>
+		</cbRedoModifyValues>
+		<cbRedoSysRestore>
+			<Caption>Tạo điểm khôi phục hệ thống trước khi khôi phục</Caption>
+		</cbRedoSysRestore>
+		<cbRestoreValues>
+			<Caption>Khôi phục giá trị đã đổi</Caption>
+		</cbRestoreValues>
+		<cbRstFileCreated>
+			<Caption>Khôi phục ngày tạo tập tin</Caption>
+		</cbRstFileCreated>
+		<cbScanForAds>
+			<Caption>Quét luồng dữ liệu thay thế</Caption>
+		</cbScanForAds>
+		<cbScanPlaySound>
+			<Caption>Phát âm thanh khi hoàn tất</Caption>
+		</cbScanPlaySound>
+		<cbScanProfileDefault>
+			<Caption>Mặc định</Caption>
+		</cbScanProfileDefault>
+		<cbScanProfileFrozen>
+			<Caption>Khóa</Caption>
+		</cbScanProfileFrozen>
+		<cbShell>
+			<Caption>Tích hợp Total Uninstall vào bao</Caption>
+		</cbShell>
+		<cbShowAfter>
+			<Caption>Sau cột</Caption>
+		</cbShowAfter>
+		<cbShowBefore>
+			<Caption>Trước cột</Caption>
+		</cbShowBefore>
+		<cbShowBinAsText>
+			<Caption>Hiển thị dữ liệu nhị phân dưới dạng văn bản</Caption>
+		</cbShowBinAsText>
+		<cbShowChanged>
+			<Caption>Thay đổi mục</Caption>
+		</cbShowChanged>
+		<cbShowCreated>
+			<Caption>Ngày tạo mục</Caption>
+		</cbShowCreated>
+		<cbShowCurrent>
+			<Caption>Cột hiện tại</Caption>
+		</cbShowCurrent>
+		<cbShowDataSize>
+			<Caption>Kích cỡ dữ liệu</Caption>
+		</cbShowDataSize>
+		<cbShowDataType>
+			<Caption>Kiểu dữ liệu</Caption>
+		</cbShowDataType>
+		<cbShowDateCreated>
+			<Caption>Ngày tạo</Caption>
+		</cbShowDateCreated>
+		<cbShowDateModified>
+			<Caption>Ngày chỉnh sửa</Caption>
+		</cbShowDateModified>
+		<cbShowDeleted>
+			<Caption>Mục đã xóa</Caption>
+		</cbShowDeleted>
+		<cbShowFileAttrib>
+			<Caption>Thuộc tính tập tin</Caption>
+		</cbShowFileAttrib>
+		<cbShowFileSize>
+			<Caption>Kích cỡ tập tin</Caption>
+		</cbShowFileSize>
+		<cbShowFileVersion>
+			<Caption>Phiên bản tập tin</Caption>
+		</cbShowFileVersion>
+		<cbShowMD5>
+			<Caption>Tập tin MD5 mới</Caption>
+		</cbShowMD5>
+		<cbSmartAdjustAnalysisLevel>
+			<Caption>Phân tích điều chỉnh thông minh</Caption>
+		</cbSmartAdjustAnalysisLevel>
+		<cbSysRestore>
+			<Caption>Tạo điểm khôi phục hệ thống trước khi gỡ bỏ</Caption>
+		</cbSysRestore>
+		<cbSystemFilesAdditional>
+			<Caption>Phân tích bổ sung</Caption>
+		</cbSystemFilesAdditional>
+		<cbTxtViewerNot64Bit>
+			<Caption>Không nhận biết 64-bit</Caption>
+		</cbTxtViewerNot64Bit>
+		<cbUninstDefault>
+			<Caption>Mặc định</Caption>
+		</cbUninstDefault>
+		<cbUninstEnabled>
+			<Caption>Kích hoạt</Caption>
+		</cbUninstEnabled>
+		<cbUseUninstaller>
+			<Caption>Sử dụng chương trình tháo gỡ cài sẵn trước tiên</Caption>
+		</cbUseUninstaller>
+		<cmbUpdateFrequency>
+			<Items>Hằng ngày\nHằng tuần\nHằng tháng\n</Items>
+		</cmbUpdateFrequency>
+		<cmbUpdateMethod>
+			<Items>Thủ công\nNhắc nhỏ\nTự động\n</Items>
+		</cmbUpdateMethod>
+		<gbAgentMasks>
+			<Caption>Mặt nạ để đặt tên tập tin chương trình</Caption>
+		</gbAgentMasks>
+		<gbClnExcludeFs>
+			<Caption>Loại trừ thư mục và tập tin</Caption>
+		</gbClnExcludeFs>
+		<gbClnExcludeRegistry>
+			<Caption>Loại trừ các khóa registry và giá trị</Caption>
+		</gbClnExcludeRegistry>
+		<gbCompareIgnChgReg>
+			<Caption>Bỏ qua các mục đã thay đổi</Caption>
+		</gbCompareIgnChgReg>
+		<gbCompareIgnKeys>
+			<Caption>Bỏ qua các khóa và giá trị</Caption>
+		</gbCompareIgnKeys>
+		<gbCompIgnChgFs>
+			<Caption>Bỏ qua các mục đã thay đổi</Caption>
+		</gbCompIgnChgFs>
+		<gbCompIgnoreFld>
+			<Caption>Bỏ qua các thư mục và tập tin</Caption>
+		</gbCompIgnoreFld>
+		<gbExcludeProducts>
+			<Caption>Loại trừ sản phẩm</Caption>
+		</gbExcludeProducts>
+		<gbExcludePublishers>
+			<Caption>Loại trừ nhà xuất bản</Caption>
+		</gbExcludePublishers>
+		<gbFileExtensions>
+			<Caption>Tiện ích mở rộng tập tin với thông tin về phiên bản</Caption>
+		</gbFileExtensions>
+		<gbIncludeProducts>
+			<Caption>Bao gồm sản phẩm</Caption>
+		</gbIncludeProducts>
+		<gbIncludePublishers>
+			<Caption>Bao gồm nhà xuất bản</Caption>
+		</gbIncludePublishers>
+		<gbInstallLoc>
+			<Caption>Vị trí cài đặt</Caption>
+		</gbInstallLoc>
+		<gbInstallLocation>
+			<Caption>Phát hiện vị trí cài đặt</Caption>
+		</gbInstallLocation>
+		<gbLimits>
+			<Caption>Giới hạn cho thư mục chụp ảnh</Caption>
+		</gbLimits>
+		<gbPrgData>
+			<Caption>Phát hiện dữ liệu chương trình</Caption>
+		</gbPrgData>
+		<gbPrgSettings>
+			<Caption>Phát hiện cài đặt chương trình</Caption>
+		</gbPrgSettings>
+		<gbPrgShortcuts>
+			<Caption>Phát hiện lối tắt chương trình</Caption>
+		</gbPrgShortcuts>
+		<gbProtectedFolders>
+			<Caption>Thư mục được bảo vệ</Caption>
+		</gbProtectedFolders>
+		<gbProtectedKeys>
+			<Caption>Các khóa được bảo vệ</Caption>
+		</gbProtectedKeys>
+		<gbRegEditor>
+			<Caption>Trình biên tập Registry</Caption>
+		</gbRegEditor>
+		<gbRegScanner>
+			<Caption>Máy quét registry</Caption>
+		</gbRegScanner>
+		<gbScanExclFolders>
+			<Caption>Loại trừ các thư mục</Caption>
+		</gbScanExclFolders>
+		<gbScanExclKeys>
+			<Caption>Loại trừ các khóa</Caption>
+		</gbScanExclKeys>
+		<gbScanInclFolders>
+			<Caption>Bao gồm các thư mục</Caption>
+		</gbScanInclFolders>
+		<gbScanInclKeys>
+			<Caption>Bao gồm các khóa</Caption>
+		</gbScanInclKeys>
+		<gbShellIntegration>
+			<Caption>Phát hiện vỏ tích hợp</Caption>
+		</gbShellIntegration>
+		<gbSystemFiles>
+			<Caption>Phát hiện tập tin hệ thống</Caption>
+		</gbSystemFiles>
+		<gbTranslation>
+			<Caption>Dịch</Caption>
+		</gbTranslation>
+		<grpExistingViewStyle>
+			<Caption>Các mục hiện có trong hệ thống</Caption>
+		</grpExistingViewStyle>
+		<grpMissingViewStyle>
+			<Caption>Các mục bị thiếu trong hệ thống</Caption>
+		</grpMissingViewStyle>
+		<lblAdvanced1>
+			<Caption>Nâng cao</Caption>
+		</lblAdvanced1>
+		<lblAdvanced2>
+			<Caption>Nâng cao</Caption>
+		</lblAdvanced2>
+		<lblAdvanced3>
+			<Caption>Nâng cao</Caption>
+		</lblAdvanced3>
+		<lblAdvanced4>
+			<Caption>Nâng cao</Caption>
+		</lblAdvanced4>
+		<lblAdvanced5>
+			<Caption>Nâng cao</Caption>
+		</lblAdvanced5>
+		<lblAdvanced6>
+			<Caption>Nâng cao</Caption>
+		</lblAdvanced6>
+		<lblAgentExcludeMask>
+			<Caption>Loại trừ</Caption>
+		</lblAgentExcludeMask>
+		<lblAgentIncludeMask>
+			<Caption>Bao gồm</Caption>
+		</lblAgentIncludeMask>
+		<lblAnalysisProfiles>
+			<Caption>Phân tích hồ sơ</Caption>
+		</lblAnalysisProfiles>
+		<lblAnlProfileDesc>
+			<Caption>Miêu tả</Caption>
+		</lblAnlProfileDesc>
+		<lblAnlProfileName>
+			<Caption>Tên</Caption>
+		</lblAnlProfileName>
+		<lblAutorunViewName>
+			<Caption>Tên</Caption>
+		</lblAutorunViewName>
+		<lblAutorunViews>
+			<Caption>Chế độ xem tự động chạy</Caption>
+		</lblAutorunViews>
+		<lblBackupLimiFolderSize>
+			<Caption>Giới hạn sao lưu thư mục (MB)</Caption>
+		</lblBackupLimiFolderSize>
+		<lblChageViewName>
+			<Caption>Tên</Caption>
+		</lblChageViewName>
+		<lblChangeViews>
+			<Caption>Thay đổi chế độ xem</Caption>
+		</lblChangeViews>
+		<lblCheckUpdateMethod>
+			<Caption>Phương thức kiểm tra cập nhật</Caption>
+		</lblCheckUpdateMethod>
+		<lblCheckUpdatesFrequency>
+			<Caption>Tần số</Caption>
+		</lblCheckUpdatesFrequency>
+		<lblCleanerDescription>
+			<Caption>Mô tả</Caption>
+		</lblCleanerDescription>
+		<lblCleanerName>
+			<Caption>Tên</Caption>
+		</lblCleanerName>
+		<lblCleaners>
+			<Caption>Làm sạch</Caption>
+		</lblCleaners>
+		<lblCompareProfileDesc>
+			<Caption>Mô tả</Caption>
+		</lblCompareProfileDesc>
+		<lblCompareProfileName>
+			<Caption>Tên</Caption>
+		</lblCompareProfileName>
+		<lblFolderSize>
+			<Caption>Kích cỡ thư mục (MB)</Caption>
+		</lblFolderSize>
+		<lblHexViewer>
+			<Caption>Xem Hex</Caption>
+		</lblHexViewer>
+		<lblLanguage>
+			<Caption>Ngôn ngữ</Caption>
+		</lblLanguage>
+		<lblNone1>
+			<Caption>Không</Caption>
+		</lblNone1>
+		<lblNone2>
+			<Caption>Không</Caption>
+		</lblNone2>
+		<lblNone3>
+			<Caption>Không</Caption>
+		</lblNone3>
+		<lblNone4>
+			<Caption>Không</Caption>
+		</lblNone4>
+		<lblNone5>
+			<Caption>Không</Caption>
+		</lblNone5>
+		<lblNone6>
+			<Caption>Không</Caption>
+		</lblNone6>
+		<lblProgramDataPath>
+			<Caption>Đường dẫn dữ liệu chương trình</Caption>
+		</lblProgramDataPath>
+		<lblRedoDescription>
+			<Caption>Mô tả</Caption>
+		</lblRedoDescription>
+		<lblRedoName>
+			<Caption>Tên</Caption>
+		</lblRedoName>
+		<lblRedoProfiles>
+			<Caption>Khôi phục lại hồ sơ</Caption>
+		</lblRedoProfiles>
+		<lblScanningProfiles>
+			<Caption>Đang quét hồ sơ</Caption>
+		</lblScanningProfiles>
+		<lblScanProfileDesc>
+			<Caption>Mô tả</Caption>
+		</lblScanProfileDesc>
+		<lblScanProfileName>
+			<Caption>Tên</Caption>
+		</lblScanProfileName>
+		<lblSimultaneousTasks>
+			<Caption>Tác vụ đồng thời</Caption>
+		</lblSimultaneousTasks>
+		<lblSnsCompareProfiles>
+			<Caption>Chụp ảnh so sánh hồ sơ</Caption>
+		</lblSnsCompareProfiles>
+		<lblSnsCount>
+			<Caption>Đếm chụp ảnh</Caption>
+		</lblSnsCount>
+		<lblTranslatedBy1>
+			<Caption>Dịch bởi Nguyễn Trường Bình</Caption>
+		</lblTranslatedBy1>
+		<lblTranslatedBy2>
+			<Caption>Trang chủ: www.martau.com</Caption>
+		</lblTranslatedBy2>
+		<lblTranslatedBy3>
+			<Caption>Email: support@martau.com</Caption>
+		</lblTranslatedBy3>
+		<lblTxtViewer>
+			<Caption>Xem dạng văn bản</Caption>
+		</lblTxtViewer>
+		<lblUninstallProfiles>
+			<Caption>Hồ sơ gỡ bỏ</Caption>
+		</lblUninstallProfiles>
+		<lblUninstallProfilesInst>
+			<Caption>Hồ sơ gỡ bỏ</Caption>
+		</lblUninstallProfilesInst>
+		<lblUninstDesc>
+			<Caption>Mô tả</Caption>
+		</lblUninstDesc>
+		<lblUninstName>
+			<Caption>Tên</Caption>
+		</lblUninstName>
+		<lblUninstRemoveLog>
+			<Caption>Loại bỏ cài đặt chương trình từ danh sách</Caption>
+		</lblUninstRemoveLog>
+		<lblUserInteraction>
+			<Caption>Sử dụng tương tác với người dùng gỡ bỏ có sẵn</Caption>
+		</lblUserInteraction>
+		<rbDialog>
+			<Caption>Hộp thoại</Caption>
+		</rbDialog>
+		<rbOtherRegEdit>
+			<Caption>Khác</Caption>
+		</rbOtherRegEdit>
+		<rbTrayBaloon>
+			<Caption>Ô chú thích khay</Caption>
+		</rbTrayBaloon>
+		<rbWinRegEdit>
+			<Caption>Chỉnh sửa Windows registry</Caption>
+		</rbWinRegEdit>
+		<rgAgentNotif>
+			<Caption>Chạy  thiết lập thông báo chương trình</Caption>
+		</rgAgentNotif>
+		<tabAnlFileSystem>
+			<Caption>Tập tin hệ thống</Caption>
+		</tabAnlFileSystem>
+		<tabAnlGeneral>
+			<Caption>Tổng quan</Caption>
+		</tabAnlGeneral>
+		<tabAutorunViewGeneral>
+			<Caption>Tổng quan</Caption>
+		</tabAutorunViewGeneral>
+		<tabAutorunViewView>
+			<Caption>Xem</Caption>
+		</tabAutorunViewView>
+		<tabChageViewFileSystem>
+			<Caption>Tập tin hệ thống</Caption>
+		</tabChageViewFileSystem>
+		<tabChageViewGeneral>
+			<Caption>Tổng quan</Caption>
+		</tabChageViewGeneral>
+		<tabChageViewRegistry>
+			<Caption>Registry</Caption>
+		</tabChageViewRegistry>
+		<tabChageViewView>
+			<Caption>Xem</Caption>
+		</tabChageViewView>
+		<tabCleanerFileSystem>
+			<Caption>Tập tin hệ thống</Caption>
+		</tabCleanerFileSystem>
+		<tabCleanerGen>
+			<Caption>Tổng quan</Caption>
+		</tabCleanerGen>
+		<tabCleanerReg>
+			<Caption>Registry</Caption>
+		</tabCleanerReg>
+		<tabCmpProfileFileSys>
+			<Caption>Tập tin hệ thống</Caption>
+		</tabCmpProfileFileSys>
+		<tabCompareProfileGen>
+			<Caption>Tổng quan</Caption>
+		</tabCompareProfileGen>
+		<tabCompareProfileReg>
+			<Caption>Registry</Caption>
+		</tabCompareProfileReg>
+		<tabRedoAdvanced>
+			<Caption>Tổng quan</Caption>
+		</tabRedoAdvanced>
+		<tabRedoFileSystem>
+			<Caption>Tập tin hệ thống</Caption>
+		</tabRedoFileSystem>
+		<tabRedoGeneral>
+			<Caption>Tổng quan</Caption>
+		</tabRedoGeneral>
+		<tabRedoRegistry>
+			<Caption>Registry</Caption>
+		</tabRedoRegistry>
+		<tabScanProfileFolders>
+			<Caption>Tập tin hệ thống</Caption>
+		</tabScanProfileFolders>
+		<tabScanProfileGeneral>
+			<Caption>Tổng quan</Caption>
+		</tabScanProfileGeneral>
+		<tabScanProfileRegistry>
+			<Caption>Registry</Caption>
+		</tabScanProfileRegistry>
+		<tabUninstAdv>
+			<Caption>Nâng cao</Caption>
+		</tabUninstAdv>
+		<tabUninstFS>
+			<Caption>Tập tin hệ thống</Caption>
+		</tabUninstFS>
+		<tabUninstGeneral>
+			<Caption>Tổng quan</Caption>
+		</tabUninstGeneral>
+		<tabUninstRegistry>
+			<Caption>Registry</Caption>
+		</tabUninstRegistry>
+		<tblAnlRegistry>
+			<Caption>Registry</Caption>
+		</tblAnlRegistry>
+	</dlgTUOptions>
+	<dlgUninstall>
+		<btnBringToFront>
+			<Caption>Di chuyển về phía trước</Caption>
+		</btnBringToFront>
+		<btnCancel>
+			<Caption>Hủy bỏ</Caption>
+		</btnCancel>
+		<btnUninstall>
+			<Caption>Gỡ cài đặt</Caption>
+		</btnUninstall>
+		<lblCreatingRestorePnt>
+			<Caption>Đang tạo điểm khôi phục hệ thống...</Caption>
+		</lblCreatingRestorePnt>
+		<lblProfile>
+			<Caption>Chọn hồ sơ gỡ bỏ cài đặt</Caption>
+		</lblProfile>
+		<lblUninstalling>
+			<Caption>Đang gỡ bỏ cài đặt...</Caption>
+		</lblUninstalling>
+		<lblWaitTitle>
+			<Caption>Chờ cho chương trình cài đặt tích hợp để kết thúc</Caption>
+		</lblWaitTitle>
+	</dlgUninstall>
+	<frmInstall>
+		<btnBrowseSetup>
+			<Caption>&amp;Duyệt...</Caption>
+		</btnBrowseSetup>
+		<btnCancel>
+			<Caption>Hủy bỏ</Caption>
+		</btnCancel>
+		<btnCompleteLater>
+			<Caption>&amp;Hoàn thành quá trình giám sát sau</Caption>
+		</btnCompleteLater>
+		<btnLaunchSetup>
+			<Caption>&amp;Khởi chạy thiết lập chương trình</Caption>
+		</btnLaunchSetup>
+		<btnNext>
+			<Caption>Kế tiếp</Caption>
+		</btnNext>
+		<btnProgramIsInstalled>
+			<Caption>C&amp;hương trình đã được cài đặt</Caption>
+		</btnProgramIsInstalled>
+		<btnSuggest>
+			<Caption>Đề n&amp;ghị</Caption>
+		</btnSuggest>
+		<lblCreateLog>
+			<Caption>Tạo nhật ký cài đặt</Caption>
+		</lblCreateLog>
+		<lblCreateOrSelectSns>
+			<Caption>Trước khi cài đặt, tạo mới hoặc chọn bản chụp hệ thống trước.</Caption>
+		</lblCreateOrSelectSns>
+		<lblCreatePreInstallSns>
+			<Caption>Tạo bản chụp hệ thống cài đặt sẵn</Caption>
+		</lblCreatePreInstallSns>
+		<lblCreatingLog>
+			<Caption>Tạo nhật ký cài đặt</Caption>
+		</lblCreatingLog>
+		<lblCreatingSystemSns>
+			<Caption>Tạo ảnh chụp nhanh hệ thống</Caption>
+		</lblCreatingSystemSns>
+		<lblFinish>
+			<Caption>Nhật ký cài đặt đã được tạo thành công</Caption>
+		</lblFinish>
+		<lblInstallMonProgram>
+			<Caption>Cài đặt giám sát chương trình</Caption>
+		</lblInstallMonProgram>
+		<lblProfiles>
+			<Caption>&amp;Quét hồ sơ</Caption>
+		</lblProfiles>
+		<lblProgramName>
+			<Caption>&amp;Tên chương trình</Caption>
+		</lblProgramName>
+		<lblProgramSetupPath>
+			<Caption>&amp;Cài đặt đường dẫn chương trình</Caption>
+		</lblProgramSetupPath>
+		<lblSnsName>
+			<Caption>Tên chụp ả&amp;nh</Caption>
+		</lblSnsName>
+		<lblSpecifySnsName>
+			<Caption>&amp;Chỉ định tên ảnh chụp nhanh sau khi cài đặt</Caption>
+		</lblSpecifySnsName>
+		<rbNewSnapshot>
+			<Caption>&amp;Tạo ảnh chụp hệ thống mới (được đề nghị)</Caption>
+		</rbNewSnapshot>
+		<rbUseLastSnapshot>
+			<Caption>&amp;Sử dụng ảnh chụp cuối cùng</Caption>
+		</rbUseLastSnapshot>
+	</frmInstall>
+	<frmTUMain>
+		<btnClear>
+			<Caption>Dọn dẹp</Caption>
+		</btnClear>
+		<btnGroupAddChild>
+			<Caption>Thêm nhóm con...</Caption>
+		</btnGroupAddChild>
+		<btnGroupAddRoot>
+			<Caption>Thêm gốc nhóm...</Caption>
+		</btnGroupAddRoot>
+		<btnGroupEdit>
+			<Caption>Sửa nhóm...</Caption>
+		</btnGroupEdit>
+		<btnGroupMoveToRoot>
+			<Caption>Di chuyển tới gốc</Caption>
+		</btnGroupMoveToRoot>
+		<btnGroupRemove>
+			<Caption>Loại bỏ nhóm</Caption>
+		</btnGroupRemove>
+		<btnSearch>
+			<Caption>Bắt đầu</Caption>
+		</btnSearch>
+		<cbBundle>
+			<Caption>Gom lại</Caption>
+		</cbBundle>
+		<cbCaseSensitive>
+			<Caption>Trường hợp nhạy cảm</Caption>
+		</cbCaseSensitive>
+		<cbChanged>
+			<Caption>Đã thay đổi</Caption>
+		</cbChanged>
+		<cbCreated>
+			<Caption>Đã tạo</Caption>
+		</cbCreated>
+		<cbData>
+			<Caption>Dữ liệu</Caption>
+		</cbData>
+		<cbDeleted>
+			<Caption>Đã xóa</Caption>
+		</cbDeleted>
+		<cbFiles>
+			<Caption>Các tập tin</Caption>
+		</cbFiles>
+		<cbFolders>
+			<Caption>Thư mục</Caption>
+		</cbFolders>
+		<cbKeys>
+			<Caption>Các khóa</Caption>
+		</cbKeys>
+		<cbSearchMask>
+			<Caption>Tìm mặt nạ</Caption>
+		</cbSearchMask>
+		<cbUnchanged>
+			<Caption>Không thay đổi</Caption>
+		</cbUnchanged>
+		<cbValues>
+			<Caption>Giá trị</Caption>
+		</cbValues>
+		<Copy1>
+			<Caption>Sao chép</Caption>
+			<Hint>Sao chép các tập tin đã chọn vào bảng tạm</Hint>
+		</Copy1>
+		<Copy2>
+			<Caption>Sao chép</Caption>
+			<Hint>Sao chép các tập tin đã chọn vào bảng tạm</Hint>
+		</Copy2>
+		<gbAdvanced>
+			<Caption>Nâng cao</Caption>
+		</gbAdvanced>
+		<gbChanges>
+			<Caption>Các mục</Caption>
+		</gbChanges>
+		<gbFileSystem>
+			<Caption>Tập tin hệ thống</Caption>
+		</gbFileSystem>
+		<gbRegistry>
+			<Caption>Registry</Caption>
+		</gbRegistry>
+		<gbScope>
+			<Caption>Tìm trong</Caption>
+		</gbScope>
+		<miAddtoCompareIgnoreList>
+			<Caption>Thêm để so sánh danh sách bỏ qua</Caption>
+			<Hint>Thêm các mục đã chọn để bỏ qua danh sách cho tất cả các hồ sơ so sánh</Hint>
+		</miAddtoCompareIgnoreList>
+		<miAddtoScanExcludeList>
+			<Caption>Thêm vào danh sách loại trừ quét</Caption>
+			<Hint>Thêm các mục đã chọn để loại trừ danh sách cho tất cả các cấu hình quét</Hint>
+		</miAddtoScanExcludeList>
+		<miAppSendTo>
+			<Caption>Gửi tới nhóm</Caption>
+		</miAppSendTo>
+		<miAutorunManager>
+			<Caption>Trình quản lý tự động chạy</Caption>
+		</miAutorunManager>
+		<miChanges>
+			<Caption>Thay đổi</Caption>
+			<Hint>Phát hiện các thay đổi|Hiển thị các thay đổi hệ thống đã được phát hiện bởi chương trình hiện tại</Hint>
+		</miChanges>
+		<miCleaner>
+			<Hint>Làm sạch</Hint>
+			<Caption>Làm sạch</Caption>
+		</miCleaner>
+		<miClnItems>
+			<Caption>Mục</Caption>
+		</miClnItems>
+		<miClnSummary>
+			<Caption>Tóm tắt</Caption>
+			<Hint>Tóm tắt|Hiển thị một bản tóm tắt thông tin về các vật dụng dùng một lần</Hint>
+		</miClnSummary>
+		<miCollapse>
+			<Caption>Thu gọn</Caption>
+			<Hint>Thu gọn nút cây đang hoạt động</Hint>
+		</miCollapse>
+		<miCopyDetail>
+			<Caption>Sao chép</Caption>
+		</miCopyDetail>
+		<miDeleteCompletely>
+			<Caption>Xóa hoàn toàn</Caption>
+			<Hint>Loại bỏ mục đã chọn khỏi nhật ký và từ hệ thống</Hint>
+		</miDeleteCompletely>
+		<miDeletefromSystemOnly>
+			<Caption>Chỉ xóa từ hệ thống</Caption>
+			<Hint>Xóa mục đã chọn khỏi hệ thống</Hint>
+		</miDeletefromSystemOnly>
+		<miEdit>
+			<Caption>&amp;Sửa</Caption>
+		</miEdit>
+		<miEditAutorunLocateEntry>
+			<Caption>Khoản mục tự động chạy</Caption>
+		</miEditAutorunLocateEntry>
+		<miEditAutorunLocateTarget>
+			<Caption>Xác định mục tiêu</Caption>
+		</miEditAutorunLocateTarget>
+		<miEditAutorunRun>
+			<Caption>Chạy</Caption>
+		</miEditAutorunRun>
+		<miEditAutorunStop>
+			<Caption>Dừng lại</Caption>
+		</miEditAutorunStop>
+		<miEditAutorunTargetProperties>
+			<Caption>Thuộc tính đích</Caption>
+		</miEditAutorunTargetProperties>
+		<miEditRedo>
+			<Caption>Làm lại</Caption>
+			<Hint>Làm lại các thay đổi đã chọn trong hệ thống</Hint>
+		</miEditRedo>
+		<miEditRedoDepth>
+			<Caption>Làm lại chiều sâu</Caption>
+			<Hint>Làm lại chiều sâu các thay đổi đã chọn trong hệ thống</Hint>
+		</miEditRedoDepth>
+		<miEditRestoreFromBackup>
+			<Caption>Khôi phục lại từ bản sao lưu</Caption>
+			<Hint>Khôi phục các tập tin, thư mục và thư mục con đã chọn từ bản sao lưu</Hint>
+		</miEditRestoreFromBackup>
+		<miEditUndo>
+			<Caption>Hoàn tác</Caption>
+			<Hint>Hoàn tác các thay đổi đã chọn từ hệ thống</Hint>
+		</miEditUndo>
+		<miEditUndoDepth>
+			<Caption>Hoàn tác chiều sâu</Caption>
+			<Hint>Hoàn tác sâu các thay đổi đã chọn từ hệ thống</Hint>
+		</miEditUndoDepth>
+		<miExpand>
+			<Caption>Mở rộng</Caption>
+			<Hint>Mở rộng nút cây hoạt động</Hint>
+		</miExpand>
+		<miExpChanges>
+			<Caption>Thay đổi...</Caption>
+			<Hint>Xuất gốc thay đổi</Hint>
+		</miExpChanges>
+		<miExpInstalledApps>
+			<Caption>Chương trình đã cài đặt...</Caption>
+			<Hint>Xuất danh sách các chương trình cài đặt</Hint>
+		</miExpInstalledApps>
+		<miExpMonitoredApps>
+			<Caption>Giám sát chương trình...</Caption>
+			<Hint>Xuất danh sách các chương trình theo dõi</Hint>
+		</miExpMonitoredApps>
+		<miExport>
+			<Caption>Xuất</Caption>
+		</miExport>
+		<miExpRegistry>
+			<Caption>Thay đổi registry...</Caption>
+			<Hint>Xuất thay đổi registry để cài đặt hoặc gỡ cài đặt</Hint>
+		</miExpRegistry>
+		<miExpUninstallLog>
+			<Caption>Nhật ký gỡ cài đặt...</Caption>
+			<Hint>Xuất nhật ký gỡ cài đặt</Hint>
+		</miExpUninstallLog>
+		<miFile>
+			<Caption>&amp;Tập tin</Caption>
+		</miFile>
+		<miFileAddInstalledPrg>
+			<Caption>Thêm một chương trình tới danh sách...</Caption>
+		</miFileAddInstalledPrg>
+		<miFileAnalyze>
+			<Caption>Phân tích</Caption>
+			<Hint>Phân tích|Phân tích các thay đổi hệ thống được thực hiện bởi chương trình hiện tại</Hint>
+		</miFileAnalyze>
+		<miFileAutorunAdd>
+			<Caption>Thêm</Caption>
+		</miFileAutorunAdd>
+		<miFileAutorunDelete>
+			<Caption>Xóa</Caption>
+		</miFileAutorunDelete>
+		<miFileChange>
+			<Caption>Thay đổi</Caption>
+			<Hint>Sửa chữa, sửa đổi hoặc gỡ bỏ cài đặt</Hint>
+		</miFileChange>
+		<miFileChangeIcon>
+			<Caption>Thay đổi biểu tượng...</Caption>
+		</miFileChangeIcon>
+		<miFileClnClean>
+			<Caption>Làm sạch</Caption>
+			<Hint>Làm sạch</Hint>
+		</miFileClnClean>
+		<miFileClnScan>
+			<Caption>Quét</Caption>
+			<Hint>Quét|Quét các mục dùng một lần</Hint>
+		</miFileClnScan>
+		<miFileCreateBackup>
+			<Caption>Tạo bản sao lưu cho chương trình...</Caption>
+		</miFileCreateBackup>
+		<miFileDelete>
+			<Caption>Xóa</Caption>
+			<Hint>Xóa nhật ký cài đặt hiện tại</Hint>
+		</miFileDelete>
+		<miFileEditProgram>
+			<Caption>Sửa chương trình...</Caption>
+		</miFileEditProgram>
+		<miFileExit>
+			<Caption>Thoát</Caption>
+			<Hint>Thoát từ chương trình</Hint>
+		</miFileExit>
+		<miFileGroupAddChild>
+			<Caption>Thêm nhóm con...</Caption>
+		</miFileGroupAddChild>
+		<miFileGroupAddRoot>
+			<Caption>Thêm nhóm gốc...</Caption>
+		</miFileGroupAddRoot>
+		<miFileGroupEdit>
+			<Caption>Sửa nhóm...</Caption>
+		</miFileGroupEdit>
+		<miFileGroupMoveToRoot>
+			<Caption>Di chuyển tới gốc</Caption>
+		</miFileGroupMoveToRoot>
+		<miFileGroupRemove>
+			<Caption>Loại bỏ nhóm</Caption>
+		</miFileGroupRemove>
+		<miFileInstall>
+			<Caption>Cài đặt mới...</Caption>
+			<Hint>Giám sát việc cài đặt một chương trình mới</Hint>
+		</miFileInstall>
+		<miFileInstallUpdate>
+			<Caption>Cài đặt cập nhật...</Caption>
+			<Hint>Cài đặt bản cập nhật|Theo dõi cài đặt bản cập nhật cho chương trình hiện tại</Hint>
+		</miFileInstallUpdate>
+		<miFileNotes>
+			<Caption>Ghi chú...</Caption>
+			<Hint>Thêm ghi chú vào nhật ký cài đặt hiện tại</Hint>
+		</miFileNotes>
+		<miFilePrint>
+			<Caption>In</Caption>
+		</miFilePrint>
+		<miFileReload>
+			<Caption>Tải lại</Caption>
+		</miFileReload>
+		<miFileRemoveInstalledPrg>
+			<Caption>Loại bỏ chương trình khỏi danh sách</Caption>
+		</miFileRemoveInstalledPrg>
+		<miFileRename>
+			<Caption>Đổi tên...</Caption>
+			<Hint>Đổi tên nhật ký cài đặt hiện tại</Hint>
+		</miFileRename>
+		<miFileRestoreBackup>
+			<Caption>Khôi phục một chương trình từ bản sao lưu ...</Caption>
+		</miFileRestoreBackup>
+		<miFileSave>
+			<Caption>Lưu</Caption>
+			<Hint>Lưu thay đổi từ nhật ký cài đặt hiện tại</Hint>
+		</miFileSave>
+		<miFileSaveAs>
+			<Caption>Lưu như...</Caption>
+		</miFileSaveAs>
+		<miFileSendTo>
+			<Caption>Gửi tới nhóm</Caption>
+		</miFileSendTo>
+		<miFileUndoRestoration>
+			<Caption>Hoàn tác khôi phục...</Caption>
+		</miFileUndoRestoration>
+		<miFileUninstall>
+			<Caption>Gỡ bỏ...</Caption>
+		</miFileUninstall>
+		<miHelp>
+			<Caption>&amp;Trợ giúp</Caption>
+		</miHelp>
+		<miHelpAbout>
+			<Caption>Thông tin...</Caption>
+			<Hint>Hiển thị thông tin chương trình, số phiên bản và bản quyền</Hint>
+		</miHelpAbout>
+		<miHelpCheckForUpdates>
+			<Caption>Kiểm tra cập nhật...</Caption>
+			<Hint>Kiểm tra trang web của tác giả để cập nhật sản phẩm</Hint>
+		</miHelpCheckForUpdates>
+		<miHelpContents>
+			<Caption>Nội dung</Caption>
+			<Hint>Hiển thị nội dung của trang trợ giúp</Hint>
+		</miHelpContents>
+		<miHelpHomePage>
+			<Caption>Trang chủ</Caption>
+		</miHelpHomePage>
+		<miHelpPurchase>
+			<Caption>Mua</Caption>
+		</miHelpPurchase>
+		<miHelpRegister>
+			<Caption>Đăng ký...</Caption>
+			<Hint>Đăng ký chương trình Total Uninstall</Hint>
+		</miHelpRegister>
+		<miHexView>
+			<Caption>Xem Hex</Caption>
+			<Hint>Mở tập tin trong trình chỉnh sửa HEX</Hint>
+		</miHexView>
+		<miImport>
+			<Caption>Nhập</Caption>
+		</miImport>
+		<miInstalledPrograms>
+			<Caption>Chương trình đã cài đặt</Caption>
+			<Hint>Các chương trình cài đặt|Chuyển sang chương trình đã cài đặt</Hint>
+		</miInstalledPrograms>
+		<miList>
+			<Caption>Danh sách</Caption>
+		</miList>
+		<miListGroupNotes>
+			<Caption>Nhóm ghi chú</Caption>
+		</miListGroupNotes>
+		<miListLargeIcons>
+			<Caption>Biểu tượng lớn</Caption>
+		</miListLargeIcons>
+		<miListProgramNotes>
+			<Caption>Ghi chú chương trình</Caption>
+		</miListProgramNotes>
+		<miListSmallIcons>
+			<Caption>Biểu tượng nhỏ</Caption>
+		</miListSmallIcons>
+		<miModules>
+			<Caption>&amp;Mô-đun</Caption>
+		</miModules>
+		<miMonAppsGroupAddChild>
+			<Caption>Thêm nhóm con...</Caption>
+		</miMonAppsGroupAddChild>
+		<miMonAppsGroupAddRoot>
+			<Caption>Thêm nhóm gốc...</Caption>
+		</miMonAppsGroupAddRoot>
+		<miMonAppsGroupEdit>
+			<Caption>Sửa nhóm...</Caption>
+		</miMonAppsGroupEdit>
+		<miMonAppsGroupMoveToRoot>
+			<Caption>Di chuyển tới gốc</Caption>
+		</miMonAppsGroupMoveToRoot>
+		<miMonAppsGroupRemove>
+			<Caption>Loại bỏ nhóm</Caption>
+		</miMonAppsGroupRemove>
+		<miMonitoredPrograms>
+			<Caption>Giám sát chương trình</Caption>
+			<Hint>Các chương trình theo dõi|Chuyển sang giám sát các chương trình</Hint>
+		</miMonitoredPrograms>
+		<miOpen>
+			<Caption>Mở</Caption>
+			<Hint>Mở tập tin, thư mục hoặc nhảy tới khoá trong trình biên soạn Registry</Hint>
+		</miOpen>
+		<miPendingFileRenameOp>
+			<Caption>Đang chờ xử lý đổi tên tập tin...</Caption>
+			<Hint>Xem và áp dụng các hoạt động đổi tên tập tin đang chờ xử lý</Hint>
+		</miPendingFileRenameOp>
+		<miPrgAddInstalledPrg>
+			<Caption>Thêm một chương trình tới danh sách...</Caption>
+		</miPrgAddInstalledPrg>
+		<miPrgAnalyze>
+			<Caption>&amp;Phân tích</Caption>
+			<Hint>Phân tích Phân tích các thay đổi hệ thống được thực hiện bởi chương trình hiện tại</Hint>
+		</miPrgAnalyze>
+		<miPrgChangeIcon>
+			<Caption>Đổi biểu tượng</Caption>
+		</miPrgChangeIcon>
+		<miPrgDelete>
+			<Caption>Xóa</Caption>
+			<Hint>Xóa nhật ký cài đặt hiện tại</Hint>
+		</miPrgDelete>
+		<miPrgEditInstalledPrg>
+			<Caption>Chỉnh sửa chương trình...</Caption>
+		</miPrgEditInstalledPrg>
+		<miPrgNotes>
+			<Caption>Ghi chú ...</Caption>
+			<Hint>Thêm ghi chú vào nhật ký cài đặt hiện tại</Hint>
+		</miPrgNotes>
+		<miPrgRemoveInstalledPrg>
+			<Caption>Loại bỏ chương trình khỏi danh sách</Caption>
+		</miPrgRemoveInstalledPrg>
+		<miPrgRename>
+			<Caption>Đổi tên...</Caption>
+			<Hint>Đổi tên nhật ký cài đặt hiện tại</Hint>
+		</miPrgRename>
+		<miPrintChanges>
+			<Caption>Thay đổi...</Caption>
+			<Hint>In thay đổi cây</Hint>
+		</miPrintChanges>
+		<miPrintInstalledPrograms>
+			<Caption>Các chương trình cài đặt...</Caption>
+		</miPrintInstalledPrograms>
+		<miPrintMonitoredPrograms>
+			<Caption>Giám sát chương trình...</Caption>
+		</miPrintMonitoredPrograms>
+		<miProperties>
+			<Caption>Thuộc tính</Caption>
+			<Hint>Hiển thị thuộc tính của tập tin hay thư mục đã chọn</Hint>
+		</miProperties>
+		<miRemovefromLog>
+			<Caption>Loại bỏ từ nhật ký</Caption>
+			<Hint>Loại bỏ các mục đã chọn khỏi nhật ký</Hint>
+		</miRemovefromLog>
+		<miSnsTreeOpen>
+			<Caption>Mở</Caption>
+		</miSnsTreeOpen>
+		<miSummary>
+			<Caption>Tóm tắt</Caption>
+			<Hint>Tóm tắt|Hiển thị một bản tóm tắt thông tin về chương trình hiện tại</Hint>
+		</miSummary>
+		<miTextView>
+			<Caption>Xem văn bản</Caption>
+			<Hint>Mở tập tin trong trình soạn thảo văn bản</Hint>
+		</miTextView>
+		<miToolbarLarge>
+			<Caption>Lớn</Caption>
+		</miToolbarLarge>
+		<miToolbarMedium>
+			<Caption>Trung bình</Caption>
+		</miToolbarMedium>
+		<miToolbarSmall>
+			<Caption>Nhỏ</Caption>
+		</miToolbarSmall>
+		<miTools>
+			<Caption>&amp;Công cụ</Caption>
+		</miTools>
+		<miToolsCompareSnapshots>
+			<Caption>So sánh ảnh chụp nhanh hệ thống...</Caption>
+		</miToolsCompareSnapshots>
+		<miToolsFind>
+			<Caption>Tìm kiếm</Caption>
+			<Hint>Tìm kiếm|Tìm kiếm một văn bản trong các thay đổi được phát hiện</Hint>
+		</miToolsFind>
+		<miToolsMergeLogs>
+			<Caption>Hợp nhất nhật ký...</Caption>
+		</miToolsMergeLogs>
+		<miToolsOptions>
+			<Caption>Tùy chọn...</Caption>
+			<Hint>Cấu hình tùy chọn phần mềm</Hint>
+		</miToolsOptions>
+		<miToolsSystemRestore>
+			<Caption>Khôi phục hệ thống</Caption>
+		</miToolsSystemRestore>
+		<miULogSuccessful>
+			<Caption>Hành động thành công</Caption>
+			<Hint>Hiển thị hoặc ẩn hoạt động thành công từ nhật ký gỡ bỏ cài đặt</Hint>
+		</miULogSuccessful>
+		<miULogWarnings>
+			<Caption>Cảnh báo</Caption>
+			<Hint>Hiển thị hoặc ẩn cảnh báo từ nhật ký gỡ cài đặt</Hint>
+		</miULogWarnings>
+		<miUninstallLog>
+			<Caption>Gỡ cài đặt đăng nhập</Caption>
+			<Hint>Gỡ bỏ nhật ký|Hiển thị nhật ký gỡ cài đặt chương trình</Hint>
+		</miUninstallLog>
+		<miUninstallLogDet>
+			<Caption>Gỡ bỏ nhật ký chi tiết</Caption>
+		</miUninstallLogDet>
+		<miView>
+			<Caption>&amp;Xem</Caption>
+		</miView>
+		<miViewAutoGroupPrograms>
+			<Caption>Tự động nhóm các chương trình</Caption>
+		</miViewAutoGroupPrograms>
+		<miViewBundle>
+			<Caption>Gom lại</Caption>
+		</miViewBundle>
+		<miViewColorScheme>
+			<Caption>Bảng màu</Caption>
+		</miViewColorScheme>
+		<miViewDetails>
+			<Caption>Chi tiết</Caption>
+			<Hint>Chi tiết chương trình|Hiển thị hoặc ẩn chi tiết chương trình</Hint>
+		</miViewDetails>
+		<miViewItemCurrentView>
+			<Caption>Chế độ xem hiện tại</Caption>
+		</miViewItemCurrentView>
+		<miViewItemDetails>
+			<Caption>Chi tiết mục</Caption>
+			<Hint>Hiển thị hoặc ẩn các chi tiết của nút đã chọn từ gốc thay đổi</Hint>
+		</miViewItemDetails>
+		<miViewNavigator>
+			<Caption>Chương trình</Caption>
+			<Hint>Danh sách chương trình|Hiển thị hoặc ẩn danh sách chương trình</Hint>
+		</miViewNavigator>
+		<miViewRefresh>
+			<Caption>Tải lại</Caption>
+		</miViewRefresh>
+		<miViewStatusBar>
+			<Caption>Thanh trạng thái</Caption>
+			<Hint>Hiển thị hoặc ẩn thanh trạng thái</Hint>
+		</miViewStatusBar>
+		<miViewSystemComponents>
+			<Caption>Thành phần hệ thống</Caption>
+		</miViewSystemComponents>
+		<miViewToolbars>
+			<Caption>Thanh công cụ</Caption>
+		</miViewToolbars>
+		<miViewToolbarsBtnCaption>
+			<Caption>Chú thích Nút</Caption>
+			<Hint>Hiển thị hoặc ẩn chú thích của nút thanh công cụ</Hint>
+		</miViewToolbarsBtnCaption>
+		<miViewToolbarsBtnSize>
+			<Caption>Kích cỡ nút</Caption>
+		</miViewToolbarsBtnSize>
+		<miViewToolbarsBtnWordWrap>
+			<Caption>Chú thích Nút của cuộn từ</Caption>
+		</miViewToolbarsBtnWordWrap>
+		<miViewToolbarsTbrCaption>
+			<Caption>Chú thích thanh công cụ</Caption>
+			<Hint>Hiển thị hoặc ẩn phụ đề thanh công cụ</Hint>
+		</miViewToolbarsTbrCaption>
+		<miViewToolbarsVisible>
+			<Caption>Có thể nhìn thấy</Caption>
+			<Hint>Hiển thị hoặc ẩn thanh công cụ</Hint>
+		</miViewToolbarsVisible>
+		<miWindowsApps>
+			<Caption>Ứng dụng Windows</Caption>
+		</miWindowsApps>
+		<pmiAutorunAdd>
+			<Caption>Thêm</Caption>
+		</pmiAutorunAdd>
+		<pmiAutorunDelete>
+			<Caption>Xóa</Caption>
+		</pmiAutorunDelete>
+		<pmiAutorunLocateEntry>
+			<Caption>Khoản mục tự động chạy</Caption>
+		</pmiAutorunLocateEntry>
+		<pmiAutorunLocateTarget>
+			<Caption>Mục tiêu Vị trí</Caption>
+		</pmiAutorunLocateTarget>
+		<pmiAutorunRun>
+			<Caption>Chạy</Caption>
+		</pmiAutorunRun>
+		<pmiAutorunStop>
+			<Caption>Dừng lại</Caption>
+		</pmiAutorunStop>
+		<pmiAutorunTargetProperties>
+			<Caption>Thuộc tính đích</Caption>
+		</pmiAutorunTargetProperties>
+		<pmiChgTreeCompareExcl>
+			<Caption>Thêm để so sánh danh sách bỏ qua</Caption>
+			<Hint>Thêm các mục đã chọn để bỏ qua danh sách cho tất cả các hồ sơ so sánh</Hint>
+		</pmiChgTreeCompareExcl>
+		<pmiChgTreeDelete>
+			<Caption>Xóa hoàn toàn</Caption>
+			<Hint>Loại bỏ mục đã chọn khỏi nhật ký và từ hệ thống</Hint>
+		</pmiChgTreeDelete>
+		<pmiChgTreeDelSys>
+			<Caption>Chỉ xóa từ hệ thống</Caption>
+			<Hint>Xóa mục đã chọn khỏi hệ thống</Hint>
+		</pmiChgTreeDelSys>
+		<pmiChgTreeExportRegistryChanges>
+			<Caption>Xuất registry thay đổi ...</Caption>
+			<Hint>Xuất đăng ký thay đổi để cài đặt lại hoặc gỡ cài đặt</Hint>
+		</pmiChgTreeExportRegistryChanges>
+		<pmiChgTreeHexView>
+			<Caption>Xem Hex</Caption>
+			<Hint>Mở tập tin trong trình chỉnh sửa hex</Hint>
+		</pmiChgTreeHexView>
+		<pmiChgTreeOpen>
+			<Caption>Mở</Caption>
+			<Hint>Mở tập tin, thư mục hoặc nhảy tới khoá trong trình chỉnh sửa Registry</Hint>
+		</pmiChgTreeOpen>
+		<pmiChgTreeProperties>
+			<Caption>Thuộc tính</Caption>
+			<Hint>Hiển thị thuộc tính cho tập tin hoặc thư mục được chọn</Hint>
+		</pmiChgTreeProperties>
+		<pmiChgTreeRedo>
+			<Caption>Làm lại</Caption>
+			<Hint>Làm lại các thay đổi đã chọn trong hệ thống</Hint>
+		</pmiChgTreeRedo>
+		<pmiChgTreeRedoDepth>
+			<Caption>Làm lại chiều sâu</Caption>
+			<Hint>Làm lại chiều sâu các thay đổi đã chọn trong hệ thống</Hint>
+		</pmiChgTreeRedoDepth>
+		<pmiChgTreeRemove>
+			<Caption>Xóa khỏi nhật ký</Caption>
+			<Hint>Loại bỏ các mục đã chọn khỏi nhật ký</Hint>
+		</pmiChgTreeRemove>
+		<pmiChgTreeRestoreFromBackup>
+			<Caption>Khôi phục lại từ bản sao lưu</Caption>
+			<Hint>Khôi phục các tập tin, thư mục và thư mục con đã chọn từ bản sao lưu</Hint>
+		</pmiChgTreeRestoreFromBackup>
+		<pmiChgTreeScanExcl>
+			<Caption>Thêm vào danh sách loại trừ quét</Caption>
+			<Hint>Thêm các mục đã chọn vào danh sách loại trừ cho tất cả các cấu hình quét</Hint>
+		</pmiChgTreeScanExcl>
+		<pmiChgTreeTextView>
+			<Caption>Xem văn bản</Caption>
+			<Hint>Mở tệp trong trình soạn thảo văn bản</Hint>
+		</pmiChgTreeTextView>
+		<pmiChgTreeUndo>
+			<Hint>Hoàn tác các thay đổi đã chọn từ hệ thống</Hint>
+			<Caption>Hủy bỏ</Caption>
+		</pmiChgTreeUndo>
+		<pmiChgTreeUndoDepth>
+			<Hint>Hoàn tác sâu các thay đổi đã chọn từ hệ thống</Hint>
+			<Caption>Hoàn tác chiều sâu</Caption>
+		</pmiChgTreeUndoDepth>
+		<pmiClnExclude>
+			<Caption>Loại trừ</Caption>
+		</pmiClnExclude>
+		<pmiClnSelectBranch>
+			<Caption>Chọn nhánh</Caption>
+		</pmiClnSelectBranch>
+		<pmiClnUnselectBranch>
+			<Caption>Bỏ chọn nhánh</Caption>
+		</pmiClnUnselectBranch>
+		<pmiCopySummary>
+			<Caption>Sao chép</Caption>
+		</pmiCopySummary>
+		<pmiInstAppsHeaderAutoResize>
+			<Caption>Tự động thay đổi kích thước</Caption>
+		</pmiInstAppsHeaderAutoResize>
+		<pmiLocate>
+			<Caption>Vị trí</Caption>
+		</pmiLocate>
+		<pmiMonAppsHeaderAutoResize>
+			<Caption>Tự động thay đổi kích thước</Caption>
+		</pmiMonAppsHeaderAutoResize>
+		<pmiShowSuccessful>
+			<Hint>Hiển thị hoặc ẩn các hành động thành công từ nhật ký gỡ cài đặt</Hint>
+			<Caption>Hành động thành công</Caption>
+		</pmiShowSuccessful>
+		<pmiShowWarnings>
+			<Hint>Hiển thị hoặc ẩn các cảnh báo từ nhật ký gỡ cài đặt</Hint>
+			<Caption>Cảnh bảo</Caption>
+		</pmiShowWarnings>
+		<pmiTrayRestore>
+			<Caption>Khôi phục</Caption>
+		</pmiTrayRestore>
+		<rbAll>
+			<Caption>Tất cả chương trình</Caption>
+		</rbAll>
+		<rbSelection>
+			<Caption>Lựa chọn</Caption>
+		</rbSelection>
+		<sbAppClose>
+			<Hint>Đóng|Đóng</Hint>
+		</sbAppClose>
+		<sbDetailsClose>
+			<Hint>Đóng|Đóng</Hint>
+		</sbDetailsClose>
+		<sbSearchClose>
+			<Hint>Đóng|Đóng</Hint>
+		</sbSearchClose>
+		<tabOptions>
+			<Caption>Tùy chọn</Caption>
+		</tabOptions>
+		<tabResults>
+			<Caption>Kết quả</Caption>
+		</tabResults>
+		<tbrActions>
+			<Caption>Hành động</Caption>
+		</tbrActions>
+		<tbrDetails>
+			<Caption>Chi tiết</Caption>
+		</tbrDetails>
+		<tbrLayout>
+			<Caption>Bố trí</Caption>
+		</tbrLayout>
+		<tbrModules>
+			<Caption>Mô-đun</Caption>
+		</tbrModules>
+		<tbrView>
+			<Caption>Xem</Caption>
+		</tbrView>
+		<tbtnAnalyze>
+			<Caption>Phân tích</Caption>
+			<Hint>Phân tích|Phân tích các thay đổi hệ thống được thực hiện bởi chương trình hiện tại</Hint>
+		</tbtnAnalyze>
+		<tbtnArAdd>
+			<Caption>Thêm</Caption>
+		</tbtnArAdd>
+		<tbtnArDelete>
+			<Caption>Xóa</Caption>
+		</tbtnArDelete>
+		<tbtnArRun>
+			<Caption>Chạy</Caption>
+		</tbtnArRun>
+		<tbtnArStop>
+			<Caption>Dừng lại</Caption>
+		</tbtnArStop>
+		<tbtnAutorunMgr>
+			<Caption>Quản lý tự\nđộng chạy</Caption>
+		</tbtnAutorunMgr>
+		<tbtnChanges>
+			<Caption>Thay đổi</Caption>
+			<Hint>Phát hiện các thay đổi|Hiển thị các thay đổi hệ thống đã được phát hiện bởi chương trình hiện tại</Hint>
+		</tbtnChanges>
+		<tbtnChgView>
+			<Caption>Xem</Caption>
+			<Hint>Xem|Áp dụng chế độ xem thay đổi được xác định</Hint>
+		</tbtnChgView>
+		<tbtnCleaner>
+			<Caption>Làm sạch</Caption>
+			<Hint>Làm sạch</Hint>
+		</tbtnCleaner>
+		<tbtnClnClean>
+			<Caption>Làm sạch</Caption>
+			<Hint>Làm sạch</Hint>
+		</tbtnClnClean>
+		<tbtnClnItems>
+			<Caption>Những mục</Caption>
+		</tbtnClnItems>
+		<tbtnClnScan>
+			<Caption>Quét</Caption>
+			<Hint>Quét|Quét các mục dùng một lần</Hint>
+		</tbtnClnScan>
+		<tbtnClnSummary>
+			<Caption>Tóm tắt</Caption>
+			<Hint>Tóm tắt | Hiển thị một bản tóm tắt thông tin về các mục dùng một lần</Hint>
+		</tbtnClnSummary>
+		<tbtnCollapse>
+			<Hint>Thu gọn nút cây đang hoạt động</Hint>
+			<Caption>Thu gọn</Caption>
+		</tbtnCollapse>
+		<tbtnDetails>
+			<Caption>Chi tiết</Caption>
+			<Hint>Chi tiết chương trình|Hiển thị hoặc ẩn chi tiết chương trình</Hint>
+		</tbtnDetails>
+		<tbtnExpand>
+			<Hint>Mở rộng nút cây hoạt động</Hint>
+			<Caption>Mở rộng</Caption>
+		</tbtnExpand>
+		<tbtnInstallModify>
+			<Hint>Sửa chữa, sửa đổi hoặc gỡ bỏ cài đặt</Hint>
+			<Caption>Thay đổi</Caption>
+		</tbtnInstallModify>
+		<tbtnInstallNew>
+			<Hint>Cài đặt mới|Theo dõi cài đặt một chương trình mới</Hint>
+			<Caption>Cài đặt</Caption>
+		</tbtnInstallNew>
+		<tbtnInstallUpdate>
+			<Caption>Cập nhật</Caption>
+			<Hint>Cài đặt bản cập nhật|Theo dõi cài đặt bản cập nhật cho chương trình hiện tại</Hint>
+		</tbtnInstallUpdate>
+		<tbtnInstPrograms>
+			<Caption>Những chương\ntrình đã cài đặt</Caption>
+			<Hint>Các chương trình cài đặt|Chuyển sang chương trình cài đặt</Hint>
+		</tbtnInstPrograms>
+		<tbtnMonPrograms>
+			<Hint>Theo dõi các chương trình|Chuyển sang theo dõi các chương trình</Hint>
+			<Caption>Các chương\ntrình giám sát</Caption>
+		</tbtnMonPrograms>
+		<tbtnPrograms>
+			<Hint>Danh sách chương trình|Hiển thị hoặc ẩn danh sách chương trình</Hint>
+			<Caption>Chương trình</Caption>
+		</tbtnPrograms>
+		<tbtnSave>
+			<Hint>Lưu thay đổi từ nhật ký cài đặt hiện tại</Hint>
+			<Caption>Lưu</Caption>
+		</tbtnSave>
+		<tbtnSearch>
+			<Hint>Tìm|Tìm kiếm văn bản trong các thay đổi đã được phát hiện</Hint>
+			<Caption>Tìm kiếm</Caption>
+		</tbtnSearch>
+		<tbtnShowSnapshot>
+			<Caption>Hiện chụp ảnh</Caption>
+		</tbtnShowSnapshot>
+		<tbtnSummary>
+			<Hint>Tóm tắt|Hiển thị một bản tóm tắt thông tin về chương trình hiện tại</Hint>
+			<Caption>Tóm tắt</Caption>
+		</tbtnSummary>
+		<tbtnUninstall>
+			<Caption>Gỡ bỏ</Caption>
+		</tbtnUninstall>
+		<tbtnUninstallLog>
+			<Hint>Gỡ bỏ nhật ký|Hiển thị nhật ký gỡ cài đặt chương trình</Hint>
+			<Caption>Nhật ký gỡ bỏ</Caption>
+		</tbtnUninstallLog>
+		<tbtnWinApps>
+			<Caption>Các ứng dụng Windows</Caption>
+		</tbtnWinApps>
+		<tpnlSearch>
+			<Caption>Tìm</Caption>
+		</tpnlSearch>
+		<tvAutorunItems>
+			<Columns_5>Lệnh</Columns_5>
+			<Columns_4>Nhà xuất bản</Columns_4>
+			<Columns_3>Mô tả</Columns_3>
+			<Columns_2>Trạng thái</Columns_2>
+			<Columns_1>Phần</Columns_1>
+			<Columns_0>Tên</Columns_0>
+		</tvAutorunItems>
+		<tvChanges>
+			<Columns_3>Hiện tại</Columns_3>
+			<Columns_2>Sau</Columns_2>
+			<Columns_1>Trước</Columns_1>
+			<Columns_0>Thay đổi được phát hiện</Columns_0>
+		</tvChanges>
+		<tvClnItems>
+			<Columns_1>Thuộc tính</Columns_1>
+			<Columns_0>Các mục</Columns_0>
+		</tvClnItems>
+		<tvResults>
+			<Columns_2>Chương trình</Columns_2>
+			<Columns_1>Vị trí</Columns_1>
+			<Columns_0>Tên</Columns_0>
+		</tvResults>
+	</frmTUMain>
+	<RESOURCESTRING>
+		<ACCESS_DENIED_X>Cấm truy cập: %s</ACCESS_DENIED_X>
+		<ACT_CRE_KEY>Tạo khóa registry: %s</ACT_CRE_KEY>
+		<ACT_CRE_VAL>Tạo giá trị registry: %s</ACT_CRE_VAL>
+		<ACT_DEC_CNT>Giảm bộ đếm tập tin chia sẻ từ registry: %s</ACT_DEC_CNT>
+		<ACT_DEL_ADS>Xóa luồng dữ liệu luân phiên: %s</ACT_DEL_ADS>
+		<ACT_DEL_FILE>Xóa tập tin: %s</ACT_DEL_FILE>
+		<ACT_DEL_FOLDER>Xóa thư mục: %s</ACT_DEL_FOLDER>
+		<ACT_DEL_KEY>Xóa khóa registry: %s</ACT_DEL_KEY>
+		<ACT_DEL_SERVICE>Xóa dịch vụ hoặc thiết bị: %s</ACT_DEL_SERVICE>
+		<ACT_DEL_VAL>Xóa giá trị registry: %s</ACT_DEL_VAL>
+		<ACT_RST_FILE>Khôi phục thuộc tính tập tin: %s</ACT_RST_FILE>
+		<ACT_RST_VAL>Khôi phục giá trị registry: %s</ACT_RST_VAL>
+		<ACT_STOP_SERVICE>Dừng dịch vụ hoặc thiết bị: %s</ACT_STOP_SERVICE>
+		<ADD>Thêm</ADD>
+		<ADVANCED>Nâng cao</ADVANCED>
+		<AGENT>Hành động</AGENT>
+		<ALL>Tất cả</ALL>
+		<ALL_BRA>(Tất cả)</ALL_BRA>
+		<ALL_DETAILS>Tất cả chi tiết</ALL_DETAILS>
+		<ALWAYS>Luôn luôn</ALWAYS>
+		<ANALYSIS_PROFILE>Phân tích hồ sơ</ANALYSIS_PROFILE>
+		<ANALYSIS_PROFILES>Phân tích hồ sơ</ANALYSIS_PROFILES>
+		<ANALYZING>Đang phân tích...</ANALYZING>
+		<ASK>Hỏi</ASK>
+		<ASK_COMPLETE_LATER>Hoàn thành quá trình giám sát sau đó?</ASK_COMPLETE_LATER>
+		<ASK_IF_NO_ERROR>Hỏi nếu không có lỗi</ASK_IF_NO_ERROR>
+		<ASK_SAVE_CHG>Bạn có muốn lưu các thay đổi từ &quot;%s&quot; ?</ASK_SAVE_CHG>
+		<ASK_USER>Hỏi người dùng</ASK_USER>
+		<AUTOMATIC>Tự động</AUTOMATIC>
+		<AUTORUN_ITEMS>Mục tự động chạy</AUTORUN_ITEMS>
+		<AUTORUN_MGR>Quản lý tự động chạy</AUTORUN_MGR>
+		<BACKUP>Sao lưu</BACKUP>
+		<BACKUP_CREATED>Sao lưu đã được tạo.</BACKUP_CREATED>
+		<BACKUP_CREATED_OK>Sao lưu đã tạo thành công.</BACKUP_CREATED_OK>
+		<BACKUP_PROGRAM>Đang tạo sao lưu cho chương trình...</BACKUP_PROGRAM>
+		<BACKUP_PROGRAM_X>Tạo một sao lưu cho chương trình &quot;%s&quot;</BACKUP_PROGRAM_X>
+		<BEGIN_UNINSTALL>Bấm Gỡ bỏ để bắt đầu tiến trình gỡ bỏ</BEGIN_UNINSTALL>
+		<BEGIN_UNINSTALL_LAUNCH>Bấm Chạy để bắt đầu tiến trình gỡ bỏ</BEGIN_UNINSTALL_LAUNCH>
+		<BROWSE_FOR_FILE>Duyệt tới tập tin</BROWSE_FOR_FILE>
+		<BROWSE_FOR_FOLDER>Duyệt tới thư mục</BROWSE_FOR_FOLDER>
+		<BROWSE_FOR_FOLDER_OR_FILE>Duyệt tới thư mục hoặc tập tin</BROWSE_FOR_FOLDER_OR_FILE>
+		<BROWSE_FOR_KEY>Duyệt tới khóa</BROWSE_FOR_KEY>
+		<BROWSE_FOR_KEY_OR_VALUE>Duyệt tới khóa hoặc giá trị</BROWSE_FOR_KEY_OR_VALUE>
+		<BROWSE_FOR_VALUE>Duyệt tới giá trị</BROWSE_FOR_VALUE>
+		<BTN_CONTINUE>Tiếp tục</BTN_CONTINUE>
+		<BUILT_IN_CANCELLED>Trình gỡ cài đặt đã đã bị hủy hoặc trả về mà không hoàn tất quá trình gỡ cài đặt.</BUILT_IN_CANCELLED>
+		<BUILT_IN_UNINSTALLER_RUNNING>Các chương trình cài đặt tích hợp đang chạy.</BUILT_IN_UNINSTALLER_RUNNING>
+		<CANCEL>Hủy bỏ</CANCEL>
+		<CANNOT_BROWSE>Đã xảy ra lỗi khi cố bắt đầu trình duyệt mặc định.\nLiên kết được sao chép vào bảng nhớ tạm.</CANNOT_BROWSE>
+		<CANT_EXECUTE>Không thể chạy chương trình &quot;%s&quot;.</CANT_EXECUTE>
+		<CANT_OPEN_KEY>Không thể mở khóa</CANT_OPEN_KEY>
+		<CHANGED_ITEMS>Mục đã thay đổi</CHANGED_ITEMS>
+		<CHANGES>Thay đổi &quot;%s&quot;</CHANGES>
+		<CHECK_UPD_NEW>Cập nhật hoặc bản mới khả dụng</CHECK_UPD_NEW>
+		<CHECK_UPD_REMINDER>Kiểm tra nhắc nhở cập nhật</CHECK_UPD_REMINDER>
+		<CHG_VIEWS>Thay đổi xem</CHG_VIEWS>
+		<CLEAN_UP>Làm sạch</CLEAN_UP>
+		<CLEAN_UP_DESC>Hủy bỏ dấu vết của một chương trình theo dõi gỡ cài đặt</CLEAN_UP_DESC>
+		<CLEANED>Đã dọn sạch</CLEANED>
+		<CLEANER>Dọn dẹp</CLEANER>
+		<CLEANING>Đang dọn dẹp...</CLEANING>
+		<CLOSE>Đóng</CLOSE>
+		<CLOSE_PROCESSES>Đóng tiến trình</CLOSE_PROCESSES>
+		<CMP_ERROR>Lỗi trong so sánh ảnh chụp nhanh.</CMP_ERROR>
+		<CMP_PROFILE>So sánh tên hồ sơ</CMP_PROFILE>
+		<CNT_DEL_MON>Bộ đếm tập tin chia sẻ của Registry đã bị xóa trong quá trình giám sát</CNT_DEL_MON>
+		<COMMENTS>Bình luận</COMMENTS>
+		<COMMON>Chung</COMMON>
+		<COMP_PROFILES>Đang so sánh các hồ sơ</COMP_PROFILES>
+		<COMPARE>So sánh</COMPARE>
+		<COMPARING_SNS>Đang so sánh ảnh chụp hệ thống...</COMPARING_SNS>
+		<COMPLETE>Hoàn tất</COMPLETE>
+		<COMPUTER>Máy tính</COMPUTER>
+		<COMPUTER_X>Máy tính (%s)</COMPUTER_X>
+		<CONTACT>Liên hệ</CONTACT>
+		<CONTINUE>Bạn có muốn tiếp tục?</CONTINUE>
+		<CONTINUE_UNINSTALL>Tiếp tục quá trình gỡ cài đặt</CONTINUE_UNINSTALL>
+		<CONTINUE_UNINSTALL_Q>Tiếp tục quá trình gỡ cài đặt?</CONTINUE_UNINSTALL_Q>
+		<CORRUPT_CNT>Thay đổi không hợp lệ cho bộ đếm tập tin chia sẻ registry : giá trị được giảm hoặc với một dữ liệu không hợp lệ</CORRUPT_CNT>
+		<CREATE_REG_KEYS>Tạo khóa registry</CREATE_REG_KEYS>
+		<CREATE_REG_VALS>Tạo giá trị registry</CREATE_REG_VALS>
+		<CREATED>Đã tạo</CREATED>
+		<CREATED_ITEMS>Đã tạo mục</CREATED_ITEMS>
+		<CREATED_ON>Đã tạo trên</CREATED_ON>
+		<CREATED_X>Đã tạo: %s</CREATED_X>
+		<DEC_CNT>Bộ đếm tập tin chia sẻ registry giảm</DEC_CNT>
+		<DEFAULT>Mặc định</DEFAULT>
+		<DEFAULT_PAR>(Mặc định)</DEFAULT_PAR>
+		<DEL_AT_STARTUP>Đã được sắp xếp hàng đợi để được xóa khi khởi động tiếp theo</DEL_AT_STARTUP>
+		<DEL_CNT>Xoá bộ đếm tệp tin chia sẻ registry</DEL_CNT>
+		<DEL_FILES>Xóa các tập tin</DEL_FILES>
+		<DEL_FOLDERS>Xóa các thư mục</DEL_FOLDERS>
+		<DEL_REG_KEYS>Xóa các khóa registry</DEL_REG_KEYS>
+		<DEL_REG_VALS>Xóa các giá trị registry</DEL_REG_VALS>
+		<DEL_SH_FILE>Xóa tập tin được chia sẻ từ đĩa tới Thùng rác</DEL_SH_FILE>
+		<DELETE_SEL_BACKUPS>Xóa (các) bản sao lưu đã chọn?</DELETE_SEL_BACKUPS>
+		<DELETE_SEL_UNDO>Xóa các mục hoàn tác đã chọn?</DELETE_SEL_UNDO>
+		<DELETE_SYS_SEL_ITEM>Xóa mục đã chọn khỏi hệ thống?</DELETE_SYS_SEL_ITEM>
+		<DELETED>Đã xóa</DELETED>
+		<DELETED_ITEMS>Đã xóa mục</DELETED_ITEMS>
+		<DEPENDS_ON_PACKAGES>Phụ thuộc vào gói</DEPENDS_ON_PACKAGES>
+		<DETECTED_CHG>Phát hiện thay đổi</DETECTED_CHG>
+		<DISABLED>Vô hiệu hóa</DISABLED>
+		<DISPOSABLE_ITEMS>Mục dùng một lần</DISPOSABLE_ITEMS>
+		<DLG_ABORT>Hủy</DLG_ABORT>
+		<DLG_ALL>Tất cả</DLG_ALL>
+		<DLG_CANCEL>Hủy bỏ</DLG_CANCEL>
+		<DLG_CLOSE>Đóng</DLG_CLOSE>
+		<DLG_CNF>Xác nhận</DLG_CNF>
+		<DLG_ERR>Lỗi</DLG_ERR>
+		<DLG_IGNORE>Bỏ qua</DLG_IGNORE>
+		<DLG_INF>Thông tin</DLG_INF>
+		<DLG_NO>Không</DLG_NO>
+		<DLG_NOTOALL>Không Tất Cả</DLG_NOTOALL>
+		<DLG_OK>ĐỒNG Ý</DLG_OK>
+		<DLG_RETRY>Thử lại</DLG_RETRY>
+		<DLG_WRN>Cảnh báo</DLG_WRN>
+		<DLG_YES>Có</DLG_YES>
+		<DLG_YESTOALL>Có tất cả</DLG_YESTOALL>
+		<DONT_DEL_SH_FILE>Người dùng muốn lưu tập tin chia sẻ</DONT_DEL_SH_FILE>
+		<EDIT_PROGRAM>Sửa chương trình</EDIT_PROGRAM>
+		<ELAPSED>Đã qua %d:%2.2d</ELAPSED>
+		<ENTER_IDENTIFIER>Nhập tên của chương trình đã cài đặt.</ENTER_IDENTIFIER>
+		<ERR>Lỗi</ERR>
+		<ERR_BRA>(Lỗi)</ERR_BRA>
+		<ERR_DEL_FLD_FILES>Không thể xóa một hoặc nhiều thư mục hoặc tập tin.</ERR_DEL_FLD_FILES>
+		<ERR_DEL_REG_KEYS_VALS>Không thể xóa một hoặc nhiều khóa hoặc giá trị.</ERR_DEL_REG_KEYS_VALS>
+		<ERR_REDO_REG_KEYS_VALS>Không thể làm lại một hoặc nhiều khóa hoặc giá trị.</ERR_REDO_REG_KEYS_VALS>
+		<ERR_UNDO_REG_KEYS_VALS>Không thể hoàn tác một hoặc nhiều khóa hoặc giá trị.</ERR_UNDO_REG_KEYS_VALS>
+		<ERR_WRN_OK_STAT>(Nhiều)Lỗi: %d   (Nhiều)Cảnh báo: %d  Hành động thành công: %d</ERR_WRN_OK_STAT>
+		<ERROR_UNINST_X_APPS>Lỗi khi gỡ bỏ %d (các)ứng dụng.</ERROR_UNINST_X_APPS>
+		<EXIT>Thoát</EXIT>
+		<EXPERT>Chuyên gia</EXPERT>
+		<EXPIRE_DAYS>Hết hạn trong %d ngày.</EXPIRE_DAYS>
+		<EXPORT_ERROR>Xuất lỗi !</EXPORT_ERROR>
+		<EXTENSION>Tiện ích</EXTENSION>
+		<FAMILY_NOT_ACCEPTED>Giấy phép gia đình không hợp lệ.</FAMILY_NOT_ACCEPTED>
+		<FFILTER_ALL>Tất cả tập tin (*.*)|*.*</FFILTER_ALL>
+		<FFILTER_DLL>Tập tin ứng dụng mở rộng (*.dll)|*.dll</FFILTER_DLL>
+		<FFILTER_EXE>Các thực thi (*.exe)|*.exe</FFILTER_EXE>
+		<FFILTER_EXE_MSI>Thực thi, Gói cài đặt Windows</FFILTER_EXE_MSI>
+		<FFILTER_HTM>Tài liệu HTML (*.htm, *.html)|*.htm;*html</FFILTER_HTM>
+		<FFILTER_ICL>Bộ sưu tập biểu tượng (*.icl)|*.icl</FFILTER_ICL>
+		<FFILTER_ICO>Biểu tượng tập tin (*.ico)|*.ico</FFILTER_ICO>
+		<FFILTER_MSI>Trình cài đặt Microsoft (*.msi)|*.msi</FFILTER_MSI>
+		<FFILTER_REG>Tập tin đăng ký (*.reg)|*.reg</FFILTER_REG>
+		<FFILTER_TXT>Tài liệu văn bản (*.txt)|*.txt</FFILTER_TXT>
+		<FFILTER_WAV>Tập tin âm thanh (*.wav)|*.wav</FFILTER_WAV>
+		<FFILTER_XML>Tài liệu XML - (*.xml)|*.xml</FFILTER_XML>
+		<FFILTER_ZIP>Tập tin sao lưu (*.zip)|*.zip</FFILTER_ZIP>
+		<FILE>(TẬP TIN)</FILE>
+		<FILE_>Tập tin</FILE_>
+		<FILE_MASK>Tập tin mặt nạ</FILE_MASK>
+		<FILE_SYSTEM>Tập tin hệ thống</FILE_SYSTEM>
+		<FILES_CHG_STAT>Tập tin đã sửa     :%6.1d</FILES_CHG_STAT>
+		<FILES_CREATED_STAT>Tập tin đã tạo      :%6.1d</FILES_CREATED_STAT>
+		<FILES_DEL_STAT>Tập tin đã xóa      :%6.1d</FILES_DEL_STAT>
+		<FILES_NOT_INCLUDED>Những tập tin không bao gồm trong bản sao lưu</FILES_NOT_INCLUDED>
+		<FILES_X>Các tập tin   :%6.1d</FILES_X>
+		<FILTER>Bộ lọc</FILTER>
+		<FINISH>Hoàn thành</FINISH>
+		<FLDS_CREATED_STAT>Thư mục đã tạo  :%6.1d</FLDS_CREATED_STAT>
+		<FLDS_DEL_STAT>Thư mục đã xóa  :%6.1d</FLDS_DEL_STAT>
+		<FOLDER>(THƯ MỤC)</FOLDER>
+		<FOLDER_>Thư mục</FOLDER_>
+		<FOLDER_MASK>Mặt nạ thư mục</FOLDER_MASK>
+		<FOLDERS_X>Thư mục :%6.1d</FOLDERS_X>
+		<FREE_UPDATES_UNTIL>Cập nhật miễn phí cho đến %s</FREE_UPDATES_UNTIL>
+		<FS_DET_VIEW_PRF>Chi tiết tập tin hệ thống [Xem: %s]</FS_DET_VIEW_PRF>
+		<GENERAL>Tổng quan</GENERAL>
+		<GENERATED_BY_TU>Được tạo bởi Total Uninstall</GENERATED_BY_TU>
+		<HIDDEN_NODE>Nút bị ẩn.</HIDDEN_NODE>
+		<HIDDEN_NODE_IN_VIEW>Mục bị ẩn trong chế độ xem hiện tại.</HIDDEN_NODE_IN_VIEW>
+		<HIDE_OPTIONS>Ẩn &amp;Tùy chọn</HIDE_OPTIONS>
+		<IF_NO_ERROR>Nếu không lỗi</IF_NO_ERROR>
+		<IMPORTING_ARCHIVE>Đang nhập (các) lưu trữ...</IMPORTING_ARCHIVE>
+		<INCLUDE_FOLDER_IN_LOG>Bao gồm thư mục trong nhật ký</INCLUDE_FOLDER_IN_LOG>
+		<INF_VOLATILE_KEY>Khóa biến đổi không được tạo ra</INF_VOLATILE_KEY>
+		<INF_VOLATILE_VAL>Giá trị biến đổi không được tạo ra</INF_VOLATILE_VAL>
+		<INST_ON>Được cài trên</INST_ON>
+		<INST_PRG>Chương trình đã cài đặt</INST_PRG>
+		<INST_PRGS>Chương trình đã cài đặt</INST_PRGS>
+		<INST_SERV_AND_DEV>Các dịch vụ và thiết bị đã cài đặt</INST_SERV_AND_DEV>
+		<INSTALL>Cài đặt</INSTALL>
+		<INSTALL_HISTORY>Lịch sử cài đặt</INSTALL_HISTORY>
+		<INSTALLED_APPS>%d ứng dụng đã cài</INSTALLED_APPS>
+		<INSTALLED_PRGS_CMPS>%d chương trình cài đặt, %d thành phần hệ thống</INSTALLED_PRGS_CMPS>
+		<INSTALLER_ERR>Đã phát hiện lỗi trình cài đặt: Bộ đếm tập tin được chia sẻ được tạo cho một tập tin hiện có</INSTALLER_ERR>
+		<INTERFACE>Giao diện</INTERFACE>
+		<INVALID_AFTER_CNT>Bộ đếm không hợp lệ SAU</INVALID_AFTER_CNT>
+		<INVALID_BEFORE_CNT>Bộ đếm không hợp lệ TRƯỚC</INVALID_BEFORE_CNT>
+		<INVALID_CURRENT_CNT>Bộ đếm không hợp lệ HIỆN TẠI tìm thấy trong registry</INVALID_CURRENT_CNT>
+		<INVALID_FILE_FORMAT>Định dạng tập tin không đúng</INVALID_FILE_FORMAT>
+		<INVALID_SERVER_RESPONSE>Phản hồi máy chủ xác thực không hợp lệ. Rất có thể, một bức tường lửa làm xáo trộn giao tiếp.</INVALID_SERVER_RESPONSE>
+		<ITEM_X>Mục : %s</ITEM_X>
+		<ITEMS_AFTER_INST>Các mục sau đây được tạo sau khi cài đặt.\nCác chương trình khác có thể cần đến chúng.</ITEMS_AFTER_INST>
+		<KEY>Khóa</KEY>
+		<KEYS_CREATED_STAT>Các khóa đã tạo      :%6.1d</KEYS_CREATED_STAT>
+		<KEYS_DEL_STAT>Các khóa đã xóa      :%6.1d</KEYS_DEL_STAT>
+		<KEYS_X>Các khóa    :%6.1d</KEYS_X>
+		<LAST_CHECK>Lần kiểm tra cuối: %s</LAST_CHECK>
+		<LAST_WRITE_X>Lần ghi cuối: %s</LAST_WRITE_X>
+		<LAUNCH>Chạy</LAUNCH>
+		<LAUNCH_SUPPLIED_UNINST>Chương trình cài đặt sẵn tích hợp sẽ được khởi chạy.</LAUNCH_SUPPLIED_UNINST>
+		<LAUNCH_TU>Chạy Total Uninstall</LAUNCH_TU>
+		<LIC_COUNTRY>Giấy phép quốc gia</LIC_COUNTRY>
+		<LIC_FAMILY>Giấy phép gia đình</LIC_FAMILY>
+		<LIC_MULTIPLE>Giấy phép nhiều máy tính</LIC_MULTIPLE>
+		<LIC_SINGLE_COMPUTER>Giấy phép một máy tính</LIC_SINGLE_COMPUTER>
+		<LIC_SITE>Giấy phép trang web</LIC_SITE>
+		<LIC_SMALL_OFFICE>Giấy phép văn phòng nhỏ</LIC_SMALL_OFFICE>
+		<LIC_TECHNICIAN>Giấy phép kỹ thuật</LIC_TECHNICIAN>
+		<LIC_TEMPORARY>Giấy phép tạm thời</LIC_TEMPORARY>
+		<LIC_WORLDWIDE>Giấy phép trên toàn thế giới</LIC_WORLDWIDE>
+		<LICENSED_TO>Cấp phép cho &quot;%s&quot;</LICENSED_TO>
+		<LNK_EXE_FILTER>Các phím tắt và các file thực thi (*.lnk, *.exe)|*.lnk;*.exe</LNK_EXE_FILTER>
+		<LOADING>Đang tải...</LOADING>
+		<LOADING_INST_PRGS>Đang tải các chương trình đã cài đặt...</LOADING_INST_PRGS>
+		<LOADING_MON_PRGS>Đang tải các chương trình được giám sát...</LOADING_MON_PRGS>
+		<LOADING_WINDOWS_APPS>Đang tải ứng dụng Windows...</LOADING_WINDOWS_APPS>
+		<LOCATE_PRG_LNK_EXE>Chọn đường dẫn tắt của chương trình hoặc thực thi</LOCATE_PRG_LNK_EXE>
+		<LOCATE_UNINSTALLER_EXE>Chọn trình gỡ cài đặt thực thi</LOCATE_UNINSTALLER_EXE>
+		<LOG_FILE_NAME>Nhật ký tên tập tin</LOG_FILE_NAME>
+		<LOGON>Đăng nhập</LOGON>
+		<MAINTENANCE_ENDED>Thời hạn bảo hành cho giấy phép của bạn đã hết hạn.</MAINTENANCE_ENDED>
+		<MAINTENANCE_ENDED_INFO>Phiên bản chương trình cài đặt mới sẽ chạy trong chế độ dùng thử.</MAINTENANCE_ENDED_INFO>
+		<MANUAL>Thủ công</MANUAL>
+		<MICROSOFT>Microsoft</MICROSOFT>
+		<MISSING_ITEMS>Mục bị thiếu</MISSING_ITEMS>
+		<MODIFIED>Đã sửa</MODIFIED>
+		<MON_ON>Theo dõi trên</MON_ON>
+		<MON_PRG>Chương trình theo dõi</MON_PRG>
+		<MON_PRG_PATH>Đường dẫn chương trình được theo dõi</MON_PRG_PATH>
+		<MON_PRG_RUNNING>Có vẻ như chương trình giám sát vẫn đang chạy.</MON_PRG_RUNNING>
+		<MONITOR_WITH_TU>Giám sát với Total Uninstall</MONITOR_WITH_TU>
+		<MONITORED_PRGS>%d chương trình được theo dõi</MONITORED_PRGS>
+		<NAME>Tên</NAME>
+		<NEVER>Không bao giờ</NEVER>
+		<NEW_NAME>Tên mới</NEW_NAME>
+		<NO>Không</NO>
+		<NO_GROUPS>Không nhóm</NO_GROUPS>
+		<NO_MORE_INSTANCES_ALLOWED>Giấy phép của bạn không hợp lệ để chạy nhiều trường hợp của chương trình này.</NO_MORE_INSTANCES_ALLOWED>
+		<NO_RIGHTS>Không đủ quyền</NO_RIGHTS>
+		<NO_UPDATES>Phiên bản bị hỏng.</NO_UPDATES>
+		<NON_MICROSOFT>Không phải của Microsoft</NON_MICROSOFT>
+		<NON_WINDOWS>Không phải của Windows</NON_WINDOWS>
+		<NORMAL>Bình thường</NORMAL>
+		<NOT_A_VALID_UNINST>Không tìm thấy trình gỡ cài đặt hợp lệ hoặc đã đăng ký.</NOT_A_VALID_UNINST>
+		<NOT_AVAILABLE>Không khả dụng</NOT_AVAILABLE>
+		<NOT_DELETED_FILES>Không phải thư mục và tập tin đã xóa</NOT_DELETED_FILES>
+		<NOT_DELETED_FILES_DET>Thư mục và tập tin không bị xóa trong quá trình gỡ cài đặt</NOT_DELETED_FILES_DET>
+		<NOT_DELETED_REG>Không phải các khóa và giá trị registry đã bị xóa</NOT_DELETED_REG>
+		<NOT_DELETED_REG_DET>Khóa và giá trị của Registry không bị xóa khi gỡ cài đặt</NOT_DELETED_REG_DET>
+		<NOT_EMPTY>Không rỗng</NOT_EMPTY>
+		<NOT_FOUND>Không thấy</NOT_FOUND>
+		<NOT_FOUND_X>Không thấy: %s</NOT_FOUND_X>
+		<NOTES>Ghi chú</NOTES>
+		<OK>ĐỒNG Ý</OK>
+		<OK_BRA>(ĐỒNG Ý)</OK_BRA>
+		<ON_PRG_CLOSE>Khi chương trình đóng</ON_PRG_CLOSE>
+		<ON_REFRESH>Khi làm mới</ON_REFRESH>
+		<ONLY_FILES_TO_KEEP>Không bị xóa. Chỉ chứa các tập tin hoặc thư mục để giữ.</ONLY_FILES_TO_KEEP>
+		<ONLY_KEYS_TO_KEEP>Không bị xóa. Chỉ chứa các khóa registry để giữ.</ONLY_KEYS_TO_KEEP>
+		<OTHER>Khác</OTHER>
+		<PACKAGES>Gói</PACKAGES>
+		<PAGE>Trang:</PAGE>
+		<PAINT_ITEM_STYLES>Hiển thị bình thường\nẨn\nĐánh dấu văn bản\nMô hình biểu tượng\nTạo biểu tượng và làm nổi bật văn bản</PAINT_ITEM_STYLES>
+		<PENDING_FILE_REN>Đang chờ hoạt động đổi tên tập tin.</PENDING_FILE_REN>
+		<PRE_INST_SNS_NAME>Tên ảnh chụp nhanh cài đặt trước</PRE_INST_SNS_NAME>
+		<PRE_INSTALL>Bản cài đặt hệ thống cài đặt trước</PRE_INSTALL>
+		<PREFERENCES>Sở thích</PREFERENCES>
+		<PRG_DETECTED>Chương trình phát hiện:</PRG_DETECTED>
+		<PRG_NAME>Tên chương trình</PRG_NAME>
+		<PRG_PART_UNINSTALLED>Chương trình đã được gỡ cài đặt một phần</PRG_PART_UNINSTALLED>
+		<PRG_RESTORED>Chương trình đã được khôi phục.</PRG_RESTORED>
+		<PRG_UNINSTALLED>Chương trình đã được gỡ cài đặt thành công</PRG_UNINSTALLED>
+		<PRINT_ERROR>Lỗi in!</PRINT_ERROR>
+		<PROCESS_CANCELLED>Tiến trình bị hủy.</PROCESS_CANCELLED>
+		<PROCESSING_INSTALLATIONS>Đang xử lý cài đặt ...</PROCESSING_INSTALLATIONS>
+		<PRODUCT_UPDATES>Cập nhật sản phẩm</PRODUCT_UPDATES>
+		<PROGRAM_WILL_RESTART>Chương trình sẽ khởi động lại để hoàn tất đăng ký.</PROGRAM_WILL_RESTART>
+		<PROGRESS_DEFAULT>Tiến trình, mặc định</PROGRESS_DEFAULT>
+		<PST_INST_SNS_NAME>Đăng cài đặt tên ảnh chụp</PST_INST_SNS_NAME>
+		<PUBLISHER>Nhà xuất bản</PUBLISHER>
+		<QST_DEL_FLD_FILES>Bạn có chắc chắn muốn xóa các thư mục hoặc tập tin đã chọn không?</QST_DEL_FLD_FILES>
+		<QST_DEL_REG_KEYS_VALS>Bạn có chắc chắn muốn xóa các khóa hoặc giá trị đã chọn không?</QST_DEL_REG_KEYS_VALS>
+		<QST_DEL_SERVICES>Bạn có chắc chắn muốn xóa các dịch vụ đã chọn không?</QST_DEL_SERVICES>
+		<QST_REMOVE_INST_PRG_LST>Bạn có chắc chắn muốn xoá chương trình đã chọn khỏi danh sách không?</QST_REMOVE_INST_PRG_LST>
+		<QUEST_REMOVE_GROUP>Loại bỏ nhóm?</QUEST_REMOVE_GROUP>
+		<QUIET_PROGRESS_DEFAULT>Yên tĩnh, tiến trình, mặc định</QUIET_PROGRESS_DEFAULT>
+		<README>Đọc kỹ</README>
+		<READY>Sẵn sàng</READY>
+		<RECORD_CHANGED_X>Ghi chép thay đổi: %s</RECORD_CHANGED_X>
+		<REDO_PROFILES>Khôi phục hồ sơ</REDO_PROFILES>
+		<REG_DET_VIEW_PRF>Chi tiết Registry [Xem: %s]</REG_DET_VIEW_PRF>
+		<REG_KEY>(KHÓA REG)</REG_KEY>
+		<REG_RUN>Chạy</REG_RUN>
+		<REG_RUN_ONCE>Chạy một lần</REG_RUN_ONCE>
+		<REG_SCAN_ERROR>Lỗi trong quá trình quét registry.</REG_SCAN_ERROR>
+		<REG_VAL>(GIÁ TRỊ REG)</REG_VAL>
+		<REGISTER_DISABLED_KEY>Bạn có thể là nạn nhân của phần mềm giả mạo. Hãy mua một giấy phép để cấp phép từ chính hãng.</REGISTER_DISABLED_KEY>
+		<REGISTER_FAILED>Đăng ký thất bại.</REGISTER_FAILED>
+		<REGISTER_FIREWALL>Một bức tường lửa ngăn chặn xác nhận giấy phép trực tuyến của bạn.</REGISTER_FIREWALL>
+		<REGISTER_HOST>Mục nhập trong tập tin HOSTS ngăn không cho xác nhận giấy phép trực tuyến của bạn.</REGISTER_HOST>
+		<REGISTER_INVALID>Thông tin đăng ký không hợp lệ</REGISTER_INVALID>
+		<REGISTER_PORTABLE>Phiên bản di động kỹ thuật viên phải được đăng ký</REGISTER_PORTABLE>
+		<REGISTER_PRO>Bạn phải đăng ký chương trình với một chìa khóa cho phiên bảnchuyên nghiệp.</REGISTER_PRO>
+		<REGISTER_THANK_YOU>Cám ơn đã đăng ký %s.</REGISTER_THANK_YOU>
+		<REGISTERED_COMPANY>Đăng ký công ty</REGISTERED_COMPANY>
+		<REGISTERED_OWNER>Đăng ký chủ sở hữu</REGISTERED_OWNER>
+		<REGISTRY>Registry</REGISTRY>
+		<REMOVE_LEFT_BEHIND>Nhấn Gỡ bỏ để xóa các thư mục, tập tin, khóa registry và các giá trị còn sót lại.</REMOVE_LEFT_BEHIND>
+		<REMOVE_LOG>Xóa nhật ký thay đổi?</REMOVE_LOG>
+		<REMOVE_LOG_DET>Bạn sẽ không thể phục hồi các thay đổi được thực hiện bởi chương trình đã chọn.</REMOVE_LOG_DET>
+		<REMOVE_PRG_DATA>Xóa cài đặt và dữ liệu chương trình?</REMOVE_PRG_DATA>
+		<REMOVE_PRG_DATA_INFO>Chọn &quot;Không&quot; nếu bạn dự định cập nhật hoặc nâng cấp Total Uninstall</REMOVE_PRG_DATA_INFO>
+		<RENAME>Đổi tên</RENAME>
+		<REQUEST_INTERNET_ACCESS>Truy cập Internet là bắt buộc.</REQUEST_INTERNET_ACCESS>
+		<RESTORATION_UNDONE>Việc khôi phục đã được hoàn tác.</RESTORATION_UNDONE>
+		<RESTORE>Khôi phục</RESTORE>
+		<RESTORE_PROGRAM>Khôi phục chương trình</RESTORE_PROGRAM>
+		<RESTORE_REG_VALS>Khôi phục giá trị registry</RESTORE_REG_VALS>
+		<RESTORING_ARCHIVE>Đang khôi phục tập tin và mục đăng ký...</RESTORING_ARCHIVE>
+		<RESTORING_FILES_FROM_BKP>Đang khôi phục tập tin từ bản sao lưu ...</RESTORING_FILES_FROM_BKP>
+		<RST_FILE_PROP>Khôi phục thuộc tính tập tin</RST_FILE_PROP>
+		<RUN_EVAL_PERIOD>Chạy chương trình trong giai đoạn đánh giá?</RUN_EVAL_PERIOD>
+		<RUNNING>Đang chạy</RUNNING>
+		<RUNNING_DOMAIN>Chạy trong miền Windows NT.</RUNNING_DOMAIN>
+		<RUNNING_SERVER>Chạy trong Windows Server.</RUNNING_SERVER>
+		<RUNNING_VM>Chạy trong một máy ảo.</RUNNING_VM>
+		<SAFE>An toàn</SAFE>
+		<SAVE_AS>Lưu như</SAVE_AS>
+		<SCAN_PROFILES>Đang quét hồ sơ</SCAN_PROFILES>
+		<SCANNING>Đang quét...</SCANNING>
+		<SCANNING_REGISTRY_AND_FS>Quét registry và hệ thống tập tin...</SCANNING_REGISTRY_AND_FS>
+		<SCHEDULED_TASKS>Lập lịch tác vụ</SCHEDULED_TASKS>
+		<SEARCH>Tìm</SEARCH>
+		<SEARCH_IN_X>Tìm trong &quot;%s&quot;</SEARCH_IN_X>
+		<SEL_BRA>(Lựa chọn)</SEL_BRA>
+		<SEL_HAS_HD_NODES>Lựa chọn này chứa ít nhất một nút ẩn.</SEL_HAS_HD_NODES>
+		<SEL_PRG_UNINSTALLED>Chương trình đã chọn đã được gỡ cài đặt.</SEL_PRG_UNINSTALLED>
+		<SEL_UNINSTALL_PROFILE>Chọn một cấu hình gỡ bỏ cài đặt.</SEL_UNINSTALL_PROFILE>
+		<SELECT>Chọn</SELECT>
+		<SERVICE>Dịch vụ</SERVICE>
+		<SERVICES>Những dịch vụ</SERVICES>
+		<SHARED_FILE>Tập tin được chia sẻ. Không bị xóa trong giai đoạn này</SHARED_FILE>
+		<SHARED_FILE_CNT_DEC>Bộ đếm tập tin chia sẻ đã bị giảm đi</SHARED_FILE_CNT_DEC>
+		<SHARED_FILE_NOT_FOUND>Không tìm thấy tập tin chia sẻ trên đĩa</SHARED_FILE_NOT_FOUND>
+		<SHOW_OPTIONS>Hiện &amp;Tùy chọn</SHOW_OPTIONS>
+		<SHOW_SYS_COMP>Hiển thị thành phần hệ thống: %s</SHOW_SYS_COMP>
+		<SIZE>Kích cỡ</SIZE>
+		<SIZE_STAT>Kích cỡ                    : %s</SIZE_STAT>
+		<SKIP>Bỏ qua</SKIP>
+		<SKIP_BUILTIN_UNINSTALLER>Nếu trình gỡ cài đặt tích hợp đang chạy không đáp ứng, bấm Bỏ qua để tiếp tục. Trình gỡ cài đặt cài sẵn kế tiếp sẽ được khởi chạy.</SKIP_BUILTIN_UNINSTALLER>
+		<SMALL_CNT>Bộ đếm tập tin chia sẻ tìm thấy quá nhỏ trong registry</SMALL_CNT>
+		<START>Bắt đầu</START>
+		<START_MENU>Khởi động thực đơn</START_MENU>
+		<START_SCANNING>Bấm nút Quét để bắt đầu quét.</START_SCANNING>
+		<START_UNINSTALL_PROCESS>Bắt đầu quá trình gỡ cài đặt.</START_UNINSTALL_PROCESS>
+		<STARTUP_TYPE_X>Loại khởi động : %s</STARTUP_TYPE_X>
+		<STOP>Dừng lại</STOP>
+		<STOP_SERVICES>Dừng các dịch vụ</STOP_SERVICES>
+		<STOPPED>Dừng lại</STOPPED>
+		<SUMMARY>Tóm tắt</SUMMARY>
+		<SUPPORT_INFO>Thông tin hỗ trợ</SUPPORT_INFO>
+		<SUPPORT_PHONE>Điện thoại hỗ trợ</SUPPORT_PHONE>
+		<SVC_CMD_NOT_ACCEPTED>Dịch vụ không chấp nhận lệnh dừng.</SVC_CMD_NOT_ACCEPTED>
+		<SW_VERSION>Phiên bản %s</SW_VERSION>
+		<SYSTEM>Hệ thống</SYSTEM>
+		<TEMPORARY_FILES>Tập tin tạm</TEMPORARY_FILES>
+		<TITLE_MON_INSTALL>Giám sát cài đặt mới</TITLE_MON_INSTALL>
+		<TITLE_MON_UPDATE_X>Theo dõi cập nhật chương trình &quot;%s&quot;</TITLE_MON_UPDATE_X>
+		<TOTAL_LIC_COMPUTERS>Tổng số máy tính được cấp phép cho tên trên: %s</TOTAL_LIC_COMPUTERS>
+		<TOTAL_UNINSTALL>Total uninstall</TOTAL_UNINSTALL>
+		<TRACES_AFTER_UNINSTALL>Tập tin sau khi gỡ cài đặt</TRACES_AFTER_UNINSTALL>
+		<TRIAL_EXPIRED>Giai đoạn dùng thử đã hết hạn. Vui lòng đăng ký.</TRIAL_EXPIRED>
+		<TU_AGENT>Hành động Total Uninstall</TU_AGENT>
+		<TU_MON_PRG_TITLE>Các chương trình giám sát</TU_MON_PRG_TITLE>
+		<TU_PRO_EDITION>Total Uninstall Phiên bản Chuyên Nghiệp</TU_PRO_EDITION>
+		<TU_STD_EDITION>Total Uninstall Phiên bản Tiêu Chuẩn</TU_STD_EDITION>
+		<TU_ULT_EDITION>Total Uninstall Phiên bản Tối Thượng</TU_ULT_EDITION>
+		<TU_USE_FIRST_UNINST>Total uninstall sử dụng trình gỡ cài đặt đầu tiên được cung cấp</TU_USE_FIRST_UNINST>
+		<TU_USE_FIRST_UNINST_DESC>Gỡ cài đặt chống vi-rút, chống phần mềm gián điệp, tường lửa, trình điều khiển hoặc bất kỳ chương trình cài đặt thiết bị hệ thống.</TU_USE_FIRST_UNINST_DESC>
+		<UNDO>Hoàn tác</UNDO>
+		<UNDO_RESTORATION>Hoàn tác phục hồi</UNDO_RESTORATION>
+		<UNINST_ANALYZED>Gỡ cài đặt đã phân tích chương trình</UNINST_ANALYZED>
+		<UNINST_BUNDLE>Gỡ cài đặt đã phân tích chương trình  - gom lại</UNINST_BUNDLE>
+		<UNINST_PROFILES>Gỡ bỏ hồ sơ</UNINST_PROFILES>
+		<UNINSTALL>Gỡ bỏ</UNINSTALL>
+		<UNINSTALL_INST_HINT>Gỡ cài đặt|Gỡ bỏ chương trình phân tích đã chọn</UNINSTALL_INST_HINT>
+		<UNINSTALL_LOG>Nhật ký gỡ bỏ</UNINSTALL_LOG>
+		<UNINSTALL_MON_HINT>Gỡ cài đặt|Gỡ bỏ chương trình được giám sát đã chọn</UNINSTALL_MON_HINT>
+		<UNINSTALL_PROGRAM_X>Gỡ bỏ chương trình &quot;%s&quot;</UNINSTALL_PROGRAM_X>
+		<UNINSTALL_USER_WIN_APP_HINT>Gỡ cài đặt|Gỡ bỏ ứng dụng Windows đã chọn từ tài khoản người dùng</UNINSTALL_USER_WIN_APP_HINT>
+		<UNINSTALL_WIN_APPS>Gỡ cài đặt (các) ứng dụng đã chọn?</UNINSTALL_WIN_APPS>
+		<UNINSTALLED_WITH_TU>Đã gỡ cài đặt với Total Uninstall &quot;%s&quot;</UNINSTALLED_WITH_TU>
+		<UNREGISTERED>Chưa đăng ký</UNREGISTERED>
+		<USE_LAST_SNS>Dùng ảnh chụp cuối</USE_LAST_SNS>
+		<USE_LAST_SNS_AGO_D>Dùng ảnh chụp cuối (%d ngày, %d giờ và %d vài phút trước)</USE_LAST_SNS_AGO_D>
+		<USE_LAST_SNS_AGO_H>Sử dụng ảnh chụp cuối cùng (%d giờ và %d phút trước)</USE_LAST_SNS_AGO_H>
+		<USE_LAST_SNS_AGO_M>Sử dụng ảnh chụp cuối cùng (%d phút trước)</USE_LAST_SNS_AGO_M>
+		<USE_OLD_PURCHASE_NEW>Cài đặt phiên bản cũ hơn, hoặc mua bản cập nhật để sử dụng phiên bản này.</USE_OLD_PURCHASE_NEW>
+		<USE_ONLY_PRG_UNINST>Chỉ sử dụng trình gỡ cài đặt của chương trình</USE_ONLY_PRG_UNINST>
+		<USE_OR_BUILD_SNS>Xây dựng hoặc sử dụng ảnh chụp nhanh trước khi cài đặt trước.</USE_OR_BUILD_SNS>
+		<USR_ABORT>Hủy bỏ bởi người dùng</USR_ABORT>
+		<VALS_CHG_STAT>Giá trị đã sửa  :%6.1d</VALS_CHG_STAT>
+		<VALS_CREATED_STAT>Giá trị được tạo   :%6.1d</VALS_CREATED_STAT>
+		<VALS_DEL_STAT>Giá trị đã xóa   :%6.1d</VALS_DEL_STAT>
+		<VALUE>Giá trị</VALUE>
+		<VALUES_X>Giá trị  :%6.1d</VALUES_X>
+		<VERSION>Phiên bản</VERSION>
+		<WAIT_UNINST_REMOVE_LEFT>Khi chương trình cài đặt đã được cài đặt xong, nhấn nút Gỡ bỏ để xóa các thư mục, tập tin, khóa registry và các giá trị còn lại.</WAIT_UNINST_REMOVE_LEFT>
+		<WIN_APP_NAME>Tên ứng dụng</WIN_APP_NAME>
+		<WIN_APPS>Ứng dụng Windows</WIN_APPS>
+		<WINDOWS>Windows</WINDOWS>
+		<WRN_BRA>(WRN)</WRN_BRA>
+		<X_BYTE>%s B</X_BYTE>
+		<X_BYTES>%d bytes</X_BYTES>
+		<X_CHANGES>%s - Thay đổi</X_CHANGES>
+		<X_GIGABYTE>%s GB</X_GIGABYTE>
+		<X_KILOBYTE>%s KB</X_KILOBYTE>
+		<X_MEGABYTE>%s MB</X_MEGABYTE>
+		<X_RESULTS>Kết quả %d</X_RESULTS>
+		<X_UNINSTALL_LOG>&quot;%s&quot; - Nhật ký gỡ bỏ</X_UNINSTALL_LOG>
+		<X_UNINSTALL_LOG_FILE>&quot;%s&quot; - Nhatkygobo.txt</X_UNINSTALL_LOG_FILE>
+		<YES>có</YES>
+		<ZERO_LENGTH_DATA>(Dữ liệu chiều dài bằng không)</ZERO_LENGTH_DATA>
+	</RESOURCESTRING>
+</TotalUninstall>

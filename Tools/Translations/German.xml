@@ -1,0 +1,2618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TotalUninstall>
+	<_System_>
+		<Flag>
+			<Size>2054</Size>
+			<Data>Qk0GCAAAAAAAADYAAAAoAAAAIQAAABQAAAABABgAAAAAANAHAADEDgAAxA4AAAAAAAAAAAAAAM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AADN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wAAzf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8AAM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AADN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wDN/wAAzf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8Azf8AAM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AM3/AAAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAAAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAA/gAAAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAP4AAAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAD+AAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAAFAAHAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</Data>
+		</Flag>
+		<LanguageCode>de</LanguageCode>
+		<LocalizedName>Deutsch</LocalizedName>
+		<Version>62400</Version>
+	</_System_>
+	<Cleaner>
+		<CF-BROWSER-CACHE>Browser</CF-BROWSER-CACHE>
+		<CF-BROWSER-CACHE-CHROME>Chrome</CF-BROWSER-CACHE-CHROME>
+		<CF-BROWSER-CACHE-FIREFOX>Firefox</CF-BROWSER-CACHE-FIREFOX>
+		<CF-BROWSER-CACHE-IE>Internet Explorer</CF-BROWSER-CACHE-IE>
+		<CF-BROWSER-CACHE-MAXTHON>Maxthon</CF-BROWSER-CACHE-MAXTHON>
+		<CF-BROWSER-CACHE-OPERA>Opera</CF-BROWSER-CACHE-OPERA>
+		<CF-PROGRAMS>Programme</CF-PROGRAMS>
+		<CF-PROGRAMS-ADOBE-FLASH-PLAYER>Adobe Flash Player</CF-PROGRAMS-ADOBE-FLASH-PLAYER>
+		<CF-PROGRAMS-MSOFFICE-RECENT>Microsoft Office - Liste der zuletzt verwendeten Dateien</CF-PROGRAMS-MSOFFICE-RECENT>
+		<CF-PROGRAMS-SUN-JAVA-CACHE>Sun Java Zwischenspeicher</CF-PROGRAMS-SUN-JAVA-CACHE>
+		<CF-SYSTEM>System</CF-SYSTEM>
+		<CF-SYSTEM-JUNK-FILES>Junk-Dateien</CF-SYSTEM-JUNK-FILES>
+		<CF-SYSTEM-RECYCLE-BIN>Zwangsleerung des Papierkorb</CF-SYSTEM-RECYCLE-BIN>
+		<CF-SYSTEM-TEMP-FILES>Temporäre Dateien</CF-SYSTEM-TEMP-FILES>
+		<CF-SYSTEM-THUMBNAILS-CACHE>Zwischenspeicher der Miniaturansichten</CF-SYSTEM-THUMBNAILS-CACHE>
+		<CF-WINDOWS>Windows</CF-WINDOWS>
+		<CF-WINDOWS-ERROR-REPORTING>Fehlerberichterstattung</CF-WINDOWS-ERROR-REPORTING>
+		<CF-WINDOWS-ETL-FILES>Ereignisablaufverfolgung-Protokolldateien</CF-WINDOWS-ETL-FILES>
+		<CF-WINDOWS-EVL-FILES>Ereignisanzeige-Protokolldateien</CF-WINDOWS-EVL-FILES>
+		<CF-WINDOWS-EXPLORER>Windows Explorer</CF-WINDOWS-EXPLORER>
+		<CF-WINDOWS-EXPLORER-RECENT-FILES>Zuletzt verwendete Dokumente</CF-WINDOWS-EXPLORER-RECENT-FILES>
+		<CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>Leere Ordner auslassen</CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>
+		<CF-WINDOWS-LOG-FILES>Protokolldateien</CF-WINDOWS-LOG-FILES>
+		<CF-WINDOWS-MEMORY-DUMP-FILES>Speicherabbilder</CF-WINDOWS-MEMORY-DUMP-FILES>
+		<CF-WINDOWS-TEMP-FOLDERS>Temporäre Ordner</CF-WINDOWS-TEMP-FOLDERS>
+		<CR-INVALID-ENTRIES>Ungültige Elemente</CR-INVALID-ENTRIES>
+		<CR-INVALID-ENTRIES-FILE-REFERENCES>Dateiverweise</CR-INVALID-ENTRIES-FILE-REFERENCES>
+		<CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>Leere Schlüssel auslassen</CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>
+		<CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>Fehlende gemeinsam genutze DLLs</CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>
+		<CR-INVALID-ENTRIES-MSI-PATHS>Pfad zur MSI-Datei</CR-INVALID-ENTRIES-MSI-PATHS>
+		<CR-INVALID-ENTRIES-MUI-REFERENCES>MUI-Verweise (Mehrsprachige Benutzeroberfläche)</CR-INVALID-ENTRIES-MUI-REFERENCES>
+		<CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>Keine Info-Dateiformate</CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>
+		<CR-MUI-REFERENCES>MUI-Referenzen</CR-MUI-REFERENCES>
+	</Cleaner>
+	<dlgAddInstalledPrg>
+		<btnCancel>
+			<Caption>Abbrechen</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Anwendung zu Liste hinzufügen</Caption>
+		<lblBuiltInUninstaller>
+			<Caption>Deinstallationsroutine der Anwendung</Caption>
+		</lblBuiltInUninstaller>
+		<lblInstallationFolder>
+			<Caption>Installationsordner</Caption>
+		</lblInstallationFolder>
+		<lblPrgName>
+			<Caption>Name der Anwendung</Caption>
+		</lblPrgName>
+	</dlgAddInstalledPrg>
+	<dlgAskDelItem>
+		<btnOK>
+			<Caption>&amp;OK</Caption>
+		</btnOK>
+		<btnSelectAll>
+			<Caption>&amp;Alle auswählen</Caption>
+		</btnSelectAll>
+		<btnUnselectAll>
+			<Caption>&amp;Auswahl aufheben</Caption>
+		</btnUnselectAll>
+		<Caption>Möchten Sie diese Elemente wirklich löschen?</Caption>
+		<cbAutoSelectAll>
+			<Caption>Automatisch alles auswählen</Caption>
+		</cbAutoSelectAll>
+		<lblDelSel>
+			<Caption>Ausgewählte Elemente werden gelöscht</Caption>
+		</lblDelSel>
+	</dlgAskDelItem>
+	<dlgAutorunItem>
+		<btnCancel>
+			<Caption>Abbrechen</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Autostart-Element</Caption>
+		<gbStartLocation>
+			<Caption>Startposition</Caption>
+		</gbStartLocation>
+		<gbUser>
+			<Caption>Automatisch starten bei der Anmeldung als</Caption>
+		</gbUser>
+		<lblCommand>
+			<Caption>Befehl</Caption>
+		</lblCommand>
+		<lblName>
+			<Caption>Name</Caption>
+		</lblName>
+		<rbLogonAnyUser>
+			<Caption>Alle Benutzer</Caption>
+		</rbLogonAnyUser>
+		<rbLogonCurentUser>
+			<Caption>Aktueller Benutzer</Caption>
+		</rbLogonCurentUser>
+		<rbRegRun>
+			<Caption>Registrierung bei jeder Anmeldung ausführen</Caption>
+		</rbRegRun>
+		<rbRegRunOnce>
+			<Caption>Registrierung, nur einmal bei der nächsten Anmeldung ausführen</Caption>
+		</rbRegRunOnce>
+		<rbStartMenu>
+			<Caption>Ordner „Autostart“ bei jeder Anmeldung ausführen</Caption>
+		</rbStartMenu>
+	</dlgAutorunItem>
+	<dlgChangeIcon>
+		<btnBrowse>
+			<Caption>Durchsuchen …</Caption>
+		</btnBrowse>
+		<btnCancel>
+			<Caption>Abbrechen</Caption>
+		</btnCancel>
+		<btnClear>
+			<Caption>Leeren</Caption>
+		</btnClear>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Symbol ändern</Caption>
+		<gbIcons>
+			<Caption>Symbole</Caption>
+		</gbIcons>
+	</dlgChangeIcon>
+	<dlgCheckUpdates>
+		<btnClose>
+			<Caption>Schließen</Caption>
+		</btnClose>
+		<btnRefresh>
+			<Caption>Aktualisieren</Caption>
+		</btnRefresh>
+		<Caption>Nach neuer Version suchen</Caption>
+	</dlgCheckUpdates>
+	<dlgCompareSns>
+		<btnCancel>
+			<Caption>Abbrechen</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Sicherungspunkte vergleichen</Caption>
+		<lblCompareProfile>
+			<Caption>Profile vergleichen</Caption>
+		</lblCompareProfile>
+		<lblResultLog>
+			<Caption>Ergebnisprotokoll</Caption>
+		</lblResultLog>
+		<lblSnapshotA>
+			<Caption>1. Systemsicherungspunkt</Caption>
+		</lblSnapshotA>
+		<lblSnapshotB>
+			<Caption>2. Systemsicherungspunkt</Caption>
+		</lblSnapshotB>
+	</dlgCompareSns>
+	<dlgExportRegistry>
+		<btnCancel>
+			<Caption>Abbrechen</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Registrierungsänderungen exportieren</Caption>
+		<cbCreatedKeys>
+			<Caption>Erstellte Schlüssel</Caption>
+		</cbCreatedKeys>
+		<cbCreatedValues>
+			<Caption>Erstellte Werte</Caption>
+		</cbCreatedValues>
+		<cbDeletedKeys>
+			<Caption>Gelöschte Schlüssel</Caption>
+		</cbDeletedKeys>
+		<cbDeletedValues>
+			<Caption>Gelöschte Werte</Caption>
+		</cbDeletedValues>
+		<cbModifiedValues>
+			<Caption>Geänderte Werte</Caption>
+		</cbModifiedValues>
+		<gbDetails>
+			<Caption>Registrierungsänderungen</Caption>
+		</gbDetails>
+		<gbExportType>
+			<Caption>Exporttyp</Caption>
+		</gbExportType>
+		<gbRange>
+			<Caption>Exportbereich</Caption>
+		</gbRange>
+		<rbExpAll>
+			<Caption>Alles</Caption>
+		</rbExpAll>
+		<rbExpBranch>
+			<Caption>Ausgewählte Schlüssel</Caption>
+		</rbExpBranch>
+		<rbInstall>
+			<Caption>Installationsdatei</Caption>
+		</rbInstall>
+		<rbUninstall>
+			<Caption>Deinstallationsdatei</Caption>
+		</rbUninstall>
+	</dlgExportRegistry>
+	<dlgGroupProp>
+		<btnCancel>
+			<Caption>Abbrechen</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Gruppe</Caption>
+		<lblIcon>
+			<Caption>Symbol</Caption>
+		</lblIcon>
+		<lblName>
+			<Caption>Name</Caption>
+		</lblName>
+	</dlgGroupProp>
+	<dlgMergeLogs>
+		<btnCancel>
+			<Caption>Abbrechen</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Protokolle zusammenführen</Caption>
+		<cbDeleteUpdate>
+			<Caption>Aktualisierungsprotokoll nach dem Zusammenführen löschen</Caption>
+		</cbDeleteUpdate>
+		<gbDestination>
+			<Caption>Ziel</Caption>
+		</gbDestination>
+		<gbSources>
+			<Caption>Quellen</Caption>
+		</gbSources>
+		<lblInstallLog>
+			<Caption>Installationsprotokoll</Caption>
+		</lblInstallLog>
+		<lblNewName>
+			<Caption>Neuer Name</Caption>
+		</lblNewName>
+		<lblUpdateLog>
+			<Caption>Aktualisierungsprotokoll</Caption>
+		</lblUpdateLog>
+		<rbCreateANewLog>
+			<Caption>Neues Protokoll erstellen</Caption>
+		</rbCreateANewLog>
+		<rbSaveInInstallLog>
+			<Caption>Ins Installationsprotokoll speichern</Caption>
+		</rbSaveInInstallLog>
+	</dlgMergeLogs>
+	<dlgPendingFileRename>
+		<btnApply>
+			<Caption>Übernehmen</Caption>
+		</btnApply>
+		<btnClose>
+			<Caption>Schließen</Caption>
+		</btnClose>
+		<Caption>Ausstehende Dateinamenänderungen</Caption>
+		<tvPendingFiles>
+			<Columns_0>Quelle</Columns_0>
+			<Columns_1>Ziel</Columns_1>
+		</tvPendingFiles>
+	</dlgPendingFileRename>
+	<dlgRegister>
+		<btnBuy>
+			<Caption>Kaufen</Caption>
+		</btnBuy>
+		<btnCancel>
+			<Caption>Abbrechen</Caption>
+		</btnCancel>
+		<btnRegister>
+			<Caption>Registrieren</Caption>
+		</btnRegister>
+		<Caption>Total Uninstall registrieren</Caption>
+		<lblKey>
+			<Caption>Registrierungsschlüssel</Caption>
+		</lblKey>
+		<lblName>
+			<Caption>Benutzername</Caption>
+		</lblName>
+		<ulblLostRegistrationInfo>
+			<Caption>Ich habe meine Registrierungsdaten verloren.</Caption>
+		</ulblLostRegistrationInfo>
+	</dlgRegister>
+	<dlgRestrictedFeature>
+		<btnCancel>
+			<Caption>Abbrechen</Caption>
+		</btnCancel>
+		<Caption>Eingeschränkte Funktion</Caption>
+		<clinkPurchase>
+			<Caption>Kaufen</Caption>
+			<Note>Bestellformular öffnen</Note>
+		</clinkPurchase>
+		<lblInstruction>
+			<Caption>Dieses Funktion ist nur in der registrierten Version verfügbar.</Caption>
+		</lblInstruction>
+		<lblProfessionalEdition>
+			<Caption>● Professional Edition</Caption>
+		</lblProfessionalEdition>
+	</dlgRestrictedFeature>
+	<dlgRmvShared>
+		<btnNo>
+			<Caption>Nein</Caption>
+		</btnNo>
+		<btnNoToAll>
+			<Caption>Alles ablehnen</Caption>
+		</btnNoToAll>
+		<btnYes>
+			<Caption>Ja</Caption>
+		</btnYes>
+		<btnYesToAll>
+			<Caption>Allem zustimmen</Caption>
+		</btnYesToAll>
+		<Caption>Soll die gemeinsam genutzten Datei auch entfernen werden?</Caption>
+		<lblFileName>
+			<Caption>Dateiname:</Caption>
+		</lblFileName>
+		<lblLocated>
+			<Caption>Befindet sich in:</Caption>
+		</lblLocated>
+		<lblOne>
+			<Caption>Das System meldet, dass folgende gemeinsam genutzte Dateien von keiner Anwendung mehr genutzt wird.  Sollten dennoch eine Anwendung diese Datei benötigen obwohl sie gelöscht wurde, so wird diese Anwendung dann nicht mehr funktionieren. Sind Sie sicher, dass Sie die gemeinsam genutzte Datei wirklich entfernen möchten?</Caption>
+		</lblOne>
+		<lblTwo>
+			<Caption>Das System wird durch das Beibehalten dieser Datei nicht beeinträchtigt. Fall Sie unsicher sind, ist es empfehlenswert diese Datei nicht zu löschen.</Caption>
+		</lblTwo>
+	</dlgRmvShared>
+	<dlgSelect>
+		<btnCancel>
+			<Caption>Abbrechen</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Auswählen</Caption>
+	</dlgSelect>
+	<dlgSelectLibIcon>
+		<btnAdd>
+			<Caption>Hinzufügen</Caption>
+		</btnAdd>
+		<btnCancel>
+			<Caption>Abbrechen</Caption>
+		</btnCancel>
+		<btnDelete>
+			<Caption>Löschen</Caption>
+		</btnDelete>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Symbol auswählen</Caption>
+		<gbIcons>
+			<Caption>Symbole</Caption>
+		</gbIcons>
+	</dlgSelectLibIcon>
+	<dlgSysBrowser>
+		<btnCancel>
+			<Caption>&amp;Abbrechen</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>&amp;OK</Caption>
+		</btnOk>
+		<lblExpanded>
+			<Caption>Erweitert</Caption>
+		</lblExpanded>
+	</dlgSysBrowser>
+	<dlgTUAbout>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Info</Caption>
+		<lblCopyright>
+			<Caption>Copyright © 2001-2019, Gavrila Martau</Caption>
+		</lblCopyright>
+		<lblEmail>
+			<Caption>E-Mail-Adresse</Caption>
+		</lblEmail>
+		<lblHomePage>
+			<Caption>Homepage</Caption>
+		</lblHomePage>
+		<ulblBuyUpgrade>
+			<Caption>Upgrade erwerben</Caption>
+		</ulblBuyUpgrade>
+		<ulblDownload>
+			<Caption>Letzte kostenlose Aktualisierung herunterladen</Caption>
+		</ulblDownload>
+	</dlgTUAbout>
+	<dlgTunBackup>
+		<btnCancel>
+			<Caption>Abbrechen</Caption>
+		</btnCancel>
+		<btnCopy>
+			<Caption>Kopieren nach …</Caption>
+		</btnCopy>
+		<btnCreate>
+			<Caption>Erstellen</Caption>
+		</btnCreate>
+		<lblArchiving>
+			<Caption>Datei- und Registrierungselemente archivieren …</Caption>
+		</lblArchiving>
+		<lblCreateBackup>
+			<Caption>Sicherung für diese Anwendung erstellen</Caption>
+		</lblCreateBackup>
+		<lblFilesNotIncluded>
+			<Caption>Dateien werden der Sicherung NICHT hinzugefügt</Caption>
+		</lblFilesNotIncluded>
+	</dlgTunBackup>
+	<dlgTunRestore>
+		<btnImport>
+			<Caption>Importieren</Caption>
+		</btnImport>
+		<cbRestoreOnlyLog>
+			<Caption>Nur Installationsprotokoll wiederherstellen</Caption>
+		</cbRestoreOnlyLog>
+		<lblFilesNotIncluded>
+			<Caption>Aktionen nicht ausgeführt</Caption>
+		</lblFilesNotIncluded>
+		<lblRestoreProfile>
+			<Caption>Profil zurücksetzen</Caption>
+		</lblRestoreProfile>
+		<lblRestoreProgram>
+			<Caption>Anwendung zur Wiederherstellung auswählen</Caption>
+		</lblRestoreProgram>
+		<lblUndoRestoration>
+			<Caption>Wählen Sie eine Wiederherstellung die rückgängig gemacht werden soll</Caption>
+		</lblUndoRestoration>
+		<pmiCopyTo>
+			<Caption>Kopieren nach …</Caption>
+		</pmiCopyTo>
+		<pmiDelete>
+			<Caption>Löschen</Caption>
+		</pmiDelete>
+	</dlgTunRestore>
+	<dlgTUOptions>
+		<btnAddAnalysisProfile>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddAnalysisProfile>
+		<btnAddAutorunView>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddAutorunView>
+		<btnAddChgView>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddChgView>
+		<btnAddCleaner>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddCleaner>
+		<btnAddCompareProfile>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddCompareProfile>
+		<btnAddExclFlds>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddExclFlds>
+		<btnAddExclKey>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddExclKey>
+		<btnAddExcludeProduct>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddExcludeProduct>
+		<btnAddExcludePublisher>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddExcludePublisher>
+		<btnAddIgnChgFs>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddIgnChgFs>
+		<btnAddIgnChgReg>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddIgnChgReg>
+		<btnAddIgnFile>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddIgnFile>
+		<btnAddInclFlds>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddInclFlds>
+		<btnAddInclKeys>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddInclKeys>
+		<btnAddIncludeProduct>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddIncludeProduct>
+		<btnAddIncludePublisher>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddIncludePublisher>
+		<btnAddInstallLoc>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddInstallLoc>
+		<btnAddProtectedFld>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddProtectedFld>
+		<btnAddProtectedKey>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddProtectedKey>
+		<btnAddRedo>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddRedo>
+		<btnAddScanProfile>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddScanProfile>
+		<btnAddUninst>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddUninst>
+		<btnAddUninstInst>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddUninstInst>
+		<btnAddValue>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddValue>
+		<btnAddVer>
+			<Caption>Hinzufügen …</Caption>
+		</btnAddVer>
+		<btnAgentAddExcMask>
+			<Caption>Hinzufügen …</Caption>
+		</btnAgentAddExcMask>
+		<btnAgentAddIncMask>
+			<Caption>Hinzufügen …</Caption>
+		</btnAgentAddIncMask>
+		<btnAgentRemExcMask>
+			<Caption>Entfernen</Caption>
+		</btnAgentRemExcMask>
+		<btnAgentRemIncMask>
+			<Caption>Entfernen</Caption>
+		</btnAgentRemIncMask>
+		<btnAnlSaveAs>
+			<Caption>Speichern unter …</Caption>
+		</btnAnlSaveAs>
+		<btnAutorunViewSaveAs>
+			<Caption>Speichern unter …</Caption>
+		</btnAutorunViewSaveAs>
+		<btnCancel>
+			<Caption>Abbrechen</Caption>
+		</btnCancel>
+		<btnChgViewSaveAs>
+			<Caption>Speichern unter …</Caption>
+		</btnChgViewSaveAs>
+		<btnCleanerSaveAs>
+			<Caption>Speichern unter …</Caption>
+		</btnCleanerSaveAs>
+		<btnClnAddExclFs>
+			<Caption>Hinzufügen …</Caption>
+		</btnClnAddExclFs>
+		<btnClnAddExclRegistry>
+			<Caption>Hinzufügen …</Caption>
+		</btnClnAddExclRegistry>
+		<btnClnEditExclFs>
+			<Caption>Bearbeiten …</Caption>
+		</btnClnEditExclFs>
+		<btnClnEditExclRegistry>
+			<Caption>Bearbeiten …</Caption>
+		</btnClnEditExclRegistry>
+		<btnClnRemExclFs>
+			<Caption>Entfernen</Caption>
+		</btnClnRemExclFs>
+		<btnClnRemExclRegistry>
+			<Caption>Entfernen</Caption>
+		</btnClnRemExclRegistry>
+		<btnCompPlaySound>
+			<Caption>Anhören</Caption>
+		</btnCompPlaySound>
+		<btnCompSaveAs>
+			<Caption>Speichern unter …</Caption>
+		</btnCompSaveAs>
+		<btnEditExclFlds>
+			<Caption>Bearbeiten …</Caption>
+		</btnEditExclFlds>
+		<btnEditExclKeys>
+			<Caption>Bearbeiten …</Caption>
+		</btnEditExclKeys>
+		<btnEditIgnChgFs>
+			<Caption>Bearbeiten …</Caption>
+		</btnEditIgnChgFs>
+		<btnEditIgnChgReg>
+			<Caption>Bearbeiten …</Caption>
+		</btnEditIgnChgReg>
+		<btnEditIgnFile>
+			<Caption>Bearbeiten …</Caption>
+		</btnEditIgnFile>
+		<btnEditIgnValues>
+			<Caption>Bearbeiten …</Caption>
+		</btnEditIgnValues>
+		<btnEditProtectedFld>
+			<Caption>Bearbeiten …</Caption>
+		</btnEditProtectedFld>
+		<btnEditProtectedKey>
+			<Caption>Bearbeiten …</Caption>
+		</btnEditProtectedKey>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<btnRedoSaveAs>
+			<Caption>Speichern unter …</Caption>
+		</btnRedoSaveAs>
+		<btnRemAnalysisProfile>
+			<Caption>Entfernen …</Caption>
+		</btnRemAnalysisProfile>
+		<btnRemAutorunView>
+			<Caption>Entfernen …</Caption>
+		</btnRemAutorunView>
+		<btnRemChgView>
+			<Caption>Entfernen …</Caption>
+		</btnRemChgView>
+		<btnRemCleaner>
+			<Caption>Entfernen …</Caption>
+		</btnRemCleaner>
+		<btnRemCompareProfile>
+			<Caption>Entfernen …</Caption>
+		</btnRemCompareProfile>
+		<btnRemExclFlds>
+			<Caption>Entfernen</Caption>
+		</btnRemExclFlds>
+		<btnRemExclKeys>
+			<Caption>Entfernen</Caption>
+		</btnRemExclKeys>
+		<btnRemExcludeProduct>
+			<Caption>Entfernen</Caption>
+		</btnRemExcludeProduct>
+		<btnRemExcludePublisher>
+			<Caption>Entfernen</Caption>
+		</btnRemExcludePublisher>
+		<btnRemIgnChgFs>
+			<Caption>Entfernen</Caption>
+		</btnRemIgnChgFs>
+		<btnRemIgnChgReg>
+			<Caption>Entfernen</Caption>
+		</btnRemIgnChgReg>
+		<btnRemIgnFile>
+			<Caption>Entfernen</Caption>
+		</btnRemIgnFile>
+		<btnRemInclFlds>
+			<Caption>Entfernen</Caption>
+		</btnRemInclFlds>
+		<btnRemInclKeys>
+			<Caption>Entfernen</Caption>
+		</btnRemInclKeys>
+		<btnRemIncludeProduct>
+			<Caption>Entfernen</Caption>
+		</btnRemIncludeProduct>
+		<btnRemIncludePublisher>
+			<Caption>Entfernen</Caption>
+		</btnRemIncludePublisher>
+		<btnRemoveInstallLoc>
+			<Caption>Entfernen</Caption>
+		</btnRemoveInstallLoc>
+		<btnRemoveRedo>
+			<Caption>Entfernen …</Caption>
+		</btnRemoveRedo>
+		<btnRemProtectedFld>
+			<Caption>Entfernen</Caption>
+		</btnRemProtectedFld>
+		<btnRemProtectedKey>
+			<Caption>Entfernen</Caption>
+		</btnRemProtectedKey>
+		<btnRemScanProfile>
+			<Caption>Entfernen …</Caption>
+		</btnRemScanProfile>
+		<btnRemUninst>
+			<Caption>Entfernen …</Caption>
+		</btnRemUninst>
+		<btnRemUninstInst>
+			<Caption>Entfernen …</Caption>
+		</btnRemUninstInst>
+		<btnRemValues>
+			<Caption>Entfernen</Caption>
+		</btnRemValues>
+		<btnRemVer>
+			<Caption>Entfernen</Caption>
+		</btnRemVer>
+		<btnResetAll>
+			<Caption>Alles zurücksetzen</Caption>
+		</btnResetAll>
+		<btnScanPlaySound>
+			<Caption>Anhören</Caption>
+		</btnScanPlaySound>
+		<btnScanSaveAs>
+			<Caption>Speichern unter …</Caption>
+		</btnScanSaveAs>
+		<btnUninstSaveAs>
+			<Caption>Speichern unter …</Caption>
+		</btnUninstSaveAs>
+		<Caption>Einstellungen</Caption>
+		<cbAnlProfileDefault>
+			<Caption>Standard</Caption>
+		</cbAnlProfileDefault>
+		<cbAutorunDefault>
+			<Caption>Standard</Caption>
+		</cbAutorunDefault>
+		<cbAutoStart>
+			<Caption>Mit Windows starten, um unvollständigen Überwachungsprozess fortzusetzen</Caption>
+		</cbAutoStart>
+		<cbBackup>
+			<Caption>Deinstallierte Anwendung sichern</Caption>
+		</cbBackup>
+		<cbChgViewDefault>
+			<Caption>Standard</Caption>
+		</cbChgViewDefault>
+		<cbCleanerDefault>
+			<Caption>Standard</Caption>
+		</cbCleanerDefault>
+		<cbCleanerEnable>
+			<Caption>Reinigungsmodul aktivieren</Caption>
+		</cbCleanerEnable>
+		<cbClickRestore>
+			<Caption>Wiederherstellung durch einen einzigen Klick starten</Caption>
+		</cbClickRestore>
+		<cbCompareRegistry>
+			<Caption>Registrierung vergleichen</Caption>
+		</cbCompareRegistry>
+		<cbCompFiles>
+			<Caption>Dateien vergleichen</Caption>
+		</cbCompFiles>
+		<cbCompPlaySound>
+			<Caption>Nach Beenden Audiodatei abspielen</Caption>
+		</cbCompPlaySound>
+		<cbCompProfileDefault>
+			<Caption>Standard</Caption>
+		</cbCompProfileDefault>
+		<cbCompProfileFrozen>
+			<Caption>Sperren</Caption>
+		</cbCompProfileFrozen>
+		<cbComputeMD5>
+			<Caption>MD5-Prüfsumme für neue Dateien berechnen</Caption>
+		</cbComputeMD5>
+		<cbCreateKeys>
+			<Caption>Gelöschte Schlüssel wiederherstellen</Caption>
+		</cbCreateKeys>
+		<cbCreateValues>
+			<Caption>Gelöschte Werte wiederherstellen</Caption>
+		</cbCreateValues>
+		<cbCustomSnsName>
+			<Caption>Benutzerdefinierten Sicherungspunktnamen erlauben</Caption>
+		</cbCustomSnsName>
+		<cbDecrement>
+			<Caption>Zähler für gemeinsam genutzte Dateien verringern</Caption>
+		</cbDecrement>
+		<cbDelFiles>
+			<Caption>Erstellte Dateien löschen (gemeinsam genutzte Dateien werden nur gelöscht, wenn Zähler „0“ (Null) erreicht hat)</Caption>
+		</cbDelFiles>
+		<cbDelFolders>
+			<Caption>Erstellte Ordner löschen</Caption>
+		</cbDelFolders>
+		<cbDelKeys>
+			<Caption>Erstellte Schlüssel löschen</Caption>
+		</cbDelKeys>
+		<cbDelUseRecycle>
+			<Caption>In den Papierkorb löschen</Caption>
+		</cbDelUseRecycle>
+		<cbDelValues>
+			<Caption>Erstellte Werte löschen</Caption>
+		</cbDelValues>
+		<cbDontUseLog>
+			<Caption>Änderungsprotokoll nicht anlegen</Caption>
+		</cbDontUseLog>
+		<cbEnableAgent>
+			<Caption>Total Uninstall-Assistent aktivieren</Caption>
+		</cbEnableAgent>
+		<cbExtractFileVersion>
+			<Caption>Dateiversioninformationen auslesen</Caption>
+		</cbExtractFileVersion>
+		<cbExtractLastWriteTime>
+			<Caption>Zeitpunkt des letzten Schreibzugriffs in aktueller Spalte entfernen</Caption>
+		</cbExtractLastWriteTime>
+		<cbHexViewerNot64Bit>
+			<Caption>Keine 64-bit-Anwendung</Caption>
+		</cbHexViewerNot64Bit>
+		<cbIgnoreMissingItems>
+			<Caption>Fehlende Elemente ignorieren</Caption>
+		</cbIgnoreMissingItems>
+		<cbInstPrgsEnable>
+			<Caption>Installierte Anwendungsmodule einschalten</Caption>
+		</cbInstPrgsEnable>
+		<cbMinToTray>
+			<Caption>In die Taskleiste minimieren</Caption>
+		</cbMinToTray>
+		<cbMonPrgsEnable>
+			<Caption>„Anwendungsmoduls überwachen“ aktivieren</Caption>
+		</cbMonPrgsEnable>
+		<cbRedoCreateFiles>
+			<Caption>Erstellte Dateien wiederherstellen</Caption>
+		</cbRedoCreateFiles>
+		<cbRedoCreateFilesOvr>
+			<Caption>Dateien überschreiben</Caption>
+		</cbRedoCreateFilesOvr>
+		<cbRedoCreateFilesOvrLck>
+			<Caption>Gesperte Dateien überschreiben</Caption>
+		</cbRedoCreateFilesOvrLck>
+		<cbRedoCreateFolders>
+			<Caption>Erstellte Ordner wiederherstellen</Caption>
+		</cbRedoCreateFolders>
+		<cbRedoCreateKeys>
+			<Caption>Erstellte Schlüssel  wiederherstellen</Caption>
+		</cbRedoCreateKeys>
+		<cbRedoCreateUndo>
+			<Caption>Widerrufsinformationen erstellen</Caption>
+		</cbRedoCreateUndo>
+		<cbRedoCreateValues>
+			<Caption>Erstellte Werte wiederherstellen</Caption>
+		</cbRedoCreateValues>
+		<cbRedoDefault>
+			<Caption>Standard</Caption>
+		</cbRedoDefault>
+		<cbRedoDeleteFiles>
+			<Caption>Dateien löschen</Caption>
+		</cbRedoDeleteFiles>
+		<cbRedoDeleteFolders>
+			<Caption>Ordner löschen</Caption>
+		</cbRedoDeleteFolders>
+		<cbRedoDeleteKeys>
+			<Caption>Schlüssel löschen</Caption>
+		</cbRedoDeleteKeys>
+		<cbRedoDeleteValues>
+			<Caption>Werte löschen</Caption>
+		</cbRedoDeleteValues>
+		<cbRedoEnabled>
+			<Caption>Aktiviert</Caption>
+		</cbRedoEnabled>
+		<cbRedoModifyFiles>
+			<Caption>Geänderte Dateien wiederherstellen</Caption>
+		</cbRedoModifyFiles>
+		<cbRedoModifyFilesLck>
+			<Caption>Gesperrte Dateien überschreiben</Caption>
+		</cbRedoModifyFilesLck>
+		<cbRedoModifyValues>
+			<Caption>Veränderte Werte wiederherstellen</Caption>
+		</cbRedoModifyValues>
+		<cbRedoSysRestore>
+			<Caption>Vor der Wiederherstellung einen System-Wiederherstellungspunkt erstellenzu erstellen</Caption>
+		</cbRedoSysRestore>
+		<cbRestoreValues>
+			<Caption>Geänderte Werte wiederherstellen</Caption>
+		</cbRestoreValues>
+		<cbRstFileCreated>
+			<Caption>Erstellungsdatum der Datei wiederherstellen</Caption>
+		</cbRstFileCreated>
+		<cbScanForAds>
+			<Caption>Nach alternativen Datenstömen suchen</Caption>
+		</cbScanForAds>
+		<cbScanPlaySound>
+			<Caption>Nach Beenden Audiodatei abspielen</Caption>
+		</cbScanPlaySound>
+		<cbScanProfileDefault>
+			<Caption>Standard</Caption>
+		</cbScanProfileDefault>
+		<cbScanProfileFrozen>
+			<Caption>Sperren</Caption>
+		</cbScanProfileFrozen>
+		<cbShell>
+			<Caption>Total Uninstall in das Windows-Kontextmenü integrieren</Caption>
+		</cbShell>
+		<cbShowAfter>
+			<Caption>Spalte “Danach„ anzeigen</Caption>
+		</cbShowAfter>
+		<cbShowBefore>
+			<Caption>Spalte “Vorher„ anzeigen</Caption>
+		</cbShowBefore>
+		<cbShowBinAsText>
+			<Caption>Binäre Dateien als Text anzeigen</Caption>
+		</cbShowBinAsText>
+		<cbShowChanged>
+			<Caption>Geänderte Objekte</Caption>
+		</cbShowChanged>
+		<cbShowCreated>
+			<Caption>Erstellte Elemente</Caption>
+		</cbShowCreated>
+		<cbShowCurrent>
+			<Caption>Spalte “Aktuell„ anzeigen</Caption>
+		</cbShowCurrent>
+		<cbShowDataSize>
+			<Caption>Dateigröße</Caption>
+		</cbShowDataSize>
+		<cbShowDataType>
+			<Caption>Dateityp</Caption>
+		</cbShowDataType>
+		<cbShowDateCreated>
+			<Caption>Erstellungsdatum</Caption>
+		</cbShowDateCreated>
+		<cbShowDateModified>
+			<Caption>Änderungsdatum</Caption>
+		</cbShowDateModified>
+		<cbShowDeleted>
+			<Caption>Gelöschte Elemente</Caption>
+		</cbShowDeleted>
+		<cbShowFileAttrib>
+			<Caption>Dateiattribute</Caption>
+		</cbShowFileAttrib>
+		<cbShowFileSize>
+			<Caption>Dateigröße</Caption>
+		</cbShowFileSize>
+		<cbShowFileVersion>
+			<Caption>Dateiversion</Caption>
+		</cbShowFileVersion>
+		<cbShowMD5>
+			<Caption>MD5-Prüfsumme der neuen Datei</Caption>
+		</cbShowMD5>
+		<cbSmartAdjustAnalysisLevel>
+			<Caption>Intelligente Anpassung der Analyseebenen</Caption>
+		</cbSmartAdjustAnalysisLevel>
+		<cbSysRestore>
+			<Caption>Systemwiederherstellungspunkt vor der Deinstallation erstellen</Caption>
+		</cbSysRestore>
+		<cbSystemFilesAdditional>
+			<Caption>Zusätzliche Analyse</Caption>
+		</cbSystemFilesAdditional>
+		<cbTxtViewerNot64Bit>
+			<Caption>Keine 64-bit-Anwendung</Caption>
+		</cbTxtViewerNot64Bit>
+		<cbUninstDefault>
+			<Caption>Standard</Caption>
+		</cbUninstDefault>
+		<cbUninstEnabled>
+			<Caption>Verwenden</Caption>
+		</cbUninstEnabled>
+		<cbUseUninstaller>
+			<Caption>Zuerst das Deinstallationsroutine der Anwendung verwenden</Caption>
+		</cbUseUninstaller>
+		<cbWinAppsEnable>
+			<Caption>Windows Apps-Modul aktivieren</Caption>
+		</cbWinAppsEnable>
+		<cmbUpdateFrequency>
+			<Items>Täglich\nWöchentlich\nMonatlich</Items>
+		</cmbUpdateFrequency>
+		<cmbUpdateMethod>
+			<Items>Manuell\nZeitgesteuert\nAutomatisch</Items>
+		</cmbUpdateMethod>
+		<gbAgentMasks>
+			<Caption>Masken für den Dateinamen der Installationsanwendung</Caption>
+		</gbAgentMasks>
+		<gbClnExcludeFs>
+			<Caption>Ordner und Dateien ausschließen</Caption>
+		</gbClnExcludeFs>
+		<gbClnExcludeRegistry>
+			<Caption>Schlüssel und Werte der Registrierung ausschließen</Caption>
+		</gbClnExcludeRegistry>
+		<gbCompareIgnChgReg>
+			<Caption>Geänderter Elemente ignorieren</Caption>
+		</gbCompareIgnChgReg>
+		<gbCompareIgnKeys>
+			<Caption>Schlüssel und Werte ignorieren</Caption>
+		</gbCompareIgnKeys>
+		<gbCompIgnChgFs>
+			<Caption>Geänderter Elemente ignorieren</Caption>
+		</gbCompIgnChgFs>
+		<gbCompIgnoreFld>
+			<Caption>Ordner und Dateien ignorieren</Caption>
+		</gbCompIgnoreFld>
+		<gbExcludeProducts>
+			<Caption>Produkte ausschließen</Caption>
+		</gbExcludeProducts>
+		<gbExcludePublishers>
+			<Caption>Herausgeber ausschließen</Caption>
+		</gbExcludePublishers>
+		<gbFileExtensions>
+			<Caption>Dateierweiterungen mit Versionsinformation</Caption>
+		</gbFileExtensions>
+		<gbIncludeProducts>
+			<Caption>Produkte einschließen</Caption>
+		</gbIncludeProducts>
+		<gbIncludePublishers>
+			<Caption>Herausgeber einschließen</Caption>
+		</gbIncludePublishers>
+		<gbInstallLoc>
+			<Caption>Installationsorte</Caption>
+		</gbInstallLoc>
+		<gbInstallLocation>
+			<Caption>Installationsort ermitteln</Caption>
+		</gbInstallLocation>
+		<gbLimits>
+			<Caption>Momentaufnahmen(Snapshot) der Ordner</Caption>
+		</gbLimits>
+		<gbPrgData>
+			<Caption>Anwendungsdaten ermitteln</Caption>
+		</gbPrgData>
+		<gbPrgSettings>
+			<Caption>Anwendungseinstellungen ermitteln</Caption>
+		</gbPrgSettings>
+		<gbPrgShortcuts>
+			<Caption>Tastaturkürzel der Anwendung ermitteln</Caption>
+		</gbPrgShortcuts>
+		<gbProtectedFolders>
+			<Caption>Geschützte Ordner</Caption>
+		</gbProtectedFolders>
+		<gbProtectedKeys>
+			<Caption>Geschützte Schlüssel</Caption>
+		</gbProtectedKeys>
+		<gbRegEditor>
+			<Caption>Registrierungseditor</Caption>
+		</gbRegEditor>
+		<gbRegScanner>
+			<Caption>Registrierung durchsuchen</Caption>
+		</gbRegScanner>
+		<gbScanExclFolders>
+			<Caption>Ordner ausschließen</Caption>
+		</gbScanExclFolders>
+		<gbScanExclKeys>
+			<Caption>Schlüssel ausschließen</Caption>
+		</gbScanExclKeys>
+		<gbScanInclFolders>
+			<Caption>Ordner einschließen</Caption>
+		</gbScanInclFolders>
+		<gbScanInclKeys>
+			<Caption>Schlüssel einschließen</Caption>
+		</gbScanInclKeys>
+		<gbShellIntegration>
+			<Caption>Integration in die Windows-Arbeitsoberfläche ermitteln</Caption>
+		</gbShellIntegration>
+		<gbSystemFiles>
+			<Caption>Systemdateien ermitteln</Caption>
+		</gbSystemFiles>
+		<gbTranslation>
+			<Caption>Übersetzung</Caption>
+		</gbTranslation>
+		<grpAlteredViewStyle>
+			<Caption>Im System geänderte Elemente</Caption>
+		</grpAlteredViewStyle>
+		<grpExistingViewStyle>
+			<Caption>Vorhandene Systemeinräge</Caption>
+		</grpExistingViewStyle>
+		<grpMissingViewStyle>
+			<Caption>Fehlende Systemelemente</Caption>
+		</grpMissingViewStyle>
+		<lblAdvanced1>
+			<Caption>Erweitert</Caption>
+		</lblAdvanced1>
+		<lblAdvanced2>
+			<Caption>Erweitert</Caption>
+		</lblAdvanced2>
+		<lblAdvanced3>
+			<Caption>Erweitert</Caption>
+		</lblAdvanced3>
+		<lblAdvanced4>
+			<Caption>Erweitert</Caption>
+		</lblAdvanced4>
+		<lblAdvanced5>
+			<Caption>Erweitert</Caption>
+		</lblAdvanced5>
+		<lblAdvanced6>
+			<Caption>Erweitert</Caption>
+		</lblAdvanced6>
+		<lblAgentExcludeMask>
+			<Caption>Ausschließen</Caption>
+		</lblAgentExcludeMask>
+		<lblAgentIncludeMask>
+			<Caption>Einschließen</Caption>
+		</lblAgentIncludeMask>
+		<lblAnalysisProfiles>
+			<Caption>Analyseprofile</Caption>
+		</lblAnalysisProfiles>
+		<lblAnlProfileDesc>
+			<Caption>Beschreibung</Caption>
+		</lblAnlProfileDesc>
+		<lblAnlProfileName>
+			<Caption>Name</Caption>
+		</lblAnlProfileName>
+		<lblAutorunViewName>
+			<Caption>Name</Caption>
+		</lblAutorunViewName>
+		<lblAutorunViews>
+			<Caption>Regeln automatisch prüfen</Caption>
+		</lblAutorunViews>
+		<lblBackupLimiFolderSize>
+			<Caption>Größe des Sicherungsordners begrenzen (MB)</Caption>
+		</lblBackupLimiFolderSize>
+		<lblChageViewName>
+			<Caption>Name</Caption>
+		</lblChageViewName>
+		<lblChangeViews>
+			<Caption>Ansichten ändern</Caption>
+		</lblChangeViews>
+		<lblCheckUpdateMethod>
+			<Caption>Aktualisierungsmethode</Caption>
+		</lblCheckUpdateMethod>
+		<lblCheckUpdatesFrequency>
+			<Caption>Häufigkeit</Caption>
+		</lblCheckUpdatesFrequency>
+		<lblCleanerDescription>
+			<Caption>Beschreibung</Caption>
+		</lblCleanerDescription>
+		<lblCleanerName>
+			<Caption>Name</Caption>
+		</lblCleanerName>
+		<lblCleaners>
+			<Caption>Bereiniger</Caption>
+		</lblCleaners>
+		<lblCompareProfileDesc>
+			<Caption>Beschreibung</Caption>
+		</lblCompareProfileDesc>
+		<lblCompareProfileName>
+			<Caption>Name</Caption>
+		</lblCompareProfileName>
+		<lblFolderSize>
+			<Caption>Ordnergröße (MB)</Caption>
+		</lblFolderSize>
+		<lblHexViewer>
+			<Caption>Hex-Betrachter</Caption>
+		</lblHexViewer>
+		<lblLanguage>
+			<Caption>Sprache</Caption>
+		</lblLanguage>
+		<lblNone1>
+			<Caption>Keine</Caption>
+		</lblNone1>
+		<lblNone2>
+			<Caption>Keine</Caption>
+		</lblNone2>
+		<lblNone3>
+			<Caption>Keine</Caption>
+		</lblNone3>
+		<lblNone4>
+			<Caption>Keine</Caption>
+		</lblNone4>
+		<lblNone5>
+			<Caption>Keine</Caption>
+		</lblNone5>
+		<lblNone6>
+			<Caption>Keine</Caption>
+		</lblNone6>
+		<lblProgramDataPath>
+			<Caption>Anwendungsdaten-Pfad</Caption>
+		</lblProgramDataPath>
+		<lblRedoDescription>
+			<Caption>Beschreibung</Caption>
+		</lblRedoDescription>
+		<lblRedoName>
+			<Caption>Name</Caption>
+		</lblRedoName>
+		<lblRedoProfiles>
+			<Caption>Profile wiederherstellen</Caption>
+		</lblRedoProfiles>
+		<lblScanningProfiles>
+			<Caption>Suchprofile</Caption>
+		</lblScanningProfiles>
+		<lblScanProfileDesc>
+			<Caption>Beschreibung</Caption>
+		</lblScanProfileDesc>
+		<lblScanProfileName>
+			<Caption>Name</Caption>
+		</lblScanProfileName>
+		<lblSimultaneousTasks>
+			<Caption>Gleichzeitige Aufgaben</Caption>
+		</lblSimultaneousTasks>
+		<lblSnsCompareProfiles>
+			<Caption>Sicherungspunkte der Profile vergleichen</Caption>
+		</lblSnsCompareProfiles>
+		<lblSnsCount>
+			<Caption>Anzahl Sicherungspunkte</Caption>
+		</lblSnsCount>
+		<lblTranslatedBy1>
+			<Caption>Übersetzer: Andy Kleinert</Caption>
+		</lblTranslatedBy1>
+		<lblTranslatedBy2>
+			<Caption>Homepage: keine</Caption>
+		</lblTranslatedBy2>
+		<lblTranslatedBy3>
+			<Caption>E-Mail-Adresse: andy.kleinert@gmail.com</Caption>
+		</lblTranslatedBy3>
+		<lblTxtViewer>
+			<Caption>Text-Editor</Caption>
+		</lblTxtViewer>
+		<lblUninstallProfiles>
+			<Caption>Deinstallationsprofile</Caption>
+		</lblUninstallProfiles>
+		<lblUninstallProfilesInst>
+			<Caption>Deinstallationsprofile</Caption>
+		</lblUninstallProfilesInst>
+		<lblUninstDesc>
+			<Caption>Beschreibung</Caption>
+		</lblUninstDesc>
+		<lblUninstName>
+			<Caption>Name</Caption>
+		</lblUninstName>
+		<lblUninstRemoveLog>
+			<Caption>Deinstallierte Anwendungen aus der Liste entfernen</Caption>
+		</lblUninstRemoveLog>
+		<lblUserInteraction>
+			<Caption>Erste verfügbare Benutzerauswahl der Deinstallationsroutine der Anwendung verwenden</Caption>
+		</lblUserInteraction>
+		<rbDialog>
+			<Caption>Dialog</Caption>
+		</rbDialog>
+		<rbOtherRegEdit>
+			<Caption>Andere Anwendung auswählen</Caption>
+		</rbOtherRegEdit>
+		<rbTrayBaloon>
+			<Caption>Infoanzeige in der Taskleiste</Caption>
+		</rbTrayBaloon>
+		<rbWinRegEdit>
+			<Caption>Registrierungs-Editor (regedit.exe) von Windows verwenden</Caption>
+		</rbWinRegEdit>
+		<rgAgentNotif>
+			<Caption>Benachrichtigung durch Installationsanwendung wird ausgeführt</Caption>
+		</rgAgentNotif>
+		<tabAnlFileSystem>
+			<Caption>Dateisystem</Caption>
+		</tabAnlFileSystem>
+		<tabAnlGeneral>
+			<Caption>Allgemein</Caption>
+		</tabAnlGeneral>
+		<tabAutorunViewGeneral>
+			<Caption>Allgemein</Caption>
+		</tabAutorunViewGeneral>
+		<tabAutorunViewView>
+			<Caption>Ansicht</Caption>
+		</tabAutorunViewView>
+		<tabChageViewFileSystem>
+			<Caption>Dateisystem</Caption>
+		</tabChageViewFileSystem>
+		<tabChageViewGeneral>
+			<Caption>Allgemein</Caption>
+		</tabChageViewGeneral>
+		<tabChageViewRegistry>
+			<Caption>Registrierung</Caption>
+		</tabChageViewRegistry>
+		<tabChageViewView>
+			<Caption>Ansicht</Caption>
+		</tabChageViewView>
+		<tabCleanerFileSystem>
+			<Caption>Dateisystem</Caption>
+		</tabCleanerFileSystem>
+		<tabCleanerGen>
+			<Caption>Allgemein</Caption>
+		</tabCleanerGen>
+		<tabCleanerReg>
+			<Caption>Registrierung</Caption>
+		</tabCleanerReg>
+		<tabCmpProfileFileSys>
+			<Caption>Dateisystem</Caption>
+		</tabCmpProfileFileSys>
+		<tabCompareProfileGen>
+			<Caption>Allgemein</Caption>
+		</tabCompareProfileGen>
+		<tabCompareProfileReg>
+			<Caption>Registrierung</Caption>
+		</tabCompareProfileReg>
+		<tabRedoAdvanced>
+			<Caption>Erweitert</Caption>
+		</tabRedoAdvanced>
+		<tabRedoFileSystem>
+			<Caption>Dateisystem</Caption>
+		</tabRedoFileSystem>
+		<tabRedoGeneral>
+			<Caption>Allgemein</Caption>
+		</tabRedoGeneral>
+		<tabRedoRegistry>
+			<Caption>Registrierung</Caption>
+		</tabRedoRegistry>
+		<tabScanProfileFolders>
+			<Caption>Dateisystem</Caption>
+		</tabScanProfileFolders>
+		<tabScanProfileGeneral>
+			<Caption>Allgemein</Caption>
+		</tabScanProfileGeneral>
+		<tabScanProfileRegistry>
+			<Caption>Registrierung</Caption>
+		</tabScanProfileRegistry>
+		<tabUninstAdv>
+			<Caption>Erweitert</Caption>
+		</tabUninstAdv>
+		<tabUninstFS>
+			<Caption>Dateisystem</Caption>
+		</tabUninstFS>
+		<tabUninstGeneral>
+			<Caption>Allgemein</Caption>
+		</tabUninstGeneral>
+		<tabUninstRegistry>
+			<Caption>Registrierung</Caption>
+		</tabUninstRegistry>
+		<tblAnlRegistry>
+			<Caption>Registrierung</Caption>
+		</tblAnlRegistry>
+	</dlgTUOptions>
+	<dlgUninstall>
+		<btnBringToFront>
+			<Caption>In den Vordergrund</Caption>
+		</btnBringToFront>
+		<btnCancel>
+			<Caption>Abbrechen</Caption>
+		</btnCancel>
+		<btnUninstall>
+			<Caption>Deinstallieren</Caption>
+		</btnUninstall>
+		<lblCreatingRestorePnt>
+			<Caption>Systemwiederherstellungspunkt wird erstellt …</Caption>
+		</lblCreatingRestorePnt>
+		<lblProfile>
+			<Caption>Deinstallationprofil auswählen</Caption>
+		</lblProfile>
+		<lblUninstalling>
+			<Caption>Deinstallation wird ausgeführt …</Caption>
+		</lblUninstalling>
+		<lblWaitTitle>
+			<Caption>Auf den Abschluss der Deinstallationsroutine für diese Anwendung wird gewartet …</Caption>
+		</lblWaitTitle>
+	</dlgUninstall>
+	<frmInstall>
+		<btnBrowseSetup>
+			<Caption>&amp;Durchsuchen</Caption>
+		</btnBrowseSetup>
+		<btnCancel>
+			<Caption>Abbrechen</Caption>
+		</btnCancel>
+		<btnCompleteLater>
+			<Caption>Überwachungsprozess später &amp;beenden</Caption>
+		</btnCompleteLater>
+		<btnLaunchSetup>
+			<Caption>&amp;Installation jetzt starten</Caption>
+		</btnLaunchSetup>
+		<btnNext>
+			<Caption>Weiter</Caption>
+		</btnNext>
+		<btnProgramIsInstalled>
+			<Caption>A&amp;nwendung wurde erfolgreich installiert</Caption>
+		</btnProgramIsInstalled>
+		<btnSuggest>
+			<Caption>V&amp;orschlag</Caption>
+		</btnSuggest>
+		<lblCreateLog>
+			<Caption>Installationsprotokoll erstellen</Caption>
+		</lblCreateLog>
+		<lblCreateOrSelectSns>
+			<Caption>Vor der Installation einen Systemsicherungspunkt erstellen oder eine vorherigen auswählen.</Caption>
+		</lblCreateOrSelectSns>
+		<lblCreatePreInstallSns>
+			<Caption>Einen Systemsicherungspunkt vor der Installation erstellen</Caption>
+		</lblCreatePreInstallSns>
+		<lblCreatingLog>
+			<Caption>Installationsprotokoll erstellen</Caption>
+		</lblCreatingLog>
+		<lblCreatingSystemSns>
+			<Caption>Systemsicherungspunkt erstellen</Caption>
+		</lblCreatingSystemSns>
+		<lblFinish>
+			<Caption>Installationprotokoll wurde erfolgreich erstellt</Caption>
+		</lblFinish>
+		<lblInstallMonProgram>
+			<Caption>Die Installation dieser Anwendung wird überwacht</Caption>
+		</lblInstallMonProgram>
+		<lblProfiles>
+			<Caption>&amp;Profil durchsuchen</Caption>
+		</lblProfiles>
+		<lblProgramName>
+			<Caption>&amp;Name der Anwendung</Caption>
+		</lblProgramName>
+		<lblProgramSetupPath>
+			<Caption>&amp;Pfad zur Installationsdatei der Anwendung</Caption>
+		</lblProgramSetupPath>
+		<lblSnsName>
+			<Caption>&amp;Name des Sicherungspunkts</Caption>
+		</lblSnsName>
+		<lblSpecifySnsName>
+			<Caption>&amp;Name des Installationssicherungspunkts nachträglich festlegen</Caption>
+		</lblSpecifySnsName>
+		<rbNewSnapshot>
+			<Caption>&amp;Neuen Sicherungspunkt erstellen (empfohlen)</Caption>
+		</rbNewSnapshot>
+		<rbUseLastSnapshot>
+			<Caption>&amp;Letzten Sicherungspunkt verwenden</Caption>
+		</rbUseLastSnapshot>
+	</frmInstall>
+	<frmTUMain>
+   <btnAddProgramToList>
+     <Caption>Eine Anwendung zur Liste hinzufügen …</Caption>
+     <Notes>Ziehen Sie eine Verknüpfung hinein oder klicken Sie auf die Schaltfläche und geben Sie mindestens einen Namen an, um die erzwungene Deinstallation zu starten.\n</Notes>
+   </btnAddProgramToList>
+   <btnClear>
+			<Caption>Löschen</Caption>
+		</btnClear>
+		<btnGroupAddChild>
+			<Caption>Neue Untergruppe …</Caption>
+		</btnGroupAddChild>
+		<btnGroupAddRoot>
+			<Caption>Neue Gruppe …</Caption>
+		</btnGroupAddRoot>
+		<btnGroupEdit>
+			<Caption>Gruppe bearbeiten …</Caption>
+		</btnGroupEdit>
+		<btnGroupMoveToRoot>
+			<Caption>Auf Hauptebene verschieben</Caption>
+		</btnGroupMoveToRoot>
+		<btnGroupRemove>
+			<Caption>Gruppe entfernen</Caption>
+		</btnGroupRemove>
+		<btnSearch>
+			<Caption>Start</Caption>
+		</btnSearch>
+		<cbBundle>
+			<Caption>Mehrfachauswahl</Caption>
+		</cbBundle>
+		<cbCaseSensitive>
+			<Caption>Groß-/Kleinschreibung beachten</Caption>
+		</cbCaseSensitive>
+		<cbChanged>
+			<Caption>Geändert</Caption>
+		</cbChanged>
+		<cbCreated>
+			<Caption>Erstellt</Caption>
+		</cbCreated>
+		<cbData>
+			<Caption>Daten</Caption>
+		</cbData>
+		<cbDeleted>
+			<Caption>Gelöscht</Caption>
+		</cbDeleted>
+		<cbFiles>
+			<Caption>Dateien</Caption>
+		</cbFiles>
+		<cbFolders>
+			<Caption>Ordner</Caption>
+		</cbFolders>
+		<cbKeys>
+			<Caption>Schlüssel</Caption>
+		</cbKeys>
+		<cbSearchMask>
+			<Caption>Suchmaske</Caption>
+		</cbSearchMask>
+		<cbUnchanged>
+			<Caption>Unverändert</Caption>
+		</cbUnchanged>
+		<cbValues>
+			<Caption>Werte</Caption>
+		</cbValues>
+		<Copy1>
+			<Caption>Kopieren</Caption>
+			<Hint>Ausgewählte Dateien in die Zwischenablage kopieren</Hint>
+		</Copy1>
+		<Copy2>
+			<Caption>Kopieren</Caption>
+			<Hint>Ausgewählte Dateien in die Zwischenablage kopieren</Hint>
+		</Copy2>
+		<gbAdvanced>
+			<Caption>Erweitert</Caption>
+		</gbAdvanced>
+		<gbChanges>
+			<Caption>Elemente</Caption>
+		</gbChanges>
+		<gbFileSystem>
+			<Caption>Dateisystem</Caption>
+		</gbFileSystem>
+		<gbRegistry>
+			<Caption>Registrierung</Caption>
+		</gbRegistry>
+		<gbScope>
+			<Caption>Suchen in …</Caption>
+		</gbScope>
+		<miAddtoCompareIgnoreList>
+			<Caption>Zum Vergleichen der Ignorierliste hinzufügen</Caption>
+			<Hint>Ausgewählte Elemente zur Ignorierliste hinzufügen</Hint>
+		</miAddtoCompareIgnoreList>
+		<miAddtoScanExcludeList>
+			<Caption>Zum Durchsuchen der Ausschlussliste hinzufügen</Caption>
+			<Hint>Ausgewählte Objekte zur Ausschlussliste hinzufügen</Hint>
+		</miAddtoScanExcludeList>
+		<miAppSendTo>
+			<Caption>Zur Gruppe senden</Caption>
+		</miAppSendTo>
+		<miAutorunManager>
+			<Caption>Autostart-Verwaltung</Caption>
+		</miAutorunManager>
+		<miChanges>
+			<Caption>Änderungen</Caption>
+			<Hint>Ermittelte Systemänderungen der aktueller Anwendung anzeigen|Ermittelte Systemänderungen der aktueller Anwendung anzeigen</Hint>
+		</miChanges>
+		<miCleaner>
+			<Caption>Säubern</Caption>
+			<Hint>Bereinigung</Hint>
+		</miCleaner>
+		<miClnItems>
+			<Caption>Elemente</Caption>
+		</miClnItems>
+		<miClnSummary>
+			<Caption>Zusammenfassung</Caption>
+			<Hint>Kurze Information der aktuellen Anwendung anzeigen|Kurze Information der aktuellen Anwendung anzeigen</Hint>
+		</miClnSummary>
+		<miCollapse>
+			<Caption>Reduzieren</Caption>
+			<Hint>Aktive Baumansicht reduzieren</Hint>
+		</miCollapse>
+		<miCopyDetail>
+			<Caption>Kopieren</Caption>
+		</miCopyDetail>
+		<miDeleteCompletely>
+			<Caption>Vollständig löschen</Caption>
+			<Hint>Selektierter Eintrag aus Protokolldatei und vom System entfernen</Hint>
+		</miDeleteCompletely>
+		<miDeletefromSystemOnly>
+			<Caption>Nur aus dem System entfernen</Caption>
+			<Hint>Eintrag nur aus dem System entfernen</Hint>
+		</miDeletefromSystemOnly>
+		<miEdit>
+			<Caption>&amp;Bearbeiten</Caption>
+		</miEdit>
+		<miEditAutorunLocateEntry>
+			<Caption>Autostart-Elemente suchen</Caption>
+		</miEditAutorunLocateEntry>
+		<miEditAutorunLocateTarget>
+			<Caption>Ziel suchen</Caption>
+		</miEditAutorunLocateTarget>
+		<miEditAutorunRun>
+			<Caption>Ausführen</Caption>
+		</miEditAutorunRun>
+		<miEditAutorunStop>
+			<Caption>Anhalten</Caption>
+		</miEditAutorunStop>
+		<miEditAutorunTargetProperties>
+			<Caption>Zieleigenschaften</Caption>
+		</miEditAutorunTargetProperties>
+		<miEditRedo>
+			<Caption>Wiederherstellen</Caption>
+			<Hint>Ausgewählte Systemänderungen wiederherstellen</Hint>
+		</miEditRedo>
+		<miEditRedoDepth>
+			<Caption>Wiederherstellungstiefe</Caption>
+			<Hint>Wiederherstellungstiefe der ausgwählten Änderungen des Systems</Hint>
+		</miEditRedoDepth>
+		<miEditRestoreFromBackup>
+			<Caption>Aus Sicherung wiederherstellen</Caption>
+			<Hint>Ausgewählte Dateien, Ordner und Unterordner aus der Sicherung wiederherstellen</Hint>
+		</miEditRestoreFromBackup>
+		<miEditUndo>
+			<Caption>Rückgängig machen</Caption>
+			<Hint>Ausgewählte Änderungen im System rückgängig machen</Hint>
+		</miEditUndo>
+		<miEditUndoDepth>
+			<Caption>Rücksetzungstiefe</Caption>
+			<Hint>Rücksetzungstiefe der ausgwählten Änderungen des Systems</Hint>
+		</miEditUndoDepth>
+		<miExpand>
+			<Caption>Erweitern</Caption>
+			<Hint>Aktive Baumansicht erweitern</Hint>
+		</miExpand>
+		<miExpChanges>
+			<Caption>&amp;Änderungen …</Caption>
+			<Hint>Änderungen exportieren</Hint>
+		</miExpChanges>
+		<miExpInstalledApps>
+			<Caption>Installierte Anwendungen …</Caption>
+			<Hint>Liste der installierten Anwendungen exportieren</Hint>
+		</miExpInstalledApps>
+		<miExpMonitoredApps>
+			<Caption>Überwachte Anwendungen …</Caption>
+			<Hint>Liste der überwachten Anwendungen exportieren</Hint>
+		</miExpMonitoredApps>
+		<miExport>
+			<Caption>&amp;Exportieren</Caption>
+		</miExport>
+		<miExpRegistry>
+			<Caption>Registrierungsänderungen …</Caption>
+			<Hint>Registrierungsänderungen für Installation oder Deinstallation exportieren</Hint>
+		</miExpRegistry>
+		<miExpUninstallLog>
+			<Caption>&amp;Deinstallationsprotokoll …</Caption>
+			<Hint>Deinstallationsprotokoll exportieren</Hint>
+		</miExpUninstallLog>
+		<miFile>
+			<Caption>&amp;Datei</Caption>
+		</miFile>
+		<miFileAddInstalledPrg>
+			<Caption>Eine Anwendung zu Liste hinzufügen …</Caption>
+		</miFileAddInstalledPrg>
+		<miFileAnalyze>
+			<Caption>Analysieren</Caption>
+			<Hint>Systemänderungen der aktuellen Anwendung analysieren|Systemänderungen der aktuellen Anwendung analysieren</Hint>
+		</miFileAnalyze>
+		<miFileAutorunAdd>
+			<Caption>Hinzufügen</Caption>
+		</miFileAutorunAdd>
+		<miFileAutorunDelete>
+			<Caption>Löschen</Caption>
+		</miFileAutorunDelete>
+		<miFileChange>
+			<Caption>Änderung</Caption>
+			<Hint>Aktuell ausgewähle Anwendung reparieren, ändern oder deinstallieren</Hint>
+		</miFileChange>
+		<miFileChangeIcon>
+			<Caption>Symbol ändern …</Caption>
+		</miFileChangeIcon>
+		<miFileClnClean>
+			<Caption>Säubern</Caption>
+			<Hint>Säuberungsmodul öffnen</Hint>
+		</miFileClnClean>
+		<miFileClnScan>
+			<Caption>Suchen</Caption>
+			<Hint>Nach löschbaren Elementen suchen|Nach löschbaren Elementen suchen</Hint>
+		</miFileClnScan>
+		<miFileCreateBackup>
+			<Caption>Sicherung für diese Anwendung wird erstellt …</Caption>
+		</miFileCreateBackup>
+		<miFileDelete>
+			<Caption>Löschen</Caption>
+			<Hint>Aktuelles Installationsprotokoll löschen</Hint>
+		</miFileDelete>
+		<miFileEditProgram>
+			<Caption>Anwendung wird geändert …</Caption>
+		</miFileEditProgram>
+		<miFileExit>
+			<Caption>&amp;Beenden</Caption>
+			<Hint>Anwendung beenden</Hint>
+		</miFileExit>
+		<miFileGroupAddChild>
+			<Caption>Neue Untergruppe …</Caption>
+		</miFileGroupAddChild>
+		<miFileGroupAddRoot>
+			<Caption>Neue Gruppe …</Caption>
+		</miFileGroupAddRoot>
+		<miFileGroupEdit>
+			<Caption>Gruppe editieren …</Caption>
+		</miFileGroupEdit>
+		<miFileGroupMoveToRoot>
+			<Caption>Zur Haupteben verschieben</Caption>
+		</miFileGroupMoveToRoot>
+		<miFileGroupRemove>
+			<Caption>Gruppe entfernen</Caption>
+		</miFileGroupRemove>
+		<miFileInstall>
+			<Caption>&amp;Neu Installieren</Caption>
+			<Hint>Die Installation einer neuen Anwendung wird überwacht</Hint>
+		</miFileInstall>
+		<miFileInstallUpdate>
+			<Caption>Aktualisierung wird installiert …</Caption>
+			<Hint>Die Installation einer Aktualisierung für die aktuelle Anwendung überwachen|Die Installation einer Aktualisierung für die aktuelle Anwendung überwachen</Hint>
+		</miFileInstallUpdate>
+		<miFileNotes>
+			<Caption>Notizen …</Caption>
+			<Hint>Notizen zu aktuellem Installationsprotokoll hinzufügen</Hint>
+		</miFileNotes>
+		<miFilePrint>
+			<Caption>&amp;Drucken …</Caption>
+		</miFilePrint>
+		<miFileReload>
+			<Caption>Neu laden</Caption>
+		</miFileReload>
+		<miFileRemoveInstalledPrg>
+			<Caption>Anwendung aus Liste entfernen</Caption>
+		</miFileRemoveInstalledPrg>
+		<miFileRename>
+			<Caption>Umbenennen …</Caption>
+			<Hint>Aktuelles Installationsprotokoll umbenennen</Hint>
+		</miFileRename>
+		<miFileRestoreBackup>
+			<Caption>Anwendung aus Sicherung wiederherstellen …</Caption>
+		</miFileRestoreBackup>
+		<miFileSave>
+			<Caption>Speichern</Caption>
+			<Hint>Änderungen des aktuellen Installationsprotokolls speichern</Hint>
+		</miFileSave>
+		<miFileSaveAs>
+			<Caption>Speichern unter …</Caption>
+		</miFileSaveAs>
+		<miFileSendTo>
+			<Caption>Zur Gruppe senden</Caption>
+		</miFileSendTo>
+		<miFileUndoRestoration>
+			<Caption>Wiederherstellung rückgängig machen …</Caption>
+		</miFileUndoRestoration>
+		<miFileUninstall>
+			<Caption>Deinstallieren …</Caption>
+		</miFileUninstall>
+		<miHelp>
+			<Caption>&amp;Hilfe</Caption>
+		</miHelp>
+		<miHelpAbout>
+			<Caption>Über …</Caption>
+			<Hint>Zeigt Informationen, Versionsnummer und Urheberrechtsangaben über Total Uninstall an</Hint>
+		</miHelpAbout>
+		<miHelpCheckForUpdates>
+			<Caption>Nach Aktualisierungen suchen …</Caption>
+			<Hint>Nach Aktualisierungen auf der Webseite des Autors suchen</Hint>
+		</miHelpCheckForUpdates>
+		<miHelpContents>
+			<Caption>Inhalt</Caption>
+			<Hint>Hilfe-Inhaltsseite anzeigen</Hint>
+		</miHelpContents>
+		<miHelpHomePage>
+			<Caption>Homepage</Caption>
+		</miHelpHomePage>
+		<miHelpPurchase>
+			<Caption>Kaufen</Caption>
+		</miHelpPurchase>
+		<miHelpRegister>
+			<Caption>Registrieren …</Caption>
+			<Hint>Total Uninstall registrieren</Hint>
+		</miHelpRegister>
+		<miHexView>
+			<Caption>Hex-Ansicht</Caption>
+			<Hint>Datei in Hex-Editor öffnen</Hint>
+		</miHexView>
+		<miImport>
+			<Caption>Import</Caption>
+		</miImport>
+		<miInstalledPrograms>
+			<Caption>Installierte Anwendungen</Caption>
+			<Hint>Zu installierten Anwendungen wechseln|Zu installierten Anwendungen wechseln</Hint>
+		</miInstalledPrograms>
+		<miList>
+			<Caption>Liste</Caption>
+		</miList>
+		<miListGroupNotes>
+			<Caption>Gruppen-Notizen</Caption>
+		</miListGroupNotes>
+		<miListLargeIcons>
+			<Caption>Große Symbole</Caption>
+		</miListLargeIcons>
+		<miListProgramNotes>
+			<Caption>Notizen zur Anwendung</Caption>
+		</miListProgramNotes>
+		<miListSmallIcons>
+			<Caption>Kleine Symbole</Caption>
+		</miListSmallIcons>
+		<miModules>
+			<Caption>&amp;Module</Caption>
+		</miModules>
+		<miMonAppsGroupAddChild>
+			<Caption>Untergruppe hinzufügen …</Caption>
+		</miMonAppsGroupAddChild>
+		<miMonAppsGroupAddRoot>
+			<Caption>Zur Stammgruppe hinzufügen …</Caption>
+		</miMonAppsGroupAddRoot>
+		<miMonAppsGroupEdit>
+			<Caption>Gruppe bearbeiten …</Caption>
+		</miMonAppsGroupEdit>
+		<miMonAppsGroupMoveToRoot>
+			<Caption>In Stammgruppe verschieben</Caption>
+		</miMonAppsGroupMoveToRoot>
+		<miMonAppsGroupRemove>
+			<Caption>Gruppe entfernen</Caption>
+		</miMonAppsGroupRemove>
+		<miMonitoredPrograms>
+			<Caption>Überwachte Anwendungen</Caption>
+			<Hint>Zu überwachten Anwendungen wechseln|Zu überwachten Anwendungen wechseln</Hint>
+		</miMonitoredPrograms>
+		<miOpen>
+			<Caption>Öffnen</Caption>
+			<Hint>Datei oder Ordner öffnen oder zum Registrierungsschlüssel im Registrierungseditor wechseln</Hint>
+		</miOpen>
+		<miPendingFileRenameOp>
+			<Caption>Ausstehende Dateinamenänderungen …</Caption>
+			<Hint>Ausstehende Dateinamenänderungen anzeigen und anwenden</Hint>
+		</miPendingFileRenameOp>
+		<miPrgAddInstalledPrg>
+			<Caption>Eine Anwendung zur Liste hinzufügen …</Caption>
+		</miPrgAddInstalledPrg>
+		<miPrgAnalyze>
+			<Caption>&amp;Analysieren</Caption>
+			<Hint>Systemänderungen der aktuellen Anwendung analysieren|Systemänderungen der aktuellen Anwendung analysieren</Hint>
+		</miPrgAnalyze>
+		<miPrgChangeIcon>
+			<Caption>Symbol ändern …</Caption>
+		</miPrgChangeIcon>
+		<miPrgDelete>
+			<Caption>Löschen</Caption>
+			<Hint>Aktuelles Installationsprotokoll löschen</Hint>
+		</miPrgDelete>
+		<miPrgEditInstalledPrg>
+			<Caption>Anwendung ändern …</Caption>
+		</miPrgEditInstalledPrg>
+		<miPrgNotes>
+			<Caption>Notizen …</Caption>
+			<Hint>Notizen zum aktuelle Installationsprotokoll hinzufügen</Hint>
+		</miPrgNotes>
+		<miPrgRemoveInstalledPrg>
+			<Caption>Anwendung aus Liste entfernen</Caption>
+		</miPrgRemoveInstalledPrg>
+		<miPrgRename>
+			<Caption>Umbenennen …</Caption>
+			<Hint>Aktuelles Installationsprotokoll umbenennen</Hint>
+		</miPrgRename>
+		<miPrintChanges>
+			<Caption>Änderungen …</Caption>
+			<Hint>Änderungsübersicht ausdrucken</Hint>
+		</miPrintChanges>
+		<miPrintInstalledPrograms>
+			<Caption>Installierte Anwendungen …</Caption>
+		</miPrintInstalledPrograms>
+		<miPrintMonitoredPrograms>
+			<Caption>Überwachte Anwendungen …</Caption>
+		</miPrintMonitoredPrograms>
+		<miProperties>
+			<Caption>Eigenschaften</Caption>
+			<Hint>Eigenschaften der ausgewählten Datei oder Order anzeigen</Hint>
+		</miProperties>
+		<miRemovefromLog>
+			<Caption>Aus dem Protokoll entfernen</Caption>
+			<Hint>Ausgewählte Elemente aus Protokoll entfernen</Hint>
+		</miRemovefromLog>
+		<miSnsTreeOpen>
+			<Caption>Öffnen</Caption>
+		</miSnsTreeOpen>
+		<miSummary>
+			<Caption>Zusammenfassung</Caption>
+			<Hint>Kurze Information über aktuelle Anwendung anzeigen|Kurze Information über aktuelle Anwendung anzeigen</Hint>
+		</miSummary>
+		<miTextView>
+			<Caption>Textansicht</Caption>
+			<Hint>Datei in Texteditor öffnen</Hint>
+		</miTextView>
+		<miToolbarLarge>
+			<Caption>Groß</Caption>
+		</miToolbarLarge>
+		<miToolbarMedium>
+			<Caption>Mittel</Caption>
+		</miToolbarMedium>
+		<miToolbarSmall>
+			<Caption>Klein</Caption>
+		</miToolbarSmall>
+		<miTools>
+			<Caption>&amp;Extras</Caption>
+		</miTools>
+		<miToolsCompareSnapshots>
+			<Caption>Momentaufnahme (Snapshots) vergleichen …</Caption>
+		</miToolsCompareSnapshots>
+		<miToolsFind>
+			<Caption>Suchen</Caption>
+			<Hint>Nach einem Text in ermittelten Änderungen suchen|Nach einem Text in ermittelten Änderungen suchen</Hint>
+		</miToolsFind>
+		<miToolsMergeLogs>
+			<Caption>Protokolle zusammenführen …</Caption>
+		</miToolsMergeLogs>
+		<miToolsOptions>
+			<Caption>Einstellungen …</Caption>
+			<Hint>Softwareeinstellungen bearbeiten</Hint>
+		</miToolsOptions>
+		<miToolsSystemRestore>
+			<Caption>Systemwiederherstellung</Caption>
+		</miToolsSystemRestore>
+		<miULogSuccessful>
+			<Caption>Erfolgreiche Aktionen</Caption>
+			<Hint>Erfolgreiche Aktionen im Deinstallationsprotokoll anzeigen/ausblenden</Hint>
+		</miULogSuccessful>
+		<miULogWarnings>
+			<Caption>Warnhinweise</Caption>
+			<Hint>Warnhinweise im Deinstallationprotokoll anzeigen/ausblenden</Hint>
+		</miULogWarnings>
+		<miUninstallLog>
+			<Caption>Deinstallationsprotokoll</Caption>
+			<Hint>Deinstallationprotokoll der Anwendung anzeigen|Deinstallationprotokoll der Anwendung anzeigen</Hint>
+		</miUninstallLog>
+		<miUninstallLogDet>
+			<Caption>Details zum Deinstallationsprotokoll</Caption>
+		</miUninstallLogDet>
+		<miView>
+			<Caption>&amp;Ansicht</Caption>
+		</miView>
+		<miViewAutoGroupPrograms>
+			<Caption>Anwendungen automatisch gruppieren</Caption>
+		</miViewAutoGroupPrograms>
+		<miViewBundle>
+			<Caption>Mehrfachauswahl</Caption>
+		</miViewBundle>
+		<miViewColorScheme>
+			<Caption>Farbgebung</Caption>
+		</miViewColorScheme>
+		<miViewDetails>
+			<Caption>Details</Caption>
+			<Hint>Anwendungsdetails ein-/ausblenden|Anwendungsdetails ein-/ausblenden</Hint>
+		</miViewDetails>
+		<miViewItemCurrentView>
+			<Caption>Aktuelle Ansicht</Caption>
+		</miViewItemCurrentView>
+		<miViewItemDetails>
+			<Caption>Elementdetails</Caption>
+			<Hint>Details des ausgewählten Knotens in der Änderungsübersicht anzeigen/verbergen</Hint>
+		</miViewItemDetails>
+		<miViewNavigator>
+			<Caption>Anwendungen</Caption>
+			<Hint>Anwendungsliste ein-/ausblenden|Anwendungsliste ein-/ausblenden</Hint>
+		</miViewNavigator>
+		<miViewRefresh>
+			<Caption>Aktualisieren</Caption>
+		</miViewRefresh>
+		<miViewStatusBar>
+			<Caption>Statusleiste</Caption>
+			<Hint>Statusleiste anzeigen/ausblenden</Hint>
+		</miViewStatusBar>
+		<miViewSystemComponents>
+			<Caption>Systemkomponenten</Caption>
+		</miViewSystemComponents>
+		<miViewToolbars>
+			<Caption>Symboleisten</Caption>
+		</miViewToolbars>
+		<miViewToolbarsBtnCaption>
+			<Caption>Schaltflächenbeschriftung</Caption>
+			<Hint>Beschriftung der Symbolleistenschaltflächen anzeigen/ausblenden</Hint>
+		</miViewToolbarsBtnCaption>
+		<miViewToolbarsBtnSize>
+			<Caption>Größe der Schaltflächen</Caption>
+		</miViewToolbarsBtnSize>
+		<miViewToolbarsBtnWordWrap>
+			<Caption>Zeilenumbruch der Schaltflächenbeschriftung ermöglichen</Caption>
+		</miViewToolbarsBtnWordWrap>
+		<miViewToolbarsTbrCaption>
+			<Caption>Symbolleistentext</Caption>
+			<Hint>Symbolleistentext anzeigen/ausblenden</Hint>
+		</miViewToolbarsTbrCaption>
+		<miViewToolbarsVisible>
+			<Caption>Symbolleiste anzeigen</Caption>
+			<Hint>Symbolleiste anzeigen/ausblenden</Hint>
+		</miViewToolbarsVisible>
+		<miWindowsApps>
+			<Caption>Windows-Apps</Caption>
+		</miWindowsApps>
+		<pmiAutorunAdd>
+			<Caption>Hinzufügen</Caption>
+		</pmiAutorunAdd>
+		<pmiAutorunDelete>
+			<Caption>Löschen</Caption>
+		</pmiAutorunDelete>
+		<pmiAutorunLocateEntry>
+			<Caption>Autostart-Elemente suchen</Caption>
+		</pmiAutorunLocateEntry>
+		<pmiAutorunLocateTarget>
+			<Caption>Ziel suchen</Caption>
+		</pmiAutorunLocateTarget>
+		<pmiAutorunRun>
+			<Caption>Ausführen</Caption>
+		</pmiAutorunRun>
+		<pmiAutorunStop>
+			<Caption>Anhalten</Caption>
+		</pmiAutorunStop>
+		<pmiAutorunTargetProperties>
+			<Caption>Zieleigenschaften</Caption>
+		</pmiAutorunTargetProperties>
+		<pmiChgTreeCompareExcl>
+			<Caption>Zum Vergleichen der Ignorierliste hinzufügen</Caption>
+			<Hint>Ausgewählte Elemente zu Ignorierliste aller Vergleichsprofile hinzufügen</Hint>
+		</pmiChgTreeCompareExcl>
+		<pmiChgTreeDelete>
+			<Caption>Vollständig löschen</Caption>
+			<Hint>Selektierter Eintrag aus Protokolldatei und aus dem System entfernen</Hint>
+		</pmiChgTreeDelete>
+		<pmiChgTreeDelSys>
+			<Caption>Nur aus dem System entfernen</Caption>
+			<Hint>Ausgewählter Eintrage nur aus dem System löschen</Hint>
+		</pmiChgTreeDelSys>
+		<pmiChgTreeExportRegistryChanges>
+			<Caption>Registrierungsänderungen exportieren …</Caption>
+			<Hint>Registrierungsänderungen exportieren, um sie neu zu installieren oder deinstallieren zu können</Hint>
+		</pmiChgTreeExportRegistryChanges>
+		<pmiChgTreeHexView>
+			<Caption>Hex-Ansicht</Caption>
+			<Hint>Datei in Hex-Editor öffnen</Hint>
+		</pmiChgTreeHexView>
+		<pmiChgTreeOpen>
+			<Caption>Öffnen</Caption>
+			<Hint>Datei oder Ordner öffnen oder zum Registrierungsschlüssel im Registrierungeditor wechseln</Hint>
+		</pmiChgTreeOpen>
+		<pmiChgTreeProperties>
+			<Caption>Eigenschaften</Caption>
+			<Hint>Eigenschaften der ausgewählten Datei oder Orders anzeigen</Hint>
+		</pmiChgTreeProperties>
+		<pmiChgTreeRedo>
+			<Caption>Wiederherstellung</Caption>
+			<Hint>Ausgewählte Änderungen ins System wiederherstellen</Hint>
+		</pmiChgTreeRedo>
+		<pmiChgTreeRedoDepth>
+			<Caption>Wiederherstellungstiefe</Caption>
+			<Hint>Wiederherstellungstiefe der ausgwählten Änderungen des Systems</Hint>
+		</pmiChgTreeRedoDepth>
+		<pmiChgTreeRemove>
+			<Caption>Aus Protokoll entfernen</Caption>
+			<Hint>Ausgewählte Element aus Protokoll entfernen</Hint>
+		</pmiChgTreeRemove>
+		<pmiChgTreeRestoreFromBackup>
+			<Caption>Aus Sicherung wiederherstellen</Caption>
+			<Hint>Ausgewählte Dateien, Ordner und Unterordner aus der Sicherung wiederherstellen</Hint>
+		</pmiChgTreeRestoreFromBackup>
+		<pmiChgTreeScanExcl>
+			<Caption>Zum Durchsuchen der Ausschlussliste hinzufügen</Caption>
+			<Hint>Ausgewählte Objekte zur Ausschlussliste hinzufügen</Hint>
+		</pmiChgTreeScanExcl>
+		<pmiChgTreeTextView>
+			<Caption>Textansicht</Caption>
+			<Hint>Datei in Texteditor öffnen</Hint>
+		</pmiChgTreeTextView>
+		<pmiChgTreeUndo>
+			<Caption>Zurücksetzen</Caption>
+			<Hint>Änderungen im System zurücksetzen</Hint>
+		</pmiChgTreeUndo>
+		<pmiChgTreeUndoDepth>
+			<Caption>Rücksetzungstiefe</Caption>
+			<Hint>Rücksetzungstiefe der ausgwählten Änderungen des Systems</Hint>
+		</pmiChgTreeUndoDepth>
+		<pmiClnExclude>
+			<Caption>Ausschlüsse</Caption>
+		</pmiClnExclude>
+		<pmiClnSelectBranch>
+			<Caption>Zweig auswählen</Caption>
+		</pmiClnSelectBranch>
+		<pmiClnUnselectBranch>
+			<Caption>Zweigauswahl aufheben</Caption>
+		</pmiClnUnselectBranch>
+		<pmiCopySummary>
+			<Caption>Kopieren</Caption>
+		</pmiCopySummary>
+		<pmiInstAppsHeaderAutoResize>
+			<Caption>Automatische Größenanpassung</Caption>
+		</pmiInstAppsHeaderAutoResize>
+		<pmiLocate>
+			<Caption>Auffinden</Caption>
+		</pmiLocate>
+		<pmiMonAppsHeaderAutoResize>
+			<Caption>Automatische Anpassung</Caption>
+		</pmiMonAppsHeaderAutoResize>
+		<pmiShowSuccessful>
+			<Caption>Erfolgreiche Aktionen</Caption>
+			<Hint>Erfolgreiche Aktionen im Deinstallatioprotokoll anzeigen/ausblenden</Hint>
+		</pmiShowSuccessful>
+		<pmiShowWarnings>
+			<Caption>Warnhinweise</Caption>
+			<Hint>Warnhinweise aus Deinstallationsprotokoll anzeigen/ausblenden</Hint>
+		</pmiShowWarnings>
+		<pmiTrayRestore>
+			<Caption>Wiederherstellen</Caption>
+		</pmiTrayRestore>
+		<rbAll>
+			<Caption>Alle Anwendungen</Caption>
+		</rbAll>
+		<rbSelection>
+			<Caption>Auswahl</Caption>
+		</rbSelection>
+		<sbAppClose>
+			<Hint>Schließen|Schließen</Hint>
+		</sbAppClose>
+		<sbDetailsClose>
+			<Hint>Schließen|Schließen</Hint>
+		</sbDetailsClose>
+		<sbSearchClose>
+			<Hint>Schließen|Schließen</Hint>
+		</sbSearchClose>
+		<tabOptions>
+			<Caption>Einstellungen</Caption>
+		</tabOptions>
+		<tabResults>
+			<Caption>Ergebnisse</Caption>
+		</tabResults>
+		<tbrActions>
+			<Caption>Aktionen</Caption>
+		</tbrActions>
+		<tbrDetails>
+			<Caption>Details</Caption>
+		</tbrDetails>
+		<tbrLayout>
+			<Caption>Vorschau</Caption>
+		</tbrLayout>
+		<tbrModules>
+			<Caption>Module</Caption>
+		</tbrModules>
+		<tbrView>
+			<Caption>Ansicht</Caption>
+		</tbrView>
+		<tbtnAnalyze>
+			<Caption>Analysieren</Caption>
+			<Hint>Systemänderungen der aktuellen Anwendung analysieren|Systemänderungen der aktuellen Anwendung analysieren</Hint>
+		</tbtnAnalyze>
+		<tbtnArAdd>
+			<Caption>Hinzufügen</Caption>
+		</tbtnArAdd>
+		<tbtnArDelete>
+			<Caption>Löschen</Caption>
+		</tbtnArDelete>
+		<tbtnArRun>
+			<Caption>Ausführen</Caption>
+		</tbtnArRun>
+		<tbtnArStop>
+			<Caption>Anhalten</Caption>
+		</tbtnArStop>
+		<tbtnAutorunMgr>
+			<Caption>Autostart-\nVerwaltung</Caption>
+		</tbtnAutorunMgr>
+		<tbtnChanges>
+			<Caption>Änderungen</Caption>
+			<Hint>Ermittelte Systemänderungen der aktueller Anwendung anzeigen|Ermittelte Systemänderungen der aktueller Anwendung anzeigen</Hint>
+		</tbtnChanges>
+		<tbtnChgView>
+			<Caption>Ansicht</Caption>
+			<Hint>Festgelegte Ansicht jetzt ändern|Festgelegte Ansicht jetzt ändern</Hint>
+		</tbtnChgView>
+		<tbtnCleaner>
+			<Caption>Säubern</Caption>
+			<Hint>Zum Säuberungsmodul wechseln</Hint>
+		</tbtnCleaner>
+		<tbtnClnClean>
+			<Caption>Bereinigen</Caption>
+			<Hint>Bereinigung jetzt starten</Hint>
+		</tbtnClnClean>
+		<tbtnClnItems>
+			<Caption>Elemente</Caption>
+		</tbtnClnItems>
+		<tbtnClnScan>
+			<Caption>Suchen</Caption>
+			<Hint>Nach löschbaren Elementen suchen|Nach löschbaren Elementen suchen</Hint>
+		</tbtnClnScan>
+		<tbtnClnSummary>
+			<Caption>Zusammenfassung</Caption>
+			<Hint>Kurze Information über aktuelle Anwendung anzeigen|Kurze Information über aktuelle Anwendung anzeigen</Hint>
+		</tbtnClnSummary>
+		<tbtnCollapse>
+			<Caption>Reduzieren</Caption>
+			<Hint>Aktive Baumansicht reduzieren</Hint>
+		</tbtnCollapse>
+		<tbtnDetails>
+			<Caption>Details</Caption>
+			<Hint>Anwendungsdetails anzeigen/ausblenden|Anwendungsdetails anzeigen/ausblenden</Hint>
+		</tbtnDetails>
+		<tbtnExpand>
+			<Caption>Erweitern</Caption>
+			<Hint>Aktive Baumansicht erweitern</Hint>
+		</tbtnExpand>
+		<tbtnInstallModify>
+			<Caption>Ändern</Caption>
+			<Hint>Aktuell ausgewähle Anwendung reparieren, ändern oder deinstallieren</Hint>
+		</tbtnInstallModify>
+		<tbtnInstallNew>
+			<Caption>Installieren</Caption>
+			<Hint>Installation einer neuen Anwendung überwachen|Installation einer neuen Anwendung überwachen</Hint>
+		</tbtnInstallNew>
+		<tbtnInstallUpdate>
+			<Caption>Aktualisieren</Caption>
+			<Hint>Die Installation einer Aktualisierung für die aktuelle Anwendung überwachen|Die Installation einer Aktualisierung für die aktuelle Anwendung überwachen</Hint>
+		</tbtnInstallUpdate>
+		<tbtnInstPrograms>
+			<Caption>Installierte Anwendungen</Caption>
+			<Hint>Zu installierten Anwendungen wechseln|Zu installierten Anwendungen wechseln</Hint>
+		</tbtnInstPrograms>
+		<tbtnMonPrograms>
+			<Caption>Überwachte Anwendungen</Caption>
+			<Hint>Zu überwachten Anwendungen wechseln|Zu überwachten Anwendungen wechseln</Hint>
+		</tbtnMonPrograms>
+		<tbtnPrograms>
+			<Caption>Anwendungen</Caption>
+			<Hint>Liste der installierten Anwendungen anzeigen/ausblenden|Liste der installierten Anwendungen anzeigen/ausblenden</Hint>
+		</tbtnPrograms>
+		<tbtnSave>
+			<Caption>Speichern</Caption>
+			<Hint>Änderungen des aktuellen Installationsprotokolls speichern</Hint>
+		</tbtnSave>
+		<tbtnSearch>
+			<Caption>Suchen</Caption>
+			<Hint>Nach einem Text in den ermittelten Änderungen suchen|Nach einem Text in den ermittelten Änderungen suchen</Hint>
+		</tbtnSearch>
+		<tbtnShowSnapshot>
+			<Caption>Sicherungspunkt anzeigen</Caption>
+		</tbtnShowSnapshot>
+		<tbtnSummary>
+			<Caption>Zusammen- fassung</Caption>
+			<Hint>Kurzinformation über die aktuelle Anwendung anzeigen|Kurzinformation über aktuelle Anwendung anzeigen</Hint>
+		</tbtnSummary>
+		<tbtnUninstall>
+			<Caption>Deinstallieren</Caption>
+		</tbtnUninstall>
+		<tbtnUninstallLog>
+			<Caption>Deinstallations- protokoll</Caption>
+			<Hint>Deinstallationsprotokoll der Anwendung anzeigen|Deinstallationsprotokoll der Anwendung anzeigen</Hint>
+		</tbtnUninstallLog>
+		<tbtnWinApps>
+			<Caption>Windows-\nApps</Caption>
+		</tbtnWinApps>
+		<tpnlSearch>
+			<Caption>Suchen</Caption>
+		</tpnlSearch>
+		<tvAutorunItems>
+			<Columns_0>Name</Columns_0>
+			<Columns_1>Abschnitt</Columns_1>
+			<Columns_2>Status</Columns_2>
+			<Columns_3>Beschreibung</Columns_3>
+			<Columns_4>Herausgeber</Columns_4>
+			<Columns_5>Befehl</Columns_5>
+		</tvAutorunItems>
+		<tvChanges>
+			<Columns_0>Ermittelte Änderungen</Columns_0>
+			<Columns_1>Vor der Installation</Columns_1>
+			<Columns_2>Nach der Installation</Columns_2>
+			<Columns_3>Aktuell genutzt</Columns_3>
+		</tvChanges>
+		<tvClnItems>
+			<Columns_0>Elemente</Columns_0>
+			<Columns_1>Eigenschaften</Columns_1>
+		</tvClnItems>
+		<tvResults>
+			<Columns_0>Name</Columns_0>
+			<Columns_1>Pfad</Columns_1>
+			<Columns_2>Anwendung</Columns_2>
+		</tvResults>
+	</frmTUMain>
+	<RESOURCESTRING>
+		<ACCESS_DENIED_X>Zugriff verweigert: %s</ACCESS_DENIED_X>
+		<ACT_CRE_KEY>Erstellter Schlüssel in der Registrierung: %s</ACT_CRE_KEY>
+		<ACT_CRE_VAL>Erstellter Wert in der Registrierung: %s</ACT_CRE_VAL>
+		<ACT_DEC_CNT>Veringerter Datenzähler für gemeinsam genutzte Dateien der Registrierung: %s</ACT_DEC_CNT>
+		<ACT_DEL_ADS>Gelöschter alternativer Datenstrom: %s</ACT_DEL_ADS>
+		<ACT_DEL_FILE>Gelöschte Datei: %s</ACT_DEL_FILE>
+		<ACT_DEL_FOLDER>Gelöschter Ordner: %s</ACT_DEL_FOLDER>
+		<ACT_DEL_KEY>Gelöschter Registrierungsschlüssel: %s</ACT_DEL_KEY>
+		<ACT_DEL_SERVICE>Gelöschter Dienst oder Gerät: %s</ACT_DEL_SERVICE>
+		<ACT_DEL_VAL>Gelöschter Registrierungswert: %s</ACT_DEL_VAL>
+		<ACT_RST_FILE>Wiederhergestellte Dateieigenschaften: %s</ACT_RST_FILE>
+		<ACT_RST_VAL>Wiederhergestellter Registrierungswert: %s</ACT_RST_VAL>
+		<ACT_STOP_SERVICE>Angehaltener Dienst oder Gerät: %s</ACT_STOP_SERVICE>
+		<ADD>Hinzufügen</ADD>
+		<ADVANCED>Erweitert</ADVANCED>
+		<AGENT>Assistent</AGENT>
+		<ALL>Alles</ALL>
+		<ALL_BRA>(Alles)</ALL_BRA>
+		<ALL_DETAILS>Alle Details</ALL_DETAILS>
+		<ALWAYS>Immer</ALWAYS>
+		<ANALYSIS_PROFILE>Analyseverfahren</ANALYSIS_PROFILE>
+		<ANALYSIS_PROFILES>Profile analysen</ANALYSIS_PROFILES>
+		<ANALYZING>● Anwendung wird analysiert …</ANALYZING>
+		<ASK>Fragen</ASK>
+		<ASK_COMPLETE_LATER>Überwachungsprozess später abschließen?</ASK_COMPLETE_LATER>
+		<ASK_IF_NO_ERROR>Fragen wenn keine Fehler</ASK_IF_NO_ERROR>
+		<ASK_SAVE_CHG>Möchten Sie die Änderungen an „%s“ jetzt speichern?</ASK_SAVE_CHG>
+		<ASK_USER>Benutzer fragen</ASK_USER>
+		<AUTOMATIC>Automatisch</AUTOMATIC>
+		<AUTORUN_ITEMS>Autostart-Elemente</AUTORUN_ITEMS>
+		<AUTORUN_MGR>Autostart-Verwaltung</AUTORUN_MGR>
+		<BACKUP>Sicherungsdatei</BACKUP>
+		<BACKUP_CREATED>Sicherung erstellt.</BACKUP_CREATED>
+		<BACKUP_CREATED_OK>Sicherung wurde erfolgreich erstellt.</BACKUP_CREATED_OK>
+		<BACKUP_PROGRAM>Sicherung für diese Anwendung wird erstellt …</BACKUP_PROGRAM>
+		<BACKUP_PROGRAM_X>Sicherung für die Anwendung „%s“ erstellen</BACKUP_PROGRAM_X>
+		<BEGIN_UNINSTALL>„Deinstallieren“ drücken, um den Deinstallationsprozess jetzt zu beginnen.</BEGIN_UNINSTALL>
+		<BEGIN_UNINSTALL_LAUNCH>„Starten“ drücken, um den Deinstallationsprozess jetzt zu beginnen.</BEGIN_UNINSTALL_LAUNCH>
+		<BROWSE_FOR_FILE>Datei suchen</BROWSE_FOR_FILE>
+		<BROWSE_FOR_FOLDER>Ordner suchen</BROWSE_FOR_FOLDER>
+		<BROWSE_FOR_FOLDER_OR_FILE>Ordner oder Datei suchen</BROWSE_FOR_FOLDER_OR_FILE>
+		<BROWSE_FOR_KEY>Schlüssel suchen</BROWSE_FOR_KEY>
+		<BROWSE_FOR_KEY_OR_VALUE>Schlüssel oder Wert suchen</BROWSE_FOR_KEY_OR_VALUE>
+		<BROWSE_FOR_VALUE>Wert suchen</BROWSE_FOR_VALUE>
+		<BTN_CONTINUE>Weiter</BTN_CONTINUE>
+		<BUILT_IN_CANCELLED>Die Deinstallationsroutine der Anwendung wurde abgebrochen oder ohne Abschluss der Installation zurückgegeben.</BUILT_IN_CANCELLED>
+		<BUILT_IN_UNINSTALLER_RUNNING>Deinstallationsroutine der Anwendung ist noch nicht abgeschlossen.</BUILT_IN_UNINSTALLER_RUNNING>
+		<CANCEL>Abbrechen</CANCEL>
+		<CANNOT_BROWSE>Fehler beim Starten des Standard-Browsers. \nDer Link wurde deshalb in der Zwischenablage kopiert.</CANNOT_BROWSE>
+		<CANT_EXECUTE>Die Anwendung „%s“ konnte nicht gestartet werden.</CANT_EXECUTE>
+		<CANT_OPEN_KEY>Schlüssel konnte nicht geöffnet werden</CANT_OPEN_KEY>
+		<CHANGED_ITEMS>Geänderte Elemente</CHANGED_ITEMS>
+		<CHANGES>„%s“ Änderungen</CHANGES>
+		<CHECK_UPD_NEW>Neue Aktualisierung oder neue Nachrichten verfügbar</CHECK_UPD_NEW>
+		<CHECK_UPD_REMINDER>Aktualisierungserinnerung prüfen</CHECK_UPD_REMINDER>
+		<CHG_VIEWS>Ansichten konfigurieren</CHG_VIEWS>
+		<CLEAN_UP>Aufräumen</CLEAN_UP>
+		<CLEAN_UP_DESC>Spuren eine deinstallierten und überwachten Anwendung entfernen</CLEAN_UP_DESC>
+		<CLEANED>Reinigung abgeschlossen</CLEANED>
+		<CLEANER>Säubern</CLEANER>
+		<CLEANING>Säuberungsmodul wird ausgeführt …</CLEANING>
+		<CLOSE>Schließen</CLOSE>
+		<CLOSE_PROCESSES>Prozesse schließen</CLOSE_PROCESSES>
+		<CMP_ERROR>Fehler während dem Vergleich der Sicherungspunkte.</CMP_ERROR>
+		<CMP_PROFILE>Profilname vergleichen</CMP_PROFILE>
+		<CNT_DEL_MON>Dateizähler für gemeinsam genutzte Dateien der Registrierung wurde gelöscht</CNT_DEL_MON>
+		<COMMENTS>Bemerkungen</COMMENTS>
+		<COMMON>Allgemein</COMMON>
+		<COMP_PROFILES>Vergleichsprofile</COMP_PROFILES>
+		<COMPARE>Vergleichen</COMPARE>
+		<COMPARING_SNS>Systemsicherungspunkte werden verglichen …</COMPARING_SNS>
+		<COMPLETE>Abgeschlossen</COMPLETE>
+		<COMPUTER>Rechner</COMPUTER>
+		<COMPUTER_X>Rechner (%s)</COMPUTER_X>
+		<CONTACT>Kontakt</CONTACT>
+		<CONTINUE>Möchten Sie wirklich fortsetzen?</CONTINUE>
+		<CONTINUE_UNINSTALL>Deinstallationsprozess dennoch fortsetzen?</CONTINUE_UNINSTALL>
+		<CONTINUE_UNINSTALL_Q>Deinstallationsprozess fortsetzen?</CONTINUE_UNINSTALL_Q>
+		<CORRUPT_CNT>Ungültige Änderung des Registrierungs-Dateizählers der gemeinsam genutzten Dateien ermittelt: Wert wurde vermindert oder enthält ungültige Daten</CORRUPT_CNT>
+		<CREATE_REG_KEYS>Schlüssel in der Registrierung erstellen</CREATE_REG_KEYS>
+		<CREATE_REG_VALS>Werte in der Registrierung erstellen</CREATE_REG_VALS>
+		<CREATED>Erstellt</CREATED>
+		<CREATED_ITEMS>Erstellte Elemente</CREATED_ITEMS>
+		<CREATED_ON>Erstellt am</CREATED_ON>
+		<CREATED_X>Erstellt: %s</CREATED_X>
+		<DEC_CNT>Zähler der gemeinsam genutzten Dateien in der Registrierung wurde veringert</DEC_CNT>
+		<DEEP_AUDIT>Intensive Prüfung</DEEP_AUDIT>
+		<DEFAULT>Standard</DEFAULT>
+		<DEFAULT_PAR>(Standard)</DEFAULT_PAR>
+		<DEL_AT_STARTUP>Elemente werden beim nächsten Systemstart gelöscht</DEL_AT_STARTUP>
+		<DEL_CNT>Dateizähler für gemeinsam genutzte Dateien werden in der Registrierung gelöscht</DEL_CNT>
+		<DEL_FILES>Dateien werden gelöscht …</DEL_FILES>
+		<DEL_FOLDERS>Ordner werden gelöscht …</DEL_FOLDERS>
+		<DEL_REG_KEYS>Registrierungsschlüssel werden gelöscht …</DEL_REG_KEYS>
+		<DEL_REG_VALS>Registrierungswerte werden gelöscht …</DEL_REG_VALS>
+		<DEL_SH_FILE>Gemeinsam genutzte Datei werden in den Papierkorb gelöscht …</DEL_SH_FILE>
+		<DELETE_SEL_BACKUPS>Möchten Sie die ausgewählte(n) Sicherung(en) wirklich löschen?</DELETE_SEL_BACKUPS>
+		<DELETE_SEL_UNDO>Ausgewählte Rückgängig-Elemente löschen?</DELETE_SEL_UNDO>
+		<DELETE_SYS_SEL_ITEM>Ausgewählte Elemente aus System löschen</DELETE_SYS_SEL_ITEM>
+		<DELETED>Gelöscht</DELETED>
+		<DELETED_ITEMS>Gelöschte Elemente</DELETED_ITEMS>
+		<DEPENDS_ON_PACKAGES>Abhängig von Paketen</DEPENDS_ON_PACKAGES>
+		<DETECTED_CHG>Ermittelte Änderungen</DETECTED_CHG>
+		<DISABLED>Deaktiviert</DISABLED>
+		<DISPOSABLE_ITEMS>Verfügbare Elemente</DISPOSABLE_ITEMS>
+		<DLG_ABORT>Abbrechen</DLG_ABORT>
+		<DLG_ALL>Alles</DLG_ALL>
+		<DLG_CANCEL>Abbrechen</DLG_CANCEL>
+		<DLG_CLOSE>Schließen</DLG_CLOSE>
+		<DLG_CNF>Bestätigen</DLG_CNF>
+		<DLG_ERR>Fehler</DLG_ERR>
+		<DLG_IGNORE>Ignorieren</DLG_IGNORE>
+		<DLG_INF>Information</DLG_INF>
+		<DLG_NO>Nein</DLG_NO>
+		<DLG_NOTOALL>Alles ablehnen</DLG_NOTOALL>
+		<DLG_OK>OK</DLG_OK>
+		<DLG_RETRY>Erneut versuchen</DLG_RETRY>
+		<DLG_WRN>Warnhinweis</DLG_WRN>
+		<DLG_YES>Ja</DLG_YES>
+		<DLG_YESTOALL>Alles zulassen</DLG_YESTOALL>
+		<DONT_DEL_SH_FILE>Benutzer auswählen, um gemeinsam genutzte Datei zu behalten</DONT_DEL_SH_FILE>
+		<EDIT_PROGRAM>Anwendung bearbeiten</EDIT_PROGRAM>
+		<ELAPSED>Dauer: %d:%2.2d</ELAPSED>
+		<ENTER_IDENTIFIER>Name der installierten Anwendung festlegen.</ENTER_IDENTIFIER>
+		<ERR>Fehler</ERR>
+		<ERR_BRA>(FEHLER)</ERR_BRA>
+		<ERR_DEL_FLD_FILES>Ein(e) oder mehrere Ordner oder Dateien  konnten nicht gelöscht werden</ERR_DEL_FLD_FILES>
+		<ERR_DEL_REG_KEYS_VALS>Ein oder mehrere Schlüssel oder Wert(e)  konnten nicht gelöscht werden</ERR_DEL_REG_KEYS_VALS>
+		<ERR_REDO_REG_KEYS_VALS>Wiederherstellung eines oder mehrerer Schlüssel oder Werte(s) fehlgeschlagen.</ERR_REDO_REG_KEYS_VALS>
+		<ERR_UNDO_REG_KEYS_VALS>Ein oder mehrere Schlüssel oder Wert(e) konnten nicht zurückgesetzt werden.</ERR_UNDO_REG_KEYS_VALS>
+		<ERR_WRN_OK_STAT>●  %d Fehler  ●  %d Warnhinweis(e)  ●  %d erfolgreich ausgeführte Aktion(en)</ERR_WRN_OK_STAT>
+		<ERROR_UNINST_X_APPS>Fehler beim Deinstallieren von %d Anwendung(en).</ERROR_UNINST_X_APPS>
+		<EXIT>Beenden</EXIT>
+		<EXPERT>Experte</EXPERT>
+		<EXPIRE_DAYS>Wird in %d Tagen ablaufen.</EXPIRE_DAYS>
+		<EXPORT_ERROR>Fehler beim Exportieren!</EXPORT_ERROR>
+		<EXTENSION>Dateiendung</EXTENSION>
+		<FAMILY_NOT_ACCEPTED>Familienlizenz wurde nicht aktzeptiert.</FAMILY_NOT_ACCEPTED>
+		<FFILTER_ALL>Alle Dateien (*.*)|*.*</FFILTER_ALL>
+		<FFILTER_DLL>Erweiterung der Programmbibliotheken (*.dll)|*.dll</FFILTER_DLL>
+		<FFILTER_EXE>Ausführbare Dateien (*.exe)|*.exe</FFILTER_EXE>
+		<FFILTER_EXE_MSI>usführbare Dateien, Windows Installer-Pakete</FFILTER_EXE_MSI>
+		<FFILTER_HTM>HTML-Dokumente (*.htm, *.html)|*.htm;*html</FFILTER_HTM>
+		<FFILTER_ICL>Symbolbiblitheken (*.icl)|*.icl</FFILTER_ICL>
+		<FFILTER_ICO>Symboldateien (*.ico)|*.ico</FFILTER_ICO>
+		<FFILTER_MSI>Microsoft-Installer (*.msi)|*.msi</FFILTER_MSI>
+		<FFILTER_REG>Registrierungsdateien (*.reg)|*.reg</FFILTER_REG>
+		<FFILTER_TXT>Text-Dateien (*.txt)|*.txt</FFILTER_TXT>
+		<FFILTER_WAV>Audio-Dateien (*.wav)|*.wav</FFILTER_WAV>
+		<FFILTER_XML>XML-Dokumente (*.xml)|*.xml</FFILTER_XML>
+		<FFILTER_ZIP>Datensicherungsdatreien (*.zip)|*.zip</FFILTER_ZIP>
+		<FILE>(Datei)</FILE>
+		<FILE_>Datei</FILE_>
+		<FILE_MASK>Dateimaske</FILE_MASK>
+		<FILE_SYSTEM>Dateisystem</FILE_SYSTEM>
+		<FILES_CHG_STAT>Geänderte Dateien     :%6.1d</FILES_CHG_STAT>
+		<FILES_CREATED_STAT>Erstellte Dateien      :%6.1d</FILES_CREATED_STAT>
+		<FILES_DEL_STAT>Gelöschte Dateien       :%6.1d</FILES_DEL_STAT>
+		<FILES_NOT_INCLUDED>In der Sicherung nicht enthaltene Dateien</FILES_NOT_INCLUDED>
+		<FILES_X>Dateien :%6.1d</FILES_X>
+		<FILTER>Filter</FILTER>
+		<FINISH>Fertigstellen</FINISH>
+		<FLDS_CREATED_STAT>Erstellte Ordner  :%6.1d</FLDS_CREATED_STAT>
+		<FLDS_DEL_STAT>Gelöschte Ordner  :%6.1d</FLDS_DEL_STAT>
+		<FOLDER>(ORDNER)</FOLDER>
+		<FOLDER_>Ordner</FOLDER_>
+		<FOLDER_MASK>Ordnermaske</FOLDER_MASK>
+		<FOLDERS_X>Ordner :%6.1d</FOLDERS_X>
+		<FREE_UPDATES_UNTIL>Kostenlose Aktualisierungen bis %s</FREE_UPDATES_UNTIL>
+		<FS_DET_VIEW_PRF>Dateisystemdetails [Ansicht: %s]</FS_DET_VIEW_PRF>
+		<GENERAL>Allgemein</GENERAL>
+		<GENERATED_BY_TU>Erstellt durch Total Uninstall</GENERATED_BY_TU>
+		<HIDDEN_NODE>Der Knoten ist ausgeblendet.</HIDDEN_NODE>
+		<HIDDEN_NODE_IN_VIEW>Der Knoten ist in der aktuellen Ansicht ausgeblendet.</HIDDEN_NODE_IN_VIEW>
+		<HIDE_OPTIONS>&amp;Optionen ausblenden</HIDE_OPTIONS>
+		<IF_NO_ERROR>Wenn keine Fehler</IF_NO_ERROR>
+		<IMPORTING_ARCHIVE>Archiv(e) importieren …</IMPORTING_ARCHIVE>
+		<INCLUDE_FOLDER_IN_LOG>Ordner in Protokolldatei einbeziehen</INCLUDE_FOLDER_IN_LOG>
+		<INF_VOLATILE_KEY>Temporärer Schlüssel nicht erstellt</INF_VOLATILE_KEY>
+		<INF_VOLATILE_VAL>Temporärer Wert in der Registrierung nicht erstellt</INF_VOLATILE_VAL>
+		<INST_ON>Installiert am …</INST_ON>
+		<INST_PRG>Name der installierten Anwendung</INST_PRG>
+		<INST_PRGS>Installierte Anwendungen</INST_PRGS>
+		<INST_SERV_AND_DEV>Installierte Dienste und Geräte</INST_SERV_AND_DEV>
+		<INSTALL>Installieren</INSTALL>
+		<INSTALL_HISTORY>Installationsverlauf</INSTALL_HISTORY>
+		<INSTALLED_APPS>%d installierte Anwendungen</INSTALLED_APPS>
+		<INSTALLED_PRGS_CMPS>%d installierte Anwendungen, %d Systemkomponenten</INSTALLED_PRGS_CMPS>
+		<INSTALLER_ERR>Installationfehler aufgetreten: Zähler für gemeinsam genutzte Dateien existiert bereits</INSTALLER_ERR>
+		<INTERFACE>Benutzeroberfläche</INTERFACE>
+		<INVALID_AFTER_CNT>NACHHER-Zähler ungültig</INVALID_AFTER_CNT>
+		<INVALID_BEFORE_CNT>VORHER-Zähler ungültig</INVALID_BEFORE_CNT>
+		<INVALID_CURRENT_CNT>Ungültiger AKTUELLER Zähler in Registrierung gefunden</INVALID_CURRENT_CNT>
+		<INVALID_FILE_FORMAT>Ungültiges Dateiformat</INVALID_FILE_FORMAT>
+		<INVALID_SERVER_RESPONSE>Ungültige Überprüfungsserverantwort. Wahrscheinlich manipuliert eine Firewall die Kommunikation.</INVALID_SERVER_RESPONSE>
+		<ITEM_X>Elemente: %s</ITEM_X>
+		<ITEMS_AFTER_INST>Die folgenden Elemente wurden nach der Installation erstellt.\nAndere Anwendungen können diese benötigen.</ITEMS_AFTER_INST>
+		<KEY>Schlüssel</KEY>
+		<KEYS_CREATED_STAT>Erstellte Schlüssel      :%6.1d</KEYS_CREATED_STAT>
+		<KEYS_DEL_STAT>Gelöschte Schlüssel      :%6.1d</KEYS_DEL_STAT>
+		<KEYS_X>Schlüssel    :%6.1d</KEYS_X>
+		<LAST_CHECK>Letzte Überprüfung: %s</LAST_CHECK>
+		<LAST_WRITE_X>Letzter Schreibzugriff: %s</LAST_WRITE_X>
+		<LAUNCH>Start</LAUNCH>
+		<LAUNCH_SUPPLIED_UNINST>Bitte auf die Schaltfläche „Start“ klicken, um die integrierte Deinstallationsroutine der Anwendung jetzt zu starten.</LAUNCH_SUPPLIED_UNINST>
+		<LAUNCH_TU>Total Uninstall öffnen</LAUNCH_TU>
+		<LIC_COUNTRY>Landeslizenz</LIC_COUNTRY>
+		<LIC_FAMILY>Familienlizenz</LIC_FAMILY>
+		<LIC_MULTIPLE>Lizenz für mehrere Rechner</LIC_MULTIPLE>
+		<LIC_SINGLE_COMPUTER>Einzelplatz-Lizenz</LIC_SINGLE_COMPUTER>
+		<LIC_SITE>Site-Lizenz</LIC_SITE>
+		<LIC_SMALL_OFFICE>Kleinbüro-Lizenz</LIC_SMALL_OFFICE>
+		<LIC_TECHNICIAN>Technikerlizenz</LIC_TECHNICIAN>
+		<LIC_TEMPORARY>Temporäre Lizenz</LIC_TEMPORARY>
+		<LIC_WORLDWIDE>Weltweite Lizenz</LIC_WORLDWIDE>
+		<LICENSED_TO>Lizenziert für „%s“</LICENSED_TO>
+		<LNK_EXE_FILTER>Verknüpfungen und ausführbare Dateien  (*.lnk, *.exe)|*.lnk;*.exe</LNK_EXE_FILTER>
+		<LOADING>Wird geladen …</LOADING>
+		<LOADING_INST_PRGS>Installierte Anwendungen werden geladen …</LOADING_INST_PRGS>
+		<LOADING_MON_PRGS>Überwachte Anwendungen laden …</LOADING_MON_PRGS>
+		<LOADING_WINDOWS_APPS>Loading Windows-Apps …</LOADING_WINDOWS_APPS>
+		<LOCATE_PRG_LNK_EXE>Verknüpfung oder ausführbare Datei auswählen</LOCATE_PRG_LNK_EXE>
+		<LOCATE_UNINSTALLER_EXE>Ausführbare Deinstallationdatei wählen</LOCATE_UNINSTALLER_EXE>
+		<LOG_FILE_NAME>Name und Pfad zur Protokolldatei</LOG_FILE_NAME>
+		<LOGON>Anmeldung</LOGON>
+		<MAINTENANCE_ENDED>Die Gültigkeitsdauer Ihrer Lizenz ist beendet.</MAINTENANCE_ENDED>
+		<MAINTENANCE_ENDED_INFO>Die neu installierte Programmversion wird im Demo-Modus ausgeführt.</MAINTENANCE_ENDED_INFO>
+		<MANUAL>Manuell</MANUAL>
+		<MICROSOFT>Microsoft</MICROSOFT>
+		<MISSING_ITEMS>Fehlende Elemente</MISSING_ITEMS>
+		<MODIFIED>Geändert</MODIFIED>
+		<MON_ON>Überwacht am</MON_ON>
+		<MON_PRG>Überwachte Anwendung</MON_PRG>
+		<MON_PRG_PATH>Überwachter Anwendungspfad</MON_PRG_PATH>
+		<MON_PRG_RUNNING>Es scheint als wird die überwachte Anwendung noch ausgeführt.</MON_PRG_RUNNING>
+		<MONITOR_WITH_TU>Mit Total Uninstall überwachen</MONITOR_WITH_TU>
+		<MONITORED_PRGS>%d überwachte Anwendungen</MONITORED_PRGS>
+		<NAME>Name</NAME>
+		<NEVER>Niemals</NEVER>
+		<NEW_NAME>Neuer Name</NEW_NAME>
+		<NO>Nein</NO>
+		<NO_GROUPS>Keine Gruppen</NO_GROUPS>
+		<NO_MORE_INSTANCES_ALLOWED>Ihre Lizenz erlaubt keine weitere Instanzen dieser Anwendung.</NO_MORE_INSTANCES_ALLOWED>
+		<NO_RIGHTS>Ungenügende Rechte</NO_RIGHTS>
+		<NO_UPDATES>Korrumpierte Version.</NO_UPDATES>
+		<NON_MICROSOFT>Nicht-Microsoft</NON_MICROSOFT>
+		<NON_WINDOWS>Nicht-Windows</NON_WINDOWS>
+		<NORMAL>Normal</NORMAL>
+		<NOT_A_VALID_UNINST>Keine gültige oder registrierte Deinstallationsroutine gefunden.</NOT_A_VALID_UNINST>
+		<NOT_AVAILABLE>Nicht verfügbar</NOT_AVAILABLE>
+		<NOT_DELETED_FILES>Nicht gelöschte Dateien und Ordner</NOT_DELETED_FILES>
+		<NOT_DELETED_FILES_DET>Während der Deinstallation nicht gelöschte Ordner und Dateien</NOT_DELETED_FILES_DET>
+		<NOT_DELETED_REG>Nicht gelöschte Schlüssel und Werte der Registrierung</NOT_DELETED_REG>
+		<NOT_DELETED_REG_DET>Während der Deinstallation nicht gelöschte Schlüssel und Werte der Registrierung</NOT_DELETED_REG_DET>
+		<NOT_EMPTY>Nicht leer</NOT_EMPTY>
+		<NOT_FOUND>Keine angelegt</NOT_FOUND>
+		<NOT_FOUND_X>Nicht gefunden: %s</NOT_FOUND_X>
+		<NOTES>Notizen</NOTES>
+		<OK>Erfolgreich</OK>
+		<OK_BRA>(OK)</OK_BRA>
+		<ON_PRG_CLOSE>Nachdem die Anwendung geschlossen wurde</ON_PRG_CLOSE>
+		<ON_REFRESH>Nach Aktualisierung</ON_REFRESH>
+		<ONLY_FILES_TO_KEEP>Nicht gelöscht. Enthält nur Dateien oder Ordner die nicht gelöscht werden sollen.</ONLY_FILES_TO_KEEP>
+		<ONLY_KEYS_TO_KEEP>Nicht gelöscht. Enthält nur Registrierungsschlüssel die nicht gelöscht werden sollen.</ONLY_KEYS_TO_KEEP>
+		<OTHER>Weitere</OTHER>
+		<PACKAGES>Pakete</PACKAGES>
+		<PAGE>Seite:</PAGE>
+		<PAINT_ITEM_STYLES>Normal\nAusblenden\nText hervorheben\nSymbol abblenden\nSymbol abblenden und Text hervorheben</PAINT_ITEM_STYLES>
+		<PENDING_FILE_REN>Ausstehende Dateinamenänderungen.</PENDING_FILE_REN>
+		<PRE_INST_SNS_NAME>Name des Sicherungspunkts für die Installationsvorbereitung</PRE_INST_SNS_NAME>
+		<PRE_INSTALL>Systemsicherungspunkt der Installationsvorbereitung</PRE_INSTALL>
+		<PREFERENCES>Einstellungen</PREFERENCES>
+		<PRG_DETECTED>Anwendung erkannt:</PRG_DETECTED>
+		<PRG_NAME>Anwendungsname</PRG_NAME>
+		<PRG_PART_UNINSTALLED>Die Anwendung wurde nur unvollständig deinstalliert</PRG_PART_UNINSTALLED>
+		<PRG_RESTORED>Die Anwendung wurde wiederhergestellt.</PRG_RESTORED>
+		<PRG_UNINSTALLED>Die Anwendung wurde erfolgreich deinstalliert.</PRG_UNINSTALLED>
+		<PRINT_ERROR>Fehler beim Drucken!</PRINT_ERROR>
+		<PROCESS_CANCELLED>Prozess abgebrochen.</PROCESS_CANCELLED>
+		<PROCESSING_INSTALLATIONS>Installationen werden verarbeitet …</PROCESSING_INSTALLATIONS>
+		<PRODUCT_UPDATES>Produktaktualisierungen</PRODUCT_UPDATES>
+		<PROGRAM_WILL_RESTART>Die Anwendung wird neu gestartet, um die Registrierung abzuschließen.</PROGRAM_WILL_RESTART>
+		<PROGRESS_DEFAULT>Fortschritt, Standard</PROGRESS_DEFAULT>
+		<PST_INST_SNS_NAME>Sicherungspunkt nach Installationsabschluss</PST_INST_SNS_NAME>
+		<PUBLISHER>Entwickler</PUBLISHER>
+		<QST_DEL_FLD_FILES>Sind Sie sicher dass Sie die ausgewählten Ordner oder Dateien wirklich löschen möchten?</QST_DEL_FLD_FILES>
+		<QST_DEL_REG_KEYS_VALS>Sind Sie sicher dass Sie die ausgewählten Schlüssel oder Werte wirklich löschen möchten?</QST_DEL_REG_KEYS_VALS>
+		<QST_DEL_SERVICES>Möchten Sie wirklich die ausgewählten Dienste löschen?</QST_DEL_SERVICES>
+		<QST_REMOVE_INST_PRG_LST>Möchten Sie die ausgewählte Anwendung wirklich aus der Liste entfernen?</QST_REMOVE_INST_PRG_LST>
+		<QUEST_REMOVE_GROUP>Möchten Sie diese Gruppe wirklich entfernen?</QUEST_REMOVE_GROUP>
+		<QUIET_PROGRESS_DEFAULT>Still, Fortschritt, Standard</QUIET_PROGRESS_DEFAULT>
+		<README>Wichtge Informationen</README>
+		<READY>Fertig</READY>
+		<RECORD_CHANGED_X>Eintrag geändert: %s</RECORD_CHANGED_X>
+		<REDO_PROFILES>Profile wiederherstellen</REDO_PROFILES>
+		<REG_DET_VIEW_PRF>Registriertungsdetails [Ansicht: %s]</REG_DET_VIEW_PRF>
+		<REG_KEY>(REG SCHLÜSSEL)</REG_KEY>
+		<REG_RUN>Ausführen</REG_RUN>
+		<REG_RUN_ONCE>Einmal ausführen</REG_RUN_ONCE>
+		<REG_SCAN_ERROR>Fehler während der Überprüfung der Registrierung.</REG_SCAN_ERROR>
+		<REG_VAL>(REG WERT)</REG_VAL>
+		<REGISTER_DISABLED_KEY>Sie sind möglicherweise Opfer einer Software-Fälschung. Bitte erwerben Sie einen original Lizenzschlüssel.</REGISTER_DISABLED_KEY>
+		<REGISTER_FAILED>Registrieren fehlgeschlagen.</REGISTER_FAILED>
+		<REGISTER_FIREWALL>Eine Firewall verhindert die Online-Überprüfung Ihrer Lizenz.</REGISTER_FIREWALL>
+		<REGISTER_HOST>Ein Eintrag in der HOST-Datei verhindert %s die Online-Überprüfung Ihrer Lizenz.</REGISTER_HOST>
+		<REGISTER_INVALID>Ungültige Registrierungsinformation</REGISTER_INVALID>
+		<REGISTER_PORTABLE>Tragbare Version für Techniker muss registriert werden</REGISTER_PORTABLE>
+		<REGISTER_PRO>Das Anwendung muss mit einem Schlüssel der „Professional Edition“ registriert werden.</REGISTER_PRO>
+		<REGISTER_THANK_YOU>Vielen Dank für die Registrierung von %s.</REGISTER_THANK_YOU>
+		<REGISTERED_COMPANY>Am System angemeldetes Unternehmen</REGISTERED_COMPANY>
+		<REGISTERED_OWNER>Angemeldeter Benutzer</REGISTERED_OWNER>
+		<REGISTRY>Registrierung</REGISTRY>
+		<REMOVE_LEFT_BEHIND>Drücken Sie auf „Deinstallieren“, um ermittelte Ordner, Registrierungsschlüssel und Werte zu entfernen.</REMOVE_LEFT_BEHIND>
+		<REMOVE_LOG>Möchten Sie das Änderungsprotokoll wirklich löschen?</REMOVE_LOG>
+		<REMOVE_LOG_DET>Es ist nicht möglich die Änderungen der ausgewählten Anwendung wiederherzustellen.</REMOVE_LOG_DET>
+		<REMOVE_PRG_DATA>Möchten Sie die Einstellungen und Programmdaten der Anwendung wirklich entfernen?</REMOVE_PRG_DATA>
+		<REMOVE_PRG_DATA_INFO>Wählen Sie hier „Nein„ falls Sie ein Update/Upgrade von Total Uninstall planen</REMOVE_PRG_DATA_INFO>
+		<RENAME>Umbenennen</RENAME>
+		<REQUEST_INTERNET_ACCESS>Internetzugang ist erforderlich.</REQUEST_INTERNET_ACCESS>
+		<RESTORATION_UNDONE>Die Wiederherstellung wurde rückgängig gemacht</RESTORATION_UNDONE>
+		<RESTORE>Wiederherstellen</RESTORE>
+		<RESTORE_PROGRAM>Anwendung wiederherstellen</RESTORE_PROGRAM>
+		<RESTORE_REG_VALS>Registrierungswerte wiederherstellen</RESTORE_REG_VALS>
+		<RESTORING_ARCHIVE>Dateien und und Registrierungselemente werden wiederhergestellt</RESTORING_ARCHIVE>
+		<RESTORING_FILES_FROM_BKP>Dateien aus Sicherung wiederherstellen …</RESTORING_FILES_FROM_BKP>
+		<RST_FILE_PROP>Dateieigenschaften wiederherstellen</RST_FILE_PROP>
+		<RUN_EVAL_PERIOD>Wird die Anwendung innerhalb des Testzeitraums ausgeführt?</RUN_EVAL_PERIOD>
+		<RUNNING>Wird ausgeführt</RUNNING>
+		<RUNNING_DOMAIN>Wird in einer Windows NT-Domäne ausgeführt.</RUNNING_DOMAIN>
+		<RUNNING_SERVER>Wird auf einem Windows-Server ausgeführt</RUNNING_SERVER>
+		<RUNNING_VM>Wird in einer virtuellen Maschine ausgeführt.</RUNNING_VM>
+		<SAFE>Gefahrlos</SAFE>
+		<SAVE_AS>Speichern unter</SAVE_AS>
+		<SCAN_PROFILES>Suchprofile</SCAN_PROFILES>
+		<SCANNING>Suche wird ausgeführt …</SCANNING>
+		<SCANNING_REGISTRY_AND_FS>Registrierung und Dateisystem wird durchsucht …</SCANNING_REGISTRY_AND_FS>
+		<SCHEDULED_TASKS>Geplante Aufgaben</SCHEDULED_TASKS>
+		<SEARCH>Suchen</SEARCH>
+		<SEARCH_IN_X>In „%s“ suchen</SEARCH_IN_X>
+		<SEL_BRA>(Auswahl)</SEL_BRA>
+		<SEL_HAS_HD_NODES>Die Auswahl enthält mindestens einen ausgeblendeten Knoten</SEL_HAS_HD_NODES>
+		<SEL_PRG_UNINSTALLED>Die ausgewählte Anwendung wurde bereits deinstalliert.</SEL_PRG_UNINSTALLED>
+		<SEL_UNINSTALL_PROFILE>Wählen Sie ein Deinstallationsprofil aus.</SEL_UNINSTALL_PROFILE>
+		<SELECT>Auswählen</SELECT>
+		<SERVICE>Dienst</SERVICE>
+		<SERVICES>Dienste</SERVICES>
+		<SHARED_FILE>Gemeinsam genutzte Datei. Nicht in diesem Schritt gelöscht</SHARED_FILE>
+		<SHARED_FILE_CNT_DEC>Zähler für gemeinsam genutzte Datei wurde bereits vermindert</SHARED_FILE_CNT_DEC>
+		<SHARED_FILE_NOT_FOUND>Gemeinsam genutzte Datei konnte nicht gefunden werden</SHARED_FILE_NOT_FOUND>
+		<SHOW_OPTIONS>&amp;Optionen anzeigen</SHOW_OPTIONS>
+		<SHOW_SYS_COMP>Systemkomponenten anzeigen: %s</SHOW_SYS_COMP>
+		<SIZE>Größe</SIZE>
+		<SIZE_STAT>Größe                    : %s</SIZE_STAT>
+		<SKIP>Übergehen</SKIP>
+		<SKIP_BUILTIN_UNINSTALLER>Wenn die Deinstallationsroutine der Anwendung nicht reagiert, drücken Sie „Übergehen“, um fortzufahren. Die nächste Deinstallationsroutine der Anwendung wird gestartet.</SKIP_BUILTIN_UNINSTALLER>
+		<SMALL_CNT>Zähler für gemeinsam genutzte Dateien in der Registrierung ist zu niedrig</SMALL_CNT>
+		<START>Starten</START>
+		<START_MENU>Startmenü</START_MENU>
+		<START_SCANNING>Auf die Schaltfläche „Suchen“ klicken, um Suchvorgang jetzt zu starten.</START_SCANNING>
+		<START_UNINSTALL_PROCESS>Deinstallationsprozess starten.</START_UNINSTALL_PROCESS>
+		<STARTUP_TYPE_X>Starttyp: %s</STARTUP_TYPE_X>
+		<STOP>Stopp</STOP>
+		<STOP_SERVICES>Dienste anhalten</STOP_SERVICES>
+		<STOPPED>Angehalten</STOPPED>
+		<SUMMARY>Zusammenfassung</SUMMARY>
+		<SUPPORT_INFO>Supportinformationen</SUPPORT_INFO>
+		<SUPPORT_PHONE>Telefonunterstützung</SUPPORT_PHONE>
+		<SVC_CMD_NOT_ACCEPTED>Dienst konnte nicht angehalten werden.</SVC_CMD_NOT_ACCEPTED>
+		<SW_VERSION>Version %s</SW_VERSION>
+		<SYSTEM>System</SYSTEM>
+		<TEMPORARY_FILES>Temporäre Dateien</TEMPORARY_FILES>
+		<TITLE_MON_INSTALL>Neue Installation überwachen</TITLE_MON_INSTALL>
+		<TITLE_MON_UPDATE_X>Anwendungsaktualisierung überwachen: „%s“</TITLE_MON_UPDATE_X>
+		<TOTAL_LIC_COMPUTERS>Anzahl lizenzierter Rechner für oben genannten Namen: %s</TOTAL_LIC_COMPUTERS>
+		<TOTAL_UNINSTALL>Vollständige Deinstallation</TOTAL_UNINSTALL>
+		<TRACES_AFTER_UNINSTALL>Spuren nach Deinstallation</TRACES_AFTER_UNINSTALL>
+		<TRIAL_EXPIRED>Testzeitraum abgelaufen. Bitte registrieren.</TRIAL_EXPIRED>
+		<TU_AGENT>Total Uninstall-Assistent</TU_AGENT>
+		<TU_MON_PRG_TITLE>Überwachte Anwendungen</TU_MON_PRG_TITLE>
+		<TU_PRO_EDITION>Total Uninstall ● Professional-Edition</TU_PRO_EDITION>
+		<TU_STD_EDITION>Total Uninstall ● Standard-Edition</TU_STD_EDITION>
+		<TU_ULT_EDITION>Total Uninstall ● Ultimate-Edition</TU_ULT_EDITION>
+		<TU_USE_FIRST_UNINST>Total Uninstall verwendet zuerst die Deinstallationsroutine der Anwendung</TU_USE_FIRST_UNINST>
+		<TU_USE_FIRST_UNINST_DESC>Antivirus, Antispyware, Firewall, Treiber oder jede Anwendung welches Systemkomponenten installiert, deinstallieren.</TU_USE_FIRST_UNINST_DESC>
+		<UNDO>Rückgängig</UNDO>
+		<UNDO_RESTORATION>Wiederherstellung rückgängig machen</UNDO_RESTORATION>
+		<UNINST_ANALYZED>Analysierte Anwendung deinstallieren</UNINST_ANALYZED>
+		<UNINST_BUNDLE>Analysierte Anwendungen deinstallieren - Mehrfachauswahl</UNINST_BUNDLE>
+		<UNINST_PROFILES>Deinstallationsprofile</UNINST_PROFILES>
+		<UNINSTALL>Deinstallieren</UNINSTALL>
+		<UNINSTALL_INST_HINT>Aktuell ausgewählte Anwendung jetzt deinstallieren|Deinstallation der ausgewählten und analysierten Anwendung</UNINSTALL_INST_HINT>
+		<UNINSTALL_LOG>Deinstallationsprotokoll</UNINSTALL_LOG>
+		<UNINSTALL_MON_HINT>Aktuell ausgewählte Anwendung jetzt deinstallieren|Deinstallation der ausgewählten und überwachten Anwendung</UNINSTALL_MON_HINT>
+		<UNINSTALL_PROGRAM_X>Die Anwendung „%s“ jetzt deinstallieren …</UNINSTALL_PROGRAM_X>
+		<UNINSTALL_USER_WIN_APP_HINT>Deinstallation|Deinstallieren Sie die ausgewählte Windows-App aus dem Benutzerkonto</UNINSTALL_USER_WIN_APP_HINT>
+		<UNINSTALL_WIN_APPS>Ausgewählte Anwendung(en) deinstallieren?</UNINSTALL_WIN_APPS>
+		<UNINSTALLED_WITH_TU>„%s“ jetzt mit Total Uninstall deinstallieren</UNINSTALLED_WITH_TU>
+		<UNREGISTERED>Nicht registriert</UNREGISTERED>
+		<USE_LAST_SNS>Letzten Sicherungspunkt verwenden</USE_LAST_SNS>
+		<USE_LAST_SNS_AGO_D>Letzten Sicherungspunkt verwenden (vor %d Tag(en), %d Std. und %d min)</USE_LAST_SNS_AGO_D>
+		<USE_LAST_SNS_AGO_H>Letzten Sicherungspunkt verwenden (vor %d Stunden und %d Minuten)</USE_LAST_SNS_AGO_H>
+		<USE_LAST_SNS_AGO_M>Letzten Sicherungspunkt verwenden (vor %d Minuten)</USE_LAST_SNS_AGO_M>
+		<USE_OLD_PURCHASE_NEW>Zur Nutzung dieser Programmversion eine ältere Version installieren oder ein Update erwerben.</USE_OLD_PURCHASE_NEW>
+		<USE_ONLY_PRG_UNINST>Ausschließlich die Deinstallationroutine der Anwendung ausführen</USE_ONLY_PRG_UNINST>
+		<USE_OR_BUILD_SNS>Einen Sicherungspunkt der Installationsvorbereitung verwenden oder erstellen</USE_OR_BUILD_SNS>
+		<USR_ABORT>Abbruch durch den Benutzer</USR_ABORT>
+		<VALS_CHG_STAT>Geänderte Werte  :%6.1d</VALS_CHG_STAT>
+		<VALS_CREATED_STAT>Erstellte Werte   :%6.1d</VALS_CREATED_STAT>
+		<VALS_DEL_STAT>Gelöschte Werte   :%6.1d</VALS_DEL_STAT>
+		<VALUE>Werte</VALUE>
+		<VALUES_X>Werte :%6.1d</VALUES_X>
+		<VERSION>Version der installierten Anwendung</VERSION>
+		<WAIT_UNINST_REMOVE_LEFT>Wenn die integrierte Deinstallationsroutine abgeschlossen ist, drücken Sie die Schaltfläche „Deinstallieren“, um zurückgelassene Ordner, Dateien, Registrierungsschlüssel und Werte zu entfernen</WAIT_UNINST_REMOVE_LEFT>
+		<WIN_APP_NAME>Anwendungsname</WIN_APP_NAME>
+		<WIN_APPS>Windows-Apps</WIN_APPS>
+		<WINDOWS>Windows</WINDOWS>
+		<WRN_BRA>(ACHTUNG)</WRN_BRA>
+		<X_BYTE>%s B</X_BYTE>
+		<X_BYTES>%d Bytes</X_BYTES>
+		<X_CHANGES>%s - Änderungen</X_CHANGES>
+		<X_GIGABYTE>%s GB</X_GIGABYTE>
+		<X_KILOBYTE>%s KB</X_KILOBYTE>
+		<X_MEGABYTE>%s MB</X_MEGABYTE>
+		<X_RESULTS>%d Ergebnis(e)</X_RESULTS>
+		<X_UNINSTALL_LOG>„%s“ - Deinstallationsprotokoll</X_UNINSTALL_LOG>
+		<X_UNINSTALL_LOG_FILE>„%s“ - Deinstallationsprotokoll.txt</X_UNINSTALL_LOG_FILE>
+		<YES>Ja</YES>
+		<ZERO_LENGTH_DATA>(Daten der Länge 0 (Null))</ZERO_LENGTH_DATA>
+	</RESOURCESTRING>
+</TotalUninstall>

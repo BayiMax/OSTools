@@ -1,0 +1,2253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TotalUninstall>
+	<_System_>
+		<Flag>
+			<Size>1974</Size>
+			<Data>Qk22BwAAAAAAADYAAAAoAAAAIAAAABQAAAABABgAAAAAAIAHAAATCwAAEwsAAAAAAAAAAAAAANr2ANfzANXyANTwANXyANLvAM/uAM3sAM7uAM/tAM/uAMzsAMjqAMXpAMbpAMfqAMfqAMXoAL/jALzhALvgAL3iAL3iALzhALjeALbeALTcALbeALXdALbeALXdALbeANj0ENvzKuT1MOTzKOPzJuDxKODxKd7wKd/xJt/wJN/xI93vJNvvItnuINntH9ruINruH9ntHdXqG9PoHNLnG9PoGtPoGdLnGdDlGs/mGMzkFs/lFtDlE87lCcHgALXdANr2Keb3afz8dP/6Xvv5Vvf3Wvv5XPr4Xfv5V/n3Ufr4T/n3UPr4Tfn3R/j2Rfj2Rvj2Q/j2Pvf2O/b1PPb1O/b1N/X0NfX0NfTzNfX0L/HyL/XzM/r0L/PzGNTnALbeANv3Lef3cf78d//7Wf36TPr4UPz5Uvz4U/35Tvv3SPv4Rfv3Rfz4Qvv3Pfr2O/r1Ofn1Nvn1MPn1Lvn1L/n0Lvj0KffzJffzI/byIvjzHPTxIPjyL/30MvfzHNXnALTcAN76Kej5ZPr7Zf76Rfr7N/f5OPj5Off3Ofj4N/f3M/f4MPb3Lfb2K/X1KfX1J/T0JPPzIPPzG/LyGvPzGfLyGPLyFfHxEPHxDe/vCfDwBe3uDfHwJPbyLvDxG9PnALbeBtrxLeXyaPj3avz2Tfj2P/b0Qff1PvXzO/XzPPTyO/XzOPTyM/TyMfPwL/PwLfLvKvHuJ/HuJPDtIfDuHe/sHPDtHO/sGe/tFe3qEO3qDOroFe7rLPPtNu7sItLhBbbZAOH/Iur/Yfz/Zv/9Sv7/Pvz/Qf3/Pvv+OPv+OPr9N/v+Nvr9Mfr9Lvn8LPn9Kfj8J/f7Jff7Ivb6Hvb6GfX5F/b6F/X5Fvb6E/T4DvX5CPL3D/X4Jfn4LvT4GdrwAMHqAOf/Fu//WP//XP//P///Nf//Of//OP//Mv//Lv7/K///K/7/Kf3/J/3/JP7/IP3/Hfz/G/v/GPr/Ffr/Efr/D/r/C/n/Cfr/Cfn/Bvr/APf/Avr/GPz/I/j/Dt/9AMn7H9TSQ9/ZevPoffbpZfPlXfDhYvLjYvHiXvHjWe/hVe/gVe7fVu7fVO7fUO3eTOzcS+vcSezcR+vbRevbQunZP+nYO+jXOenYOujXOOjXL+PTM+fVRu3ZTujZNcnJFqq7lKY5p7hhxtijyNyrvNKUtsyJuc6Nuc6Nuc+OtcyLtMuHs8qFtcuGs8mEr8d/rcZ7rcZ8rcd+rcd+rMZ8qcJ2p8FzpsFzpsJ0pb9wo75tnrdlor1rrst7rsR7j5habmky54IA7Jwd+Md2+MyB9r1f8rVR9LhV8rdW9LhV87ZT87RN8rNL87NM8bFJ765D7q4/7q4/765A765A76097Kk17Kcx7KYw7acx66Qu66Ip6Jsf66Im8bQ97a1A1HkZu0AA/HcA/JUl/8Vx/8t4/7tY/bRL/rhP/bZP/rVO/bRL/rRI/bJF/bBE+65B+60++qw7+qw5+qs3+qk1+agz+KYt+KQp96El+aEl96El+KAj9ZkZ958d97A096k67Hgc4z8A+3oI+pc0/MZ2+817/L5e+rdS+7tW+blV+rhT+LdS+rdP+bVM+LNK97FI97BG9q9E9q5B9a0+9aw69as59Kk19Kgx86Ut86Qr8qQr9KIp8Zwi8qIm8rI69KtA73sn7EUH/4AB/Zov/8Z2/c19/sBf/bhT/rxY/LpW/blT+7dS/LdQ+7ZO+7VL+7NI+7JG+q9E+a9C+K5A+K08+Kw696o396o19qgx96cv9aQq96In9Jwh9qQp+LQ8+aw/8Xkj60MB/IUA+50v/cV2+8t7/L1c+rdR/LpW+rlV+7hS+rZR+rVP+bRN+bRK+bJH+bJF+K9D+K5B9qw/9qs79qo59ak39ak19Kcz9acv86Qq9KEm8pwh9KQp9rRA961E7Xom5kMA/4UA/p4u/8Z1/ct7/r1c/LhS/rxY/btY/rpW/bhT/bhQ/LZP/LVN+7RL+7RI+7NF+7BD+q5B+K0/+Ks9+Ks6+Ko396k1+Kgy9qYw9qUr9J8l9qYs97ZE969J73sp6UMA/YMA/J4y/syC/NaQ/cl3+8Ru/ch0/Md0/cdy/MVu/MVr+8Nr/MRq+8Jn+sFj+sFg+r9e+b5e+L1d+Lxb+LxX+btT97hQ+LhO9rdN97dK97FD+bhG+MVW9rlT7X8t50EA/oIA/Zwu/8l7/tSP/8x//sh4/8t9/cp8/sp6/ch3/sh0/cd0/sh0/cZx/MRs+8Nq+8Nq+8Rr+8Rr+8Nq+sFm+r9h+bxd+rxc+Ltb+rxa+rdU/LpT+sNY97RM7nwn6UIA/YIA/JAZ/qlC/a9O/qxI/alF/qtH/KpG/alF/KhD/ahC+6ZC/KRD+6JB+qE++qE9+qE9+qI++qM++aA+95s79pg49ZU295c29ZY295Y29pEy9pAx9JIx8ogo7WoU6ksA/4UA/oQA/4UA/oQA/4UA/oUA/4UA/YMA/oIA/YIA/oIA/H8A/HkA+3YA+3cA+3gA+3cA/HkA/HkA+nUA9mwA9GcA82YA9WkA9GkA9WcA8mIA8VwA7lgA71cA7lYA71cA</Data>
+		</Flag>
+		<LanguageCode>en</LanguageCode>
+		<LocalizedName>Українська</LocalizedName>
+		<Version>60301</Version>
+	</_System_>
+	<Cleaner>
+		<CF-BROWSER-CACHE>Браузер</CF-BROWSER-CACHE>
+		<CF-BROWSER-CACHE-CHROME>Chrome</CF-BROWSER-CACHE-CHROME>
+		<CF-BROWSER-CACHE-FIREFOX>Firefox</CF-BROWSER-CACHE-FIREFOX>
+		<CF-BROWSER-CACHE-IE>Internet Explorer</CF-BROWSER-CACHE-IE>
+		<CF-BROWSER-CACHE-MAXTHON>Maxthon</CF-BROWSER-CACHE-MAXTHON>
+		<CF-BROWSER-CACHE-OPERA>Opera</CF-BROWSER-CACHE-OPERA>
+		<CF-PROGRAMS>Програми</CF-PROGRAMS>
+		<CF-PROGRAMS-ADOBE-FLASH-PLAYER>Adobe Flash Player</CF-PROGRAMS-ADOBE-FLASH-PLAYER>
+		<CF-PROGRAMS-MSOFFICE-RECENT>Список останніх файлів Microsoft Office</CF-PROGRAMS-MSOFFICE-RECENT>
+		<CF-PROGRAMS-SUN-JAVA-CACHE>Кеш Sun Java</CF-PROGRAMS-SUN-JAVA-CACHE>
+		<CF-SYSTEM>Система</CF-SYSTEM>
+		<CF-SYSTEM-JUNK-FILES>Сміттєві файли</CF-SYSTEM-JUNK-FILES>
+		<CF-SYSTEM-RECYCLE-BIN>Примусове очищення Кошику</CF-SYSTEM-RECYCLE-BIN>
+		<CF-SYSTEM-TEMP-FILES>Тимчасові файли</CF-SYSTEM-TEMP-FILES>
+		<CF-SYSTEM-THUMBNAILS-CACHE>Кеш ескізів</CF-SYSTEM-THUMBNAILS-CACHE>
+		<CF-WINDOWS>Windows</CF-WINDOWS>
+		<CF-WINDOWS-ERROR-REPORTING>Звіти про помилки</CF-WINDOWS-ERROR-REPORTING>
+		<CF-WINDOWS-EXPLORER>Провідник Windows</CF-WINDOWS-EXPLORER>
+		<CF-WINDOWS-EXPLORER-RECENT-FILES>Останні документи</CF-WINDOWS-EXPLORER-RECENT-FILES>
+		<CF-WINDOWS-LOG-FILES>Log файли</CF-WINDOWS-LOG-FILES>
+		<CF-WINDOWS-MEMORY-DUMP-FILES>Дампи пам&apos;яті</CF-WINDOWS-MEMORY-DUMP-FILES>
+		<CF-WINDOWS-TEMP-FOLDERS>Тимчасові папки</CF-WINDOWS-TEMP-FOLDERS>
+		<CR-INVALID-ENTRIES>Невірні пункти</CR-INVALID-ENTRIES>
+		<CR-INVALID-ENTRIES-FILE-REFERENCES>Посилання на файли</CR-INVALID-ENTRIES-FILE-REFERENCES>
+		<CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>Відсутні загальні DLL</CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>
+		<CR-INVALID-ENTRIES-MSI-PATHS>Шляхи MSI</CR-INVALID-ENTRIES-MSI-PATHS>
+		<CR-INVALID-ENTRIES-MUI-REFERENCES>MUI посилання</CR-INVALID-ENTRIES-MUI-REFERENCES>
+		<CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>Немає інформації про формат файлу</CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>
+	</Cleaner>
+	<dlgAddInstalledPrg>
+		<btnCancel>
+			<Caption>Відмінити</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>ОК</Caption>
+		</btnOK>
+		<Caption>Додати програму</Caption>
+		<lblBuiltInUninstaller>
+			<Caption>Вбудований деінсталятор</Caption>
+		</lblBuiltInUninstaller>
+		<lblInstallationFolder>
+			<Caption>Встановлена в папку</Caption>
+		</lblInstallationFolder>
+		<lblPrgName>
+			<Caption>Назва програми</Caption>
+		</lblPrgName>
+	</dlgAddInstalledPrg>
+	<dlgAskDelItem>
+		<btnOK>
+			<Caption>&amp;ОК</Caption>
+		</btnOK>
+		<btnSelectAll>
+			<Caption>&amp;Виділити все</Caption>
+		</btnSelectAll>
+		<btnUnselectAll>
+			<Caption>&amp;Зняти виділення</Caption>
+		</btnUnselectAll>
+		<Caption>Видалити пункти?</Caption>
+		<cbAutoSelectAll>
+			<Caption>Автоматично виділити все</Caption>
+		</cbAutoSelectAll>
+		<lblDelSel>
+			<Caption>Виділені пункти будуть видалені</Caption>
+		</lblDelSel>
+	</dlgAskDelItem>
+	<dlgChangeIcon>
+		<btnBrowse>
+			<Caption>Перегляд...</Caption>
+		</btnBrowse>
+		<btnCancel>
+			<Caption>Відмінити</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>ОК</Caption>
+		</btnOk>
+		<Caption>Змінити іконку</Caption>
+		<gbIcons>
+			<Caption>Іконки</Caption>
+		</gbIcons>
+	</dlgChangeIcon>
+	<dlgCheckUpdates>
+		<btnClose>
+			<Caption>Закрити</Caption>
+		</btnClose>
+		<btnRefresh>
+			<Caption>Оновити</Caption>
+		</btnRefresh>
+		<Caption>Перевірити оновлення</Caption>
+	</dlgCheckUpdates>
+	<dlgCompareSns>
+		<btnCancel>
+			<Caption>Відмінити</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>ОК</Caption>
+		</btnOK>
+		<Caption>Порівняти знімки системи</Caption>
+		<lblCompareProfile>
+			<Caption>Профіль порівняння</Caption>
+		</lblCompareProfile>
+		<lblResultLog>
+			<Caption>Лог результата</Caption>
+		</lblResultLog>
+		<lblSnapshotA>
+			<Caption>Знімок системи A</Caption>
+		</lblSnapshotA>
+		<lblSnapshotB>
+			<Caption>Знімок системи B</Caption>
+		</lblSnapshotB>
+	</dlgCompareSns>
+	<dlgExportRegistry>
+		<btnCancel>
+			<Caption>Відмінити</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>ОК</Caption>
+		</btnOk>
+		<Caption>Експорт змін реєстра</Caption>
+		<cbCreatedKeys>
+			<Caption>Створені ключі</Caption>
+		</cbCreatedKeys>
+		<cbCreatedValues>
+			<Caption>Створені значення</Caption>
+		</cbCreatedValues>
+		<cbDeletedKeys>
+			<Caption>Видалені ключі</Caption>
+		</cbDeletedKeys>
+		<cbDeletedValues>
+			<Caption>Видалені значення</Caption>
+		</cbDeletedValues>
+		<cbModifiedValues>
+			<Caption>Змінені значення</Caption>
+		</cbModifiedValues>
+		<gbDetails>
+			<Caption>Зміни реєстра</Caption>
+		</gbDetails>
+		<gbExportType>
+			<Caption>Тип експорту</Caption>
+		</gbExportType>
+		<gbRange>
+			<Caption>Діапазон експорта</Caption>
+		</gbRange>
+		<rbExpAll>
+			<Caption>Все</Caption>
+		</rbExpAll>
+		<rbExpBranch>
+			<Caption>Виділена гілка</Caption>
+		</rbExpBranch>
+		<rbInstall>
+			<Caption>Файл інсталяції</Caption>
+		</rbInstall>
+		<rbUninstall>
+			<Caption>Деінсталювати файл</Caption>
+		</rbUninstall>
+	</dlgExportRegistry>
+	<dlgGroupProp>
+		<btnCancel>
+			<Caption>Відмінити</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>ОК</Caption>
+		</btnOk>
+		<Caption>Група</Caption>
+		<lblIcon>
+			<Caption>Іконка</Caption>
+		</lblIcon>
+		<lblName>
+			<Caption>Ім&apos;я</Caption>
+		</lblName>
+	</dlgGroupProp>
+	<dlgMergeLogs>
+		<btnCancel>
+			<Caption>Відмінити</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>ОК</Caption>
+		</btnOK>
+		<Caption>Об&apos;єднати лог</Caption>
+		<cbDeleteUpdate>
+			<Caption>Видалити лог оновлення після об&apos;єднання</Caption>
+		</cbDeleteUpdate>
+		<gbDestination>
+			<Caption>Розміщення</Caption>
+		</gbDestination>
+		<gbSources>
+			<Caption>Джерела</Caption>
+		</gbSources>
+		<lblInstallLog>
+			<Caption>Лог інсталяції</Caption>
+		</lblInstallLog>
+		<lblNewName>
+			<Caption>Нове ім&apos;я</Caption>
+		</lblNewName>
+		<lblUpdateLog>
+			<Caption>Лог оновлення</Caption>
+		</lblUpdateLog>
+		<rbCreateANewLog>
+			<Caption>Створити новий лог</Caption>
+		</rbCreateANewLog>
+		<rbSaveInInstallLog>
+			<Caption>Зберегти в лог інсталяції</Caption>
+		</rbSaveInInstallLog>
+	</dlgMergeLogs>
+	<dlgPendingFileRename>
+		<btnApply>
+			<Caption>Прийняти</Caption>
+		</btnApply>
+		<btnClose>
+			<Caption>Закрити</Caption>
+		</btnClose>
+		<Caption>Очікування операцій перейменування файла</Caption>
+		<tvPendingFiles>
+			<Columns_0>Джерело</Columns_0>
+			<Columns_1>Розміщення</Columns_1>
+		</tvPendingFiles>
+	</dlgPendingFileRename>
+	<dlgRegister>
+		<btnBuy>
+			<Caption>Придбати</Caption>
+		</btnBuy>
+		<btnCancel>
+			<Caption>Відмінити</Caption>
+		</btnCancel>
+		<btnRegister>
+			<Caption>Реєструвати</Caption>
+		</btnRegister>
+		<Caption>Реєстрація Total Uninstall</Caption>
+		<lblKey>
+			<Caption>Ключ реєстрації</Caption>
+		</lblKey>
+		<lblName>
+			<Caption>Ім&apos;я реєстрації</Caption>
+		</lblName>
+		<ulblLostRegistrationInfo>
+			<Caption>Я втратив мою інформацію про реєстрацію.</Caption>
+		</ulblLostRegistrationInfo>
+	</dlgRegister>
+	<dlgRestrictedFeature>
+		<btnCancel>
+			<Caption>Відмінити</Caption>
+		</btnCancel>
+		<Caption>Обмежена характеристика</Caption>
+		<clinkPurchase>
+			<Caption>Придбати</Caption>
+			<Note>Відкрити форму замовлення</Note>
+		</clinkPurchase>
+		<lblInstruction>
+			<Caption>Ця характеристика доступна тільки в професійній версії</Caption>
+		</lblInstruction>
+		<lblProfessionalEdition>
+			<Caption>- Професійна редакція</Caption>
+		</lblProfessionalEdition>
+	</dlgRestrictedFeature>
+	<dlgRmvShared>
+		<btnNo>
+			<Caption>Ні</Caption>
+		</btnNo>
+		<btnNoToAll>
+			<Caption>Ні для всіх</Caption>
+		</btnNoToAll>
+		<btnYes>
+			<Caption>Так</Caption>
+		</btnYes>
+		<btnYesToAll>
+			<Caption>Так для всіх</Caption>
+		</btnYesToAll>
+		<Caption>Видалити загальні файли?</Caption>
+		<lblFileName>
+			<Caption>Файл:</Caption>
+		</lblFileName>
+		<lblLocated>
+			<Caption>Розташовано в:</Caption>
+		</lblLocated>
+		<lblOne>
+			<Caption>Система указує, що наступний загальний файл більше не використовується будь-якими програмами. Якщо деякі програми продовжують використовувати цей файл, а його перемістити, то можливо ті програми перестануть працювати. Впевнені, що хочете видалити файл?</Caption>
+		</lblOne>
+		<lblTwo>
+			<Caption>Якщо залишити цей файл, це не зашкодить системі. Якщо ви не впевнені, що не хочете видалити цей файл.</Caption>
+		</lblTwo>
+	</dlgRmvShared>
+	<dlgSelect>
+		<btnCancel>
+			<Caption>Відмінити</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>ОК</Caption>
+		</btnOk>
+		<Caption>Виділити</Caption>
+	</dlgSelect>
+	<dlgSelectLibIcon>
+		<btnAdd>
+			<Caption>Додати</Caption>
+		</btnAdd>
+		<btnCancel>
+			<Caption>Відмінити</Caption>
+		</btnCancel>
+		<btnDelete>
+			<Caption>Видалити</Caption>
+		</btnDelete>
+		<btnOk>
+			<Caption>ОК</Caption>
+		</btnOk>
+		<Caption>Вибір іконки</Caption>
+		<gbIcons>
+			<Caption>Іконки</Caption>
+		</gbIcons>
+	</dlgSelectLibIcon>
+	<dlgSysBrowser>
+		<btnCancel>
+			<Caption>&amp;Відмінити</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>&amp;ОК</Caption>
+		</btnOk>
+		<lblExpanded>
+			<Caption>Розширено</Caption>
+		</lblExpanded>
+	</dlgSysBrowser>
+	<dlgTUAbout>
+		<btnOK>
+			<Caption>ОК</Caption>
+		</btnOK>
+		<Caption>Про програму</Caption>
+		<lblCopyright>
+			<Caption>Copyright © 2001-2019, Gavrila Martau</Caption>
+		</lblCopyright>
+		<lblEmail>
+			<Caption>Email</Caption>
+		</lblEmail>
+		<lblHomePage>
+			<Caption>Домашня сторінка</Caption>
+		</lblHomePage>
+		<ulblBuyUpgrade>
+			<Caption>Придбати оновлення</Caption>
+		</ulblBuyUpgrade>
+		<ulblDownload>
+			<Caption>Завантажити останнє безкоштовне оновлення</Caption>
+		</ulblDownload>
+	</dlgTUAbout>
+	<dlgTunBackup>
+		<btnCancel>
+			<Caption>Відмінити</Caption>
+		</btnCancel>
+		<btnCreate>
+			<Caption>Створити</Caption>
+		</btnCreate>
+		<lblArchiving>
+			<Caption>Архівація файлів та пунктів реєстра...</Caption>
+		</lblArchiving>
+		<lblCreateBackup>
+			<Caption>Створити копію для програми</Caption>
+		</lblCreateBackup>
+		<lblFilesNotIncluded>
+			<Caption>Файли не включені в копію</Caption>
+		</lblFilesNotIncluded>
+	</dlgTunBackup>
+	<dlgTunRestore>
+		<cbRestoreOnlyLog>
+			<Caption>Відновити тільки протокол установки</Caption>
+		</cbRestoreOnlyLog>
+		<lblRestoreProgram>
+			<Caption>Вкажіть програму для відновлення</Caption>
+		</lblRestoreProgram>
+		<pmiDelete>
+			<Caption>Видалити</Caption>
+		</pmiDelete>
+	</dlgTunRestore>
+	<dlgTUOptions>
+		<btnAddAnalysisProfile>
+			<Caption>Додати...</Caption>
+		</btnAddAnalysisProfile>
+		<btnAddChgView>
+			<Caption>Додати...</Caption>
+		</btnAddChgView>
+		<btnAddCleaner>
+			<Caption>Додати...</Caption>
+		</btnAddCleaner>
+		<btnAddCompareProfile>
+			<Caption>Додати...</Caption>
+		</btnAddCompareProfile>
+		<btnAddExclFlds>
+			<Caption>Додати...</Caption>
+		</btnAddExclFlds>
+		<btnAddExclKey>
+			<Caption>Додати...</Caption>
+		</btnAddExclKey>
+		<btnAddIgnChgFs>
+			<Caption>Додати...</Caption>
+		</btnAddIgnChgFs>
+		<btnAddIgnChgReg>
+			<Caption>Додати...</Caption>
+		</btnAddIgnChgReg>
+		<btnAddIgnFile>
+			<Caption>Додати...</Caption>
+		</btnAddIgnFile>
+		<btnAddInclFlds>
+			<Caption>Додати...</Caption>
+		</btnAddInclFlds>
+		<btnAddInclKeys>
+			<Caption>Додати...</Caption>
+		</btnAddInclKeys>
+		<btnAddInstallLoc>
+			<Caption>Додати...</Caption>
+		</btnAddInstallLoc>
+		<btnAddProtectedFld>
+			<Caption>Додати...</Caption>
+		</btnAddProtectedFld>
+		<btnAddProtectedKey>
+			<Caption>Додати...</Caption>
+		</btnAddProtectedKey>
+		<btnAddScanProfile>
+			<Caption>Додати...</Caption>
+		</btnAddScanProfile>
+		<btnAddUninst>
+			<Caption>Додати...</Caption>
+		</btnAddUninst>
+		<btnAddUninstInst>
+			<Caption>Додати...</Caption>
+		</btnAddUninstInst>
+		<btnAddValue>
+			<Caption>Додати...</Caption>
+		</btnAddValue>
+		<btnAddVer>
+			<Caption>Додати...</Caption>
+		</btnAddVer>
+		<btnAgentAddExcMask>
+			<Caption>Додати...</Caption>
+		</btnAgentAddExcMask>
+		<btnAgentAddIncMask>
+			<Caption>Додати...</Caption>
+		</btnAgentAddIncMask>
+		<btnAgentRemExcMask>
+			<Caption>Видалити</Caption>
+		</btnAgentRemExcMask>
+		<btnAgentRemIncMask>
+			<Caption>Видалити</Caption>
+		</btnAgentRemIncMask>
+		<btnAnlSaveAs>
+			<Caption>Зберегти як</Caption>
+		</btnAnlSaveAs>
+		<btnCancel>
+			<Caption>Відмінити</Caption>
+		</btnCancel>
+		<btnChgViewSaveAs>
+			<Caption>Зберегти як</Caption>
+		</btnChgViewSaveAs>
+		<btnCleanerSaveAs>
+			<Caption>Зберегти як...</Caption>
+		</btnCleanerSaveAs>
+		<btnClnAddExclFs>
+			<Caption>Додати...</Caption>
+		</btnClnAddExclFs>
+		<btnClnAddExclRegistry>
+			<Caption>Додати...</Caption>
+		</btnClnAddExclRegistry>
+		<btnClnEditExclFs>
+			<Caption>Змінити...</Caption>
+		</btnClnEditExclFs>
+		<btnClnEditExclRegistry>
+			<Caption>Змінити...</Caption>
+		</btnClnEditExclRegistry>
+		<btnClnRemExclFs>
+			<Caption>Видалити</Caption>
+		</btnClnRemExclFs>
+		<btnClnRemExclRegistry>
+			<Caption>Видалити</Caption>
+		</btnClnRemExclRegistry>
+		<btnCompPlaySound>
+			<Caption>Тест</Caption>
+		</btnCompPlaySound>
+		<btnCompSaveAs>
+			<Caption>Зберегти як</Caption>
+		</btnCompSaveAs>
+		<btnEditExclFlds>
+			<Caption>Змінити...</Caption>
+		</btnEditExclFlds>
+		<btnEditExclKeys>
+			<Caption>Змінити...</Caption>
+		</btnEditExclKeys>
+		<btnEditIgnChgFs>
+			<Caption>Змінити...</Caption>
+		</btnEditIgnChgFs>
+		<btnEditIgnChgReg>
+			<Caption>Змінити...</Caption>
+		</btnEditIgnChgReg>
+		<btnEditIgnFile>
+			<Caption>Змінити...</Caption>
+		</btnEditIgnFile>
+		<btnEditIgnValues>
+			<Caption>Змінити...</Caption>
+		</btnEditIgnValues>
+		<btnEditProtectedFld>
+			<Caption>Змінити...</Caption>
+		</btnEditProtectedFld>
+		<btnEditProtectedKey>
+			<Caption>Змінити...</Caption>
+		</btnEditProtectedKey>
+		<btnOK>
+			<Caption>ОК</Caption>
+		</btnOK>
+		<btnRemAnalysisProfile>
+			<Caption>Видалити...</Caption>
+		</btnRemAnalysisProfile>
+		<btnRemChgView>
+			<Caption>Видалити...</Caption>
+		</btnRemChgView>
+		<btnRemCleaner>
+			<Caption>Видалити...</Caption>
+		</btnRemCleaner>
+		<btnRemCompareProfile>
+			<Caption>Видалити...</Caption>
+		</btnRemCompareProfile>
+		<btnRemExclFlds>
+			<Caption>Видалити</Caption>
+		</btnRemExclFlds>
+		<btnRemExclKeys>
+			<Caption>Видалити</Caption>
+		</btnRemExclKeys>
+		<btnRemIgnChgFs>
+			<Caption>Видалити</Caption>
+		</btnRemIgnChgFs>
+		<btnRemIgnChgReg>
+			<Caption>Видалити</Caption>
+		</btnRemIgnChgReg>
+		<btnRemIgnFile>
+			<Caption>Видалити</Caption>
+		</btnRemIgnFile>
+		<btnRemInclFlds>
+			<Caption>Видалити</Caption>
+		</btnRemInclFlds>
+		<btnRemInclKeys>
+			<Caption>Видалити</Caption>
+		</btnRemInclKeys>
+		<btnRemoveInstallLoc>
+			<Caption>Видалити</Caption>
+		</btnRemoveInstallLoc>
+		<btnRemProtectedFld>
+			<Caption>Видалити</Caption>
+		</btnRemProtectedFld>
+		<btnRemProtectedKey>
+			<Caption>Видалити</Caption>
+		</btnRemProtectedKey>
+		<btnRemScanProfile>
+			<Caption>Видалити...</Caption>
+		</btnRemScanProfile>
+		<btnRemUninst>
+			<Caption>Видалити...</Caption>
+		</btnRemUninst>
+		<btnRemUninstInst>
+			<Caption>Видалити...</Caption>
+		</btnRemUninstInst>
+		<btnRemValues>
+			<Caption>Видалити</Caption>
+		</btnRemValues>
+		<btnRemVer>
+			<Caption>Видалити</Caption>
+		</btnRemVer>
+		<btnResetAll>
+			<Caption>Скинути все</Caption>
+		</btnResetAll>
+		<btnScanPlaySound>
+			<Caption>Тест</Caption>
+		</btnScanPlaySound>
+		<btnScanSaveAs>
+			<Caption>Зберегти як</Caption>
+		</btnScanSaveAs>
+		<btnUninstSaveAs>
+			<Caption>Зберегти як</Caption>
+		</btnUninstSaveAs>
+		<Caption>Опції</Caption>
+		<cbAnlProfileDefault>
+			<Caption>За замовчанням</Caption>
+		</cbAnlProfileDefault>
+		<cbAutoStart>
+			<Caption>Автозапуск з Windows для продовження незавершеного моніторінгу процессів</Caption>
+		</cbAutoStart>
+		<cbBackup>
+			<Caption>Копіювати видалену програму</Caption>
+		</cbBackup>
+		<cbChgViewDefault>
+			<Caption>За замовчанням</Caption>
+		</cbChgViewDefault>
+		<cbCleanerDefault>
+			<Caption>За замовчанням</Caption>
+		</cbCleanerDefault>
+		<cbCleanerEnable>
+			<Caption>Включити модуль очищення</Caption>
+		</cbCleanerEnable>
+		<cbClickRestore>
+			<Caption>Відновлювати єдиним кліком</Caption>
+		</cbClickRestore>
+		<cbCompareRegistry>
+			<Caption>Порівняти реєстр</Caption>
+		</cbCompareRegistry>
+		<cbCompFiles>
+			<Caption>Порівняти файли</Caption>
+		</cbCompFiles>
+		<cbCompPlaySound>
+			<Caption>Звук при завершенні</Caption>
+		</cbCompPlaySound>
+		<cbCompProfileDefault>
+			<Caption>За замовчанням</Caption>
+		</cbCompProfileDefault>
+		<cbCompProfileFrozen>
+			<Caption>Блокувати</Caption>
+		</cbCompProfileFrozen>
+		<cbComputeMD5>
+			<Caption>Розраховувати MD5 для нових файлів</Caption>
+		</cbComputeMD5>
+		<cbCreateKeys>
+			<Caption>Створити видалені ключі</Caption>
+		</cbCreateKeys>
+		<cbCreateValues>
+			<Caption>Створити видалені значення</Caption>
+		</cbCreateValues>
+		<cbCustomSnsName>
+			<Caption>Дозволити своє ім&apos;я знімку</Caption>
+		</cbCustomSnsName>
+		<cbDecrement>
+			<Caption>Зменшити лічильник загального файла</Caption>
+		</cbDecrement>
+		<cbDelFiles>
+			<Caption>Видалити створені файли (загальні файли тільки якщо лічильник =0)</Caption>
+		</cbDelFiles>
+		<cbDelFolders>
+			<Caption>Видалити створені папки</Caption>
+		</cbDelFolders>
+		<cbDelKeys>
+			<Caption>Видалити створені ключі</Caption>
+		</cbDelKeys>
+		<cbDelUseRecycle>
+			<Caption>Використовувати Кошик</Caption>
+		</cbDelUseRecycle>
+		<cbDelValues>
+			<Caption>Видалити створені значення</Caption>
+		</cbDelValues>
+		<cbDontUseLog>
+			<Caption>Не використовувати лог змін видалень</Caption>
+		</cbDontUseLog>
+		<cbEnableAgent>
+			<Caption>Включити агент Total Uninstall</Caption>
+		</cbEnableAgent>
+		<cbExtractFileVersion>
+			<Caption>Витяг інформації про версію файла</Caption>
+		</cbExtractFileVersion>
+		<cbHexViewerNot64Bit>
+			<Caption>Не враховувати 64-bit</Caption>
+		</cbHexViewerNot64Bit>
+		<cbIgnoreMissingItems>
+			<Caption>Ігнорувати відсутні</Caption>
+		</cbIgnoreMissingItems>
+		<cbInstPrgsEnable>
+			<Caption>Включити модуль Встановлені програми</Caption>
+		</cbInstPrgsEnable>
+		<cbMinToTray>
+			<Caption>Згортати в трей</Caption>
+		</cbMinToTray>
+		<cbMonPrgsEnable>
+			<Caption>Включити модуль Відстежені програми</Caption>
+		</cbMonPrgsEnable>
+		<cbRestoreValues>
+			<Caption>Відновити змінені значення</Caption>
+		</cbRestoreValues>
+		<cbRstFileCreated>
+			<Caption>Відновити дату створення файла</Caption>
+		</cbRstFileCreated>
+		<cbScanForAds>
+			<Caption>Перевірити альтернативні потоки даних</Caption>
+		</cbScanForAds>
+		<cbScanPlaySound>
+			<Caption>Звук при завершенні</Caption>
+		</cbScanPlaySound>
+		<cbScanProfileDefault>
+			<Caption>За замовчанням</Caption>
+		</cbScanProfileDefault>
+		<cbScanProfileFrozen>
+			<Caption>Блокувати</Caption>
+		</cbScanProfileFrozen>
+		<cbShell>
+			<Caption>Інтегрувати Total Uninstall в оболонку</Caption>
+		</cbShell>
+		<cbShowAfter>
+			<Caption>Колонка після</Caption>
+		</cbShowAfter>
+		<cbShowBefore>
+			<Caption>Колонка до</Caption>
+		</cbShowBefore>
+		<cbShowBinAsText>
+			<Caption>Показати двійкові дані як текст</Caption>
+		</cbShowBinAsText>
+		<cbShowChanged>
+			<Caption>Змінені пункти</Caption>
+		</cbShowChanged>
+		<cbShowCreated>
+			<Caption>Створені пункти</Caption>
+		</cbShowCreated>
+		<cbShowCurrent>
+			<Caption>Поточна колонка</Caption>
+		</cbShowCurrent>
+		<cbShowDataSize>
+			<Caption>Розмір даних</Caption>
+		</cbShowDataSize>
+		<cbShowDataType>
+			<Caption>Тип даних</Caption>
+		</cbShowDataType>
+		<cbShowDateCreated>
+			<Caption>Дата створення</Caption>
+		</cbShowDateCreated>
+		<cbShowDateModified>
+			<Caption>Дата модифікації</Caption>
+		</cbShowDateModified>
+		<cbShowDeleted>
+			<Caption>Видалені пункти</Caption>
+		</cbShowDeleted>
+		<cbShowFileAttrib>
+			<Caption>Атрибути файла</Caption>
+		</cbShowFileAttrib>
+		<cbShowFileSize>
+			<Caption>Розмір файла</Caption>
+		</cbShowFileSize>
+		<cbShowFileVersion>
+			<Caption>Версія файла</Caption>
+		</cbShowFileVersion>
+		<cbShowMD5>
+			<Caption>MD5 сума нового файла</Caption>
+		</cbShowMD5>
+		<cbSmartAdjustAnalysisLevel>
+			<Caption>Відрегулювати рівень аналізу Smart</Caption>
+		</cbSmartAdjustAnalysisLevel>
+		<cbSysRestore>
+			<Caption>Створити місце відновлення системи до деінсталяції</Caption>
+		</cbSysRestore>
+		<cbSystemFilesAdditional>
+			<Caption>Додатковий аналіз</Caption>
+		</cbSystemFilesAdditional>
+		<cbTxtViewerNot64Bit>
+			<Caption>Не враховувати 64-bit</Caption>
+		</cbTxtViewerNot64Bit>
+		<cbUninstDefault>
+			<Caption>За замовчанням</Caption>
+		</cbUninstDefault>
+		<cbUninstEnabled>
+			<Caption>Включено</Caption>
+		</cbUninstEnabled>
+		<cbUseUninstaller>
+			<Caption>Спочатку стандартний деінсталятор</Caption>
+		</cbUseUninstaller>
+		<cmbUpdateFrequency>
+			<Items>Щодня\nЩотижня\nЩомісяця\n</Items>
+		</cmbUpdateFrequency>
+		<cmbUpdateMethod>
+			<Items>Руками\nЗаплановано\nАвтоматично\n</Items>
+		</cmbUpdateMethod>
+		<gbAgentMasks>
+			<Caption>Маски імен файлів інсталяцій</Caption>
+		</gbAgentMasks>
+		<gbClnExcludeFs>
+			<Caption>Виключити папки та файли</Caption>
+		</gbClnExcludeFs>
+		<gbClnExcludeRegistry>
+			<Caption>Виключити ключі та значенні реєстру</Caption>
+		</gbClnExcludeRegistry>
+		<gbCompareIgnChgReg>
+			<Caption>Ігнорувати змінені пункти</Caption>
+		</gbCompareIgnChgReg>
+		<gbCompareIgnKeys>
+			<Caption>Ігнорувати ключі та значення</Caption>
+		</gbCompareIgnKeys>
+		<gbCompIgnChgFs>
+			<Caption>Ігнорувати змінені пункти</Caption>
+		</gbCompIgnChgFs>
+		<gbCompIgnoreFld>
+			<Caption>Ігнорувати папки та файли</Caption>
+		</gbCompIgnoreFld>
+		<gbFileExtensions>
+			<Caption>Розширення файла з інформацією про версію</Caption>
+		</gbFileExtensions>
+		<gbInstallLoc>
+			<Caption>Розташування інсталяції</Caption>
+		</gbInstallLoc>
+		<gbInstallLocation>
+			<Caption>Відстеження розміщення інсталяції</Caption>
+		</gbInstallLocation>
+		<gbLimits>
+			<Caption>Обмеження папки знімків</Caption>
+		</gbLimits>
+		<gbPrgData>
+			<Caption>Відстеження даних програми</Caption>
+		</gbPrgData>
+		<gbPrgSettings>
+			<Caption>Відстеження налаштувань програми</Caption>
+		</gbPrgSettings>
+		<gbPrgShortcuts>
+			<Caption>Відстеження посілань програм</Caption>
+		</gbPrgShortcuts>
+		<gbProtectedFolders>
+			<Caption>Захищені папки</Caption>
+		</gbProtectedFolders>
+		<gbProtectedKeys>
+			<Caption>Захищені ключі</Caption>
+		</gbProtectedKeys>
+		<gbRegEditor>
+			<Caption>Редактор реєстра</Caption>
+		</gbRegEditor>
+		<gbRegScanner>
+			<Caption>Сканер реєстру</Caption>
+		</gbRegScanner>
+		<gbScanExclFolders>
+			<Caption>Виключити папки</Caption>
+		</gbScanExclFolders>
+		<gbScanExclKeys>
+			<Caption>Виключити ключі</Caption>
+		</gbScanExclKeys>
+		<gbScanInclFolders>
+			<Caption>Включити папки</Caption>
+		</gbScanInclFolders>
+		<gbScanInclKeys>
+			<Caption>Включити ключі</Caption>
+		</gbScanInclKeys>
+		<gbShellIntegration>
+			<Caption>Відстеження інтеграції в оболонку</Caption>
+		</gbShellIntegration>
+		<gbSystemFiles>
+			<Caption>Відстеження системних файлів</Caption>
+		</gbSystemFiles>
+		<gbTranslation>
+			<Caption>Переклад</Caption>
+		</gbTranslation>
+		<grpExistingViewStyle>
+			<Caption>Існуючі пункти в системі</Caption>
+		</grpExistingViewStyle>
+		<grpMissingViewStyle>
+			<Caption>Відсутні пункти в системі</Caption>
+		</grpMissingViewStyle>
+		<lblAdvanced1>
+			<Caption>Детально</Caption>
+		</lblAdvanced1>
+		<lblAdvanced2>
+			<Caption>Детально</Caption>
+		</lblAdvanced2>
+		<lblAdvanced3>
+			<Caption>Детально</Caption>
+		</lblAdvanced3>
+		<lblAdvanced4>
+			<Caption>Детально</Caption>
+		</lblAdvanced4>
+		<lblAdvanced5>
+			<Caption>Детально</Caption>
+		</lblAdvanced5>
+		<lblAdvanced6>
+			<Caption>Детально</Caption>
+		</lblAdvanced6>
+		<lblAgentExcludeMask>
+			<Caption>Виключити</Caption>
+		</lblAgentExcludeMask>
+		<lblAgentIncludeMask>
+			<Caption>Включити</Caption>
+		</lblAgentIncludeMask>
+		<lblAnalysisProfiles>
+			<Caption>Профілі аналізування</Caption>
+		</lblAnalysisProfiles>
+		<lblAnlProfileDesc>
+			<Caption>Опис</Caption>
+		</lblAnlProfileDesc>
+		<lblAnlProfileName>
+			<Caption>Ім&apos;я</Caption>
+		</lblAnlProfileName>
+		<lblBackupLimiFolderSize>
+			<Caption>Ліміт розміру папки (МБ)</Caption>
+		</lblBackupLimiFolderSize>
+		<lblChageViewName>
+			<Caption>Ім&apos;я</Caption>
+		</lblChageViewName>
+		<lblChangeViews>
+			<Caption>Зміна вида</Caption>
+		</lblChangeViews>
+		<lblCheckUpdateMethod>
+			<Caption>Метод перевірки оновлень</Caption>
+		</lblCheckUpdateMethod>
+		<lblCheckUpdatesFrequency>
+			<Caption>Частота</Caption>
+		</lblCheckUpdatesFrequency>
+		<lblCleanerDescription>
+			<Caption>Опис</Caption>
+		</lblCleanerDescription>
+		<lblCleanerName>
+			<Caption>Ім&apos;я</Caption>
+		</lblCleanerName>
+		<lblCleaners>
+			<Caption>Очищувачі</Caption>
+		</lblCleaners>
+		<lblCompareProfileDesc>
+			<Caption>Опис</Caption>
+		</lblCompareProfileDesc>
+		<lblCompareProfileName>
+			<Caption>Ім&apos;я</Caption>
+		</lblCompareProfileName>
+		<lblFolderSize>
+			<Caption>Розмір папки (Мб)</Caption>
+		</lblFolderSize>
+		<lblHexViewer>
+			<Caption>Шістнадцятковий редактор</Caption>
+		</lblHexViewer>
+		<lblLanguage>
+			<Caption>Мова</Caption>
+		</lblLanguage>
+		<lblNone1>
+			<Caption>Ні</Caption>
+		</lblNone1>
+		<lblNone2>
+			<Caption>Ні</Caption>
+		</lblNone2>
+		<lblNone3>
+			<Caption>Ні</Caption>
+		</lblNone3>
+		<lblNone4>
+			<Caption>Ні</Caption>
+		</lblNone4>
+		<lblNone5>
+			<Caption>Ні</Caption>
+		</lblNone5>
+		<lblNone6>
+			<Caption>Ні</Caption>
+		</lblNone6>
+		<lblProgramDataPath>
+			<Caption>Шлях даних програми</Caption>
+		</lblProgramDataPath>
+		<lblScanningProfiles>
+			<Caption>Профілі сканування</Caption>
+		</lblScanningProfiles>
+		<lblScanProfileDesc>
+			<Caption>Опис</Caption>
+		</lblScanProfileDesc>
+		<lblScanProfileName>
+			<Caption>Ім&apos;я</Caption>
+		</lblScanProfileName>
+		<lblSimultaneousTasks>
+			<Caption>Одночасні завдання</Caption>
+		</lblSimultaneousTasks>
+		<lblSnsCompareProfiles>
+			<Caption>Профілі порівняння знімків</Caption>
+		</lblSnsCompareProfiles>
+		<lblSnsCount>
+			<Caption>Кількість знімків</Caption>
+		</lblSnsCount>
+		<lblTranslatedBy1>
+			<Caption>Переклав: Stanislav A. Kondratov</Caption>
+		</lblTranslatedBy1>
+		<lblTranslatedBy2>
+			<Caption>Сторінка: -</Caption>
+		</lblTranslatedBy2>
+		<lblTranslatedBy3>
+			<Caption>Email: staskond@ukr.net</Caption>
+		</lblTranslatedBy3>
+		<lblTxtViewer>
+			<Caption>Редактор тексту</Caption>
+		</lblTxtViewer>
+		<lblUninstallProfiles>
+			<Caption>Профілі Деінсталяції</Caption>
+		</lblUninstallProfiles>
+		<lblUninstallProfilesInst>
+			<Caption>Профілі Деінсталяції</Caption>
+		</lblUninstallProfilesInst>
+		<lblUninstDesc>
+			<Caption>Опис</Caption>
+		</lblUninstDesc>
+		<lblUninstName>
+			<Caption>Ім&apos;я</Caption>
+		</lblUninstName>
+		<lblUninstRemoveLog>
+			<Caption>Видалити деінстальовані програми зі списку</Caption>
+		</lblUninstRemoveLog>
+		<lblUserInteraction>
+			<Caption>Використовувати перший доступний вбудований деінсталятор</Caption>
+		</lblUserInteraction>
+		<rbDialog>
+			<Caption>Діалог</Caption>
+		</rbDialog>
+		<rbOtherRegEdit>
+			<Caption>Інше</Caption>
+		</rbOtherRegEdit>
+		<rbTrayBaloon>
+			<Caption>Значок в треї</Caption>
+		</rbTrayBaloon>
+		<rbWinRegEdit>
+			<Caption>Редактор реєстра Windows</Caption>
+		</rbWinRegEdit>
+		<rgAgentNotif>
+			<Caption>Повідомлення про запуск інсталяції</Caption>
+		</rgAgentNotif>
+		<tabAnlFileSystem>
+			<Caption>Файлова система</Caption>
+		</tabAnlFileSystem>
+		<tabAnlGeneral>
+			<Caption>Загальні</Caption>
+		</tabAnlGeneral>
+		<tabChageViewFileSystem>
+			<Caption>Файлова система</Caption>
+		</tabChageViewFileSystem>
+		<tabChageViewGeneral>
+			<Caption>Загальні</Caption>
+		</tabChageViewGeneral>
+		<tabChageViewRegistry>
+			<Caption>Реєстр</Caption>
+		</tabChageViewRegistry>
+		<tabChageViewView>
+			<Caption>Вид</Caption>
+		</tabChageViewView>
+		<tabCleanerFileSystem>
+			<Caption>Файлова система</Caption>
+		</tabCleanerFileSystem>
+		<tabCleanerGen>
+			<Caption>Загальне</Caption>
+		</tabCleanerGen>
+		<tabCleanerReg>
+			<Caption>Реєстр</Caption>
+		</tabCleanerReg>
+		<tabCmpProfileFileSys>
+			<Caption>Файлова система</Caption>
+		</tabCmpProfileFileSys>
+		<tabCompareProfileGen>
+			<Caption>Загальні</Caption>
+		</tabCompareProfileGen>
+		<tabCompareProfileReg>
+			<Caption>Реєстр</Caption>
+		</tabCompareProfileReg>
+		<tabScanProfileFolders>
+			<Caption>Папки</Caption>
+		</tabScanProfileFolders>
+		<tabScanProfileGeneral>
+			<Caption>Загальні</Caption>
+		</tabScanProfileGeneral>
+		<tabScanProfileRegistry>
+			<Caption>Реєстр</Caption>
+		</tabScanProfileRegistry>
+		<tabUninstAdv>
+			<Caption>Додатково</Caption>
+		</tabUninstAdv>
+		<tabUninstFS>
+			<Caption>Файлова система</Caption>
+		</tabUninstFS>
+		<tabUninstGeneral>
+			<Caption>Загальні</Caption>
+		</tabUninstGeneral>
+		<tabUninstRegistry>
+			<Caption>Реєстр</Caption>
+		</tabUninstRegistry>
+		<tblAnlRegistry>
+			<Caption>Реєстр</Caption>
+		</tblAnlRegistry>
+	</dlgTUOptions>
+	<dlgUninstall>
+		<btnCancel>
+			<Caption>Відмінити</Caption>
+		</btnCancel>
+		<btnUninstall>
+			<Caption>Деінсталювати</Caption>
+		</btnUninstall>
+		<lblCreatingRestorePnt>
+			<Caption>Створення пункту відновлення...</Caption>
+		</lblCreatingRestorePnt>
+		<lblProfile>
+			<Caption>Виберіть профіль деінсталяції</Caption>
+		</lblProfile>
+		<lblUninstalling>
+			<Caption>Деінсталяція...</Caption>
+		</lblUninstalling>
+		<lblWaitTitle>
+			<Caption>Чекайте поки завершиться Додати/Видалити програму</Caption>
+		</lblWaitTitle>
+	</dlgUninstall>
+	<frmInstall>
+		<btnBrowseSetup>
+			<Caption>&amp;Перегляд...</Caption>
+		</btnBrowseSetup>
+		<btnCancel>
+			<Caption>Відмінити</Caption>
+		</btnCancel>
+		<btnCompleteLater>
+			<Caption>&amp;Завершити процес моніторинга пізніше</Caption>
+		</btnCompleteLater>
+		<btnLaunchSetup>
+			<Caption>З&amp;апустити програму інсталяції</Caption>
+		</btnLaunchSetup>
+		<btnNext>
+			<Caption>Далі</Caption>
+		</btnNext>
+		<btnProgramIsInstalled>
+			<Caption>&amp;Програму встановлено</Caption>
+		</btnProgramIsInstalled>
+		<btnSuggest>
+			<Caption>П&amp;ропозиція</Caption>
+		</btnSuggest>
+		<lblCreateLog>
+			<Caption>Створити лог інсталяції</Caption>
+		</lblCreateLog>
+		<lblCreateOrSelectSns>
+			<Caption>До інсталяції створіть новий або виберіть попереднє місце відновлення системи.</Caption>
+		</lblCreateOrSelectSns>
+		<lblCreatePreInstallSns>
+			<Caption>Створити знімок системи до інсталяції</Caption>
+		</lblCreatePreInstallSns>
+		<lblCreatingLog>
+			<Caption>Створення лога інсталяції</Caption>
+		</lblCreatingLog>
+		<lblCreatingSystemSns>
+			<Caption>Створення знімка системи</Caption>
+		</lblCreatingSystemSns>
+		<lblFinish>
+			<Caption>Лог інсталяції успішно створено</Caption>
+		</lblFinish>
+		<lblInstallMonProgram>
+			<Caption>Встановити відстежувану програму</Caption>
+		</lblInstallMonProgram>
+		<lblProfiles>
+			<Caption>&amp;Профіль сканування</Caption>
+		</lblProfiles>
+		<lblProgramName>
+			<Caption>&amp;Ім&apos;я програми</Caption>
+		</lblProgramName>
+		<lblProgramSetupPath>
+			<Caption>&amp;Шлях інсталяції програми</Caption>
+		</lblProgramSetupPath>
+		<lblSnsName>
+			<Caption>І&amp;м&apos;я знімку</Caption>
+		</lblSnsName>
+		<lblSpecifySnsName>
+			<Caption>&amp;Вкажіть ім&apos;я знімку після інсталяції</Caption>
+		</lblSpecifySnsName>
+		<rbNewSnapshot>
+			<Caption>С&amp;творити новий знімок системи (рекомендовано)</Caption>
+		</rbNewSnapshot>
+		<rbUseLastSnapshot>
+			<Caption>&amp;Використовувати останній знімок</Caption>
+		</rbUseLastSnapshot>
+	</frmInstall>
+	<frmTUMain>
+		<btnClear>
+			<Caption>Очистити</Caption>
+		</btnClear>
+		<btnGroupAddChild>
+			<Caption>Додати дочірню...</Caption>
+		</btnGroupAddChild>
+		<btnGroupAddRoot>
+			<Caption>Додати корінну...</Caption>
+		</btnGroupAddRoot>
+		<btnGroupEdit>
+			<Caption>Редагувати...</Caption>
+		</btnGroupEdit>
+		<btnGroupMoveToRoot>
+			<Caption>Перенести в корінь</Caption>
+		</btnGroupMoveToRoot>
+		<btnGroupRemove>
+			<Caption>Видалити групу</Caption>
+		</btnGroupRemove>
+		<btnSearch>
+			<Caption>Старт</Caption>
+		</btnSearch>
+		<cbBundle>
+			<Caption>Вузел</Caption>
+		</cbBundle>
+		<cbCaseSensitive>
+			<Caption>З урахуванням регістру</Caption>
+		</cbCaseSensitive>
+		<cbChanged>
+			<Caption>Змінено</Caption>
+		</cbChanged>
+		<cbCreated>
+			<Caption>Створено</Caption>
+		</cbCreated>
+		<cbData>
+			<Caption>Дата</Caption>
+		</cbData>
+		<cbDeleted>
+			<Caption>Видалено</Caption>
+		</cbDeleted>
+		<cbFiles>
+			<Caption>Файли</Caption>
+		</cbFiles>
+		<cbFolders>
+			<Caption>Папки</Caption>
+		</cbFolders>
+		<cbKeys>
+			<Caption>Ключі</Caption>
+		</cbKeys>
+		<cbSearchMask>
+			<Caption>Маска пошуку</Caption>
+		</cbSearchMask>
+		<cbUnchanged>
+			<Caption>Незмінено</Caption>
+		</cbUnchanged>
+		<cbValues>
+			<Caption>Значення</Caption>
+		</cbValues>
+		<Copy1>
+			<Caption>Копіювати</Caption>
+			<Hint>Копіювати виділене в буфер</Hint>
+		</Copy1>
+		<Copy2>
+			<Caption>Копіювати</Caption>
+			<Hint>Копіювати виділене в буфер</Hint>
+		</Copy2>
+		<gbAdvanced>
+			<Caption>Додатково</Caption>
+		</gbAdvanced>
+		<gbChanges>
+			<Caption>Пункти</Caption>
+		</gbChanges>
+		<gbFileSystem>
+			<Caption>Файлова система</Caption>
+		</gbFileSystem>
+		<gbRegistry>
+			<Caption>Реєстр</Caption>
+		</gbRegistry>
+		<gbScope>
+			<Caption>Шукати в</Caption>
+		</gbScope>
+		<miAddtoCompareIgnoreList>
+			<Caption>Додати до списку ігнорування</Caption>
+			<Hint>Додати виділені пункти до списку ігнорування всіх профілів</Hint>
+		</miAddtoCompareIgnoreList>
+		<miAddtoScanExcludeList>
+			<Caption>Додати до списку виключення сканування</Caption>
+			<Hint>Додати виділені пункти до списку виключення при скануванні свіх профілів</Hint>
+		</miAddtoScanExcludeList>
+		<miAppSendTo>
+			<Caption>Відправити до групи</Caption>
+		</miAppSendTo>
+		<miChanges>
+			<Caption>Зміни</Caption>
+			<Hint>Відстежені зміни|Показати зміни системи зроблені поточною програмою</Hint>
+		</miChanges>
+		<miCleaner>
+			<Caption>Очищувач</Caption>
+			<Hint>Очищувач</Hint>
+		</miCleaner>
+		<miClnItems>
+			<Caption>Пункти</Caption>
+		</miClnItems>
+		<miClnSummary>
+			<Caption>Висновок</Caption>
+			<Hint>Висновок|Інформація про поточну програму</Hint>
+		</miClnSummary>
+		<miCollapse>
+			<Caption>Згорнути</Caption>
+			<Hint>Згорнути активну гілку</Hint>
+		</miCollapse>
+		<miCopyDetail>
+			<Caption>Копіювати</Caption>
+		</miCopyDetail>
+		<miDeleteCompletely>
+			<Caption>Видалити повністю</Caption>
+			<Hint>Видалити виділений пункт з лога та з системи</Hint>
+		</miDeleteCompletely>
+		<miDeletefromSystemOnly>
+			<Caption>Видалити тільки з системи</Caption>
+			<Hint>Видалити виділений пункт тільки з системи</Hint>
+		</miDeletefromSystemOnly>
+		<miEdit>
+			<Caption>&amp;Правка</Caption>
+		</miEdit>
+		<miEditRedo>
+			<Caption>Повернути</Caption>
+			<Hint>Повернути виділені зміни в системі</Hint>
+		</miEditRedo>
+		<miEditRedoDepth>
+			<Caption>Повторити</Caption>
+			<Hint>Повторити обрані зміни в системі</Hint>
+		</miEditRedoDepth>
+		<miEditRestoreFromBackup>
+			<Caption>Відновити з резервної копії</Caption>
+			<Hint>Відновити обрані файли, папки та вкладені папки з резервної копії</Hint>
+		</miEditRestoreFromBackup>
+		<miEditUndo>
+			<Caption>Відмінити</Caption>
+			<Hint>Відмінити останні зміни системи</Hint>
+		</miEditUndo>
+		<miEditUndoDepth>
+			<Caption>Відмінити операцію</Caption>
+			<Hint>Відмінити обрані зміни системи</Hint>
+		</miEditUndoDepth>
+		<miExpand>
+			<Caption>Розгорнути</Caption>
+			<Hint>Розгорнути активну гілку</Hint>
+		</miExpand>
+		<miExpChanges>
+			<Caption>Змінені...</Caption>
+			<Hint>Експорт змін дерева</Hint>
+		</miExpChanges>
+		<miExpInstalledApps>
+			<Caption>Встановлені програми...</Caption>
+			<Hint>Експорт списку встановлених програм</Hint>
+		</miExpInstalledApps>
+		<miExpMonitoredApps>
+			<Caption>Контрольовані програми...</Caption>
+			<Hint>Експорт списку контрольованих програм</Hint>
+		</miExpMonitoredApps>
+		<miExport>
+			<Caption>Експорт</Caption>
+		</miExport>
+		<miExpRegistry>
+			<Caption>Зміни реєстра...</Caption>
+			<Hint>Експорт змін реєстра для інсталяції або деінсталяції</Hint>
+		</miExpRegistry>
+		<miExpUninstallLog>
+			<Caption>Лог деінсталяції...</Caption>
+			<Hint>Експорт лога деінсталяції</Hint>
+		</miExpUninstallLog>
+		<miFile>
+			<Caption>&amp;Файл</Caption>
+		</miFile>
+		<miFileAddInstalledPrg>
+			<Caption>Додати програму...</Caption>
+		</miFileAddInstalledPrg>
+		<miFileAnalyze>
+			<Caption>Аналіз</Caption>
+			<Hint>Аналіз|Аналіз зміни системи поточної програми</Hint>
+		</miFileAnalyze>
+		<miFileChange>
+			<Caption>Змінити</Caption>
+			<Hint>Ремонтувати, змінити або деінсталювати</Hint>
+		</miFileChange>
+		<miFileChangeIcon>
+			<Caption>Змінити іконку...</Caption>
+		</miFileChangeIcon>
+		<miFileClnClean>
+			<Caption>Очистити</Caption>
+			<Hint>Очистити</Hint>
+		</miFileClnClean>
+		<miFileClnScan>
+			<Caption>Сканувати</Caption>
+			<Hint>Сканувати|Перевірити одноразові пункти</Hint>
+		</miFileClnScan>
+		<miFileCreateBackup>
+			<Caption>Створення копії для програми...</Caption>
+		</miFileCreateBackup>
+		<miFileDelete>
+			<Caption>Видалити</Caption>
+			<Hint>Видалити лог поточної інсталяції</Hint>
+		</miFileDelete>
+		<miFileEditProgram>
+			<Caption>Змінити програму...</Caption>
+		</miFileEditProgram>
+		<miFileExit>
+			<Caption>Вихід</Caption>
+			<Hint>Вихід з програми</Hint>
+		</miFileExit>
+		<miFileGroupAddChild>
+			<Caption>Додати дочірню...</Caption>
+		</miFileGroupAddChild>
+		<miFileGroupAddRoot>
+			<Caption>Додати корінну...</Caption>
+		</miFileGroupAddRoot>
+		<miFileGroupEdit>
+			<Caption>Редагувати...</Caption>
+		</miFileGroupEdit>
+		<miFileGroupMoveToRoot>
+			<Caption>Перенести в корінь</Caption>
+		</miFileGroupMoveToRoot>
+		<miFileGroupRemove>
+			<Caption>Видалити групу</Caption>
+		</miFileGroupRemove>
+		<miFileInstall>
+			<Caption>Встановити нову...</Caption>
+			<Hint>Контроль інсталяції нової програми</Hint>
+		</miFileInstall>
+		<miFileInstallUpdate>
+			<Caption>Встановити оновлення...</Caption>
+			<Hint>Встановити оновлення|Контроль інсталяції оновлення поточної програми</Hint>
+		</miFileInstallUpdate>
+		<miFileNotes>
+			<Caption>Замітки...</Caption>
+			<Hint>Додати замітки до поточного логу інсталяції</Hint>
+		</miFileNotes>
+		<miFilePrint>
+			<Caption>Друк</Caption>
+		</miFilePrint>
+		<miFileReload>
+			<Caption>Перезавантажити</Caption>
+		</miFileReload>
+		<miFileRemoveInstalledPrg>
+			<Caption>Видалити програму зі списку</Caption>
+		</miFileRemoveInstalledPrg>
+		<miFileRename>
+			<Caption>Перейменувати...</Caption>
+			<Hint>Перейменувати поточний лог інсталяції</Hint>
+		</miFileRename>
+		<miFileRestoreBackup>
+			<Caption>Відновлення програми з копії...</Caption>
+		</miFileRestoreBackup>
+		<miFileSave>
+			<Caption>&amp;Зберегти</Caption>
+			<Hint>Зберегти зміни поточного лога інсталяції</Hint>
+		</miFileSave>
+		<miFileSaveAs>
+			<Caption>Зберегти як...</Caption>
+		</miFileSaveAs>
+		<miFileSendTo>
+			<Caption>Відправити до групи</Caption>
+		</miFileSendTo>
+		<miFileUninstall>
+			<Caption>Деінсталяція...</Caption>
+		</miFileUninstall>
+		<miHelp>
+			<Caption>&amp;Довідка</Caption>
+		</miHelp>
+		<miHelpAbout>
+			<Caption>Про програму...</Caption>
+			<Hint>Показати інформацію про програму, номер версії та авторські права</Hint>
+		</miHelpAbout>
+		<miHelpCheckForUpdates>
+			<Caption>Перевірити оновлення...</Caption>
+			<Hint>Перевірити сайт автора на наявність оновлень програми</Hint>
+		</miHelpCheckForUpdates>
+		<miHelpContents>
+			<Caption>Зміст</Caption>
+			<Hint>Показати зміст довідки</Hint>
+		</miHelpContents>
+		<miHelpHomePage>
+			<Caption>Домашня сторінка</Caption>
+		</miHelpHomePage>
+		<miHelpPurchase>
+			<Caption>Придбати</Caption>
+		</miHelpPurchase>
+		<miHelpRegister>
+			<Caption>Реєструвати...</Caption>
+			<Hint>Реєструвати програму Total Uninstall</Hint>
+		</miHelpRegister>
+		<miHexView>
+			<Caption>Показати як шістнадцятковий</Caption>
+			<Hint>Відкрити файл в шістнадцятковому редакторі</Hint>
+		</miHexView>
+		<miImport>
+			<Caption>Імпорт</Caption>
+		</miImport>
+		<miInstalledPrograms>
+			<Caption>Встановлені програми</Caption>
+			<Hint>Встановлені програми|Перейти до встановлених програм</Hint>
+		</miInstalledPrograms>
+		<miList>
+			<Caption>Список</Caption>
+		</miList>
+		<miListGroupNotes>
+			<Caption>Замітки групи</Caption>
+		</miListGroupNotes>
+		<miListLargeIcons>
+			<Caption>Великі іконки</Caption>
+		</miListLargeIcons>
+		<miListProgramNotes>
+			<Caption>Замітки програми</Caption>
+		</miListProgramNotes>
+		<miListSmallIcons>
+			<Caption>Маленькі іконки</Caption>
+		</miListSmallIcons>
+		<miModules>
+			<Caption>&amp;Модулі</Caption>
+		</miModules>
+		<miMonAppsGroupAddChild>
+			<Caption>Додати дочірню...</Caption>
+		</miMonAppsGroupAddChild>
+		<miMonAppsGroupAddRoot>
+			<Caption>Додати корінну...</Caption>
+		</miMonAppsGroupAddRoot>
+		<miMonAppsGroupEdit>
+			<Caption>Редагувати...</Caption>
+		</miMonAppsGroupEdit>
+		<miMonAppsGroupMoveToRoot>
+			<Caption>Перенести в корінь</Caption>
+		</miMonAppsGroupMoveToRoot>
+		<miMonAppsGroupRemove>
+			<Caption>Видалити групу</Caption>
+		</miMonAppsGroupRemove>
+		<miMonitoredPrograms>
+			<Caption>Контрольованих програм</Caption>
+			<Hint>Контрольовані програми|Перейти до контрольованих програм</Hint>
+		</miMonitoredPrograms>
+		<miOpen>
+			<Caption>Відкрити</Caption>
+			<Hint>Відкрити файл, папку або перейти до ключа в редакторі реєстра</Hint>
+		</miOpen>
+		<miPendingFileRenameOp>
+			<Caption>Очікування дій з файлами...</Caption>
+			<Hint>Розгланути та обробити файли, що очікують дії</Hint>
+		</miPendingFileRenameOp>
+		<miPrgAddInstalledPrg>
+			<Caption>Додати програму...</Caption>
+		</miPrgAddInstalledPrg>
+		<miPrgAnalyze>
+			<Caption>&amp;Аналізувати</Caption>
+			<Hint>Аналіз|Аналіз зміни системи поточної програми</Hint>
+		</miPrgAnalyze>
+		<miPrgChangeIcon>
+			<Caption>Змінити іконку...</Caption>
+		</miPrgChangeIcon>
+		<miPrgDelete>
+			<Caption>Видалити</Caption>
+			<Hint>Видалити лог поточної інсталяції</Hint>
+		</miPrgDelete>
+		<miPrgEditInstalledPrg>
+			<Caption>Змінити програму...</Caption>
+		</miPrgEditInstalledPrg>
+		<miPrgNotes>
+			<Caption>Замітки...</Caption>
+			<Hint>Додати замітки до поточного логу інсталяції</Hint>
+		</miPrgNotes>
+		<miPrgRemoveInstalledPrg>
+			<Caption>Видалити програму зі списку</Caption>
+		</miPrgRemoveInstalledPrg>
+		<miPrgRename>
+			<Caption>Перейменувати...</Caption>
+			<Hint>Перейменувати поточний лог інсталяції</Hint>
+		</miPrgRename>
+		<miPrintChanges>
+			<Caption>Змінені...</Caption>
+			<Hint>Друкувати дерево змін</Hint>
+		</miPrintChanges>
+		<miPrintInstalledPrograms>
+			<Caption>Встановлені програми...</Caption>
+		</miPrintInstalledPrograms>
+		<miPrintMonitoredPrograms>
+			<Caption>Контрольовані програми...</Caption>
+		</miPrintMonitoredPrograms>
+		<miProperties>
+			<Caption>Властивості</Caption>
+			<Hint>Показати властивості виділеного файла чи папки</Hint>
+		</miProperties>
+		<miRemovefromLog>
+			<Caption>Видалити з лога</Caption>
+			<Hint>Видалити виділені пункти з лога</Hint>
+		</miRemovefromLog>
+		<miSnsTreeOpen>
+			<Caption>Відкрити</Caption>
+		</miSnsTreeOpen>
+		<miSummary>
+			<Caption>Звіт</Caption>
+			<Hint>Звіт|Показати коротку інформацію про поточну програму</Hint>
+		</miSummary>
+		<miTextView>
+			<Caption>Показати як текст</Caption>
+			<Hint>Відкрити в текстовому редакторі</Hint>
+		</miTextView>
+		<miToolbarLarge>
+			<Caption>Великі</Caption>
+		</miToolbarLarge>
+		<miToolbarMedium>
+			<Caption>Середні</Caption>
+		</miToolbarMedium>
+		<miToolbarSmall>
+			<Caption>Маленькі</Caption>
+		</miToolbarSmall>
+		<miTools>
+			<Caption>&amp;Інструменти</Caption>
+		</miTools>
+		<miToolsCompareSnapshots>
+			<Caption>Порівняння знімків системи...</Caption>
+		</miToolsCompareSnapshots>
+		<miToolsFind>
+			<Caption>Пошук</Caption>
+			<Hint>Пошук|Пошук текста у видалених змінах</Hint>
+		</miToolsFind>
+		<miToolsMergeLogs>
+			<Caption>Об&apos;єднати логи...</Caption>
+		</miToolsMergeLogs>
+		<miToolsOptions>
+			<Caption>Опції...</Caption>
+			<Hint>Опції конфігурації програми</Hint>
+		</miToolsOptions>
+		<miToolsSystemRestore>
+			<Caption>Відновлення системи</Caption>
+		</miToolsSystemRestore>
+		<miULogSuccessful>
+			<Caption>Успішні дії</Caption>
+			<Hint>Показати або сховати успішні дії з лога деінсталяції</Hint>
+		</miULogSuccessful>
+		<miULogWarnings>
+			<Caption>Попередження</Caption>
+			<Hint>Показати або сховати попередження з лога деінсталяції</Hint>
+		</miULogWarnings>
+		<miUninstallLog>
+			<Caption>Лог деінсталяції</Caption>
+			<Hint>Лог деінсталяції|Показати лог деінсталяції програми</Hint>
+		</miUninstallLog>
+		<miUninstallLogDet>
+			<Caption>Деталі лога деінсталяції</Caption>
+		</miUninstallLogDet>
+		<miView>
+			<Caption>&amp;Вид</Caption>
+		</miView>
+		<miViewBundle>
+			<Caption>Вузел</Caption>
+		</miViewBundle>
+		<miViewColorScheme>
+			<Caption>Схема кольорів</Caption>
+		</miViewColorScheme>
+		<miViewDetails>
+			<Caption>Деталі</Caption>
+			<Hint>Деталі програми|Показати або сховати деталі програми</Hint>
+		</miViewDetails>
+		<miViewItemCurrentView>
+			<Caption>Поточний вид</Caption>
+		</miViewItemCurrentView>
+		<miViewItemDetails>
+			<Caption>Деталі пункта</Caption>
+			<Hint>Показати або сховати деталі виділеної гілки з дерева змін</Hint>
+		</miViewItemDetails>
+		<miViewNavigator>
+			<Caption>Програми</Caption>
+			<Hint>Список програм|Показати або сховати список програм</Hint>
+		</miViewNavigator>
+		<miViewRefresh>
+			<Caption>Оновити</Caption>
+		</miViewRefresh>
+		<miViewStatusBar>
+			<Caption>Рядок статусу</Caption>
+			<Hint>Показати чи сховати рядок статусу</Hint>
+		</miViewStatusBar>
+		<miViewToolbars>
+			<Caption>Панель інструментів</Caption>
+		</miViewToolbars>
+		<miViewToolbarsBtnCaption>
+			<Caption>Назва кнопки</Caption>
+			<Hint>Показати або сховати назви кнопок</Hint>
+		</miViewToolbarsBtnCaption>
+		<miViewToolbarsBtnSize>
+			<Caption>Розмір кнопки</Caption>
+		</miViewToolbarsBtnSize>
+		<miViewToolbarsBtnWordWrap>
+			<Caption>Переносити текст на кнопках</Caption>
+		</miViewToolbarsBtnWordWrap>
+		<miViewToolbarsTbrCaption>
+			<Caption>Назва панелі</Caption>
+			<Hint>Показати/Сховати назву панелі</Hint>
+		</miViewToolbarsTbrCaption>
+		<miViewToolbarsVisible>
+			<Caption>Показати</Caption>
+			<Hint>Показати або сховати панель</Hint>
+		</miViewToolbarsVisible>
+		<pmiChgTreeCompareExcl>
+			<Caption>Додати до списку ігнорування</Caption>
+			<Hint>Додати виділені пункти до списку ігнорування всіх профілів</Hint>
+		</pmiChgTreeCompareExcl>
+		<pmiChgTreeDelete>
+			<Caption>Видалити повністю</Caption>
+			<Hint>Видалити виділений пункт з лога та з системи</Hint>
+		</pmiChgTreeDelete>
+		<pmiChgTreeDelSys>
+			<Caption>Видалити тільки з системи</Caption>
+			<Hint>Видалити виділений пункт тільки з системи</Hint>
+		</pmiChgTreeDelSys>
+		<pmiChgTreeHexView>
+			<Caption>Показати як шістнадцятковий</Caption>
+			<Hint>Відкрити файл в шістнадцятковому редакторі</Hint>
+		</pmiChgTreeHexView>
+		<pmiChgTreeOpen>
+			<Caption>Відкрити</Caption>
+			<Hint>Відкрити файл, папку або перейти до ключа в редакторі реєстра</Hint>
+		</pmiChgTreeOpen>
+		<pmiChgTreeProperties>
+			<Caption>Властивості</Caption>
+			<Hint>Показати властивості виділеного файла чи папки</Hint>
+		</pmiChgTreeProperties>
+		<pmiChgTreeRedo>
+			<Caption>Повернути</Caption>
+			<Hint>Повернути виділені зміни в системі</Hint>
+		</pmiChgTreeRedo>
+		<pmiChgTreeRedoDepth>
+			<Caption>Повернути</Caption>
+			<Hint>Повернути виділені зміни в системі</Hint>
+		</pmiChgTreeRedoDepth>
+		<pmiChgTreeRemove>
+			<Caption>Видалити з лога</Caption>
+			<Hint>Видалити виділені пункти з лога</Hint>
+		</pmiChgTreeRemove>
+		<pmiChgTreeRestoreFromBackup>
+			<Caption>Відновити з резервної копії</Caption>
+			<Hint>Відновити виділені файли, папки та вкладені папки з резервної копії</Hint>
+		</pmiChgTreeRestoreFromBackup>
+		<pmiChgTreeScanExcl>
+			<Caption>Додати до списку виключення сканування</Caption>
+			<Hint>Додати виділені пункти до списку виключення при скануванні свіх профілів</Hint>
+		</pmiChgTreeScanExcl>
+		<pmiChgTreeTextView>
+			<Caption>Показати як текст</Caption>
+			<Hint>Відкрити в текстовому редакторі</Hint>
+		</pmiChgTreeTextView>
+		<pmiChgTreeUndo>
+			<Caption>Відмінити</Caption>
+			<Hint>Відмінити останні зміни системи</Hint>
+		</pmiChgTreeUndo>
+		<pmiChgTreeUndoDepth>
+			<Caption>Відмінити</Caption>
+			<Hint>Відмінити обрані зміни в системі</Hint>
+		</pmiChgTreeUndoDepth>
+		<pmiClnExclude>
+			<Caption>Виключити</Caption>
+		</pmiClnExclude>
+		<pmiClnSelectBranch>
+			<Caption>Виділити гілку</Caption>
+		</pmiClnSelectBranch>
+		<pmiClnUnselectBranch>
+			<Caption>Зняти виділення з гілки</Caption>
+		</pmiClnUnselectBranch>
+		<pmiCopySummary>
+			<Caption>Копіювати</Caption>
+		</pmiCopySummary>
+		<pmiInstAppsHeaderAutoResize>
+			<Caption>Авторозмір</Caption>
+		</pmiInstAppsHeaderAutoResize>
+		<pmiLocate>
+			<Caption>Locate</Caption>
+		</pmiLocate>
+		<pmiMonAppsHeaderAutoResize>
+			<Caption>Авторозмір</Caption>
+		</pmiMonAppsHeaderAutoResize>
+		<pmiShowSuccessful>
+			<Caption>Успішні дії</Caption>
+			<Hint>Показати або сховати успішні дії з лога деінсталяції</Hint>
+		</pmiShowSuccessful>
+		<pmiShowWarnings>
+			<Caption>Попередження</Caption>
+			<Hint>Показати або сховати попередження з лога деінсталяції</Hint>
+		</pmiShowWarnings>
+		<pmiTrayRestore>
+			<Caption>Відновити</Caption>
+		</pmiTrayRestore>
+		<rbAll>
+			<Caption>Всі програми</Caption>
+		</rbAll>
+		<rbSelection>
+			<Caption>Виділення</Caption>
+		</rbSelection>
+		<sbAppClose>
+			<Hint>Закрити|Закрити</Hint>
+		</sbAppClose>
+		<sbDetailsClose>
+			<Hint>Закрити|Закрити</Hint>
+		</sbDetailsClose>
+		<sbSearchClose>
+			<Hint>Закрити|Закрити</Hint>
+		</sbSearchClose>
+		<tabOptions>
+			<Caption>Опції</Caption>
+		</tabOptions>
+		<tabResults>
+			<Caption>Результати</Caption>
+		</tabResults>
+		<tbrActions>
+			<Caption>Дії</Caption>
+		</tbrActions>
+		<tbrDetails>
+			<Caption>Деталі</Caption>
+		</tbrDetails>
+		<tbrLayout>
+			<Caption>Розкладка</Caption>
+		</tbrLayout>
+		<tbrModules>
+			<Caption>Модулі</Caption>
+		</tbrModules>
+		<tbrView>
+			<Caption>Вид</Caption>
+		</tbrView>
+		<tbtnAnalyze>
+			<Caption>Аналіз</Caption>
+			<Hint>Аналіз|Аналіз зміни системи поточної програми</Hint>
+		</tbtnAnalyze>
+		<tbtnChanges>
+			<Caption>Зміни</Caption>
+			<Hint>Відстежені зміни|Показати зміни системи зроблені поточною програмою</Hint>
+		</tbtnChanges>
+		<tbtnChgView>
+			<Caption>Вид</Caption>
+			<Hint>Вид|Прийняти певний вид змін</Hint>
+		</tbtnChgView>
+		<tbtnCleaner>
+			<Caption>Очищувач</Caption>
+			<Hint>Очищувач</Hint>
+		</tbtnCleaner>
+		<tbtnClnClean>
+			<Caption>Очистити</Caption>
+			<Hint>Очистити</Hint>
+		</tbtnClnClean>
+		<tbtnClnItems>
+			<Caption>Пункти</Caption>
+		</tbtnClnItems>
+		<tbtnClnScan>
+			<Caption>Сканувати</Caption>
+			<Hint>Сканувати|Перевірити одноразові пункти</Hint>
+		</tbtnClnScan>
+		<tbtnClnSummary>
+			<Caption>Висновок</Caption>
+			<Hint>Висновок|Показати коротку інформацію про поточну програму</Hint>
+		</tbtnClnSummary>
+		<tbtnCollapse>
+			<Caption>Згорнути</Caption>
+			<Hint>Згорнути|Згорнути все активне дерево</Hint>
+		</tbtnCollapse>
+		<tbtnDetails>
+			<Caption>Деталі</Caption>
+			<Hint>Деталі програми|Показати або сховати деталі програми</Hint>
+		</tbtnDetails>
+		<tbtnExpand>
+			<Caption>Розгорнути</Caption>
+			<Hint>Розгорнути|Розгорнути активне дерево</Hint>
+		</tbtnExpand>
+		<tbtnInstallModify>
+			<Caption>Змінити</Caption>
+			<Hint>Ремонтувати, змінити або деінсталювати</Hint>
+		</tbtnInstallModify>
+		<tbtnInstallNew>
+			<Caption>Встановити</Caption>
+			<Hint>Нова інсталяція|Контроль за інсталяцією нової програми</Hint>
+		</tbtnInstallNew>
+		<tbtnInstallUpdate>
+			<Caption>Оновлення</Caption>
+			<Hint>Встановити оновлення|Контроль інсталяції оновлення поточної програми</Hint>
+		</tbtnInstallUpdate>
+		<tbtnInstPrograms>
+			<Caption>Встановлені програми</Caption>
+			<Hint>Встановлені програми|Перейти до встановлених програм</Hint>
+		</tbtnInstPrograms>
+		<tbtnMonPrograms>
+			<Caption>Контрольованих програм</Caption>
+			<Hint>Контрольовані програми|Перейти до контрольованих програм</Hint>
+		</tbtnMonPrograms>
+		<tbtnPrograms>
+			<Caption>Програми</Caption>
+			<Hint>Список програм|Показати або сховати список програм</Hint>
+		</tbtnPrograms>
+		<tbtnSave>
+			<Caption>Зберегти</Caption>
+			<Hint>Зберегти зміни поточного лога інсталяції</Hint>
+		</tbtnSave>
+		<tbtnSearch>
+			<Caption>Пошук</Caption>
+			<Hint>Пошук|Пошук текста у видалених змінах</Hint>
+		</tbtnSearch>
+		<tbtnShowSnapshot>
+			<Caption>Показати знімок</Caption>
+		</tbtnShowSnapshot>
+		<tbtnSummary>
+			<Caption>Звіт</Caption>
+			<Hint>Звіт|Показати коротку інформацію про поточну програму</Hint>
+		</tbtnSummary>
+		<tbtnUninstall>
+			<Caption>Деінсталювати</Caption>
+		</tbtnUninstall>
+		<tbtnUninstallLog>
+			<Caption>Лог</Caption>
+			<Hint>Лог деінсталяції|Показати лог деінсталяції програми</Hint>
+		</tbtnUninstallLog>
+		<tpnlSearch>
+			<Caption>Пошук</Caption>
+		</tpnlSearch>
+		<tvChanges>
+			<Columns_0>Відстежені зміни</Columns_0>
+			<Columns_1>До</Columns_1>
+			<Columns_2>Після</Columns_2>
+			<Columns_3>Поточний</Columns_3>
+		</tvChanges>
+		<tvClnItems>
+			<Columns_0>Пункти</Columns_0>
+			<Columns_1>Властивості</Columns_1>
+		</tvClnItems>
+		<tvResults>
+			<Columns_0>Ім&apos;я</Columns_0>
+			<Columns_1>Розташування</Columns_1>
+			<Columns_2>Програма</Columns_2>
+		</tvResults>
+	</frmTUMain>
+	<RESOURCESTRING>
+		<ACCESS_DENIED_X>Доступ заборонено: %s</ACCESS_DENIED_X>
+		<ACT_CRE_KEY>Створено ключ реестра: %s</ACT_CRE_KEY>
+		<ACT_CRE_VAL>Створено значення реєстра: %s</ACT_CRE_VAL>
+		<ACT_DEC_CNT>Зменшити лічильник загальних файлів: %s</ACT_DEC_CNT>
+		<ACT_DEL_ADS>Видалити альтернативний поток даних: %s</ACT_DEL_ADS>
+		<ACT_DEL_FILE>Видалено файл: %s</ACT_DEL_FILE>
+		<ACT_DEL_FOLDER>Видалена папка: %s</ACT_DEL_FOLDER>
+		<ACT_DEL_KEY>Видалено ключів реєстра: %s</ACT_DEL_KEY>
+		<ACT_DEL_SERVICE>Видалено служб чи пристроїв: %s</ACT_DEL_SERVICE>
+		<ACT_DEL_VAL>Видалено значень реєстра: %s</ACT_DEL_VAL>
+		<ACT_RST_FILE>Відновлено властивостей файлів: %s</ACT_RST_FILE>
+		<ACT_RST_VAL>Відновлено значень реєстра: %s</ACT_RST_VAL>
+		<ACT_STOP_SERVICE>Зупинено сервісів або Пристроїв: %s</ACT_STOP_SERVICE>
+		<ADD>Додати</ADD>
+		<ADVANCED>Додатково</ADVANCED>
+		<AGENT>Агент</AGENT>
+		<ALL>Все</ALL>
+		<ALL_BRA>(Все)</ALL_BRA>
+		<ALL_DETAILS>Всі деталі</ALL_DETAILS>
+		<ALWAYS>Завжди</ALWAYS>
+		<ANALYSIS_PROFILE>Профіл аналізування</ANALYSIS_PROFILE>
+		<ANALYSIS_PROFILES>Профілі аналізування</ANALYSIS_PROFILES>
+		<ANALYZING>Аналіз...</ANALYZING>
+		<ASK>Питати</ASK>
+		<ASK_COMPLETE_LATER>Завершити контроль процесу пізніше?</ASK_COMPLETE_LATER>
+		<ASK_IF_NO_ERROR>Питати якщо немає помилок</ASK_IF_NO_ERROR>
+		<ASK_SAVE_CHG>Бажаєте зберегти зміни від &quot;%s&quot; ?</ASK_SAVE_CHG>
+		<ASK_USER>Питати користувача</ASK_USER>
+		<BACKUP>Копія</BACKUP>
+		<BACKUP_CREATED>Копію створено.</BACKUP_CREATED>
+		<BACKUP_CREATED_OK>Копію створено повністю.</BACKUP_CREATED_OK>
+		<BACKUP_PROGRAM>Створення копії для програми...</BACKUP_PROGRAM>
+		<BACKUP_PROGRAM_X>Створити копію для програми &quot;%s&quot;</BACKUP_PROGRAM_X>
+		<BEGIN_UNINSTALL>Натисніть Деінсталювати для початку процеса деінсталяції.</BEGIN_UNINSTALL>
+		<BEGIN_UNINSTALL_LAUNCH>Натисніть Запуск для початку процеса деінсталяції.</BEGIN_UNINSTALL_LAUNCH>
+		<BROWSE_FOR_FILE>Вказати файл</BROWSE_FOR_FILE>
+		<BROWSE_FOR_FOLDER>Вказати папку</BROWSE_FOR_FOLDER>
+		<BROWSE_FOR_FOLDER_OR_FILE>Вказати папку чи файл</BROWSE_FOR_FOLDER_OR_FILE>
+		<BROWSE_FOR_KEY>Вказати ключ</BROWSE_FOR_KEY>
+		<BROWSE_FOR_KEY_OR_VALUE>Вказати ключ чи значення</BROWSE_FOR_KEY_OR_VALUE>
+		<BROWSE_FOR_VALUE>Перегляд значень</BROWSE_FOR_VALUE>
+		<BUILT_IN_CANCELLED>Вбудований деінсталятор було відмінено або повернено без процесу видалення.</BUILT_IN_CANCELLED>
+		<BUILT_IN_UNINSTALLER_RUNNING>Вбудований деінсталятор програми запущено.</BUILT_IN_UNINSTALLER_RUNNING>
+		<CANCEL>Відмінити</CANCEL>
+		<CANNOT_BROWSE>Помилка при спробі запуска браузера.\nПосилання скопійовано в буфер.</CANNOT_BROWSE>
+		<CANT_EXECUTE>Неможна запустити програму &quot;%s&quot;.</CANT_EXECUTE>
+		<CANT_OPEN_KEY>Неможна відкрити ключ</CANT_OPEN_KEY>
+		<CHANGED_ITEMS>Змінені пункти</CHANGED_ITEMS>
+		<CHANGES>&quot;%s&quot; змін</CHANGES>
+		<CHECK_UPD_NEW>Доступне нове оновлення або новини</CHECK_UPD_NEW>
+		<CHECK_UPD_REMINDER>Нагадування перевірки оновлень</CHECK_UPD_REMINDER>
+		<CHG_VIEWS>Зміна вида</CHG_VIEWS>
+		<CLEAN_UP>Очистити</CLEAN_UP>
+		<CLEAN_UP_DESC>Видалити сліди деінсталяції контрольованої програми</CLEAN_UP_DESC>
+		<CLEANED>Очищено</CLEANED>
+		<CLEANER>Очищувач</CLEANER>
+		<CLEANING>Очищення...</CLEANING>
+		<CLOSE>Закрити</CLOSE>
+		<CLOSE_PROCESSES>Закрити процеси</CLOSE_PROCESSES>
+		<CMP_ERROR>Помилка при порівнянні знімків.</CMP_ERROR>
+		<CMP_PROFILE>Ім&apos;я профілю порівняння</CMP_PROFILE>
+		<CNT_DEL_MON>Лічильник загальних файлів видалено при моніторингу</CNT_DEL_MON>
+		<COMMENTS>Коментарі</COMMENTS>
+		<COMMON>Загальне</COMMON>
+		<COMP_PROFILES>Профілі порівняння</COMP_PROFILES>
+		<COMPARE>Порівняти</COMPARE>
+		<COMPARING_SNS>Порівняння знимків системи...</COMPARING_SNS>
+		<COMPUTER>Комп&apos;ютер</COMPUTER>
+		<COMPUTER_X>Комп&apos;ютер (%s)</COMPUTER_X>
+		<CONTACT>Контакт</CONTACT>
+		<CONTINUE>Продовжити?</CONTINUE>
+		<CONTINUE_UNINSTALL>Продовжити процес деінсталяції</CONTINUE_UNINSTALL>
+		<CONTINUE_UNINSTALL_Q>Продовжити процес деінсталяції?</CONTINUE_UNINSTALL_Q>
+		<CORRUPT_CNT>Відстежено невірну зміну лічильника загальних файлів: Значення зменшено або з невірними даними</CORRUPT_CNT>
+		<CREATE_REG_KEYS>Створити ключ реєстра</CREATE_REG_KEYS>
+		<CREATE_REG_VALS>Створити значення реєстра</CREATE_REG_VALS>
+		<CREATED_ITEMS>Створені пункти</CREATED_ITEMS>
+		<CREATED_ON>Створено</CREATED_ON>
+		<CREATED_X>Створено: %s</CREATED_X>
+		<DEC_CNT>Зменшення лічильника загальних файлів</DEC_CNT>
+		<DEFAULT>За замовчанням</DEFAULT>
+		<DEFAULT_PAR>(За замовчанням)</DEFAULT_PAR>
+		<DEL_AT_STARTUP>Черга для видалення після наступного запуску</DEL_AT_STARTUP>
+		<DEL_CNT>Видалити лічильник загальних файлів</DEL_CNT>
+		<DEL_FILES>Видалити файли</DEL_FILES>
+		<DEL_FOLDERS>Видалити папки</DEL_FOLDERS>
+		<DEL_REG_KEYS>Видалити ключі реєстра</DEL_REG_KEYS>
+		<DEL_REG_VALS>Видалити значення реєстра</DEL_REG_VALS>
+		<DEL_SH_FILE>Видалити загальні файли з диску в Кошик</DEL_SH_FILE>
+		<DELETE_SEL_BACKUPS>Видалити виділені резервні копії?</DELETE_SEL_BACKUPS>
+		<DELETED_ITEMS>Видалені пункти</DELETED_ITEMS>
+		<DETECTED_CHG>Відстежені зміни</DETECTED_CHG>
+		<DISPOSABLE_ITEMS>Одноразові пункти</DISPOSABLE_ITEMS>
+		<DLG_ABORT>Перервати</DLG_ABORT>
+		<DLG_ALL>Все</DLG_ALL>
+		<DLG_CANCEL>Відмінити</DLG_CANCEL>
+		<DLG_CLOSE>Закрити</DLG_CLOSE>
+		<DLG_CNF>Підтвердження</DLG_CNF>
+		<DLG_ERR>Помилка</DLG_ERR>
+		<DLG_IGNORE>Ігнорувати</DLG_IGNORE>
+		<DLG_INF>Інформація</DLG_INF>
+		<DLG_NO>Ні</DLG_NO>
+		<DLG_NOTOALL>Ні для всіх</DLG_NOTOALL>
+		<DLG_OK>ОК</DLG_OK>
+		<DLG_RETRY>Повтор</DLG_RETRY>
+		<DLG_WRN>Увага</DLG_WRN>
+		<DLG_YES>Так</DLG_YES>
+		<DLG_YESTOALL>Так для всіх</DLG_YESTOALL>
+		<DONT_DEL_SH_FILE>Користувач бажає залишити загальні файли</DONT_DEL_SH_FILE>
+		<EDIT_PROGRAM>Змінити програму</EDIT_PROGRAM>
+		<ELAPSED>Пройшло %d:%2.2d</ELAPSED>
+		<ENTER_IDENTIFIER>Вкажіть назву встановленої програми.</ENTER_IDENTIFIER>
+		<ERR>Помилка</ERR>
+		<ERR_BRA>(ERR)</ERR_BRA>
+		<ERR_DEL_FLD_FILES>Неможна видалити одну чи більше папок або файлів.</ERR_DEL_FLD_FILES>
+		<ERR_DEL_REG_KEYS_VALS>Неможна видалити один чи більше ключів або значень.</ERR_DEL_REG_KEYS_VALS>
+		<ERR_REDO_REG_KEYS_VALS>Неможливо відновити один чи більше ключів чи значень.</ERR_REDO_REG_KEYS_VALS>
+		<ERR_UNDO_REG_KEYS_VALS>Неможна повернути один чи більше ключів або значень.</ERR_UNDO_REG_KEYS_VALS>
+		<ERR_WRN_OK_STAT>Помилок(а): %d   Уваг(а): %d  Завершених дій(ї): %d</ERR_WRN_OK_STAT>
+		<EXIT>Вихід</EXIT>
+		<EXPERT>Експерт</EXPERT>
+		<EXPIRE_DAYS>Залишилося %d днів.</EXPIRE_DAYS>
+		<EXPORT_ERROR>Помилка при експорті !</EXPORT_ERROR>
+		<EXTENSION>Розширення</EXTENSION>
+		<FAMILY_NOT_ACCEPTED>Сімейну ліцензію не прийнято.</FAMILY_NOT_ACCEPTED>
+		<FFILTER_ALL>Всі файли (*.*)|*.*</FFILTER_ALL>
+		<FFILTER_DLL>Файли динамічних бібліотек (*.dll)|*.dll</FFILTER_DLL>
+		<FFILTER_EXE>Програми (*.exe)|*.exe</FFILTER_EXE>
+		<FFILTER_HTM>Документи HTML (*.htm, *.html)|*.htm;*html</FFILTER_HTM>
+		<FFILTER_ICL>Колекції іконок (*.icl)|*.icl</FFILTER_ICL>
+		<FFILTER_ICO>Файли іконок (*.ico)|*.ico</FFILTER_ICO>
+		<FFILTER_MSI>Інсталятори Microsoft (*.msi)|*.msi</FFILTER_MSI>
+		<FFILTER_REG>Файли реєстру (*.reg)|*.reg</FFILTER_REG>
+		<FFILTER_TXT>Текстові документи (*.txt)|*.txt</FFILTER_TXT>
+		<FFILTER_WAV>Файли звуків (*.wav)|*.wav</FFILTER_WAV>
+		<FFILTER_XML>Документи XML - (*.xml)|*.xml</FFILTER_XML>
+		<FILE>(ФАЙЛ)</FILE>
+		<FILE_MASK>Маска файла</FILE_MASK>
+		<FILE_SYSTEM>Файлова система</FILE_SYSTEM>
+		<FILES_CHG_STAT>Файлів змінено    :%6.1d</FILES_CHG_STAT>
+		<FILES_CREATED_STAT>Файлів створено :%6.1d</FILES_CREATED_STAT>
+		<FILES_DEL_STAT>Файлів видалено:%6.1d</FILES_DEL_STAT>
+		<FILES_NOT_INCLUDED>Файли не включені в копію</FILES_NOT_INCLUDED>
+		<FILES_X>Файлів   :%6.1d</FILES_X>
+		<FINISH>Завершено</FINISH>
+		<FLDS_CREATED_STAT>Папок створено  :%6.1d</FLDS_CREATED_STAT>
+		<FLDS_DEL_STAT>Папок видалено :%6.1d</FLDS_DEL_STAT>
+		<FOLDER>(ПАПКА)</FOLDER>
+		<FOLDER_MASK>Маска папки</FOLDER_MASK>
+		<FOLDERS_X>Папок :%6.1d</FOLDERS_X>
+		<FREE_UPDATES_UNTIL>Безкоштовні оновлення до %s</FREE_UPDATES_UNTIL>
+		<FS_DET_VIEW_PRF>Деталі файлової системи [Вид: %s]</FS_DET_VIEW_PRF>
+		<GENERAL>Загальні</GENERAL>
+		<GENERATED_BY_TU>Згенеровано by Total Uninstall</GENERATED_BY_TU>
+		<HIDDEN_NODE>Ця гілка схована.</HIDDEN_NODE>
+		<HIDDEN_NODE_IN_VIEW>Пункт схований в поточному виді.</HIDDEN_NODE_IN_VIEW>
+		<HIDE_OPTIONS>Оп&amp;ції приховування</HIDE_OPTIONS>
+		<IF_NO_ERROR>Якщо немає помилок</IF_NO_ERROR>
+		<INCLUDE_FOLDER_IN_LOG>Включати папки в лог</INCLUDE_FOLDER_IN_LOG>
+		<INF_VOLATILE_KEY>Непостійний ключ не створено</INF_VOLATILE_KEY>
+		<INF_VOLATILE_VAL>Непостійне значення не створено</INF_VOLATILE_VAL>
+		<INST_ON>Встановлена</INST_ON>
+		<INST_PRG>Встановлена програма</INST_PRG>
+		<INST_PRGS>Встановлені програми</INST_PRGS>
+		<INST_SERV_AND_DEV>Встановлені сервіси та пристрої</INST_SERV_AND_DEV>
+		<INSTALL>Встановити</INSTALL>
+		<INSTALL_HISTORY>Історія встановлення</INSTALL_HISTORY>
+		<INSTALLED_PRGS_CMPS>Встановлених програм: %d, компонентів системи: %d</INSTALLED_PRGS_CMPS>
+		<INSTALLER_ERR>Відстежено помилку інсталяції: Лічильник загальних файлів створений для існуючого файла</INSTALLER_ERR>
+		<INTERFACE>Інтерфейс</INTERFACE>
+		<INVALID_AFTER_CNT>Невірний лічильник AFTER</INVALID_AFTER_CNT>
+		<INVALID_BEFORE_CNT>Невірний лічильник BEFORE</INVALID_BEFORE_CNT>
+		<INVALID_CURRENT_CNT>Знайдено невірний поточний лічильник</INVALID_CURRENT_CNT>
+		<INVALID_FILE_FORMAT>Невірний формат файлу</INVALID_FILE_FORMAT>
+		<KEYS_CREATED_STAT>Ключів створено    :%6.1d</KEYS_CREATED_STAT>
+		<KEYS_DEL_STAT>Ключів видалено    :%6.1d</KEYS_DEL_STAT>
+		<KEYS_X>Ключів    :%6.1d</KEYS_X>
+		<LAST_CHECK>Остання перевірка: %s</LAST_CHECK>
+		<LAST_WRITE_X>Останній запис: %s</LAST_WRITE_X>
+		<LAUNCH>Запуск</LAUNCH>
+		<LAUNCH_SUPPLIED_UNINST>Забеспечення запуску Додати/Видалити програму.</LAUNCH_SUPPLIED_UNINST>
+		<LAUNCH_TU>Запуск Total Uninstall</LAUNCH_TU>
+		<LIC_COUNTRY>Ліцензія на країну</LIC_COUNTRY>
+		<LIC_FAMILY>Сімейна ліцензія</LIC_FAMILY>
+		<LIC_MULTIPLE>Ліцензія на кілька комп&apos;ютерів</LIC_MULTIPLE>
+		<LIC_SINGLE_COMPUTER>Ліцензія на один комп&apos;ютер</LIC_SINGLE_COMPUTER>
+		<LIC_SITE>Ліцензія на сайт</LIC_SITE>
+		<LIC_SMALL_OFFICE>Ліцензія на маленький офіс</LIC_SMALL_OFFICE>
+		<LIC_TECHNICIAN>Технічна ліцензія</LIC_TECHNICIAN>
+		<LIC_TEMPORARY>Тимчасова ліцензія</LIC_TEMPORARY>
+		<LIC_WORLDWIDE>Всесвітня ліцензія</LIC_WORLDWIDE>
+		<LICENSED_TO>Ліцензовано на &quot;%s&quot;</LICENSED_TO>
+		<LNK_EXE_FILTER>Програми (*.lnk, *.exe)|*.lnk;*.exe</LNK_EXE_FILTER>
+		<LOADING_INST_PRGS>Завантаження встановлених програм...</LOADING_INST_PRGS>
+		<LOADING_MON_PRGS>Завантаження контрольованих програм...</LOADING_MON_PRGS>
+		<LOCATE_PRG_LNK_EXE>Виберіть програму або посилання на неї</LOCATE_PRG_LNK_EXE>
+		<LOCATE_UNINSTALLER_EXE>Вкажіть програму деінсталяції</LOCATE_UNINSTALLER_EXE>
+		<LOG_FILE_NAME>Ім&apos;я лог файла</LOG_FILE_NAME>
+		<MAINTENANCE_ENDED>Період обслуговування вашої ліцензії закінчується.</MAINTENANCE_ENDED>
+		<MAINTENANCE_ENDED_INFO>Нова версія встановленної програми буде працювати в режимі ознайомлення.</MAINTENANCE_ENDED_INFO>
+		<MISSING_ITEMS>Відсутні пункти</MISSING_ITEMS>
+		<MON_ON>Контролюється</MON_ON>
+		<MON_PRG>Контрольовані програми</MON_PRG>
+		<MON_PRG_PATH>Шлях контрольованих програм</MON_PRG_PATH>
+		<MON_PRG_RUNNING>Це з&apos;являється, якщо контрольована програма ще запущена.</MON_PRG_RUNNING>
+		<MONITOR_WITH_TU>Контроль з Total Uninstall</MONITOR_WITH_TU>
+		<MONITORED_PRGS>%d контрольованих програм</MONITORED_PRGS>
+		<NAME>Ім&apos;я</NAME>
+		<NEVER>Ніколи</NEVER>
+		<NEW_NAME>Нове ім&apos;я</NEW_NAME>
+		<NO>ні</NO>
+		<NO_GROUPS>Немає груп</NO_GROUPS>
+		<NO_MORE_INSTANCES_ALLOWED>Ваша ліцензія не дозволяє запускати більшу кількість екземплярів програми.</NO_MORE_INSTANCES_ALLOWED>
+		<NO_RIGHTS>Недостатньо прав</NO_RIGHTS>
+		<NO_UPDATES>Пошкоджена версія.</NO_UPDATES>
+		<NORMAL>Норма</NORMAL>
+		<NOT_A_VALID_UNINST>Не знайдено вірний або зареєстрований деінсталятор.</NOT_A_VALID_UNINST>
+		<NOT_AVAILABLE>N.A.</NOT_AVAILABLE>
+		<NOT_DELETED_FILES>Не видалені папки та файли</NOT_DELETED_FILES>
+		<NOT_DELETED_FILES_DET>Папки та файли не видалені при деінсталяції</NOT_DELETED_FILES_DET>
+		<NOT_DELETED_REG>Не видалені ключі та значення реєстра</NOT_DELETED_REG>
+		<NOT_DELETED_REG_DET>Ключі та значення реєстра не видалені при деінсталяції</NOT_DELETED_REG_DET>
+		<NOT_EMPTY>Не порожня</NOT_EMPTY>
+		<NOT_FOUND>Не знайдено</NOT_FOUND>
+		<NOT_FOUND_X>Не знайдено: %s</NOT_FOUND_X>
+		<NOTES>Замітки</NOTES>
+		<OK>ОК</OK>
+		<OK_BRA>(ОК)</OK_BRA>
+		<ON_PRG_CLOSE>При закритті програми</ON_PRG_CLOSE>
+		<ON_REFRESH>При оновлені</ON_REFRESH>
+		<ONLY_FILES_TO_KEEP>Не видалено. Містить тільки файли або папки для збереження.</ONLY_FILES_TO_KEEP>
+		<ONLY_KEYS_TO_KEEP>Не видалено. Містить тільки ключі реєстра для зберігання.</ONLY_KEYS_TO_KEEP>
+		<OTHER>Інше</OTHER>
+		<PAGE>Сторінка:</PAGE>
+		<PAINT_ITEM_STYLES>Норма\nСхований\nВиділити текст\nЗатемнена іконка\nЗатемнена іконка та виділений текст</PAINT_ITEM_STYLES>
+		<PENDING_FILE_REN>Файли, що очікують дії.</PENDING_FILE_REN>
+		<PRE_INST_SNS_NAME>Ім&apos;я знімку Pre-install</PRE_INST_SNS_NAME>
+		<PRE_INSTALL>Зінмок системи Pre-install</PRE_INSTALL>
+		<PREFERENCES>Налаштування</PREFERENCES>
+		<PRG_DETECTED>Відстежена програма:</PRG_DETECTED>
+		<PRG_NAME>Назва програми</PRG_NAME>
+		<PRG_PART_UNINSTALLED>Програма частково деінстальована</PRG_PART_UNINSTALLED>
+		<PRG_RESTORED>Програму відновлено.</PRG_RESTORED>
+		<PRG_UNINSTALLED>Програма повністю деінстальована</PRG_UNINSTALLED>
+		<PRINT_ERROR>Помилка друку !</PRINT_ERROR>
+		<PROCESS_CANCELLED>Процес відмінено.</PROCESS_CANCELLED>
+		<PROCESSING_INSTALLATIONS>Обровка інсталяцій...</PROCESSING_INSTALLATIONS>
+		<PRODUCT_UPDATES>Оновлення продукту</PRODUCT_UPDATES>
+		<PROGRAM_WILL_RESTART>Програму буде перезавантажено для завершення реєстрації.</PROGRAM_WILL_RESTART>
+		<PROGRESS_DEFAULT>Прогрес, за замовчанням</PROGRESS_DEFAULT>
+		<PST_INST_SNS_NAME>Ім&apos;я знімку Post-install</PST_INST_SNS_NAME>
+		<PUBLISHER>Видавець</PUBLISHER>
+		<QST_DEL_FLD_FILES>Бажаєте видалити виділені папки або файли?</QST_DEL_FLD_FILES>
+		<QST_DEL_REG_KEYS_VALS>Бажаєте видалити виділені ключі або значення?</QST_DEL_REG_KEYS_VALS>
+		<QST_DEL_SERVICES>Видалити виділені служби?</QST_DEL_SERVICES>
+		<QST_REMOVE_INST_PRG_LST>Бажаєте видалити виділену програму зі списку?</QST_REMOVE_INST_PRG_LST>
+		<QUEST_REMOVE_GROUP>Видалити групу?</QUEST_REMOVE_GROUP>
+		<QUIET_PROGRESS_DEFAULT>Тихо, прогрес, за замовчанням</QUIET_PROGRESS_DEFAULT>
+		<README>Readme</README>
+		<READY>Готов</READY>
+		<RECORD_CHANGED_X>Записів змінено: %s</RECORD_CHANGED_X>
+		<REG_DET_VIEW_PRF>Деталі реєстра [Вид: %s]</REG_DET_VIEW_PRF>
+		<REG_KEY>(REG KEY)</REG_KEY>
+		<REG_SCAN_ERROR>Помилка при скануванні реєстру.</REG_SCAN_ERROR>
+		<REG_VAL>(REG VAL)</REG_VAL>
+		<REGISTER_DISABLED_KEY>Ви можете стати жертвою контрафактного програмного забезпечення. Будь ласка, придбайте справжній ключ.</REGISTER_DISABLED_KEY>
+		<REGISTER_FAILED>Помилка при реєстрації.</REGISTER_FAILED>
+		<REGISTER_FIREWALL>Брандмауер заважає %s on-line перевірці вашої ліцензії.</REGISTER_FIREWALL>
+		<REGISTER_HOST>Запис у файлі HOSTS запобігає %s онлайн перевірці вашої ліцензії.</REGISTER_HOST>
+		<REGISTER_INVALID>Невірна реєстраційна інформація</REGISTER_INVALID>
+		<REGISTER_PRO>Ви повинні зареєструвати програму з ключем для Professional Edition.</REGISTER_PRO>
+		<REGISTER_THANK_YOU>Дякуємо за реєстрацію %s.</REGISTER_THANK_YOU>
+		<REGISTERED_COMPANY>Зареєстрована компанія</REGISTERED_COMPANY>
+		<REGISTERED_OWNER>Зареєстрований власник</REGISTERED_OWNER>
+		<REGISTRY>Реєстр</REGISTRY>
+		<REMOVE_LEFT_BEHIND>Натисніть Деінсталяція для видалення відстежених папок, файлів, ключей та значень реєстра.</REMOVE_LEFT_BEHIND>
+		<REMOVE_LOG>Видалити лог змін?</REMOVE_LOG>
+		<REMOVE_LOG_DET>Ви не можете відновити зміни зроблені для виділеної програми.</REMOVE_LOG_DET>
+		<REMOVE_PRG_DATA>Видалити дані та налаштування програми?</REMOVE_PRG_DATA>
+		<REMOVE_PRG_DATA_INFO>Виберіть &quot;Ні&quot; якщо плануєте оновити  Total Uninstall</REMOVE_PRG_DATA_INFO>
+		<RENAME>Перейменувати</RENAME>
+		<REQUEST_INTERNET_ACCESS>Зв&apos;язок з інтернет є обов&apos;язковим.</REQUEST_INTERNET_ACCESS>
+		<RESTORE_PROGRAM>Відновити програму</RESTORE_PROGRAM>
+		<RESTORE_REG_VALS>Відновити значення реєстра</RESTORE_REG_VALS>
+		<RESTORING_FILES_FROM_BKP>Відновлення файлів з резервної копії...</RESTORING_FILES_FROM_BKP>
+		<RST_FILE_PROP>Відновити властивості файла</RST_FILE_PROP>
+		<RUN_EVAL_PERIOD>Запустити програму в режимі ознайомлення?</RUN_EVAL_PERIOD>
+		<RUNNING_DOMAIN>Запуск в домені Windows NT.</RUNNING_DOMAIN>
+		<RUNNING_SERVER>Запуск на сервері Windows.</RUNNING_SERVER>
+		<RUNNING_VM>Запуск на віртуальній машині.</RUNNING_VM>
+		<SAFE>Безпечно</SAFE>
+		<SAVE_AS>Зберегти як</SAVE_AS>
+		<SCAN_PROFILES>Профілі сканування</SCAN_PROFILES>
+		<SCANNING>Сканування...</SCANNING>
+		<SCANNING_REGISTRY_AND_FS>Сканування реєстра та файлової системи...</SCANNING_REGISTRY_AND_FS>
+		<SEARCH>Пошук</SEARCH>
+		<SEARCH_IN_X>Шукати в &quot;%s&quot;</SEARCH_IN_X>
+		<SEL_BRA>(Виділення)</SEL_BRA>
+		<SEL_HAS_HD_NODES>Виділення містить як мінімум приховану гілку.</SEL_HAS_HD_NODES>
+		<SEL_PRG_UNINSTALLED>Виділену програму вже деінстальовано.</SEL_PRG_UNINSTALLED>
+		<SEL_UNINSTALL_PROFILE>Виберіть профіль деінсталяції.</SEL_UNINSTALL_PROFILE>
+		<SELECT>Виділити</SELECT>
+		<SHARED_FILE>Загальний файл. Не видалений в цій фазі</SHARED_FILE>
+		<SHARED_FILE_CNT_DEC>Лічильник загальних файлів вже зменшено</SHARED_FILE_CNT_DEC>
+		<SHARED_FILE_NOT_FOUND>Загальний файл не знайдено на диску</SHARED_FILE_NOT_FOUND>
+		<SHOW_OPTIONS>Показати &amp;опції</SHOW_OPTIONS>
+		<SHOW_SYS_COMP>Показані компоненти системи: %s</SHOW_SYS_COMP>
+		<SIZE>Розмір</SIZE>
+		<SIZE_STAT>Розмір                   : %s</SIZE_STAT>
+		<SKIP>Пропустити</SKIP>
+		<SKIP_BUILTIN_UNINSTALLER>Якщо вбудований деінсталятор не відповідає, натисніть Пропустити, щоб продовжити. Буде запущено наступний вбудований деінсталятор.</SKIP_BUILTIN_UNINSTALLER>
+		<SMALL_CNT>Замалий лічильник загальних файлів в реєстрі</SMALL_CNT>
+		<START>Старт</START>
+		<START_SCANNING>Натисніть кнопку Сканувати для початку.</START_SCANNING>
+		<START_UNINSTALL_PROCESS>Старт процеса деінсталяції.</START_UNINSTALL_PROCESS>
+		<STOP>Стоп</STOP>
+		<STOP_SERVICES>Зупинити сурвіси</STOP_SERVICES>
+		<SUPPORT_INFO>Інформація підтримки</SUPPORT_INFO>
+		<SUPPORT_PHONE>Телефон підтримки</SUPPORT_PHONE>
+		<SVC_CMD_NOT_ACCEPTED>Сервіс не приймає команду зупинення.</SVC_CMD_NOT_ACCEPTED>
+		<SW_VERSION>Версія %s</SW_VERSION>
+		<TEMPORARY_FILES>Тимчасові файли</TEMPORARY_FILES>
+		<TITLE_MON_INSTALL>Контроль нової інсталяції</TITLE_MON_INSTALL>
+		<TITLE_MON_UPDATE_X>Контроль програми оновлення &quot;%s&quot;</TITLE_MON_UPDATE_X>
+		<TOTAL_LIC_COMPUTERS>Кількість ліцензій для цього імені: %s</TOTAL_LIC_COMPUTERS>
+		<TOTAL_UNINSTALL>Total uninstall</TOTAL_UNINSTALL>
+		<TRACES_AFTER_UNINSTALL>Слідкувати після деінсталяції</TRACES_AFTER_UNINSTALL>
+		<TRIAL_EXPIRED>Період ознайомлення скінчився. Будь ласка, зареєструйтеся.</TRIAL_EXPIRED>
+		<TU_AGENT>Total Uninstall агент</TU_AGENT>
+		<TU_MON_PRG_TITLE>Контрольованих програм</TU_MON_PRG_TITLE>
+		<TU_PRO_EDITION>Total Uninstall Професійна редакція</TU_PRO_EDITION>
+		<TU_STD_EDITION>Total Uninstall Стандартна редакція</TU_STD_EDITION>
+		<TU_USE_FIRST_UNINST>Total uninstall використовує спочатку деінсталятор програми</TU_USE_FIRST_UNINST>
+		<TU_USE_FIRST_UNINST_DESC>Деінсталює анті-віруси, anti-spyware, firewall, драйвери або будь-які програми, що встановлені на пристроях системи.</TU_USE_FIRST_UNINST_DESC>
+		<UNINST_ANALYZED>Деінсталювати аналізовану програму</UNINST_ANALYZED>
+		<UNINST_BUNDLE>Видаліть проаналізовані програми - вузел</UNINST_BUNDLE>
+		<UNINST_PROFILES>Профілі Деінсталяції</UNINST_PROFILES>
+		<UNINSTALL>Деінсталювати</UNINSTALL>
+		<UNINSTALL_INST_HINT>Деінсталяція|Деінсталювати виділену проаналізовану програму</UNINSTALL_INST_HINT>
+		<UNINSTALL_MON_HINT>Деінсталяція|Деінсталювати виділену контрольовану програму</UNINSTALL_MON_HINT>
+		<UNINSTALL_PROGRAM_X>Деінсталяція програми &quot;%s&quot;</UNINSTALL_PROGRAM_X>
+		<UNINSTALLED_WITH_TU>Деінсталювати з Total Uninstall &quot;%s&quot;</UNINSTALLED_WITH_TU>
+		<UNREGISTERED>Незареєстровано</UNREGISTERED>
+		<USE_LAST_SNS>Використовувати останній знімок</USE_LAST_SNS>
+		<USE_LAST_SNS_AGO_D>Використовувати останній знімок (%d дні, %d годин та %d хвилин тому)</USE_LAST_SNS_AGO_D>
+		<USE_LAST_SNS_AGO_H>Використовувати останній знімок (%d годин та %d хвилин тому)</USE_LAST_SNS_AGO_H>
+		<USE_LAST_SNS_AGO_M>Використовувати останній знімок (%d хвилин тому)</USE_LAST_SNS_AGO_M>
+		<USE_OLD_PURCHASE_NEW>Встановіть більш стару версію або придбайте оновлення для використання цієї версії.</USE_OLD_PURCHASE_NEW>
+		<USE_ONLY_PRG_UNINST>Використовувати тільки деінсталятор програми</USE_ONLY_PRG_UNINST>
+		<USE_OR_BUILD_SNS>Створити або використати попередній знімок pre-install.</USE_OR_BUILD_SNS>
+		<USR_ABORT>Перервано користувачем</USR_ABORT>
+		<VALS_CHG_STAT>Змінених значень    :%6.1d</VALS_CHG_STAT>
+		<VALS_CREATED_STAT>Створених значень:%6.1d</VALS_CREATED_STAT>
+		<VALS_DEL_STAT>Видалених значень:%6.1d</VALS_DEL_STAT>
+		<VALUES_X>Значень  :%6.1d</VALUES_X>
+		<VERSION>Версія</VERSION>
+		<WAIT_UNINST_REMOVE_LEFT>Після завершення Додати/Видалити програму натисніть Деінсталювати для видалення папок, файлів, ключей та значень реєстра, що залишились.</WAIT_UNINST_REMOVE_LEFT>
+		<WRN_BRA>(WRN)</WRN_BRA>
+		<X_BYTE>%s Б</X_BYTE>
+		<X_BYTES>%d байт</X_BYTES>
+		<X_CHANGES>%s - Зміни</X_CHANGES>
+		<X_GIGABYTE>%s Гб</X_GIGABYTE>
+		<X_KILOBYTE>%s Кб</X_KILOBYTE>
+		<X_MEGABYTE>%s Мб</X_MEGABYTE>
+		<X_RESULTS>%d результат(ів)</X_RESULTS>
+		<X_UNINSTALL_LOG>&quot;%s&quot; - лог деінсталяції</X_UNINSTALL_LOG>
+		<X_UNINSTALL_LOG_FILE>&quot;%s&quot; - UninstallLog.txt</X_UNINSTALL_LOG_FILE>
+		<YES>так</YES>
+		<ZERO_LENGTH_DATA>(дані нульової довжини)</ZERO_LENGTH_DATA>
+	</RESOURCESTRING>
+</TotalUninstall>

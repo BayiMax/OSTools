@@ -1,0 +1,2487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TotalUninstall>
+	<_System_>
+		<Flag>
+			<Size>1974</Size>
+			<Data>Qk22BwAAAAAAADYAAAAoAAAAIAAAABQAAAABABgAAAAAAIAHAADEDgAAxA4AAAAAAAAAAAAACAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPEDBHCCQfDCAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPDDRbDHUrELYHIKXTHFzjDCw7DCAPDCAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECATDGTzDEB7DCAPECAPDHUvFNJjMNZ/NNJnLNqDONaDNMZHKEyvECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECgrDKnXGMY/HEyrCCAPECAPDECDELofLNJvMM5bKM5fKNJzMJ27JCxDDCAPECAPECw7DDxvDCAbDCAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPEDBLDL4jJKHHJK3zMI2HHHUzFESHBGDzFNJjKN6XQNqHONJrLDhrCEiXCIFPFJmnHKHDHQZe3PI+5NF+pDhnECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPEFzbDHEjHCAPECQfDJGPDM5fKNqDNJmvGLoTKNZzJNqDNJmnGLH7KNZ3MMpPIHUnBFTHFRn6ePoqxSn+YCw7DCAPECAPECAPECAPECAPECAPECAPECAPECAPECAPEDBHCJ2/HCAXDCAPDCw3CFjLEIVrGM5nNNZa5N4yWPIx2O41/NoydNZjBMZHMHEjEFC3DCQbDHxmoNFenIkW6CAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPEHEfGGDzHFjPFKXXIMpTJM5fKMpTJOZC1PImJPYqHP4iEO4uLPIqJPYmMNZDBNJrLMpPIMpPKJWXHESTDCxDDCAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECgvDH1HGHUvFMI3KM5XJNJvLNqPPNZ3NXnt5iGEqT4GTc2pPR4SfWH+FWn6ARoikNqHONqTPM5bKM5bKLoXJFC3ECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPEGDvEKHDGMpTNNJjLNqHONqHON6bQOKvSS4Wcbm5YO4y3NJzMU4eSUYaTaW9hOJfFOa3SN6TPNqHONZ7NM5jLMI3LDhrDCAPECAPECAPECAPECAPECAPECAPECAPECAPECgrDLH/KMIvJNZ7MNZ3MOKrSKHLIESHER2+WXXZ2YnRuN5rGbmxYbG5cfWQ7KVq6FCzFMY/LN6fQNZ/NM5fLMIzLJGPHCAPDCAPECAPECAPECAPECAPECAPECAPECAPEECHDLH7KMI3INZ7MNqPOOa7TOavSEijEJFbBV3mCVIGLXXl5W32AVH6KUHqNGDnFHk/HOa7TOa7TNZ/NNZ3MLobIKXXJCgvDCAPECAPECAPECAPECAPECAPECAPECAPEDxvEKXbKMZDJNqLONaDNN6jRHU7JCAPDCAPDJGHGNJnLJGPHL4jJNJnLGDnDCAPECQjDKHTMN6TPNaDNNZ7NMIvKJWnJCQjDCAPECAPECAPECAPECAPECAPECAPECAPECxHDJmzKLIHJNZ3MM5nPEifEDRHCEyfDH1PHM5jMMI7NCgvDESTENqLRMIzKGkLFDxzCDhbCGDzGNqPPNJvMLoXLH1DGCAPDCAPECAPECAPECAPECAPECAPECAPECAPECAPEHErHK33LL4rKGkLHDxTCHULELXbGNZ7NM5bNDRTDCAPDCAPDFjPENqLONJbLKm3GGC7DDRDCJmnJLofKJWjJGDrGCAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPDH1TILofMCATDCAPECAPDDRfEEynGEibDLoTGMpHIMY/HKnjFDRbDFC/GCgzDCAPECAPEECDFJ2/KHlHICAPDCAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECQnDGkDGCAPECAPECAPECAPEDBLDI2HFKHDFJWbEH1DELHzFIVfECAPDCAPECAPECAPECQrDFznGCQnDCAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPDGT7FJmrGKnDCJWLFJWfGFCzFCAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPEJ0q1GSm5CAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAbDCAPDCAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPECAPE</Data>
+		</Flag>
+		<LanguageCode>en</LanguageCode>
+		<LocalizedName>Crnogorski</LocalizedName>
+		<Version>60800</Version>
+	</_System_>
+	<Cleaner>
+		<CF-BROWSER-CACHE>Browser</CF-BROWSER-CACHE>
+		<CF-BROWSER-CACHE-CHROME>Chrome</CF-BROWSER-CACHE-CHROME>
+		<CF-BROWSER-CACHE-FIREFOX>Firefox</CF-BROWSER-CACHE-FIREFOX>
+		<CF-BROWSER-CACHE-IE>Internet Explorer</CF-BROWSER-CACHE-IE>
+		<CF-BROWSER-CACHE-MAXTHON>Maxthon</CF-BROWSER-CACHE-MAXTHON>
+		<CF-BROWSER-CACHE-OPERA>Opera</CF-BROWSER-CACHE-OPERA>
+		<CF-PROGRAMS>Programi</CF-PROGRAMS>
+		<CF-PROGRAMS-ADOBE-FLASH-PLAYER>Adobe Flash Player</CF-PROGRAMS-ADOBE-FLASH-PLAYER>
+		<CF-PROGRAMS-MSOFFICE-RECENT>Microsoft Office lista otvaranih fajlova</CF-PROGRAMS-MSOFFICE-RECENT>
+		<CF-PROGRAMS-SUN-JAVA-CACHE>Sun Java kes</CF-PROGRAMS-SUN-JAVA-CACHE>
+		<CF-SYSTEM>Sistem</CF-SYSTEM>
+		<CF-SYSTEM-JUNK-FILES>Otpadni fajlovi</CF-SYSTEM-JUNK-FILES>
+		<CF-SYSTEM-RECYCLE-BIN>Recycle bin za forsirano ciscenje</CF-SYSTEM-RECYCLE-BIN>
+		<CF-SYSTEM-TEMP-FILES>Privremeni fajlovi</CF-SYSTEM-TEMP-FILES>
+		<CF-SYSTEM-THUMBNAILS-CACHE>Thumbnail kes</CF-SYSTEM-THUMBNAILS-CACHE>
+		<CF-WINDOWS>Windows</CF-WINDOWS>
+		<CF-WINDOWS-ERROR-REPORTING>Izvjestaji o greskama</CF-WINDOWS-ERROR-REPORTING>
+		<CF-WINDOWS-EXPLORER>Windows Explorer</CF-WINDOWS-EXPLORER>
+		<CF-WINDOWS-EXPLORER-RECENT-FILES>Lista otvaranih dokumenata</CF-WINDOWS-EXPLORER-RECENT-FILES>
+		<CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>Zaostali prazni folderi</CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>
+		<CF-WINDOWS-LOG-FILES>Log fajlovi</CF-WINDOWS-LOG-FILES>
+		<CF-WINDOWS-MEMORY-DUMP-FILES>Memorijski dump-ovi</CF-WINDOWS-MEMORY-DUMP-FILES>
+		<CF-WINDOWS-TEMP-FOLDERS>Privremeni folderi</CF-WINDOWS-TEMP-FOLDERS>
+		<CR-INVALID-ENTRIES>Nevalidni objekti</CR-INVALID-ENTRIES>
+		<CR-INVALID-ENTRIES-FILE-REFERENCES>Fajl reference</CR-INVALID-ENTRIES-FILE-REFERENCES>
+		<CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>Zaostali prazni kljucevi</CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>
+		<CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>Nedostajuci Shared DLL-ovi</CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>
+		<CR-INVALID-ENTRIES-MSI-PATHS>MSI putanje</CR-INVALID-ENTRIES-MSI-PATHS>
+		<CR-INVALID-ENTRIES-MUI-REFERENCES>MUI reference</CR-INVALID-ENTRIES-MUI-REFERENCES>
+		<CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>Fajl formati bez informacija</CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>
+	</Cleaner>
+	<dlgAddInstalledPrg>
+		<btnCancel>
+			<Caption>Otkazi</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Dodaj program na listu</Caption>
+		<lblBuiltInUninstaller>
+			<Caption>Integrisani uninstaller</Caption>
+		</lblBuiltInUninstaller>
+		<lblInstallationFolder>
+			<Caption>Instaliran u folder</Caption>
+		</lblInstallationFolder>
+		<lblPrgName>
+			<Caption>Ime programa</Caption>
+		</lblPrgName>
+	</dlgAddInstalledPrg>
+	<dlgAskDelItem>
+		<btnOK>
+			<Caption>&amp;OK</Caption>
+		</btnOK>
+		<btnSelectAll>
+			<Caption>&amp;Izaberi sve</Caption>
+		</btnSelectAll>
+		<btnUnselectAll>
+			<Caption>&amp;Otkazi odabir svega</Caption>
+		</btnUnselectAll>
+		<Caption>Obrisi objekte?</Caption>
+		<cbAutoSelectAll>
+			<Caption>Automatski izaberi sve</Caption>
+		</cbAutoSelectAll>
+		<lblDelSel>
+			<Caption>Izabrani objekti ce biti obrisani</Caption>
+		</lblDelSel>
+	</dlgAskDelItem>
+	<dlgChangeIcon>
+		<btnBrowse>
+			<Caption>Izaberi...</Caption>
+		</btnBrowse>
+		<btnCancel>
+			<Caption>Otkazi</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Promijeni ikonu</Caption>
+		<gbIcons>
+			<Caption>Ikone</Caption>
+		</gbIcons>
+	</dlgChangeIcon>
+	<dlgCheckUpdates>
+		<btnClose>
+			<Caption>Zatvori</Caption>
+		</btnClose>
+		<btnRefresh>
+			<Caption>Osvjezi</Caption>
+		</btnRefresh>
+		<Caption>Potrazi update-e</Caption>
+	</dlgCheckUpdates>
+	<dlgCompareSns>
+		<btnCancel>
+			<Caption>Otkazi</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Uporedi sistemske snapshot-ove</Caption>
+		<lblCompareProfile>
+			<Caption>Profil poredjenja</Caption>
+		</lblCompareProfile>
+		<lblResultLog>
+			<Caption>Dnevnik rezultata</Caption>
+		</lblResultLog>
+		<lblSnapshotA>
+			<Caption>Sistemski snapshot A</Caption>
+		</lblSnapshotA>
+		<lblSnapshotB>
+			<Caption>Sistemski snapshot B</Caption>
+		</lblSnapshotB>
+	</dlgCompareSns>
+	<dlgExportRegistry>
+		<btnCancel>
+			<Caption>Otkazi</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Eksportuj izmjene u registru</Caption>
+		<cbCreatedKeys>
+			<Caption>Stvoreni kljucevi</Caption>
+		</cbCreatedKeys>
+		<cbCreatedValues>
+			<Caption>Stvorene vrijednosti</Caption>
+		</cbCreatedValues>
+		<cbDeletedKeys>
+			<Caption>Obrisani kljucevi</Caption>
+		</cbDeletedKeys>
+		<cbDeletedValues>
+			<Caption>Obrisane vrijednosti</Caption>
+		</cbDeletedValues>
+		<cbModifiedValues>
+			<Caption>Modifikovane vrijednosti</Caption>
+		</cbModifiedValues>
+		<gbDetails>
+			<Caption>Izmjene u registru</Caption>
+		</gbDetails>
+		<gbExportType>
+			<Caption>Tip eksporta</Caption>
+		</gbExportType>
+		<gbRange>
+			<Caption>Opseg eksporta</Caption>
+		</gbRange>
+		<rbExpAll>
+			<Caption>Sve</Caption>
+		</rbExpAll>
+		<rbExpBranch>
+			<Caption>Odabranu granu</Caption>
+		</rbExpBranch>
+		<rbInstall>
+			<Caption>Instalacioni fajl</Caption>
+		</rbInstall>
+		<rbUninstall>
+			<Caption>Deinstalacioni fajl</Caption>
+		</rbUninstall>
+	</dlgExportRegistry>
+	<dlgGroupProp>
+		<btnCancel>
+			<Caption>Otkazi</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Grupa</Caption>
+		<lblIcon>
+			<Caption>Ikona</Caption>
+		</lblIcon>
+		<lblName>
+			<Caption>Ime</Caption>
+		</lblName>
+	</dlgGroupProp>
+	<dlgMergeLogs>
+		<btnCancel>
+			<Caption>Otkazi</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Spoji logove</Caption>
+		<cbDeleteUpdate>
+			<Caption>Obrisi update log poslije spajanja</Caption>
+		</cbDeleteUpdate>
+		<gbDestination>
+			<Caption>Destinacija</Caption>
+		</gbDestination>
+		<gbSources>
+			<Caption>Izvori</Caption>
+		</gbSources>
+		<lblInstallLog>
+			<Caption>Instalacioni log</Caption>
+		</lblInstallLog>
+		<lblNewName>
+			<Caption>Novo ime</Caption>
+		</lblNewName>
+		<lblUpdateLog>
+			<Caption>Update-uj log</Caption>
+		</lblUpdateLog>
+		<rbCreateANewLog>
+			<Caption>Stvori novi log</Caption>
+		</rbCreateANewLog>
+		<rbSaveInInstallLog>
+			<Caption>Sacuvaj u instalacioni log</Caption>
+		</rbSaveInInstallLog>
+	</dlgMergeLogs>
+	<dlgPendingFileRename>
+		<btnApply>
+			<Caption>Primijeni</Caption>
+		</btnApply>
+		<btnClose>
+			<Caption>Zatvori</Caption>
+		</btnClose>
+		<Caption>Operacije reimenovanja fajlova na cekanju</Caption>
+		<tvPendingFiles>
+			<Columns_0>Izvor</Columns_0>
+			<Columns_1>Destinacija</Columns_1>
+		</tvPendingFiles>
+	</dlgPendingFileRename>
+	<dlgRegister>
+		<btnBuy>
+			<Caption>Kupi</Caption>
+		</btnBuy>
+		<btnCancel>
+			<Caption>Otkazi</Caption>
+		</btnCancel>
+		<btnRegister>
+			<Caption>Registruj</Caption>
+		</btnRegister>
+		<Caption>Registruj Total Uninstall</Caption>
+		<lblKey>
+			<Caption>Kljuc registracije</Caption>
+		</lblKey>
+		<lblName>
+			<Caption>Registraciono ime</Caption>
+		</lblName>
+		<ulblLostRegistrationInfo>
+			<Caption>Izgubio sam moje registracione informacije.</Caption>
+		</ulblLostRegistrationInfo>
+	</dlgRegister>
+	<dlgRestrictedFeature>
+		<btnCancel>
+			<Caption>Otkazi</Caption>
+		</btnCancel>
+		<Caption>Ogranicena funkcija</Caption>
+		<clinkPurchase>
+			<Caption>Kupi</Caption>
+			<Note>Otvori formu za narudzbinu</Note>
+		</clinkPurchase>
+		<lblInstruction>
+			<Caption>Ova funkcija je dostupna u registrovanoj verziji</Caption>
+		</lblInstruction>
+		<lblProfessionalEdition>
+			<Caption>- Profesionalno izdanje</Caption>
+		</lblProfessionalEdition>
+	</dlgRestrictedFeature>
+	<dlgRmvShared>
+		<btnNo>
+			<Caption>Ne</Caption>
+		</btnNo>
+		<btnNoToAll>
+			<Caption>Ne za sve</Caption>
+		</btnNoToAll>
+		<btnYes>
+			<Caption>Da</Caption>
+		</btnYes>
+		<btnYesToAll>
+			<Caption>Da za sve</Caption>
+		</btnYesToAll>
+		<Caption>Ukloni dijeljeni fajl?</Caption>
+		<lblFileName>
+			<Caption>Ime fajla:</Caption>
+		</lblFileName>
+		<lblLocated>
+			<Caption>Lociran u:</Caption>
+		</lblLocated>
+		<lblOne>
+			<Caption>Sistem daje indikacije da se sljedeci dijeljeni fajl ne koristi od stranje nijednog programa. Ako bilo koji od programa jos uvijek koristi ovaj fajl i on je uklonjen, ti programi mozda nece funkcionisati. Da li ste sigurni da hocete da uklonite dijeljeni fajl?</Caption>
+		</lblOne>
+		<lblTwo>
+			<Caption>Ostavljanje ovoga fajla nece skoditi vasem sistemu. Ako nijeste sigurni sta treba da uradite, predlazemo vam da ostavite ovu dijeljenu komponentu.</Caption>
+		</lblTwo>
+	</dlgRmvShared>
+	<dlgSelect>
+		<btnCancel>
+			<Caption>Otkazi</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Izaberi</Caption>
+	</dlgSelect>
+	<dlgSelectLibIcon>
+		<btnAdd>
+			<Caption>Dodaj</Caption>
+		</btnAdd>
+		<btnCancel>
+			<Caption>Otkazi</Caption>
+		</btnCancel>
+		<btnDelete>
+			<Caption>Obrisi</Caption>
+		</btnDelete>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Izaberi ikonu</Caption>
+		<gbIcons>
+			<Caption>Ikone</Caption>
+		</gbIcons>
+	</dlgSelectLibIcon>
+	<dlgSysBrowser>
+		<btnCancel>
+			<Caption>&amp;Otkazi</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>&amp;OK</Caption>
+		</btnOk>
+		<lblExpanded>
+			<Caption>Prosireno</Caption>
+		</lblExpanded>
+	</dlgSysBrowser>
+	<dlgTUAbout>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>O programu</Caption>
+		<lblCopyright>
+			<Caption>Prava na kopiranje © 2001-2019, Gavrila Martau</Caption>
+		</lblCopyright>
+		<lblEmail>
+			<Caption>Email</Caption>
+		</lblEmail>
+		<lblHomePage>
+			<Caption>Maticna strana</Caption>
+		</lblHomePage>
+		<ulblBuyUpgrade>
+			<Caption>Kupi nadogradnju</Caption>
+		</ulblBuyUpgrade>
+		<ulblDownload>
+			<Caption>Download-uj zadnji besplatni update</Caption>
+		</ulblDownload>
+	</dlgTUAbout>
+	<dlgTunBackup>
+		<btnCancel>
+			<Caption>Otkazi</Caption>
+		</btnCancel>
+		<btnCreate>
+			<Caption>Stvori</Caption>
+		</btnCreate>
+		<lblArchiving>
+			<Caption>Arhiviram fajlove i ulaze registra...</Caption>
+		</lblArchiving>
+		<lblCreateBackup>
+			<Caption>Stvori backup za program</Caption>
+		</lblCreateBackup>
+		<lblFilesNotIncluded>
+			<Caption>Fajlovi koji nijesu ukljuceni u backup</Caption>
+		</lblFilesNotIncluded>
+		<btnCopy>
+			<Caption>Kopiraj u...</Caption>
+		</btnCopy>
+	</dlgTunBackup>
+	<dlgTunRestore>
+		<cbRestoreOnlyLog>
+			<Caption>Vrati samo instalacioni log</Caption>
+		</cbRestoreOnlyLog>
+		<lblRestoreProgram>
+			<Caption>Izaberite program za vracanje</Caption>
+		</lblRestoreProgram>
+		<pmiDelete>
+			<Caption>Obrisi</Caption>
+		</pmiDelete>
+		<btnImport>
+			<Caption>Importuj</Caption>
+		</btnImport>
+		<lblFilesNotIncluded>
+			<Caption>Akcije nijesu izvrsene</Caption>
+		</lblFilesNotIncluded>
+		<lblRestoreProfile>
+			<Caption>Restore profil</Caption>
+		</lblRestoreProfile>
+		<lblUndoRestoration>
+			<Caption>Izaberite vracanje da izvrsite</Caption>
+		</lblUndoRestoration>
+		<pmiCopyTo>
+			<Caption>Kopiraj u...</Caption>
+		</pmiCopyTo>
+	</dlgTunRestore>
+	<dlgTUOptions>
+		<btnAddAnalysisProfile>
+			<Caption>Dodaj...</Caption>
+		</btnAddAnalysisProfile>
+		<btnAddChgView>
+			<Caption>Dodaj...</Caption>
+		</btnAddChgView>
+		<btnAddCleaner>
+			<Caption>Dodaj...</Caption>
+		</btnAddCleaner>
+		<btnAddCompareProfile>
+			<Caption>Dodaj...</Caption>
+		</btnAddCompareProfile>
+		<btnAddExclFlds>
+			<Caption>Dodaj...</Caption>
+		</btnAddExclFlds>
+		<btnAddExclKey>
+			<Caption>Dodaj...</Caption>
+		</btnAddExclKey>
+		<btnAddIgnChgFs>
+			<Caption>Dodaj...</Caption>
+		</btnAddIgnChgFs>
+		<btnAddIgnChgReg>
+			<Caption>Dodaj...</Caption>
+		</btnAddIgnChgReg>
+		<btnAddIgnFile>
+			<Caption>Dodaj...</Caption>
+		</btnAddIgnFile>
+		<btnAddInclFlds>
+			<Caption>Dodaj...</Caption>
+		</btnAddInclFlds>
+		<btnAddInclKeys>
+			<Caption>Dodaj...</Caption>
+		</btnAddInclKeys>
+		<btnAddInstallLoc>
+			<Caption>Dodaj...</Caption>
+		</btnAddInstallLoc>
+		<btnAddProtectedFld>
+			<Caption>Dodaj...</Caption>
+		</btnAddProtectedFld>
+		<btnAddProtectedKey>
+			<Caption>Dodaj...</Caption>
+		</btnAddProtectedKey>
+		<btnAddScanProfile>
+			<Caption>Dodaj...</Caption>
+		</btnAddScanProfile>
+		<btnAddUninst>
+			<Caption>Dodaj...</Caption>
+		</btnAddUninst>
+		<btnAddUninstInst>
+			<Caption>Dodaj...</Caption>
+		</btnAddUninstInst>
+		<btnAddValue>
+			<Caption>Dodaj...</Caption>
+		</btnAddValue>
+		<btnAddVer>
+			<Caption>Dodaj...</Caption>
+		</btnAddVer>
+		<btnAgentAddExcMask>
+			<Caption>Dodaj...</Caption>
+		</btnAgentAddExcMask>
+		<btnAgentAddIncMask>
+			<Caption>Dodaj...</Caption>
+		</btnAgentAddIncMask>
+		<btnAgentRemExcMask>
+			<Caption>Ukloni</Caption>
+		</btnAgentRemExcMask>
+		<btnAgentRemIncMask>
+			<Caption>Ukloni</Caption>
+		</btnAgentRemIncMask>
+		<btnAnlSaveAs>
+			<Caption>Sacuvaj kao...</Caption>
+		</btnAnlSaveAs>
+		<btnCancel>
+			<Caption>Otkazi</Caption>
+		</btnCancel>
+		<btnChgViewSaveAs>
+			<Caption>Sacuvaj kao...</Caption>
+		</btnChgViewSaveAs>
+		<btnCleanerSaveAs>
+			<Caption>Sacuvaj kao...</Caption>
+		</btnCleanerSaveAs>
+		<btnClnAddExclFs>
+			<Caption>Dodaj...</Caption>
+		</btnClnAddExclFs>
+		<btnClnAddExclRegistry>
+			<Caption>Dodaj...</Caption>
+		</btnClnAddExclRegistry>
+		<btnClnEditExclFs>
+			<Caption>Izmijeni...</Caption>
+		</btnClnEditExclFs>
+		<btnClnEditExclRegistry>
+			<Caption>Izmijeni...</Caption>
+		</btnClnEditExclRegistry>
+		<btnClnRemExclFs>
+			<Caption>Ukloni</Caption>
+		</btnClnRemExclFs>
+		<btnClnRemExclRegistry>
+			<Caption>Ukloni</Caption>
+		</btnClnRemExclRegistry>
+		<btnCompPlaySound>
+			<Caption>Testiraj</Caption>
+		</btnCompPlaySound>
+		<btnCompSaveAs>
+			<Caption>Sacuvaj kao...</Caption>
+		</btnCompSaveAs>
+		<btnEditExclFlds>
+			<Caption>Izmijeni...</Caption>
+		</btnEditExclFlds>
+		<btnEditExclKeys>
+			<Caption>Izmijeni...</Caption>
+		</btnEditExclKeys>
+		<btnEditIgnChgFs>
+			<Caption>Izmijeni...</Caption>
+		</btnEditIgnChgFs>
+		<btnEditIgnChgReg>
+			<Caption>Izmijeni...</Caption>
+		</btnEditIgnChgReg>
+		<btnEditIgnFile>
+			<Caption>Izmijeni...</Caption>
+		</btnEditIgnFile>
+		<btnEditIgnValues>
+			<Caption>Izmijeni...</Caption>
+		</btnEditIgnValues>
+		<btnEditProtectedFld>
+			<Caption>Izmijeni...</Caption>
+		</btnEditProtectedFld>
+		<btnEditProtectedKey>
+			<Caption>Izmijeni...</Caption>
+		</btnEditProtectedKey>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<btnRemAnalysisProfile>
+			<Caption>Ukloni...</Caption>
+		</btnRemAnalysisProfile>
+		<btnRemChgView>
+			<Caption>Ukloni...</Caption>
+		</btnRemChgView>
+		<btnRemCleaner>
+			<Caption>Ukloni...</Caption>
+		</btnRemCleaner>
+		<btnRemCompareProfile>
+			<Caption>Ukloni...</Caption>
+		</btnRemCompareProfile>
+		<btnRemExclFlds>
+			<Caption>Ukloni</Caption>
+		</btnRemExclFlds>
+		<btnRemExclKeys>
+			<Caption>Ukloni</Caption>
+		</btnRemExclKeys>
+		<btnRemIgnChgFs>
+			<Caption>Ukloni</Caption>
+		</btnRemIgnChgFs>
+		<btnRemIgnChgReg>
+			<Caption>Ukloni</Caption>
+		</btnRemIgnChgReg>
+		<btnRemIgnFile>
+			<Caption>Ukloni</Caption>
+		</btnRemIgnFile>
+		<btnRemInclFlds>
+			<Caption>Ukloni</Caption>
+		</btnRemInclFlds>
+		<btnRemInclKeys>
+			<Caption>Ukloni</Caption>
+		</btnRemInclKeys>
+		<btnRemoveInstallLoc>
+			<Caption>Ukloni</Caption>
+		</btnRemoveInstallLoc>
+		<btnRemProtectedFld>
+			<Caption>Ukloni</Caption>
+		</btnRemProtectedFld>
+		<btnRemProtectedKey>
+			<Caption>Ukloni</Caption>
+		</btnRemProtectedKey>
+		<btnRemScanProfile>
+			<Caption>Ukloni...</Caption>
+		</btnRemScanProfile>
+		<btnRemUninst>
+			<Caption>Ukloni...</Caption>
+		</btnRemUninst>
+		<btnRemUninstInst>
+			<Caption>Ukloni...</Caption>
+		</btnRemUninstInst>
+		<btnRemValues>
+			<Caption>Ukloni</Caption>
+		</btnRemValues>
+		<btnRemVer>
+			<Caption>Ukloni</Caption>
+		</btnRemVer>
+		<btnResetAll>
+			<Caption>Resetuj sve</Caption>
+		</btnResetAll>
+		<btnScanPlaySound>
+			<Caption>Testiraj</Caption>
+		</btnScanPlaySound>
+		<btnScanSaveAs>
+			<Caption>Sacuvaj kao...</Caption>
+		</btnScanSaveAs>
+		<btnUninstSaveAs>
+			<Caption>Sacuvaj kao...</Caption>
+		</btnUninstSaveAs>
+		<Caption>Opcije</Caption>
+		<cbAnlProfileDefault>
+			<Caption>Maticne</Caption>
+		</cbAnlProfileDefault>
+		<cbAutoStart>
+			<Caption>Auto-startuj sa Windows-om da bi nastavili nezavrsene monitoring procese</Caption>
+		</cbAutoStart>
+		<cbBackup>
+			<Caption>Backup-uj deinstalirani program</Caption>
+		</cbBackup>
+		<cbChgViewDefault>
+			<Caption>Maticne</Caption>
+		</cbChgViewDefault>
+		<cbCleanerDefault>
+			<Caption>Maticne</Caption>
+		</cbCleanerDefault>
+		<cbCleanerEnable>
+			<Caption>Ukljuci modul za ciscenje</Caption>
+		</cbCleanerEnable>
+		<cbClickRestore>
+			<Caption>Vrati jednim klikom</Caption>
+		</cbClickRestore>
+		<cbCompareRegistry>
+			<Caption>Uporedi registar</Caption>
+		</cbCompareRegistry>
+		<cbCompFiles>
+			<Caption>Uporedi fajlove</Caption>
+		</cbCompFiles>
+		<cbCompPlaySound>
+			<Caption>Pusti zvuk na kraju</Caption>
+		</cbCompPlaySound>
+		<cbCompProfileDefault>
+			<Caption>Maticne</Caption>
+		</cbCompProfileDefault>
+		<cbCompProfileFrozen>
+			<Caption>Zakljucaj</Caption>
+		</cbCompProfileFrozen>
+		<cbComputeMD5>
+			<Caption>Izracunaj MD5 za nove fajlove</Caption>
+		</cbComputeMD5>
+		<cbCreateKeys>
+			<Caption>Stvori obrisane kljuceve</Caption>
+		</cbCreateKeys>
+		<cbCreateValues>
+			<Caption>Stvori obrisane vrijednosti</Caption>
+		</cbCreateValues>
+		<cbCustomSnsName>
+			<Caption>Dozvoli podesavanje imena snapshot-a</Caption>
+		</cbCustomSnsName>
+		<cbDecrement>
+			<Caption>Smanji brojac dijeljenih fajlova</Caption>
+		</cbDecrement>
+		<cbDelFiles>
+			<Caption>Obrisi stvorene fajlove (dijeljene samo ako brojac dostigne 0)</Caption>
+		</cbDelFiles>
+		<cbDelFolders>
+			<Caption>Obrisi stvorene foldere</Caption>
+		</cbDelFolders>
+		<cbDelKeys>
+			<Caption>Obrisi stvorene kljuceve</Caption>
+		</cbDelKeys>
+		<cbDelUseRecycle>
+			<Caption>Koristi Recycle Bin</Caption>
+		</cbDelUseRecycle>
+		<cbDelValues>
+			<Caption>Obrisi stvorene vrijednosti</Caption>
+		</cbDelValues>
+		<cbDontUseLog>
+			<Caption>Ne koristi log detektovanih izmjena</Caption>
+		</cbDontUseLog>
+		<cbEnableAgent>
+			<Caption>Ukljuci Total Uninstall agenta</Caption>
+		</cbEnableAgent>
+		<cbExtractFileVersion>
+			<Caption>Izvuci informacije o verziji fajla</Caption>
+		</cbExtractFileVersion>
+		<cbHexViewerNot64Bit>
+			<Caption>Ne podrzava 64-bit</Caption>
+		</cbHexViewerNot64Bit>
+		<cbIgnoreMissingItems>
+			<Caption>Ignorisi nestale objekte</Caption>
+		</cbIgnoreMissingItems>
+		<cbInstPrgsEnable>
+			<Caption>Omoguci modul instaliranih programa</Caption>
+		</cbInstPrgsEnable>
+		<cbMinToTray>
+			<Caption>Minimizuj u tray</Caption>
+		</cbMinToTray>
+		<cbMonPrgsEnable>
+			<Caption>Omoguci modul monitorisanih programa</Caption>
+		</cbMonPrgsEnable>
+		<cbRestoreValues>
+			<Caption>Vrati izmijenjene vrijednosti</Caption>
+		</cbRestoreValues>
+		<cbRstFileCreated>
+			<Caption>Vrati datum kreiranja fajla</Caption>
+		</cbRstFileCreated>
+		<cbScanForAds>
+			<Caption>Skeniraj Alternate Data Stream-ove</Caption>
+		</cbScanForAds>
+		<cbScanPlaySound>
+			<Caption>Pusti zvuk na kraju</Caption>
+		</cbScanPlaySound>
+		<cbScanProfileDefault>
+			<Caption>Maticne</Caption>
+		</cbScanProfileDefault>
+		<cbScanProfileFrozen>
+			<Caption>Zakljucaj</Caption>
+		</cbScanProfileFrozen>
+		<cbShell>
+			<Caption>Integrisi Total Uninstall u shell</Caption>
+		</cbShell>
+		<cbShowAfter>
+			<Caption>Poslije kolone</Caption>
+		</cbShowAfter>
+		<cbShowBefore>
+			<Caption>Prije kolone</Caption>
+		</cbShowBefore>
+		<cbShowBinAsText>
+			<Caption>Prikazi binarne podatke kao tekst</Caption>
+		</cbShowBinAsText>
+		<cbShowChanged>
+			<Caption>Izmijenjeni objekti</Caption>
+		</cbShowChanged>
+		<cbShowCreated>
+			<Caption>Stvoreni objekti</Caption>
+		</cbShowCreated>
+		<cbShowCurrent>
+			<Caption>Trenutna kolona</Caption>
+		</cbShowCurrent>
+		<cbShowDataSize>
+			<Caption>Velicina podataka</Caption>
+		</cbShowDataSize>
+		<cbShowDataType>
+			<Caption>Tip podataka</Caption>
+		</cbShowDataType>
+		<cbShowDateCreated>
+			<Caption>Datum kreiranja</Caption>
+		</cbShowDateCreated>
+		<cbShowDateModified>
+			<Caption>Datum modifikacije</Caption>
+		</cbShowDateModified>
+		<cbShowDeleted>
+			<Caption>Obrisani objekti</Caption>
+		</cbShowDeleted>
+		<cbShowFileAttrib>
+			<Caption>Atributi fajla</Caption>
+		</cbShowFileAttrib>
+		<cbShowFileSize>
+			<Caption>Velicina fajla</Caption>
+		</cbShowFileSize>
+		<cbShowFileVersion>
+			<Caption>Verzija fajla</Caption>
+		</cbShowFileVersion>
+		<cbShowMD5>
+			<Caption>MD5 suma novog fajla</Caption>
+		</cbShowMD5>
+		<cbSmartAdjustAnalysisLevel>
+			<Caption>Inteligentno podesi nivo analize</Caption>
+		</cbSmartAdjustAnalysisLevel>
+		<cbSysRestore>
+			<Caption>Stvori System Restore tacku prije deinstalacije</Caption>
+		</cbSysRestore>
+		<cbSystemFilesAdditional>
+			<Caption>Dodatna analiza</Caption>
+		</cbSystemFilesAdditional>
+		<cbTxtViewerNot64Bit>
+			<Caption>Ne podrzava 64-bit</Caption>
+		</cbTxtViewerNot64Bit>
+		<cbUninstDefault>
+			<Caption>Maticne</Caption>
+		</cbUninstDefault>
+		<cbUninstEnabled>
+			<Caption>Omoguceno</Caption>
+		</cbUninstEnabled>
+		<cbUseUninstaller>
+			<Caption>Koristi prvo dostupni uninstaller</Caption>
+		</cbUseUninstaller>
+		<cmbUpdateFrequency>
+			<Items>Dnevno\nNedjeljno\nMjesecno</Items>
+		</cmbUpdateFrequency>
+		<cmbUpdateMethod>
+			<Items>Rucno\nPodsjetnik\nAutomatski</Items>
+		</cmbUpdateMethod>
+		<gbAgentMasks>
+			<Caption>Maske za ime fajla instalacionog programa</Caption>
+		</gbAgentMasks>
+		<gbClnExcludeFs>
+			<Caption>Izuzmi fajlove i foldere</Caption>
+		</gbClnExcludeFs>
+		<gbClnExcludeRegistry>
+			<Caption>Izuzmi registry kljuceve i vrijednosti</Caption>
+		</gbClnExcludeRegistry>
+		<gbCompareIgnChgReg>
+			<Caption>Ignorisi izmijenjene objekte</Caption>
+		</gbCompareIgnChgReg>
+		<gbCompareIgnKeys>
+			<Caption>Ignorisi kljuceve i vrijednosti</Caption>
+		</gbCompareIgnKeys>
+		<gbCompIgnChgFs>
+			<Caption>Ignorisi izmijenjene objekte</Caption>
+		</gbCompIgnChgFs>
+		<gbCompIgnoreFld>
+			<Caption>Ignorisi foldere i fajlove</Caption>
+		</gbCompIgnoreFld>
+		<gbFileExtensions>
+			<Caption>Ekstenzije fajlova sa informacijama o verziji</Caption>
+		</gbFileExtensions>
+		<gbInstallLoc>
+			<Caption>Instalacione lokacije</Caption>
+		</gbInstallLoc>
+		<gbInstallLocation>
+			<Caption>Detekcija instalacione lokacije</Caption>
+		</gbInstallLocation>
+		<gbLimits>
+			<Caption>Folder limiti za snapshot-ove</Caption>
+		</gbLimits>
+		<gbPrgData>
+			<Caption>Detekcija podataka o programu</Caption>
+		</gbPrgData>
+		<gbPrgSettings>
+			<Caption>Detekcija opcija programa</Caption>
+		</gbPrgSettings>
+		<gbPrgShortcuts>
+			<Caption>Detekcija precica programa</Caption>
+		</gbPrgShortcuts>
+		<gbProtectedFolders>
+			<Caption>Zasticeni folderi</Caption>
+		</gbProtectedFolders>
+		<gbProtectedKeys>
+			<Caption>Zasticeni kljucevi</Caption>
+		</gbProtectedKeys>
+		<gbRegEditor>
+			<Caption>Editor registra</Caption>
+		</gbRegEditor>
+		<gbRegScanner>
+			<Caption>Skener registra</Caption>
+		</gbRegScanner>
+		<gbScanExclFolders>
+			<Caption>Iskljuci foldere</Caption>
+		</gbScanExclFolders>
+		<gbScanExclKeys>
+			<Caption>Iskljuci kljuceve</Caption>
+		</gbScanExclKeys>
+		<gbScanInclFolders>
+			<Caption>Ukljuci foldere</Caption>
+		</gbScanInclFolders>
+		<gbScanInclKeys>
+			<Caption>Ukljuci kljuceve</Caption>
+		</gbScanInclKeys>
+		<gbShellIntegration>
+			<Caption>Detekcija shell integracije</Caption>
+		</gbShellIntegration>
+		<gbSystemFiles>
+			<Caption>Detekcija sistemskih fajlova</Caption>
+		</gbSystemFiles>
+		<gbTranslation>
+			<Caption>Prevod</Caption>
+		</gbTranslation>
+		<grpExistingViewStyle>
+			<Caption>Postojece objekte u sistemu</Caption>
+		</grpExistingViewStyle>
+		<grpMissingViewStyle>
+			<Caption>Nedostajuce objekte iz sistema</Caption>
+		</grpMissingViewStyle>
+		<lblAdvanced1>
+			<Caption>Napredno</Caption>
+		</lblAdvanced1>
+		<lblAdvanced2>
+			<Caption>Napredno</Caption>
+		</lblAdvanced2>
+		<lblAdvanced3>
+			<Caption>Napredno</Caption>
+		</lblAdvanced3>
+		<lblAdvanced4>
+			<Caption>Napredno</Caption>
+		</lblAdvanced4>
+		<lblAdvanced5>
+			<Caption>Napredno</Caption>
+		</lblAdvanced5>
+		<lblAdvanced6>
+			<Caption>Napredno</Caption>
+		</lblAdvanced6>
+		<lblAgentExcludeMask>
+			<Caption>Iskljuci</Caption>
+		</lblAgentExcludeMask>
+		<lblAgentIncludeMask>
+			<Caption>Ukljuci</Caption>
+		</lblAgentIncludeMask>
+		<lblAnalysisProfiles>
+			<Caption>Profili analize</Caption>
+		</lblAnalysisProfiles>
+		<lblAnlProfileDesc>
+			<Caption>Opis</Caption>
+		</lblAnlProfileDesc>
+		<lblAnlProfileName>
+			<Caption>Ime</Caption>
+		</lblAnlProfileName>
+		<lblBackupLimiFolderSize>
+			<Caption>Ogranici velicinu foldera (MB)</Caption>
+		</lblBackupLimiFolderSize>
+		<lblChageViewName>
+			<Caption>Ime</Caption>
+		</lblChageViewName>
+		<lblChangeViews>
+			<Caption>Izmijeni izgled</Caption>
+		</lblChangeViews>
+		<lblCheckUpdateMethod>
+			<Caption>Metod provjere update-a</Caption>
+		</lblCheckUpdateMethod>
+		<lblCheckUpdatesFrequency>
+			<Caption>Frekvencija</Caption>
+		</lblCheckUpdatesFrequency>
+		<lblCleanerDescription>
+			<Caption>Opis</Caption>
+		</lblCleanerDescription>
+		<lblCleanerName>
+			<Caption>Ime</Caption>
+		</lblCleanerName>
+		<lblCleaners>
+			<Caption>Cistaci</Caption>
+		</lblCleaners>
+		<lblCompareProfileDesc>
+			<Caption>Opis</Caption>
+		</lblCompareProfileDesc>
+		<lblCompareProfileName>
+			<Caption>Ime</Caption>
+		</lblCompareProfileName>
+		<lblFolderSize>
+			<Caption>Velicina foldera (MB)</Caption>
+		</lblFolderSize>
+		<lblHexViewer>
+			<Caption>Hex citac</Caption>
+		</lblHexViewer>
+		<lblLanguage>
+			<Caption>Jezik</Caption>
+		</lblLanguage>
+		<lblNone1>
+			<Caption>Nista</Caption>
+		</lblNone1>
+		<lblNone2>
+			<Caption>Nista</Caption>
+		</lblNone2>
+		<lblNone3>
+			<Caption>Nista</Caption>
+		</lblNone3>
+		<lblNone4>
+			<Caption>Nista</Caption>
+		</lblNone4>
+		<lblNone5>
+			<Caption>Nista</Caption>
+		</lblNone5>
+		<lblNone6>
+			<Caption>Nista</Caption>
+		</lblNone6>
+		<lblProgramDataPath>
+			<Caption>Putanja programskih podataka</Caption>
+		</lblProgramDataPath>
+		<lblScanningProfiles>
+			<Caption>Profili skeniranja</Caption>
+		</lblScanningProfiles>
+		<lblScanProfileDesc>
+			<Caption>Opis</Caption>
+		</lblScanProfileDesc>
+		<lblScanProfileName>
+			<Caption>Ime</Caption>
+		</lblScanProfileName>
+		<lblSimultaneousTasks>
+			<Caption>Simulani zadaci</Caption>
+		</lblSimultaneousTasks>
+		<lblSnsCompareProfiles>
+			<Caption>Profili poredjenja snapshot-ova</Caption>
+		</lblSnsCompareProfiles>
+		<lblSnsCount>
+			<Caption>Broj snapshot-a</Caption>
+		</lblSnsCount>
+		<lblTranslatedBy1>
+			<Caption>Preveo Tiodor R.</Caption>
+		</lblTranslatedBy1>
+		<lblTranslatedBy2>
+			<Caption>Maticna strana:</Caption>
+		</lblTranslatedBy2>
+		<lblTranslatedBy3>
+			<Caption>Email:</Caption>
+		</lblTranslatedBy3>
+		<lblTxtViewer>
+			<Caption>Citac teksta</Caption>
+		</lblTxtViewer>
+		<lblUninstallProfiles>
+			<Caption>Deinstalacioni profili</Caption>
+		</lblUninstallProfiles>
+		<lblUninstallProfilesInst>
+			<Caption>Deinstalacioni profili</Caption>
+		</lblUninstallProfilesInst>
+		<lblUninstDesc>
+			<Caption>Opis</Caption>
+		</lblUninstDesc>
+		<lblUninstName>
+			<Caption>Ime</Caption>
+		</lblUninstName>
+		<lblUninstRemoveLog>
+			<Caption>Ukloni deinstalirane programe sa liste</Caption>
+		</lblUninstRemoveLog>
+		<lblUserInteraction>
+			<Caption>Koristi prvo interakciju korisnika preko dostupnog ugradjenog uninstaller-a</Caption>
+		</lblUserInteraction>
+		<rbDialog>
+			<Caption>Dijalog</Caption>
+		</rbDialog>
+		<rbOtherRegEdit>
+			<Caption>Drugo</Caption>
+		</rbOtherRegEdit>
+		<rbTrayBaloon>
+			<Caption>Tray balon</Caption>
+		</rbTrayBaloon>
+		<rbWinRegEdit>
+			<Caption>Windows editor registra</Caption>
+		</rbWinRegEdit>
+		<rgAgentNotif>
+			<Caption>Obavjestenje pokretanja setup programa</Caption>
+		</rgAgentNotif>
+		<tabAnlFileSystem>
+			<Caption>Fajl sistem</Caption>
+		</tabAnlFileSystem>
+		<tabAnlGeneral>
+			<Caption>Opste</Caption>
+		</tabAnlGeneral>
+		<tabChageViewFileSystem>
+			<Caption>Fajl sistem</Caption>
+		</tabChageViewFileSystem>
+		<tabChageViewGeneral>
+			<Caption>Opste</Caption>
+		</tabChageViewGeneral>
+		<tabChageViewRegistry>
+			<Caption>Registar</Caption>
+		</tabChageViewRegistry>
+		<tabChageViewView>
+			<Caption>Izgled</Caption>
+		</tabChageViewView>
+		<tabCleanerFileSystem>
+			<Caption>Fajl sistem</Caption>
+		</tabCleanerFileSystem>
+		<tabCleanerGen>
+			<Caption>Opste</Caption>
+		</tabCleanerGen>
+		<tabCleanerReg>
+			<Caption>Registar</Caption>
+		</tabCleanerReg>
+		<tabCmpProfileFileSys>
+			<Caption>Fajl sistem</Caption>
+		</tabCmpProfileFileSys>
+		<tabCompareProfileGen>
+			<Caption>Opste</Caption>
+		</tabCompareProfileGen>
+		<tabCompareProfileReg>
+			<Caption>Registar</Caption>
+		</tabCompareProfileReg>
+		<tabScanProfileFolders>
+			<Caption>Folderi</Caption>
+		</tabScanProfileFolders>
+		<tabScanProfileGeneral>
+			<Caption>Opste</Caption>
+		</tabScanProfileGeneral>
+		<tabScanProfileRegistry>
+			<Caption>Registar</Caption>
+		</tabScanProfileRegistry>
+		<tabUninstAdv>
+			<Caption>Napredno</Caption>
+		</tabUninstAdv>
+		<tabUninstFS>
+			<Caption>Fajl sistem</Caption>
+		</tabUninstFS>
+		<tabUninstGeneral>
+			<Caption>Opste</Caption>
+		</tabUninstGeneral>
+		<tabUninstRegistry>
+			<Caption>Registar</Caption>
+		</tabUninstRegistry>
+		<tblAnlRegistry>
+			<Caption>Registar</Caption>
+		</tblAnlRegistry>
+		<btnAddRedo>
+			<Caption>Dodaj...</Caption>
+		</btnAddRedo>
+		<btnRedoSaveAs>
+			<Caption>Sacuvaj kao...</Caption>
+		</btnRedoSaveAs>
+		<btnRemoveRedo>
+			<Caption>Ukloni...</Caption>
+		</btnRemoveRedo>
+		<cbRedoCreateFiles>
+			<Caption>Vrati napravljene fajlove</Caption>
+		</cbRedoCreateFiles>
+		<cbRedoCreateFilesOvr>
+			<Caption>Prebrisi fajlove</Caption>
+		</cbRedoCreateFilesOvr>
+		<cbRedoCreateFilesOvrLck>
+			<Caption>Prebrisi zakljucane fajlove</Caption>
+		</cbRedoCreateFilesOvrLck>
+		<cbRedoCreateFolders>
+			<Caption>Vrati napravljene foldere</Caption>
+		</cbRedoCreateFolders>
+		<cbRedoCreateKeys>
+			<Caption>Vrati napravljene objekte</Caption>
+		</cbRedoCreateKeys>
+		<cbRedoCreateValues>
+			<Caption>Vrati napravljene vrijednosti</Caption>
+		</cbRedoCreateValues>
+		<cbRedoDefault>
+			<Caption>Maticno</Caption>
+		</cbRedoDefault>
+		<cbRedoDeleteFiles>
+			<Caption>Obrisi fajlove</Caption>
+		</cbRedoDeleteFiles>
+		<cbRedoDeleteFolders>
+			<Caption>Obrisi foldere</Caption>
+		</cbRedoDeleteFolders>
+		<cbRedoDeleteKeys>
+			<Caption>Obrisi objekte</Caption>
+		</cbRedoDeleteKeys>
+		<cbRedoDeleteValues>
+			<Caption>Obrisi vrijednosti</Caption>
+		</cbRedoDeleteValues>
+		<cbRedoEnabled>
+			<Caption>Omoguceno</Caption>
+		</cbRedoEnabled>
+		<cbRedoModifyFiles>
+			<Caption>Vrati modifikovane fajlove</Caption>
+		</cbRedoModifyFiles>
+		<cbRedoModifyFilesLck>
+			<Caption>Prebrisi zakljucane fajlove</Caption>
+		</cbRedoModifyFilesLck>
+		<cbRedoModifyValues>
+			<Caption>Vrati modifikovane vrijednosti</Caption>
+		</cbRedoModifyValues>
+		<cbRedoSysRestore>
+			<Caption>Napravi System Restore tacku prije vracanja</Caption>
+		</cbRedoSysRestore>
+		<lblRedoDescription>
+			<Caption>Opis</Caption>
+		</lblRedoDescription>
+		<lblRedoName>
+			<Caption>Ime</Caption>
+		</lblRedoName>
+		<lblRedoProfiles>
+			<Caption>Restore profili</Caption>
+		</lblRedoProfiles>
+		<tabRedoAdvanced>
+			<Caption>Napredno</Caption>
+		</tabRedoAdvanced>
+		<tabRedoFileSystem>
+			<Caption>Fajl sistem</Caption>
+		</tabRedoFileSystem>
+		<tabRedoGeneral>
+			<Caption>Opste</Caption>
+		</tabRedoGeneral>
+		<tabRedoRegistry>
+			<Caption>Registar</Caption>
+		</tabRedoRegistry>
+	</dlgTUOptions>
+	<dlgUninstall>
+		<btnCancel>
+			<Caption>Otkazi</Caption>
+		</btnCancel>
+		<btnUninstall>
+			<Caption>Deinstaliraj</Caption>
+		</btnUninstall>
+		<lblCreatingRestorePnt>
+			<Caption>Stvaranje System Restore tacke...</Caption>
+		</lblCreatingRestorePnt>
+		<lblProfile>
+			<Caption>Izaberi deinstalacioni profil</Caption>
+		</lblProfile>
+		<lblUninstalling>
+			<Caption>Deinstalacija...</Caption>
+		</lblUninstalling>
+		<lblWaitTitle>
+			<Caption>Cekaj dostupni Add/Remove program da zavrsi</Caption>
+		</lblWaitTitle>
+		<btnBringToFront>
+			<Caption>Pomjeri u fokus</Caption>
+		</btnBringToFront>
+	</dlgUninstall>
+	<frmInstall>
+		<btnBrowseSetup>
+			<Caption>&amp;Izaberi...</Caption>
+		</btnBrowseSetup>
+		<btnCancel>
+			<Caption>Otkazi</Caption>
+		</btnCancel>
+		<btnCompleteLater>
+			<Caption>&amp;Zavrsi monitoring proces kasnije</Caption>
+		</btnCompleteLater>
+		<btnLaunchSetup>
+			<Caption>&amp;Aktiviraj setup program</Caption>
+		</btnLaunchSetup>
+		<btnNext>
+			<Caption>Dalje</Caption>
+		</btnNext>
+		<btnProgramIsInstalled>
+			<Caption>P&amp;rogram je instaliran</Caption>
+		</btnProgramIsInstalled>
+		<btnSuggest>
+			<Caption>Pr&amp;edlozi</Caption>
+		</btnSuggest>
+		<lblCreateLog>
+			<Caption>Stvori instalacioni log</Caption>
+		</lblCreateLog>
+		<lblCreateOrSelectSns>
+			<Caption>Prije instalacije stvori novi ili izaberi prethodni snapshot sistema.</Caption>
+		</lblCreateOrSelectSns>
+		<lblCreatePreInstallSns>
+			<Caption>Stvori pre-instalacioni snapshot sistema</Caption>
+		</lblCreatePreInstallSns>
+		<lblCreatingLog>
+			<Caption>Stvaranje instalacionog log-a</Caption>
+		</lblCreatingLog>
+		<lblCreatingSystemSns>
+			<Caption>Stvaranje sistemskog snapshot-a</Caption>
+		</lblCreatingSystemSns>
+		<lblFinish>
+			<Caption>Instalacioni log stvoren uspjesno</Caption>
+		</lblFinish>
+		<lblInstallMonProgram>
+			<Caption>Instaliraj monitorisani program</Caption>
+		</lblInstallMonProgram>
+		<lblProfiles>
+			<Caption>&amp;Profil skeniranja</Caption>
+		</lblProfiles>
+		<lblProgramName>
+			<Caption>&amp;Ime programa</Caption>
+		</lblProgramName>
+		<lblProgramSetupPath>
+			<Caption>&amp;Putanja setup programa</Caption>
+		</lblProgramSetupPath>
+		<lblSnsName>
+			<Caption>I&amp;me snapshot-a</Caption>
+		</lblSnsName>
+		<lblSpecifySnsName>
+			<Caption>&amp;Odredite ime post-instalacionog snapshot-a</Caption>
+		</lblSpecifySnsName>
+		<rbNewSnapshot>
+			<Caption>&amp;Stvori novi sistemski snapshot (preporuceno)</Caption>
+		</rbNewSnapshot>
+		<rbUseLastSnapshot>
+			<Caption>&amp;Koristi zadnji snapshot</Caption>
+		</rbUseLastSnapshot>
+	</frmInstall>
+	<frmTUMain>
+		<btnClear>
+			<Caption>Ocisti</Caption>
+		</btnClear>
+		<btnGroupAddChild>
+			<Caption>Dodaj pod grupu...</Caption>
+		</btnGroupAddChild>
+		<btnGroupAddRoot>
+			<Caption>Dodaj glavnu grupu...</Caption>
+		</btnGroupAddRoot>
+		<btnGroupEdit>
+			<Caption>Izmijeni grupu...</Caption>
+		</btnGroupEdit>
+		<btnGroupMoveToRoot>
+			<Caption>Premjesti u glavnu</Caption>
+		</btnGroupMoveToRoot>
+		<btnGroupRemove>
+			<Caption>Ukloni grupu</Caption>
+		</btnGroupRemove>
+		<btnSearch>
+			<Caption>Pokreni</Caption>
+		</btnSearch>
+		<cbBundle>
+			<Caption>Grupisi</Caption>
+		</cbBundle>
+		<cbCaseSensitive>
+			<Caption>Osjetljivo na velicinu</Caption>
+		</cbCaseSensitive>
+		<cbChanged>
+			<Caption>Izmijenjeno</Caption>
+		</cbChanged>
+		<cbCreated>
+			<Caption>Stvoreno</Caption>
+		</cbCreated>
+		<cbData>
+			<Caption>Podaci</Caption>
+		</cbData>
+		<cbDeleted>
+			<Caption>Obrisano</Caption>
+		</cbDeleted>
+		<cbFiles>
+			<Caption>Fajlovi</Caption>
+		</cbFiles>
+		<cbFolders>
+			<Caption>Folderi</Caption>
+		</cbFolders>
+		<cbKeys>
+			<Caption>Kljucevi</Caption>
+		</cbKeys>
+		<cbSearchMask>
+			<Caption>Maska za pretragu</Caption>
+		</cbSearchMask>
+		<cbUnchanged>
+			<Caption>Neizmijenjeno</Caption>
+		</cbUnchanged>
+		<cbValues>
+			<Caption>Vrijednosti</Caption>
+		</cbValues>
+		<Copy1>
+			<Caption>Kopiraj</Caption>
+			<Hint>Kopiraj izabrane fajlove na Clipboard</Hint>
+		</Copy1>
+		<Copy2>
+			<Caption>Kopiraj</Caption>
+			<Hint>Kopiraj izabrane fajlove na Clipboard</Hint>
+		</Copy2>
+		<gbAdvanced>
+			<Caption>Napredno</Caption>
+		</gbAdvanced>
+		<gbChanges>
+			<Caption>Objekti</Caption>
+		</gbChanges>
+		<gbFileSystem>
+			<Caption>Fajl sistem</Caption>
+		</gbFileSystem>
+		<gbRegistry>
+			<Caption>Registar</Caption>
+		</gbRegistry>
+		<gbScope>
+			<Caption>Trazi u</Caption>
+		</gbScope>
+		<miAddtoCompareIgnoreList>
+			<Caption>Dodaj na listu ignorisanja poredjenja</Caption>
+			<Hint>Dodaj izabrane objekte na listu ignorisanja svih profila poredjenja</Hint>
+		</miAddtoCompareIgnoreList>
+		<miAddtoScanExcludeList>
+			<Caption>Dodaj na listu iskljucenja skeniranja</Caption>
+			<Hint>Dodaj izabrane objekte na listu iskljucenje svih profila skeniranja</Hint>
+		</miAddtoScanExcludeList>
+		<miAppSendTo>
+			<Caption>Posalji u grupu</Caption>
+		</miAppSendTo>
+		<miChanges>
+			<Caption>Izmjene</Caption>
+			<Hint>Detektovane izmjene|Pokazi detektovane sistemske izmjene napravljene od strane trenutnog programa</Hint>
+		</miChanges>
+		<miCleaner>
+			<Caption>Cistac</Caption>
+			<Hint>Cistac</Hint>
+		</miCleaner>
+		<miClnItems>
+			<Caption>Objekti</Caption>
+		</miClnItems>
+		<miClnSummary>
+			<Caption>Pregled</Caption>
+			<Hint>Pregled|Prikazi kratke informacije o trenutnom programu</Hint>
+		</miClnSummary>
+		<miCollapse>
+			<Caption>Skupi</Caption>
+			<Hint>Skupi aktivni cvor podataka</Hint>
+		</miCollapse>
+		<miCopyDetail>
+			<Caption>Kopiraj</Caption>
+		</miCopyDetail>
+		<miDeleteCompletely>
+			<Caption>Obrisi potpuno</Caption>
+			<Hint>Ukloni izabrane</Hint>
+		</miDeleteCompletely>
+		<miDeletefromSystemOnly>
+			<Caption>Obrisi iz sistema samo</Caption>
+			<Hint>Obrisi izabrani objekat iz sistema samo</Hint>
+		</miDeletefromSystemOnly>
+		<miEdit>
+			<Caption>&amp;Izmijeni</Caption>
+		</miEdit>
+		<miEditRedo>
+			<Caption>Uradi ponovo</Caption>
+			<Hint>Uradi ponovo izabrane izmjene u sistemu</Hint>
+		</miEditRedo>
+		<miEditRedoDepth>
+			<Caption>Dubinska izmjena</Caption>
+			<Hint>Dubinski napravi izabrane izmjene u sistemu</Hint>
+		</miEditRedoDepth>
+		<miEditRestoreFromBackup>
+			<Caption>Vrati iz backup-a</Caption>
+			<Hint>Vrati izabrane fajlove, foldere i podfoldere iz backup-a</Hint>
+		</miEditRestoreFromBackup>
+		<miEditUndo>
+			<Caption>Ponisti</Caption>
+			<Hint>Ponisti izabrane izmjene u sistemu</Hint>
+		</miEditUndo>
+		<miEditUndoDepth>
+			<Caption>Dubina ponistavanja</Caption>
+			<Hint>Ponisti izabrane izmjene u sistemu</Hint>
+		</miEditUndoDepth>
+		<miExpand>
+			<Caption>Rasiri</Caption>
+			<Hint>Rasiri aktivni cvor podataka</Hint>
+		</miExpand>
+		<miExpChanges>
+			<Caption>Izmjene...</Caption>
+			<Hint>Eksportuj listu izmjena</Hint>
+		</miExpChanges>
+		<miExpInstalledApps>
+			<Caption>Instalirani programi...</Caption>
+			<Hint>Eksportuj listu instaliranih programa</Hint>
+		</miExpInstalledApps>
+		<miExpMonitoredApps>
+			<Caption>Monitorisani programi...</Caption>
+			<Hint>Eksportuj listu monitorisanih programa</Hint>
+		</miExpMonitoredApps>
+		<miExport>
+			<Caption>Eksportuj</Caption>
+		</miExport>
+		<miExpRegistry>
+			<Caption>Izmjene u registru...</Caption>
+			<Hint>Eksportuj izmjene u registru za instalaciju ili deinstalaciju</Hint>
+		</miExpRegistry>
+		<miExpUninstallLog>
+			<Caption>Deinstalacioni log...</Caption>
+			<Hint>Eksportuj deinstalacioni log</Hint>
+		</miExpUninstallLog>
+		<miFile>
+			<Caption>&amp;Fajl</Caption>
+		</miFile>
+		<miFileAddInstalledPrg>
+			<Caption>Dodaj program na listu...</Caption>
+		</miFileAddInstalledPrg>
+		<miFileAnalyze>
+			<Caption>Analiziraj</Caption>
+			<Hint>Analiziraj|Analiziraj sistemske izmjene trenutnog programa</Hint>
+		</miFileAnalyze>
+		<miFileChange>
+			<Caption>Izmijeni</Caption>
+			<Hint>Popravi, izmijeni ili deinstaliraj</Hint>
+		</miFileChange>
+		<miFileChangeIcon>
+			<Caption>Izmijeni ikonu...</Caption>
+		</miFileChangeIcon>
+		<miFileClnClean>
+			<Caption>Ocisti</Caption>
+			<Hint>Ocisti</Hint>
+		</miFileClnClean>
+		<miFileClnScan>
+			<Caption>Skeniraj</Caption>
+			<Hint>Skeniraj|Skeniraj za objektima dostupnim za uklanjanje</Hint>
+		</miFileClnScan>
+		<miFileCreateBackup>
+			<Caption>Stvori backup za program...</Caption>
+		</miFileCreateBackup>
+		<miFileDelete>
+			<Caption>Obrisi</Caption>
+			<Hint>Obrisi trenutni instalacioni log</Hint>
+		</miFileDelete>
+		<miFileEditProgram>
+			<Caption>Izmijeni program...</Caption>
+		</miFileEditProgram>
+		<miFileExit>
+			<Caption>Izadji</Caption>
+			<Hint>Izadji iz programa</Hint>
+		</miFileExit>
+		<miFileGroupAddChild>
+			<Caption>Dodaj podgrupu</Caption>
+		</miFileGroupAddChild>
+		<miFileGroupAddRoot>
+			<Caption>Dodaj glavnu grupu...</Caption>
+		</miFileGroupAddRoot>
+		<miFileGroupEdit>
+			<Caption>Izmijeni grupu...</Caption>
+		</miFileGroupEdit>
+		<miFileGroupMoveToRoot>
+			<Caption>Pomjeri u glavnu</Caption>
+		</miFileGroupMoveToRoot>
+		<miFileGroupRemove>
+			<Caption>Ukloni grupu</Caption>
+		</miFileGroupRemove>
+		<miFileInstall>
+			<Caption>Instaliraj novi...</Caption>
+			<Hint>Prati instalaciju novog programa</Hint>
+		</miFileInstall>
+		<miFileInstallUpdate>
+			<Caption>Instaliraj update...</Caption>
+			<Hint>Instaliraj update|Prati instalaciju update-a trenutnog programa</Hint>
+		</miFileInstallUpdate>
+		<miFileNotes>
+			<Caption>Zabiljeske...</Caption>
+			<Hint>Dodaj zabiljeske trenutnom instalacionom logu</Hint>
+		</miFileNotes>
+		<miFilePrint>
+			<Caption>Stampaj</Caption>
+		</miFilePrint>
+		<miFileReload>
+			<Caption>Ucitaj ponovo</Caption>
+		</miFileReload>
+		<miFileRemoveInstalledPrg>
+			<Caption>Ukloni program sa liste</Caption>
+		</miFileRemoveInstalledPrg>
+		<miFileRename>
+			<Caption>Reimenuj...</Caption>
+			<Hint>Reimenuj trenutni instalacioni log</Hint>
+		</miFileRename>
+		<miFileRestoreBackup>
+			<Caption>Vrati program iz backup-a...</Caption>
+		</miFileRestoreBackup>
+		<miFileSave>
+			<Caption>&amp;Sacuvaj</Caption>
+			<Hint>Sacuvaj izmjene iz trenutnog instalacionog loga</Hint>
+		</miFileSave>
+		<miFileSaveAs>
+			<Caption>Sacuvaj kao...</Caption>
+		</miFileSaveAs>
+		<miFileSendTo>
+			<Caption>Posalji u grupu</Caption>
+		</miFileSendTo>
+		<miFileUninstall>
+			<Caption>Deinstaliraj...</Caption>
+		</miFileUninstall>
+		<miHelp>
+			<Caption>&amp;Pomoc</Caption>
+		</miHelp>
+		<miHelpAbout>
+			<Caption>O programu...</Caption>
+			<Hint>Prikazuje informacije o programu, verziju i pravo na kopiranje</Hint>
+		</miHelpAbout>
+		<miHelpCheckForUpdates>
+			<Caption>Potrazi update...</Caption>
+			<Hint>Provjerava web sajt autora u potrazi za update-ima</Hint>
+		</miHelpCheckForUpdates>
+		<miHelpContents>
+			<Caption>Sadrzaj</Caption>
+			<Hint>Prikazuje stranu sa sadrzajem pomoci</Hint>
+		</miHelpContents>
+		<miHelpHomePage>
+			<Caption>Maticna strana</Caption>
+		</miHelpHomePage>
+		<miHelpPurchase>
+			<Caption>Kupi</Caption>
+		</miHelpPurchase>
+		<miHelpRegister>
+			<Caption>Registruj...</Caption>
+			<Hint>Registruj Total Uninstall</Hint>
+		</miHelpRegister>
+		<miHexView>
+			<Caption>Hex pregled</Caption>
+			<Hint>Otvori fajl u hex editoru</Hint>
+		</miHexView>
+		<miImport>
+			<Caption>Importuj</Caption>
+		</miImport>
+		<miInstalledPrograms>
+			<Caption>Instalirani programi</Caption>
+			<Hint>Instalirani programi|Prebaci se na instalirane programe</Hint>
+		</miInstalledPrograms>
+		<miList>
+			<Caption>Lista</Caption>
+		</miList>
+		<miListGroupNotes>
+			<Caption>Zabiljeske u grupi</Caption>
+		</miListGroupNotes>
+		<miListLargeIcons>
+			<Caption>Velike ikone</Caption>
+		</miListLargeIcons>
+		<miListProgramNotes>
+			<Caption>Zabiljeske o programu</Caption>
+		</miListProgramNotes>
+		<miListSmallIcons>
+			<Caption>Male ikone</Caption>
+		</miListSmallIcons>
+		<miModules>
+			<Caption>&amp;Moduli</Caption>
+		</miModules>
+		<miMonAppsGroupAddChild>
+			<Caption>Dodaj podgrupu...</Caption>
+		</miMonAppsGroupAddChild>
+		<miMonAppsGroupAddRoot>
+			<Caption>Dodaj glavnu grupu...</Caption>
+		</miMonAppsGroupAddRoot>
+		<miMonAppsGroupEdit>
+			<Caption>Izmijeni grupu...</Caption>
+		</miMonAppsGroupEdit>
+		<miMonAppsGroupMoveToRoot>
+			<Caption>Pomjeri u glavnu</Caption>
+		</miMonAppsGroupMoveToRoot>
+		<miMonAppsGroupRemove>
+			<Caption>Ukloni grupu</Caption>
+		</miMonAppsGroupRemove>
+		<miMonitoredPrograms>
+			<Caption>Praceni programi</Caption>
+			<Hint>Praceni programi|Prebaci se na pracene programe</Hint>
+		</miMonitoredPrograms>
+		<miOpen>
+			<Caption>Otvori</Caption>
+			<Hint>Otvori fajl, folder ili kljuc u editoru registra</Hint>
+		</miOpen>
+		<miPendingFileRenameOp>
+			<Caption>Operacije reimenovanja fajlova na cekanju...</Caption>
+			<Hint>Prikazi i primijeni operacije reimenovanja fajlova na cekanju</Hint>
+		</miPendingFileRenameOp>
+		<miPrgAddInstalledPrg>
+			<Caption>Dodaj program na listu...</Caption>
+		</miPrgAddInstalledPrg>
+		<miPrgAnalyze>
+			<Caption>&amp;Analiziraj</Caption>
+			<Hint>Analiziraj|Analiziraj sistemske izmjene trenutnog programa</Hint>
+		</miPrgAnalyze>
+		<miPrgChangeIcon>
+			<Caption>Izmijeni ikonu...</Caption>
+		</miPrgChangeIcon>
+		<miPrgDelete>
+			<Caption>Obrisi</Caption>
+			<Hint>Obrisi trenutni instalacioni log</Hint>
+		</miPrgDelete>
+		<miPrgEditInstalledPrg>
+			<Caption>Izmijeni program...</Caption>
+		</miPrgEditInstalledPrg>
+		<miPrgNotes>
+			<Caption>Zabiljeske...</Caption>
+			<Hint>Dodaj zabiljeske u trenutni instalacioni log</Hint>
+		</miPrgNotes>
+		<miPrgRemoveInstalledPrg>
+			<Caption>Ukloni program sa liste</Caption>
+		</miPrgRemoveInstalledPrg>
+		<miPrgRename>
+			<Caption>Reimenuj...</Caption>
+			<Hint>Reimenuj trenutni instalacioni log</Hint>
+		</miPrgRename>
+		<miPrintChanges>
+			<Caption>Izmjene...</Caption>
+			<Hint>Stampaj listu izmjena</Hint>
+		</miPrintChanges>
+		<miPrintInstalledPrograms>
+			<Caption>Instalirani programi...</Caption>
+		</miPrintInstalledPrograms>
+		<miPrintMonitoredPrograms>
+			<Caption>Praceni programi...</Caption>
+		</miPrintMonitoredPrograms>
+		<miProperties>
+			<Caption>Osobine</Caption>
+			<Hint>Prikazi osobine izabranog fajla ili foldera</Hint>
+		</miProperties>
+		<miRemovefromLog>
+			<Caption>Ukloni iz loga</Caption>
+			<Hint>Ukloni izabrane objekte iz loga</Hint>
+		</miRemovefromLog>
+		<miSnsTreeOpen>
+			<Caption>Otvori</Caption>
+		</miSnsTreeOpen>
+		<miSummary>
+			<Caption>Izvjestaj</Caption>
+			<Hint>Izvjestaj|Prikazi kratke informacije o trenutnom programu</Hint>
+		</miSummary>
+		<miTextView>
+			<Caption>Tekstualni pregled</Caption>
+			<Hint>Otvori fajl u tekst editoru</Hint>
+		</miTextView>
+		<miToolbarLarge>
+			<Caption>Veliki</Caption>
+		</miToolbarLarge>
+		<miToolbarMedium>
+			<Caption>Srednji</Caption>
+		</miToolbarMedium>
+		<miToolbarSmall>
+			<Caption>Mali</Caption>
+		</miToolbarSmall>
+		<miTools>
+			<Caption>&amp;Alati</Caption>
+		</miTools>
+		<miToolsCompareSnapshots>
+			<Caption>Uporedi sistemske snapshot-ove</Caption>
+		</miToolsCompareSnapshots>
+		<miToolsFind>
+			<Caption>Trazi</Caption>
+			<Hint>Trazi|Trazi tekst u detektovanim izmjenama</Hint>
+		</miToolsFind>
+		<miToolsMergeLogs>
+			<Caption>Spoji logove...</Caption>
+		</miToolsMergeLogs>
+		<miToolsOptions>
+			<Caption>Opcije...</Caption>
+			<Hint>Konfigurisi softverske opcije</Hint>
+		</miToolsOptions>
+		<miToolsSystemRestore>
+			<Caption>System restore</Caption>
+		</miToolsSystemRestore>
+		<miULogSuccessful>
+			<Caption>Uspjesne akcije</Caption>
+			<Hint>Prikazi ili sakri uspjesne akcije iz deinstalacionog loga</Hint>
+		</miULogSuccessful>
+		<miULogWarnings>
+			<Caption>Upozorenja</Caption>
+			<Hint>Prikazi ili sakri upozorenja iz deinstalacionog loga</Hint>
+		</miULogWarnings>
+		<miUninstallLog>
+			<Caption>Deinstalacioni log</Caption>
+			<Hint>Deinstalacioni log|Prikazi deinstalacioni log programa</Hint>
+		</miUninstallLog>
+		<miUninstallLogDet>
+			<Caption>Detalji deinstalacionog loga</Caption>
+		</miUninstallLogDet>
+		<miView>
+			<Caption>&amp;Izgled</Caption>
+		</miView>
+		<miViewBundle>
+			<Caption>Grupisi</Caption>
+		</miViewBundle>
+		<miViewColorScheme>
+			<Caption>Sema boja</Caption>
+		</miViewColorScheme>
+		<miViewDetails>
+			<Caption>Detalji</Caption>
+			<Hint>Detalji programa|Prikazi ili sakri detalje programa</Hint>
+		</miViewDetails>
+		<miViewItemCurrentView>
+			<Caption>Trenutni izgled</Caption>
+		</miViewItemCurrentView>
+		<miViewItemDetails>
+			<Caption>Detalji objekta</Caption>
+			<Hint>Prikazi ili sakri detalje izabrane grane u listi izmjena</Hint>
+		</miViewItemDetails>
+		<miViewNavigator>
+			<Caption>Programi</Caption>
+			<Hint>Lista programa|Prikazi ili sakri listu programa</Hint>
+		</miViewNavigator>
+		<miViewRefresh>
+			<Caption>Osvjezi</Caption>
+		</miViewRefresh>
+		<miViewStatusBar>
+			<Caption>Statusni panel</Caption>
+			<Hint>Prikazi ili sakri status bar</Hint>
+		</miViewStatusBar>
+		<miViewToolbars>
+			<Caption>Toolbar-ovi</Caption>
+		</miViewToolbars>
+		<miViewToolbarsBtnCaption>
+			<Caption>Naslov dugmadi</Caption>
+			<Hint>Prikazi ili sakri naslove toolbar-ova</Hint>
+		</miViewToolbarsBtnCaption>
+		<miViewToolbarsBtnSize>
+			<Caption>Velicina dugmadi</Caption>
+		</miViewToolbarsBtnSize>
+		<miViewToolbarsBtnWordWrap>
+			<Caption>Prelamanje linije imena dugmeta</Caption>
+		</miViewToolbarsBtnWordWrap>
+		<miViewToolbarsTbrCaption>
+			<Caption>Naslov toolbar-ova</Caption>
+			<Hint>Prikazi ili sakri naslove toolbar-a</Hint>
+		</miViewToolbarsTbrCaption>
+		<miViewToolbarsVisible>
+			<Caption>Vidljiv</Caption>
+			<Hint>Prikazi ili sakri toolbar</Hint>
+		</miViewToolbarsVisible>
+		<pmiChgTreeCompareExcl>
+			<Caption>Dodaj na listu ignorisanja poredjenja</Caption>
+			<Hint>Dodaj izabrane objekte na listu ignorisanja svih profila poredjenja</Hint>
+		</pmiChgTreeCompareExcl>
+		<pmiChgTreeDelete>
+			<Caption>Obrisi potpuno</Caption>
+			<Hint>Ukloni izabrane objekte iz loga i iz sistema</Hint>
+		</pmiChgTreeDelete>
+		<pmiChgTreeDelSys>
+			<Caption>Obrisi iz sistema samo</Caption>
+			<Hint>Obrisi izabrani objekat iz sistema samo</Hint>
+		</pmiChgTreeDelSys>
+		<pmiChgTreeHexView>
+			<Caption>Hex pregled</Caption>
+			<Hint>Otvori fajl u hex editoru</Hint>
+		</pmiChgTreeHexView>
+		<pmiChgTreeOpen>
+			<Caption>Otvori</Caption>
+			<Hint>Otvori fajl, folder ili kljuc u editoru registra</Hint>
+		</pmiChgTreeOpen>
+		<pmiChgTreeProperties>
+			<Caption>Osobine</Caption>
+			<Hint>Prikazi osobine izabranog fajla ili foldera</Hint>
+		</pmiChgTreeProperties>
+		<pmiChgTreeRedo>
+			<Caption>Uradi ponovo</Caption>
+			<Hint>Uradi ponovo izabrane izmjene u sistemu</Hint>
+		</pmiChgTreeRedo>
+		<pmiChgTreeRedoDepth>
+			<Caption>Dubinski uradi ponovne izmjene</Caption>
+			<Hint>Dubinski uradi izabrane izmjene u sistemu</Hint>
+		</pmiChgTreeRedoDepth>
+		<pmiChgTreeRemove>
+			<Caption>Ukloni iz log-a</Caption>
+			<Hint>Ukloni izabrane objekte iz log-a</Hint>
+		</pmiChgTreeRemove>
+		<pmiChgTreeRestoreFromBackup>
+			<Caption>Vrati iz backup-a</Caption>
+			<Hint>Vrati izabrane fajlove, foldere i podfoldere iz backup-a</Hint>
+		</pmiChgTreeRestoreFromBackup>
+		<pmiChgTreeScanExcl>
+			<Caption>Dodaj na listu iskljucenja skeniranja</Caption>
+			<Hint>Dodaj izabrane objekte na listu iskljucenja svih profila skeniranja</Hint>
+		</pmiChgTreeScanExcl>
+		<pmiChgTreeTextView>
+			<Caption>Tekstualni pregled</Caption>
+			<Hint>Otvori fajl u tekst editoru</Hint>
+		</pmiChgTreeTextView>
+		<pmiChgTreeUndo>
+			<Caption>Ponisti</Caption>
+			<Hint>Ponisti izabrane izmjene iz sistema</Hint>
+		</pmiChgTreeUndo>
+		<pmiChgTreeUndoDepth>
+			<Caption>Dubinsko ponistavanje</Caption>
+			<Hint>Dubinski ponisti izabrane izmjene iz sistema</Hint>
+		</pmiChgTreeUndoDepth>
+		<pmiClnExclude>
+			<Caption>Izuzmi</Caption>
+		</pmiClnExclude>
+		<pmiClnSelectBranch>
+			<Caption>Izaberi granu</Caption>
+		</pmiClnSelectBranch>
+		<pmiClnUnselectBranch>
+			<Caption>Ponisti odabir grane</Caption>
+		</pmiClnUnselectBranch>
+		<pmiCopySummary>
+			<Caption>Kopiraj</Caption>
+		</pmiCopySummary>
+		<pmiInstAppsHeaderAutoResize>
+			<Caption>Automatski promijeni velicinu</Caption>
+		</pmiInstAppsHeaderAutoResize>
+		<pmiLocate>
+			<Caption>Lociraj</Caption>
+		</pmiLocate>
+		<pmiMonAppsHeaderAutoResize>
+			<Caption>Automatski promijeni velicinu</Caption>
+		</pmiMonAppsHeaderAutoResize>
+		<pmiShowSuccessful>
+			<Caption>Uspjesne akcije</Caption>
+			<Hint>Prikazi ili sakri uspjesne akcije iz deinstalacionog log-a</Hint>
+		</pmiShowSuccessful>
+		<pmiShowWarnings>
+			<Caption>Upozorenja</Caption>
+			<Hint>Prikazi ili sakri upozorenja iz deinstalacionog log-a</Hint>
+		</pmiShowWarnings>
+		<pmiTrayRestore>
+			<Caption>Vrati</Caption>
+		</pmiTrayRestore>
+		<rbAll>
+			<Caption>Sve programe</Caption>
+		</rbAll>
+		<rbSelection>
+			<Caption>Selekciju</Caption>
+		</rbSelection>
+		<sbAppClose>
+			<Hint>Zatvori|Zatvori</Hint>
+		</sbAppClose>
+		<sbDetailsClose>
+			<Hint>Zatvori|Zatvori</Hint>
+		</sbDetailsClose>
+		<sbSearchClose>
+			<Hint>Zatvori|Zatvori</Hint>
+		</sbSearchClose>
+		<tabOptions>
+			<Caption>Opcije</Caption>
+		</tabOptions>
+		<tabResults>
+			<Caption>Rezultati</Caption>
+		</tabResults>
+		<tbrActions>
+			<Caption>Akcije</Caption>
+		</tbrActions>
+		<tbrDetails>
+			<Caption>Detalji</Caption>
+		</tbrDetails>
+		<tbrLayout>
+			<Caption>Izgled</Caption>
+		</tbrLayout>
+		<tbrModules>
+			<Caption>Moduli</Caption>
+		</tbrModules>
+		<tbrView>
+			<Caption>Izgled</Caption>
+		</tbrView>
+		<tbtnAnalyze>
+			<Caption>Analiziraj</Caption>
+			<Hint>Analiziraj|Analiziraj sistemske izmjene trenutnog programa</Hint>
+		</tbtnAnalyze>
+		<tbtnChanges>
+			<Caption>Izmjene</Caption>
+			<Hint>Detektovane izmjene|Prikazi detektovane izmjene napravljene od strane trenutnog programa</Hint>
+		</tbtnChanges>
+		<tbtnChgView>
+			<Caption>Izgled</Caption>
+			<Hint>Izgled|Primijeni definisani izgled promjena</Hint>
+		</tbtnChgView>
+		<tbtnCleaner>
+			<Caption>Cistac</Caption>
+			<Hint>Cistac</Hint>
+		</tbtnCleaner>
+		<tbtnClnClean>
+			<Caption>Ocisti</Caption>
+			<Hint>Ocisti</Hint>
+		</tbtnClnClean>
+		<tbtnClnItems>
+			<Caption>Objekti</Caption>
+		</tbtnClnItems>
+		<tbtnClnScan>
+			<Caption>Skeniraj</Caption>
+			<Hint>Skeniraj|Skeniraj objekte dostupne za uklanjanje</Hint>
+		</tbtnClnScan>
+		<tbtnClnSummary>
+			<Caption>Pregled</Caption>
+			<Hint>Pregled|Prikazi kratak pregled informacija o trenutnom programu</Hint>
+		</tbtnClnSummary>
+		<tbtnCollapse>
+			<Caption>Skupi</Caption>
+			<Hint>Skupi|Potpuno skupi aktivnu listu</Hint>
+		</tbtnCollapse>
+		<tbtnDetails>
+			<Caption>Detalji</Caption>
+			<Hint>Programski detalji|Prikazi ili sakri detalje programa</Hint>
+		</tbtnDetails>
+		<tbtnExpand>
+			<Caption>Rasiri</Caption>
+			<Hint>Rasiri|Potpuno rasiri aktivnu listu</Hint>
+		</tbtnExpand>
+		<tbtnInstallModify>
+			<Caption>Izmijeni</Caption>
+			<Hint>Popravi, izmijeni ili deinstaliraj</Hint>
+		</tbtnInstallModify>
+		<tbtnInstallNew>
+			<Caption>Instaliraj</Caption>
+			<Hint>Instaliraj novi|Prati instalaciju novog programa</Hint>
+		</tbtnInstallNew>
+		<tbtnInstallUpdate>
+			<Caption>Update-uj</Caption>
+			<Hint>Instaliraj update|Prati instalaciju update-a trenutnog programa</Hint>
+		</tbtnInstallUpdate>
+		<tbtnInstPrograms>
+			<Caption>Instalirani programi</Caption>
+			<Hint>Instalirani programi|Prebaci se na instalirane programe</Hint>
+		</tbtnInstPrograms>
+		<tbtnMonPrograms>
+			<Caption>Praceni programi</Caption>
+			<Hint>Praceni programi|Prebaci se na pracene programe</Hint>
+		</tbtnMonPrograms>
+		<tbtnPrograms>
+			<Caption>Programi</Caption>
+			<Hint>Lista programa|Prikazi ili sakri listu programa</Hint>
+		</tbtnPrograms>
+		<tbtnSave>
+			<Caption>Sacuvaj</Caption>
+			<Hint>Sacuvaj izmjene iz trenutnog instalacionog log-a</Hint>
+		</tbtnSave>
+		<tbtnSearch>
+			<Caption>Trazi</Caption>
+			<Hint>Trazi|Trazi tekst u detektovanim izmjenama</Hint>
+		</tbtnSearch>
+		<tbtnShowSnapshot>
+			<Caption>Prikazi snapshot</Caption>
+		</tbtnShowSnapshot>
+		<tbtnSummary>
+			<Caption>Izvjestaj</Caption>
+			<Hint>Izvjestaj|Prikazi kratke informacije o trenutnom programu</Hint>
+		</tbtnSummary>
+		<tbtnUninstall>
+			<Caption>Deinstaliraj</Caption>
+		</tbtnUninstall>
+		<tbtnUninstallLog>
+			<Caption>Deinstalacioni log</Caption>
+			<Hint>Deinstalacioni log|Prikazi deinstalacioni log programa</Hint>
+		</tbtnUninstallLog>
+		<tpnlSearch>
+			<Caption>Trazi</Caption>
+		</tpnlSearch>
+		<tvChanges>
+			<Columns_0>Detektovane izmjene</Columns_0>
+			<Columns_1>Prije</Columns_1>
+			<Columns_2>Poslije</Columns_2>
+			<Columns_3>Trenutno</Columns_3>
+		</tvChanges>
+		<tvClnItems>
+			<Columns_0>Objekti</Columns_0>
+			<Columns_1>Osobine</Columns_1>
+		</tvClnItems>
+		<tvResults>
+			<Columns_0>Ime</Columns_0>
+			<Columns_1>Lokacija</Columns_1>
+			<Columns_2>Program</Columns_2>
+		</tvResults>
+		<miAutorunManager>
+			<Caption>Autorun Menadzer</Caption>
+		</miAutorunManager>
+		<miEditAutorunLocateEntry>
+			<Caption>Nadji autorun zapis</Caption>
+		</miEditAutorunLocateEntry>
+		<miEditAutorunLocateTarget>
+			<Caption>Nadji lokaciju</Caption>
+		</miEditAutorunLocateTarget>
+		<miEditAutorunRun>
+			<Caption>Pokreni</Caption>
+		</miEditAutorunRun>
+		<miEditAutorunStop>
+			<Caption>Zaustavi</Caption>
+		</miEditAutorunStop>
+		<miEditAutorunTargetProperties>
+			<Caption>Osobine lokacije</Caption>
+		</miEditAutorunTargetProperties>
+		<miFileAutorunAdd>
+			<Caption>Dodaj</Caption>
+		</miFileAutorunAdd>
+		<miFileAutorunDelete>
+			<Caption>Obrisi</Caption>
+		</miFileAutorunDelete>
+		<miFileUndoRestoration>
+			<Caption>Vrati restore proces nazad...</Caption>
+		</miFileUndoRestoration>
+		<pmiAutorunAdd>
+			<Caption>Dodaj</Caption>
+		</pmiAutorunAdd>
+		<pmiAutorunDelete>
+			<Caption>Obrisi</Caption>
+		</pmiAutorunDelete>
+		<pmiAutorunLocateEntry>
+			<Caption>Nadji autorun zapis</Caption>
+		</pmiAutorunLocateEntry>
+		<pmiAutorunLocateTarget>
+			<Caption>Nadji lokaciju</Caption>
+		</pmiAutorunLocateTarget>
+		<pmiAutorunRun>
+			<Caption>Pokreni</Caption>
+		</pmiAutorunRun>
+		<pmiAutorunStop>
+			<Caption>Zaustavi</Caption>
+		</pmiAutorunStop>
+		<pmiAutorunTargetProperties>
+			<Caption>Osobine lokacije</Caption>
+		</pmiAutorunTargetProperties>
+		<tbtnArAdd>
+			<Caption>Dodaj</Caption>
+		</tbtnArAdd>
+		<tbtnArDelete>
+			<Caption>Obrisi</Caption>
+		</tbtnArDelete>
+		<tbtnArRun>
+			<Caption>Pokreni</Caption>
+		</tbtnArRun>
+		<tbtnArStop>
+			<Caption>Zaustavi</Caption>
+		</tbtnArStop>
+		<tbtnAutorunMgr>
+			<Caption>Autorun Menadzer</Caption>
+		</tbtnAutorunMgr>
+		<tvAutorunItems>
+			<Columns_0>Ime</Columns_0>
+			<Columns_1>Sekcija</Columns_1>
+			<Columns_2>Status</Columns_2>
+			<Columns_3>Opis</Columns_3>
+			<Columns_4>Izdavac</Columns_4>
+			<Columns_5>Komanda</Columns_5>
+		</tvAutorunItems>
+	</frmTUMain>
+	<RESOURCESTRING>
+		<ACCESS_DENIED_X>Pristup zabranjen: %s</ACCESS_DENIED_X>
+		<ACT_CRE_KEY>Stvori kljuc u registru: %s</ACT_CRE_KEY>
+		<ACT_CRE_VAL>Stvori vrijednost u registru: %s</ACT_CRE_VAL>
+		<ACT_DEC_CNT>Umanji brojac dijeljenih fajlova u registru: %s</ACT_DEC_CNT>
+		<ACT_DEL_ADS>Obrisi alternate data stream: %s</ACT_DEL_ADS>
+		<ACT_DEL_FILE>Obrisi fajl: %s</ACT_DEL_FILE>
+		<ACT_DEL_FOLDER>Obrisi folder: %s</ACT_DEL_FOLDER>
+		<ACT_DEL_KEY>Obrisi kljuc u registru: %s</ACT_DEL_KEY>
+		<ACT_DEL_SERVICE>Obrisi servis ili uredjaj: %s</ACT_DEL_SERVICE>
+		<ACT_DEL_VAL>Obrisi vrijednost u registru: %s</ACT_DEL_VAL>
+		<ACT_RST_FILE>Vrati atribute fajla: %s</ACT_RST_FILE>
+		<ACT_RST_VAL>Vrati vrijednost u registru: %s</ACT_RST_VAL>
+		<ACT_STOP_SERVICE>Stopiraj servis ili uredjaj: %s</ACT_STOP_SERVICE>
+		<ADD>Dodaj</ADD>
+		<ADVANCED>Napredno</ADVANCED>
+		<AGENT>Agent</AGENT>
+		<ALL>Sve</ALL>
+		<ALL_BRA>(Sve)</ALL_BRA>
+		<ALL_DETAILS>Sve detalje</ALL_DETAILS>
+		<ALWAYS>Uvijek</ALWAYS>
+		<ANALYSIS_PROFILE>Profile analize</ANALYSIS_PROFILE>
+		<ANALYSIS_PROFILES>Profili analize</ANALYSIS_PROFILES>
+		<ANALYZING>Analiziram...</ANALYZING>
+		<ASK>Pitaj</ASK>
+		<ASK_COMPLETE_LATER>Zavrsi proces pracenja kasnije?</ASK_COMPLETE_LATER>
+		<ASK_IF_NO_ERROR>Pitaj ako nema gresaka</ASK_IF_NO_ERROR>
+		<ASK_SAVE_CHG>Da li hocete da sacuvate izmjene iz &quot;%s&quot; ?</ASK_SAVE_CHG>
+		<ASK_USER>Pitaj korisnika</ASK_USER>
+		<BACKUP>Backup-uj</BACKUP>
+		<BACKUP_CREATED>Backup stvoren.</BACKUP_CREATED>
+		<BACKUP_CREATED_OK>Backup stvoren uspjesno.</BACKUP_CREATED_OK>
+		<BACKUP_PROGRAM>Stvaranje backup-a programa...</BACKUP_PROGRAM>
+		<BACKUP_PROGRAM_X>Stvori backup za program &quot;%s&quot;</BACKUP_PROGRAM_X>
+		<BEGIN_UNINSTALL>Pritisnite Deinstaliraj da zapocnete proces deinstalacije.</BEGIN_UNINSTALL>
+		<BEGIN_UNINSTALL_LAUNCH>Pritisnite Pokreni da zapocnete proces deinstalacije.</BEGIN_UNINSTALL_LAUNCH>
+		<BROWSE_FOR_FILE>Izaberi fajl</BROWSE_FOR_FILE>
+		<BROWSE_FOR_FOLDER>Izaberi folder</BROWSE_FOR_FOLDER>
+		<BROWSE_FOR_FOLDER_OR_FILE>Izaberi folder fajla</BROWSE_FOR_FOLDER_OR_FILE>
+		<BROWSE_FOR_KEY>Izaberi kljuc</BROWSE_FOR_KEY>
+		<BROWSE_FOR_KEY_OR_VALUE>Izaberi kljuc ili vrijednost</BROWSE_FOR_KEY_OR_VALUE>
+		<BROWSE_FOR_VALUE>Izaberi vrijednost</BROWSE_FOR_VALUE>
+		<BUILT_IN_CANCELLED>Ugradjeni uninstaller je otkazan ili se vratio nazad zbog bezuspjesnog uninstall procesa.</BUILT_IN_CANCELLED>
+		<BUILT_IN_UNINSTALLER_RUNNING>Ugradjeni program za uklanjanje trenutno radi.</BUILT_IN_UNINSTALLER_RUNNING>
+		<CANCEL>Otkazi</CANCEL>
+		<CANNOT_BROWSE>Javila se greska u pokusaju pokretanja maticnog browser-a.\nLink je kopiran na Clipboard.</CANNOT_BROWSE>
+		<CANT_EXECUTE>Ne moze se pokrenuti program &quot;%s&quot;.</CANT_EXECUTE>
+		<CANT_OPEN_KEY>Ne moze se otvoriti kljuc</CANT_OPEN_KEY>
+		<CHANGED_ITEMS>Izmijenjeni objekti</CHANGED_ITEMS>
+		<CHANGES>&quot;%s&quot; izmjena</CHANGES>
+		<CHECK_UPD_NEW>Novi update-i ili vijesti dostupne</CHECK_UPD_NEW>
+		<CHECK_UPD_REMINDER>Podsjetnik provjere update-a</CHECK_UPD_REMINDER>
+		<CHG_VIEWS>Izmijeni izgled</CHG_VIEWS>
+		<CLEAN_UP>Pocisti</CLEAN_UP>
+		<CLEAN_UP_DESC>Ukloni tragove deinstaliranog pracenog programa</CLEAN_UP_DESC>
+		<CLEANED>Ocisceno</CLEANED>
+		<CLEANER>Cistac</CLEANER>
+		<CLEANING>Ciscenje...</CLEANING>
+		<CLOSE>Zatvori</CLOSE>
+		<CLOSE_PROCESSES>Zatvori procese</CLOSE_PROCESSES>
+		<CMP_ERROR>Greska tokom poredjenja snapshot-ova.</CMP_ERROR>
+		<CMP_PROFILE>Ime profila poredjenja</CMP_PROFILE>
+		<CNT_DEL_MON>Brojac dijeljenih fajlova u registru obrisan tokom pracenja</CNT_DEL_MON>
+		<COMMENTS>Komentari</COMMENTS>
+		<COMMON>Opste</COMMON>
+		<COMP_PROFILES>Profili poredjenja</COMP_PROFILES>
+		<COMPARE>Uporedi</COMPARE>
+		<COMPARING_SNS>Poredjenje sistemskih snapshot-ova...</COMPARING_SNS>
+		<COMPUTER>Kompjuter</COMPUTER>
+		<COMPUTER_X>Kompjuter (%s)</COMPUTER_X>
+		<CONTACT>Kontaktiraj</CONTACT>
+		<CONTINUE>Da li hocete da nastavite?</CONTINUE>
+		<CONTINUE_UNINSTALL>Nastavi deinstalacioni proces</CONTINUE_UNINSTALL>
+		<CONTINUE_UNINSTALL_Q>Nastavi uninstall proces ?</CONTINUE_UNINSTALL_Q>
+		<CORRUPT_CNT>Nevalidna izmjena detektovana u brojacu dijeljenih fajlova u registru: vrijednost smanjena ili sa nevalidnim podacima</CORRUPT_CNT>
+		<CREATE_REG_KEYS>Stvori kljuceve u registru</CREATE_REG_KEYS>
+		<CREATE_REG_VALS>Stvori vrijednosti u registru</CREATE_REG_VALS>
+		<CREATED_ITEMS>Stvoreni objekti</CREATED_ITEMS>
+		<CREATED_ON>Stvoren</CREATED_ON>
+		<CREATED_X>Stvoren: %s</CREATED_X>
+		<DEC_CNT>Smanji brojac dijeljenih fajlova u registru</DEC_CNT>
+		<DEFAULT>Maticne</DEFAULT>
+		<DEFAULT_PAR>(Maticne)</DEFAULT_PAR>
+		<DEL_AT_STARTUP>Obiljezen za brisanje pri sljedecem startu sistema</DEL_AT_STARTUP>
+		<DEL_CNT>Obrisi brojac dijeljenog fajla u registru</DEL_CNT>
+		<DEL_FILES>Obrisi fajlove</DEL_FILES>
+		<DEL_FOLDERS>Obrisi foldere</DEL_FOLDERS>
+		<DEL_REG_KEYS>Obrisi kljuceve u registru</DEL_REG_KEYS>
+		<DEL_REG_VALS>Obrisi vrijednosti u registru</DEL_REG_VALS>
+		<DEL_SH_FILE>Obrisi dijeljeni fajl sa diska u Recycle Bin</DEL_SH_FILE>
+		<DELETE_SEL_BACKUPS>Obrisi izabrani backup(e)?</DELETE_SEL_BACKUPS>
+		<DELETED_ITEMS>Obrisani objekti</DELETED_ITEMS>
+		<DETECTED_CHG>Detektovane izmjene</DETECTED_CHG>
+		<DISPOSABLE_ITEMS>Objekti dostupni za uklanjanje</DISPOSABLE_ITEMS>
+		<DLG_ABORT>Prekini</DLG_ABORT>
+		<DLG_ALL>Sve</DLG_ALL>
+		<DLG_CANCEL>Otkazi</DLG_CANCEL>
+		<DLG_CLOSE>Zatvori</DLG_CLOSE>
+		<DLG_CNF>Potvrdi</DLG_CNF>
+		<DLG_ERR>Greska</DLG_ERR>
+		<DLG_IGNORE>Ignorisi</DLG_IGNORE>
+		<DLG_INF>Informacije</DLG_INF>
+		<DLG_NO>Ne</DLG_NO>
+		<DLG_NOTOALL>NeZaSve</DLG_NOTOALL>
+		<DLG_OK>OK</DLG_OK>
+		<DLG_RETRY>Pokusaj ponovo</DLG_RETRY>
+		<DLG_WRN>Upozorenje</DLG_WRN>
+		<DLG_YES>Da</DLG_YES>
+		<DLG_YESTOALL>DaZaSve</DLG_YESTOALL>
+		<DONT_DEL_SH_FILE>Korisnik izabrao da zadrzi dijeljeni fajl</DONT_DEL_SH_FILE>
+		<EDIT_PROGRAM>Izmijeni program</EDIT_PROGRAM>
+		<ELAPSED>Proteklo %d:%2.2d</ELAPSED>
+		<ENTER_IDENTIFIER>Unesite ime instaliranog programa.</ENTER_IDENTIFIER>
+		<ERR>Greska</ERR>
+		<ERR_BRA>(ERR)</ERR_BRA>
+		<ERR_DEL_FLD_FILES>Neuspjesno brisanje jednog ili vise foldera ili fajlova.</ERR_DEL_FLD_FILES>
+		<ERR_DEL_REG_KEYS_VALS>Neuspjesno brisanje jednog ili vise kljuceva ili vrijednosti.</ERR_DEL_REG_KEYS_VALS>
+		<ERR_REDO_REG_KEYS_VALS>Neuspjesna ponovna izmjena jednog ili vise kljuceva ili vrijednosti.</ERR_REDO_REG_KEYS_VALS>
+		<ERR_UNDO_REG_KEYS_VALS>Neuspjesno vracanje jednog ili vise kljuceva ili vrijednosti.</ERR_UNDO_REG_KEYS_VALS>
+		<ERR_WRN_OK_STAT>Gresaka: %d   Upozorenja: %d  Uspjesno akcija: %d</ERR_WRN_OK_STAT>
+		<EXIT>Izadji</EXIT>
+		<EXPERT>Ekspert</EXPERT>
+		<EXPIRE_DAYS>Istice za %d dana.</EXPIRE_DAYS>
+		<EXPORT_ERROR>Greska u eksportovanju !</EXPORT_ERROR>
+		<EXTENSION>Ekstenzija</EXTENSION>
+		<FAMILY_NOT_ACCEPTED>Porodicna licenca nije prihvacena.</FAMILY_NOT_ACCEPTED>
+		<FFILTER_ALL>Svi fajlovi (*.*)|*.*</FFILTER_ALL>
+		<FFILTER_DLL>Fajlovi aplikacionih ekstenzija (*.dll)|*.dll</FFILTER_DLL>
+		<FFILTER_EXE>Izvrsni (*.exe)|*.exe</FFILTER_EXE>
+		<FFILTER_HTM>HTML Dokumenta (*.htm, *.html)|*.htm;*html</FFILTER_HTM>
+		<FFILTER_ICL>Kolekcije ikona (*.icl)|*.icl</FFILTER_ICL>
+		<FFILTER_ICO>Fajlovi ikona (*.ico)|*.ico</FFILTER_ICO>
+		<FFILTER_MSI>Microsoft installer-i (*.msi)|*.msi</FFILTER_MSI>
+		<FFILTER_REG>Fajlovi registra (*.reg)|*.reg</FFILTER_REG>
+		<FFILTER_TXT>Tekst dokumenta (*.txt)|*.txt</FFILTER_TXT>
+		<FFILTER_WAV>Zvucni fajlovi (*.wav)|*.wav</FFILTER_WAV>
+		<FFILTER_XML>XML dokumenta - (*.xml)|*.xml</FFILTER_XML>
+		<FILE>(FAJL)</FILE>
+		<FILE_MASK>Maska fajla</FILE_MASK>
+		<FILE_SYSTEM>Fajl sistem</FILE_SYSTEM>
+		<FILES_CHG_STAT>Fajlova modifikovano     :%6.1d</FILES_CHG_STAT>
+		<FILES_CREATED_STAT>Fajlova stvoreno      :%6.1d</FILES_CREATED_STAT>
+		<FILES_DEL_STAT>Fajlova obrisano      :%6.1d</FILES_DEL_STAT>
+		<FILES_NOT_INCLUDED>Fajlovi koji nijesu ukljuceni u backup</FILES_NOT_INCLUDED>
+		<FILES_X>Fajlovi   :%6.1d</FILES_X>
+		<FINISH>Zavrsi</FINISH>
+		<FLDS_CREATED_STAT>Foldera stvoreno  :%6.1d</FLDS_CREATED_STAT>
+		<FLDS_DEL_STAT>Foldera obrisano  :%6.1d</FLDS_DEL_STAT>
+		<FOLDER>(FOLDER)</FOLDER>
+		<FOLDER_MASK>Maska foldera</FOLDER_MASK>
+		<FOLDERS_X>Folderi :%6.1d</FOLDERS_X>
+		<FREE_UPDATES_UNTIL>Besplatni update-i do %s</FREE_UPDATES_UNTIL>
+		<FS_DET_VIEW_PRF>Detalji fajl sistema [Vidi: %s]</FS_DET_VIEW_PRF>
+		<GENERAL>Opste</GENERAL>
+		<GENERATED_BY_TU>Generisano od strane Total Uninstall-a</GENERATED_BY_TU>
+		<HIDDEN_NODE>Cvor je sakriven.</HIDDEN_NODE>
+		<HIDDEN_NODE_IN_VIEW>Objekat je sakriven u trenutnom pregledu.</HIDDEN_NODE_IN_VIEW>
+		<HIDE_OPTIONS>Sakri &amp;opcije</HIDE_OPTIONS>
+		<IF_NO_ERROR>Ako nema gresaka</IF_NO_ERROR>
+		<INCLUDE_FOLDER_IN_LOG>Ukljuci folder u log-u</INCLUDE_FOLDER_IN_LOG>
+		<INF_VOLATILE_KEY>Promjenljivi kljuc nije stvoren</INF_VOLATILE_KEY>
+		<INF_VOLATILE_VAL>Promjenljiva vrijednost nije stvorena</INF_VOLATILE_VAL>
+		<INST_ON>Instaliran</INST_ON>
+		<INST_PRG>Instalirani program</INST_PRG>
+		<INST_PRGS>Instalirani programi</INST_PRGS>
+		<INST_SERV_AND_DEV>Instalirani servisi i uredjaji</INST_SERV_AND_DEV>
+		<INSTALL>Instaliraj</INSTALL>
+		<INSTALL_HISTORY>Istorija instalacije</INSTALL_HISTORY>
+		<INSTALLED_PRGS_CMPS>%d instaliranih programa, %d sistemskih komponenti</INSTALLED_PRGS_CMPS>
+		<INSTALLER_ERR>Detektovana greska u installeru: Brojac dijeljenog fajla stvoren za postojeci fajl</INSTALLER_ERR>
+		<INTERFACE>Interfejs</INTERFACE>
+		<INVALID_AFTER_CNT>Nevalidan POSLIJE brojaca</INVALID_AFTER_CNT>
+		<INVALID_BEFORE_CNT>Nevalidan PRIJE brojaca</INVALID_BEFORE_CNT>
+		<INVALID_CURRENT_CNT>Nevalidan TRENUTNI brojac nadjen u registru</INVALID_CURRENT_CNT>
+		<INVALID_FILE_FORMAT>Nevalidni fajl format</INVALID_FILE_FORMAT>
+		<KEYS_CREATED_STAT>Kljuceva stvoreno      :%6.1d</KEYS_CREATED_STAT>
+		<KEYS_DEL_STAT>Kljuceva obrisano      :%6.1d</KEYS_DEL_STAT>
+		<KEYS_X>Kljucevi    :%6.1d</KEYS_X>
+		<LAST_CHECK>Zadnja provjera: %s</LAST_CHECK>
+		<LAST_WRITE_X>Zadnji upis: %s</LAST_WRITE_X>
+		<LAUNCH>Pokreni</LAUNCH>
+		<LAUNCH_SUPPLIED_UNINST>Dostupni Add/Remove program ce biti pokrenut.</LAUNCH_SUPPLIED_UNINST>
+		<LAUNCH_TU>Pokreni Total Uninstall</LAUNCH_TU>
+		<LIC_COUNTRY>Zemlja licence</LIC_COUNTRY>
+		<LIC_FAMILY>Porodicna licenca</LIC_FAMILY>
+		<LIC_MULTIPLE>Licenca za visestruke kompjutere</LIC_MULTIPLE>
+		<LIC_SINGLE_COMPUTER>Licenca za jedan kompjuter</LIC_SINGLE_COMPUTER>
+		<LIC_SITE>Licenca za sajt</LIC_SITE>
+		<LIC_SMALL_OFFICE>Licenca za malu kancelariju</LIC_SMALL_OFFICE>
+		<LIC_TECHNICIAN>Licenca Tehnicara</LIC_TECHNICIAN>
+		<LIC_TEMPORARY>Privremena licenca</LIC_TEMPORARY>
+		<LIC_WORLDWIDE>Internacionalna licenca</LIC_WORLDWIDE>
+		<LICENSED_TO>Licenca na &quot;%s&quot;</LICENSED_TO>
+		<LNK_EXE_FILTER>Precice i izvrsni fajlovi (*.lnk, *.exe)|*.lnk;*.exe</LNK_EXE_FILTER>
+		<LOADING_INST_PRGS>Ucitavanje instaliranih programa...</LOADING_INST_PRGS>
+		<LOADING_MON_PRGS>Ucitavanje pracenih programa...</LOADING_MON_PRGS>
+		<LOCATE_PRG_LNK_EXE>Izaberi precicu programa ili izvrsni fajl</LOCATE_PRG_LNK_EXE>
+		<LOCATE_UNINSTALLER_EXE>Izaberi izvrsni fajl uninstaller-a</LOCATE_UNINSTALLER_EXE>
+		<LOG_FILE_NAME>Ime log fajla</LOG_FILE_NAME>
+		<MAINTENANCE_ENDED>Period odrzavanja za vasu licencu je istekao.</MAINTENANCE_ENDED>
+		<MAINTENANCE_ENDED_INFO>Novo instalirana verzija programa ce raditi u trial modu.</MAINTENANCE_ENDED_INFO>
+		<MISSING_ITEMS>Nedostajuci objekti</MISSING_ITEMS>
+		<MON_ON>Pracen</MON_ON>
+		<MON_PRG>Praceni program</MON_PRG>
+		<MON_PRG_PATH>Putanja pracenog programa</MON_PRG_PATH>
+		<MON_PRG_RUNNING>Izgleda da praceni program jos uvijek radi.</MON_PRG_RUNNING>
+		<MONITOR_WITH_TU>Prati sa Total Uninstall-om</MONITOR_WITH_TU>
+		<MONITORED_PRGS>%d pracenih programa</MONITORED_PRGS>
+		<NAME>Ime</NAME>
+		<NEVER>Nikad</NEVER>
+		<NEW_NAME>Novo ime</NEW_NAME>
+		<NO>ne</NO>
+		<NO_GROUPS>Nema grupa</NO_GROUPS>
+		<NO_MORE_INSTANCES_ALLOWED>Vasa licenca ne dozvoljava veci broj pokrenutih instanci ovog programa.</NO_MORE_INSTANCES_ALLOWED>
+		<NO_RIGHTS>Nedovoljna prava</NO_RIGHTS>
+		<NO_UPDATES>Korumpirana verzija.</NO_UPDATES>
+		<NORMAL>Normalno</NORMAL>
+		<NOT_A_VALID_UNINST>Nadjen nevalidni ili neregistrovani uninstaller.</NOT_A_VALID_UNINST>
+		<NOT_AVAILABLE>N.D.</NOT_AVAILABLE>
+		<NOT_DELETED_FILES>Neobrisani fajlovi i folderi</NOT_DELETED_FILES>
+		<NOT_DELETED_FILES_DET>Folderi i fajlovi koji nijesu obrisani tokom deinstalacije</NOT_DELETED_FILES_DET>
+		<NOT_DELETED_REG>Neobrisani kljucevi i vrijednosti u registru</NOT_DELETED_REG>
+		<NOT_DELETED_REG_DET>Kljucevi i vrijednosti u registru koji nijesu obrisani tokom deinstalacije</NOT_DELETED_REG_DET>
+		<NOT_EMPTY>Nije prazan</NOT_EMPTY>
+		<NOT_FOUND>Nije nadjen</NOT_FOUND>
+		<NOT_FOUND_X>Nije nadjen: %s</NOT_FOUND_X>
+		<NOTES>Zabiljeske</NOTES>
+		<OK>OK</OK>
+		<OK_BRA>(OK)</OK_BRA>
+		<ON_PRG_CLOSE>Pri zatvaranju programa</ON_PRG_CLOSE>
+		<ON_REFRESH>Pri osvjezenju</ON_REFRESH>
+		<ONLY_FILES_TO_KEEP>Neobrisani. Sadrzi samo fajlove i foldere za zadrzavanje.</ONLY_FILES_TO_KEEP>
+		<ONLY_KEYS_TO_KEEP>Neobrisano. Sadrzi samo kljuceve u registru za zadrzavanje.</ONLY_KEYS_TO_KEEP>
+		<OTHER>Drugo</OTHER>
+		<PAGE>Strana:</PAGE>
+		<PAINT_ITEM_STYLES>Prikazi normalno\nSakri\nPosvijetli tekst\nZatamni ikonu\nZatamni ikonu i posvijetli tekst</PAINT_ITEM_STYLES>
+		<PENDING_FILE_REN>Operacije reimenovanja fajlova na cekanju.</PENDING_FILE_REN>
+		<PRE_INST_SNS_NAME>Ime pre-instalacionog snapshot-a</PRE_INST_SNS_NAME>
+		<PRE_INSTALL>Pre-instalacioni sistemski snapshot</PRE_INSTALL>
+		<PREFERENCES>Opcije</PREFERENCES>
+		<PRG_DETECTED>Program detektovan:</PRG_DETECTED>
+		<PRG_NAME>Ime programa</PRG_NAME>
+		<PRG_PART_UNINSTALLED>Program je djelimicno deinstaliran</PRG_PART_UNINSTALLED>
+		<PRG_RESTORED>Program je vracen.</PRG_RESTORED>
+		<PRG_UNINSTALLED>Program je uspjesno deinstaliran.</PRG_UNINSTALLED>
+		<PRINT_ERROR>Greska u stampi !</PRINT_ERROR>
+		<PROCESS_CANCELLED>Proces otkazan.</PROCESS_CANCELLED>
+		<PROCESSING_INSTALLATIONS>Obrada instalacija...</PROCESSING_INSTALLATIONS>
+		<PRODUCT_UPDATES>Update-i proizvoda</PRODUCT_UPDATES>
+		<PROGRAM_WILL_RESTART>Program ce se restartovati da zavrsi registraciju.</PROGRAM_WILL_RESTART>
+		<PROGRESS_DEFAULT>Napredak, default-no</PROGRESS_DEFAULT>
+		<PST_INST_SNS_NAME>Ime post-instalacionog snapshot-a</PST_INST_SNS_NAME>
+		<PUBLISHER>Izdavac</PUBLISHER>
+		<QST_DEL_FLD_FILES>Da li ste sigurni da hocete da obrisete izabrane foldere ili fajlove?</QST_DEL_FLD_FILES>
+		<QST_DEL_REG_KEYS_VALS>Da li ste sigurni da hocete da obrisete izabrane kljuceve ili vrijednosti?</QST_DEL_REG_KEYS_VALS>
+		<QST_DEL_SERVICES>Jeste li sigurni da hocete da obrisete izabrane servise ?</QST_DEL_SERVICES>
+		<QST_REMOVE_INST_PRG_LST>Da li ste sigurni da hocete da uklonite izabrani program sa liste?</QST_REMOVE_INST_PRG_LST>
+		<QUEST_REMOVE_GROUP>Ukoni grupu?</QUEST_REMOVE_GROUP>
+		<QUIET_PROGRESS_DEFAULT>Tihi, napredak, default</QUIET_PROGRESS_DEFAULT>
+		<README>Readme</README>
+		<READY>Spreman</READY>
+		<RECORD_CHANGED_X>Zapis izmijenjen: %s</RECORD_CHANGED_X>
+		<REG_DET_VIEW_PRF>Detalji registra [Vidi: %s]</REG_DET_VIEW_PRF>
+		<REG_KEY>(REG KLJUC)</REG_KEY>
+		<REG_SCAN_ERROR>Greska tokom skeniranja registra.</REG_SCAN_ERROR>
+		<REG_VAL>(REG VR)</REG_VAL>
+		<REGISTER_DISABLED_KEY>Mozda ste zrtva softverskog krivotvorenja. Molim vas kupite originalni licencni kljuc.</REGISTER_DISABLED_KEY>
+		<REGISTER_FAILED>Registracija neuspjesna.</REGISTER_FAILED>
+		<REGISTER_FIREWALL>Firewall sprecava %s da verifikuje vasu licencu preko interneta.</REGISTER_FIREWALL>
+		<REGISTER_HOST>Ulaz u HOSTS fajlu sprecava %s da verifikuje vasu licencu preko interneta.</REGISTER_HOST>
+		<REGISTER_INVALID>Nevalidne informacije o registraciji</REGISTER_INVALID>
+		<REGISTER_PRO>Morate registrovati program sa kljucem za profesionalno izdanje.</REGISTER_PRO>
+		<REGISTER_THANK_YOU>Hvala vam za registraciju %s.</REGISTER_THANK_YOU>
+		<REGISTERED_COMPANY>Registrovana kompanija</REGISTERED_COMPANY>
+		<REGISTERED_OWNER>Registrovani vlasnik</REGISTERED_OWNER>
+		<REGISTRY>Registar</REGISTRY>
+		<REMOVE_LEFT_BEHIND>Pritisnite Deinstaliraj da uklonite detektovane zaostale foldere, fajlove, kljuceve i vrijednosti u registru.</REMOVE_LEFT_BEHIND>
+		<REMOVE_LOG>Obrisi log izmjena?</REMOVE_LOG>
+		<REMOVE_LOG_DET>Necete biti u mogucnosti da vratite izmjene napravljene od strane izabranog programa.</REMOVE_LOG_DET>
+		<REMOVE_PRG_DATA>Obrisi opcije i programske podatke?</REMOVE_PRG_DATA>
+		<REMOVE_PRG_DATA_INFO>Izaberite &quot;Ne&quot; ako planirate da update-ujete ili upgrad-ujete Total Uninstall</REMOVE_PRG_DATA_INFO>
+		<RENAME>Reimenuj</RENAME>
+		<REQUEST_INTERNET_ACCESS>Internet pristup je obavezan.</REQUEST_INTERNET_ACCESS>
+		<RESTORE_PROGRAM>Vrati program</RESTORE_PROGRAM>
+		<RESTORE_REG_VALS>Vrati vrijednosti u registru</RESTORE_REG_VALS>
+		<RESTORING_FILES_FROM_BKP>Vracanje fajlova iz backup-a...</RESTORING_FILES_FROM_BKP>
+		<RST_FILE_PROP>Vrati atribute fajla</RST_FILE_PROP>
+		<RUN_EVAL_PERIOD>Pokreni program u periodu evaluacije?</RUN_EVAL_PERIOD>
+		<RUNNING_DOMAIN>Pokrenut u Windows NT domenu.</RUNNING_DOMAIN>
+		<RUNNING_SERVER>Pokrenut na Windows Serveru.</RUNNING_SERVER>
+		<RUNNING_VM>Pokrenut u virtuelnoj masini.</RUNNING_VM>
+		<SAFE>Sigurno</SAFE>
+		<SAVE_AS>Sacuvaj kao</SAVE_AS>
+		<SCAN_PROFILES>Profili skeniranja</SCAN_PROFILES>
+		<SCANNING>Skeniranje...</SCANNING>
+		<SCANNING_REGISTRY_AND_FS>Skeniranje registra i fajl sistema...</SCANNING_REGISTRY_AND_FS>
+		<SEARCH>Trazi</SEARCH>
+		<SEARCH_IN_X>Trazi u &quot;%s&quot;</SEARCH_IN_X>
+		<SEL_BRA>(Odabir)</SEL_BRA>
+		<SEL_HAS_HD_NODES>Odabir sadrzi barem jedan skriveni cvor.</SEL_HAS_HD_NODES>
+		<SEL_PRG_UNINSTALLED>Izabrani program je vec deinstaliran.</SEL_PRG_UNINSTALLED>
+		<SEL_UNINSTALL_PROFILE>Izaberite profil deinstalacije.</SEL_UNINSTALL_PROFILE>
+		<SELECT>Izaberi</SELECT>
+		<SHARED_FILE>Dijeljeni fajl. Neobrisan u ovoj fazi</SHARED_FILE>
+		<SHARED_FILE_CNT_DEC>Brojac dijeljenih fajlova je vec smanjen</SHARED_FILE_CNT_DEC>
+		<SHARED_FILE_NOT_FOUND>Dijeljeni fajl nije nadjen na disku</SHARED_FILE_NOT_FOUND>
+		<SHOW_OPTIONS>Prikazi &amp;opcije</SHOW_OPTIONS>
+		<SHOW_SYS_COMP>Prikazi sistemske komponente: %s</SHOW_SYS_COMP>
+		<SIZE>Velicina</SIZE>
+		<SIZE_STAT>Velicina                    : %s</SIZE_STAT>
+		<SKIP>Preskoci</SKIP>
+		<SKIP_BUILTIN_UNINSTALLER>Ako pokrenuti ugradjeni uninstaller ne odgovara, pritisnite Preskoci da nastavite. Sljedeci ugradjeni unstaller ce biti pokrenut.</SKIP_BUILTIN_UNINSTALLER>
+		<SMALL_CNT>Brojac dijeljenih fajlova ima premalu vrijednost u registru</SMALL_CNT>
+		<START>Pokreni</START>
+		<START_SCANNING>Pritisni Skeniraj dugme da skeniranje zapocne.</START_SCANNING>
+		<START_UNINSTALL_PROCESS>Pokreni proces deinstalacije.</START_UNINSTALL_PROCESS>
+		<STOP>Zaustavi</STOP>
+		<STOP_SERVICES>Zaustavi servise</STOP_SERVICES>
+		<SUPPORT_INFO>Informacije o podrsci</SUPPORT_INFO>
+		<SUPPORT_PHONE>Telefon podrske</SUPPORT_PHONE>
+		<SVC_CMD_NOT_ACCEPTED>Servis ne prihvata stop komandu.</SVC_CMD_NOT_ACCEPTED>
+		<SW_VERSION>Verzija %s</SW_VERSION>
+		<TEMPORARY_FILES>Privremeni fajlovi</TEMPORARY_FILES>
+		<TITLE_MON_INSTALL>Prati novi instalaciju</TITLE_MON_INSTALL>
+		<TITLE_MON_UPDATE_X>Prati update programa &quot;%s&quot;</TITLE_MON_UPDATE_X>
+		<TOTAL_LIC_COMPUTERS>Ukupan broj licenciranih racunara za ime gore: %s</TOTAL_LIC_COMPUTERS>
+		<TOTAL_UNINSTALL>Potpuna deinstalacija</TOTAL_UNINSTALL>
+		<TRACES_AFTER_UNINSTALL>Tragovi poslije deinstalacije</TRACES_AFTER_UNINSTALL>
+		<TRIAL_EXPIRED>Trial period je istekao. Molim vas registrujte program.</TRIAL_EXPIRED>
+		<TU_AGENT>Total Uninstall Agent</TU_AGENT>
+		<TU_MON_PRG_TITLE>Praceni programi</TU_MON_PRG_TITLE>
+		<TU_PRO_EDITION>Total Uninstall Profesionalno Izdanje</TU_PRO_EDITION>
+		<TU_STD_EDITION>Total Uninstall Standardo Izdanje</TU_STD_EDITION>
+		<TU_USE_FIRST_UNINST>Potpuna deinstalacija koristeci prvi dostupni uninstaller</TU_USE_FIRST_UNINST>
+		<TU_USE_FIRST_UNINST_DESC>Deinstaliraj anti-virus, anti-spyware, firewall, drajver ili bilo koji program koji instalira sistemske uredjaje.</TU_USE_FIRST_UNINST_DESC>
+		<UNINST_ANALYZED>Deinstaliraj analizirani program</UNINST_ANALYZED>
+		<UNINST_BUNDLE>Ukloni analizirane programe - grupu</UNINST_BUNDLE>
+		<UNINST_PROFILES>Deinstalacioni profili</UNINST_PROFILES>
+		<UNINSTALL>Deinstaliraj</UNINSTALL>
+		<UNINSTALL_INST_HINT>Deinstaliraj|Deinstaliraj izabrani analizirani program</UNINSTALL_INST_HINT>
+		<UNINSTALL_MON_HINT>Deinstaliraj|Deinstaliraj izabrani praceni program</UNINSTALL_MON_HINT>
+		<UNINSTALL_PROGRAM_X>Deinstaliraj program &quot;%s&quot;</UNINSTALL_PROGRAM_X>
+		<UNINSTALLED_WITH_TU>Deinstaliran preko Total Uninstall &quot;%s&quot;</UNINSTALLED_WITH_TU>
+		<UNREGISTERED>Neregistrovan</UNREGISTERED>
+		<USE_LAST_SNS>Koristi zadnji snapshot</USE_LAST_SNS>
+		<USE_LAST_SNS_AGO_D>Koristi zadnji snapshot (prije %d dana, %d casova i %d minuta)</USE_LAST_SNS_AGO_D>
+		<USE_LAST_SNS_AGO_H>Koristi zadnji snapshot (prije %d casova i %d minuta)</USE_LAST_SNS_AGO_H>
+		<USE_LAST_SNS_AGO_M>Koristi zadnji snapshot (prije %d minuta)</USE_LAST_SNS_AGO_M>
+		<USE_OLD_PURCHASE_NEW>Instalirajte stariju verziju ili kupite update da bi koristili ovu.</USE_OLD_PURCHASE_NEW>
+		<USE_ONLY_PRG_UNINST>Koristi samo dostupni uninstaller programa</USE_ONLY_PRG_UNINST>
+		<USE_OR_BUILD_SNS>Izgradi ili koristi prethodni pre-instalacioni snapshot.</USE_OR_BUILD_SNS>
+		<USR_ABORT>Prekinuto od strane korisnika</USR_ABORT>
+		<VALS_CHG_STAT>Vrijednosti modifikovano  :%6.1d</VALS_CHG_STAT>
+		<VALS_CREATED_STAT>Vrijednosti stvoreno   :%6.1d</VALS_CREATED_STAT>
+		<VALS_DEL_STAT>Vrijednosti obrisano   :%6.1d</VALS_DEL_STAT>
+		<VALUES_X>Vrijednosti  :%6.1d</VALUES_X>
+		<VERSION>Verzija</VERSION>
+		<WAIT_UNINST_REMOVE_LEFT>Kada dostupni Add/Remove program zavrsi pritisnite Deinstaliraj da uklonite zaostale foldere, fajlove i kljuceve i vrijednosti u registru.</WAIT_UNINST_REMOVE_LEFT>
+		<WRN_BRA>(WRN)</WRN_BRA>
+		<X_BYTE>%s B</X_BYTE>
+		<X_BYTES>%d bajtova</X_BYTES>
+		<X_CHANGES>%s - Izmjena</X_CHANGES>
+		<X_GIGABYTE>%s GB</X_GIGABYTE>
+		<X_KILOBYTE>%s KB</X_KILOBYTE>
+		<X_MEGABYTE>%s MB</X_MEGABYTE>
+		<X_RESULTS>%d rezultat(a)</X_RESULTS>
+		<X_UNINSTALL_LOG>&quot;%s&quot; - Deinstalacioni log</X_UNINSTALL_LOG>
+		<X_UNINSTALL_LOG_FILE>&quot;%s&quot; - UninstallLog.txt</X_UNINSTALL_LOG_FILE>
+		<YES>da</YES>
+		<ZERO_LENGTH_DATA>(podaci nulte duzine)</ZERO_LENGTH_DATA>
+		<AUTOMATIC>Automatski</AUTOMATIC>
+		<AUTORUN_MGR>Autorun Menadzer</AUTORUN_MGR>
+		<BTN_CONTINUE>Nastavi</BTN_CONTINUE>
+		<COMPLETE>Zavrseno</COMPLETE>
+		<DELETE_SEL_UNDO>Obrisite izabrane undo zapise ?</DELETE_SEL_UNDO>
+		<DELETE_SYS_SEL_ITEM>Izbrisite izabrani objekat iz sistema ?</DELETE_SYS_SEL_ITEM>
+		<DISABLED>Iskljuceno</DISABLED>
+		<FFILTER_ZIP>Backup fajlovi (*.zip)|*.zip</FFILTER_ZIP>
+		<IMPORTING_ARCHIVE>Importovanje arhive(a)...</IMPORTING_ARCHIVE>
+		<ITEM_X>Objekat : %s</ITEM_X>
+		<LOADING>Ucitavanje...</LOADING>
+		<LOGON>Logovanje</LOGON>
+		<MANUAL>Rucno</MANUAL>
+		<REDO_PROFILES>Restore profili</REDO_PROFILES>
+		<REG_RUN>Pokreni</REG_RUN>
+		<REG_RUN_ONCE>Pokreni jednom</REG_RUN_ONCE>
+		<RESTORATION_UNDONE>Restore proces je ponisten.</RESTORATION_UNDONE>
+		<RESTORE>Vracanje (restore)</RESTORE>
+		<RESTORING_ARCHIVE>Vracanje fajlova i objekata registra...</RESTORING_ARCHIVE>
+		<SCHEDULED_TASKS>Zakazani zadaci</SCHEDULED_TASKS>
+		<SERVICES>Servisi</SERVICES>
+		<START_MENU>Start meni</START_MENU>
+		<STARTUP_TYPE_X>Startup tip : %s</STARTUP_TYPE_X>
+		<SYSTEM>Sistem</SYSTEM>
+		<UNDO>Ponisti</UNDO>
+		<UNDO_RESTORATION>Ponisti restore</UNDO_RESTORATION>
+	</RESOURCESTRING>
+	<dlgAutorunItem>
+		<btnCancel>
+			<Caption>Otkazi</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Autorun objekat</Caption>
+		<gbStartLocation>
+			<Caption>Pocetna lokacija</Caption>
+		</gbStartLocation>
+		<gbUser>
+			<Caption>Autorun prilikom logovanja za</Caption>
+		</gbUser>
+		<lblCommand>
+			<Caption>Komanda</Caption>
+		</lblCommand>
+		<lblName>
+			<Caption>Ime</Caption>
+		</lblName>
+		<rbLogonAnyUser>
+			<Caption>Bilo koji korisnik</Caption>
+		</rbLogonAnyUser>
+		<rbLogonCurentUser>
+			<Caption>Trenutni korisnik</Caption>
+		</rbLogonCurentUser>
+		<rbRegRun>
+			<Caption>Registar, pokreni prilikom svakog logovanja</Caption>
+		</rbRegRun>
+		<rbRegRunOnce>
+			<Caption>Registar, pokreni samo jednom prilikom sljedeceg logovanja</Caption>
+		</rbRegRunOnce>
+		<rbStartMenu>
+			<Caption>Startup folder, pokreni prilikom svakog logovanja</Caption>
+		</rbStartMenu>
+	</dlgAutorunItem>
+</TotalUninstall>

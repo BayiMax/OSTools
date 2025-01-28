@@ -1,0 +1,35 @@
+/* style.css */
+
+/* 背景设置 */
+QMessageBox {
+    background-image: url('corefile/icon/error.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto; /* 背景图片自适应窗口大小 */
+    border: 2px solid #7a7a7a;
+    font-family: Arial, sans-serif;
+}
+
+/* 设置按钮样式 */
+QMessageBox QPushButton {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+/* 鼠标悬停按钮样式 */
+QMessageBox QPushButton:hover {
+    background-color: #45a049;
+}
+
+/* 设置按钮透明背景 */
+QPushButton {
+    background-color: transparent;
+    border: none;
+    color: black; /* 按钮文本颜色 */
+}
+
+QPushButton:hover {
+    background-color: rgba(255, 255, 255, 50); /* 鼠标悬停时背景颜色 */
+}

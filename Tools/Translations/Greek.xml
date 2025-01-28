@@ -1,0 +1,2488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Translated by: Ippokratis Giakoumis (www.ipposoft.com)-->
+<TotalUninstall>
+	<_System_>
+		<Flag>
+			<Size>1974</Size>
+			<Data>Qk22BwAAAAAAADYAAAAoAAAAIAAAABQAAAABABgAAAAAAIAHAADEDgAAxA4AAAAAAAAAAAAAix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8NYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAA8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLCQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAtGZbtGZbtGZbtGZbtGZbs2Vas2VatGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZb////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////7NrY7NrY7NrY69jX8OPh////////7NvX7NnY7NrY7NrY7NrY79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZiygniygniygnhyYooU9D////////jSkmiigoiygniygoiSgndx0aeR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceQYAeQYAeQYAdQIAkjMl////////ewYAeAMAeQYAeQQAeAYAfSgleR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4ceR4chBQEhBQEhBQEgAsBnEM2////////hRcFgg8ChBQEgg8EjCIQ8uHf79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZ79vZegEAegEAegEAdgAAlTQo////////fQYAeQAAegEAeAAAgxMD////////////////////////////////////////////////////////////////////////////////1rGs1rGs1rGs1a+p3sG+////////1rOu1rGr1rGs1rGr17SwsGFftGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZbtGZb////////////////////////////////////////////////LQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAQQAAplVKplVKplVKpFJEuHlw////////qVtOpVRIplVKpVNHrGNY2MbG2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLC2cLCeQAAeQAAeQAAdAAAkzMm////////fAQAdwAAeQAAdgAAhBQE////////////////////////////////////////////////////////////////////////////////iBwNiBwNiBwNgxQFnkg8////////iB8PhhgJiBwNhRgJjSga+/jz8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLd8OLdih8Qih8Qih8QhhcIoEs/////////iyISiBsMih8QiiAQhBYHYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAYgAAih8Qih8Qih8QhhcIoEs/////////iyISiBsMih8Qih8Qih8Qih4Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8Nix8N</Data>
+		</Flag>
+		<LanguageCode>en</LanguageCode>
+		<LocalizedName>Ελληνικά</LocalizedName>
+		<Version>60301</Version>
+	</_System_>
+	<Cleaner>
+		<CF-BROWSER-CACHE>Περιηγητής</CF-BROWSER-CACHE>
+		<CF-BROWSER-CACHE-CHROME>Chrome</CF-BROWSER-CACHE-CHROME>
+		<CF-BROWSER-CACHE-FIREFOX>Firefox</CF-BROWSER-CACHE-FIREFOX>
+		<CF-BROWSER-CACHE-IE>Internet Explorer</CF-BROWSER-CACHE-IE>
+		<CF-BROWSER-CACHE-MAXTHON>Maxthon</CF-BROWSER-CACHE-MAXTHON>
+		<CF-BROWSER-CACHE-OPERA>Opera</CF-BROWSER-CACHE-OPERA>
+		<CF-PROGRAMS>Εφαρμογές</CF-PROGRAMS>
+		<CF-PROGRAMS-ADOBE-FLASH-PLAYER>Adobe Flash Player</CF-PROGRAMS-ADOBE-FLASH-PLAYER>
+		<CF-PROGRAMS-MSOFFICE-RECENT>Λίστα πρόσφατα ανοιγμένων του Microsoft Office</CF-PROGRAMS-MSOFFICE-RECENT>
+		<CF-PROGRAMS-SUN-JAVA-CACHE>Προσωρινά αρχεία Sun Java</CF-PROGRAMS-SUN-JAVA-CACHE>
+		<CF-SYSTEM>Σύστημα</CF-SYSTEM>
+		<CF-SYSTEM-JUNK-FILES>Άχρηστα αρχεία</CF-SYSTEM-JUNK-FILES>
+		<CF-SYSTEM-RECYCLE-BIN>Κάδος ανακύκλωσης (επιβεβλημένη διαγραφή)</CF-SYSTEM-RECYCLE-BIN>
+		<CF-SYSTEM-TEMP-FILES>Προσωρινά αρχεία</CF-SYSTEM-TEMP-FILES>
+		<CF-SYSTEM-THUMBNAILS-CACHE>Προσωρινά αρχεία Thumbnail</CF-SYSTEM-THUMBNAILS-CACHE>
+		<CF-WINDOWS>Windows</CF-WINDOWS>
+		<CF-WINDOWS-ERROR-REPORTING>Αναφορές σφαλμάτων</CF-WINDOWS-ERROR-REPORTING>
+		<CF-WINDOWS-EXPLORER>Εξερευνητής των Windows</CF-WINDOWS-EXPLORER>
+		<CF-WINDOWS-EXPLORER-RECENT-FILES>Πρόσφατα έγγραφα</CF-WINDOWS-EXPLORER-RECENT-FILES>
+		<CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>Άδειοι φάκελοι</CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>
+		<CF-WINDOWS-LOG-FILES>Αρχεία καταγραφής</CF-WINDOWS-LOG-FILES>
+		<CF-WINDOWS-MEMORY-DUMP-FILES>Αρχεία αποτύπωσης μνήμης</CF-WINDOWS-MEMORY-DUMP-FILES>
+		<CF-WINDOWS-TEMP-FOLDERS>Προσωρινοί φάκελοι</CF-WINDOWS-TEMP-FOLDERS>
+		<CR-INVALID-ENTRIES>Μη έγκυρες αναφορές</CR-INVALID-ENTRIES>
+		<CR-INVALID-ENTRIES-FILE-REFERENCES>Αναφορές αρχείων</CR-INVALID-ENTRIES-FILE-REFERENCES>
+		<CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>Άδεια κλειδιά</CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>
+		<CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>Κοινά DLL που λείπουν</CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>
+		<CR-INVALID-ENTRIES-MSI-PATHS>Διαδρομές MSI</CR-INVALID-ENTRIES-MSI-PATHS>
+		<CR-INVALID-ENTRIES-MUI-REFERENCES>Αναφορές MUI</CR-INVALID-ENTRIES-MUI-REFERENCES>
+		<CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>Μορφές αρχείων χωρίς πληροφορίες</CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>
+	</Cleaner>
+	<dlgAddInstalledPrg>
+		<btnCancel>
+			<Caption>Άκυρο</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>ΟΚ</Caption>
+		</btnOK>
+		<Caption>Προσθήκη προγράμματος στη λίστα</Caption>
+		<lblBuiltInUninstaller>
+			<Caption>Τυπική Απεγκατάσταση</Caption>
+		</lblBuiltInUninstaller>
+		<lblInstallationFolder>
+			<Caption>Εγκατεστημένο στο φάκελο</Caption>
+		</lblInstallationFolder>
+		<lblPrgName>
+			<Caption>Όνομα εφαρμογής</Caption>
+		</lblPrgName>
+	</dlgAddInstalledPrg>
+	<dlgAskDelItem>
+		<btnOK>
+			<Caption>&amp;ΟΚ</Caption>
+		</btnOK>
+		<btnSelectAll>
+			<Caption>Επιλογή όλων</Caption>
+		</btnSelectAll>
+		<btnUnselectAll>
+			<Caption>Αποεπιλογή όλων</Caption>
+		</btnUnselectAll>
+		<Caption>Διαγραφή Aντικειμένων;</Caption>
+		<cbAutoSelectAll>
+			<Caption>Αυτόματη επιλογή όλων</Caption>
+		</cbAutoSelectAll>
+		<lblDelSel>
+			<Caption>Τα επιλεγμένα αντικείμενα θα διαγραφούν</Caption>
+		</lblDelSel>
+	</dlgAskDelItem>
+	<dlgAutorunItem>
+		<btnCancel>
+			<Caption>Άκυρο</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>ΟΚ</Caption>
+		</btnOk>
+		<Caption>Αντικ/νο αυτόμ. εκκ.</Caption>
+		<gbStartLocation>
+			<Caption>Εκκίνηση από</Caption>
+		</gbStartLocation>
+		<gbUser>
+			<Caption>Αυτόμ. εκκ. στην είσοδο του</Caption>
+		</gbUser>
+		<lblCommand>
+			<Caption>Εντολή</Caption>
+		</lblCommand>
+		<lblName>
+			<Caption>Όνομα</Caption>
+		</lblName>
+		<rbLogonAnyUser>
+			<Caption>Όλοι οι χρήστες</Caption>
+		</rbLogonAnyUser>
+		<rbLogonCurentUser>
+			<Caption>Τρέχων χρήστης</Caption>
+		</rbLogonCurentUser>
+		<rbRegRun>
+			<Caption>Μητρώο, τρέχει σε κάθε είσοδο</Caption>
+		</rbRegRun>
+		<rbRegRunOnce>
+			<Caption>Μητρώο, τρέχει μία φορά στην επόμενη είσοδο</Caption>
+		</rbRegRunOnce>
+		<rbStartMenu>
+			<Caption>Φάκελος εκκίνησης, τρέχει σε κάθε είσοδο</Caption>
+		</rbStartMenu>
+	</dlgAutorunItem>
+	<dlgChangeIcon>
+		<btnBrowse>
+			<Caption>Αναζήτηση...</Caption>
+		</btnBrowse>
+		<btnCancel>
+			<Caption>Άκυρο</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>ΟΚ</Caption>
+		</btnOk>
+		<Caption>Αλλαγή Εικονιδίου</Caption>
+		<gbIcons>
+			<Caption>Εικονίδια</Caption>
+		</gbIcons>
+	</dlgChangeIcon>
+	<dlgCheckUpdates>
+		<btnClose>
+			<Caption>Κλείσιμο</Caption>
+		</btnClose>
+		<btnRefresh>
+			<Caption>Ανανέωση</Caption>
+		</btnRefresh>
+		<Caption>Έλεγχος για Ενημερώσεις</Caption>
+	</dlgCheckUpdates>
+	<dlgCompareSns>
+		<btnCancel>
+			<Caption>Άκυρο</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>ΟΚ</Caption>
+		</btnOK>
+		<Caption>Σύγκρινε snapshot συστήματος</Caption>
+		<lblCompareProfile>
+			<Caption>Σύγκριση &amp;Προφίλ</Caption>
+		</lblCompareProfile>
+		<lblResultLog>
+			<Caption>Καταγραφή Αποτελεσμάτων</Caption>
+		</lblResultLog>
+		<lblSnapshotA>
+			<Caption>Snapshot Συστήματος Α</Caption>
+		</lblSnapshotA>
+		<lblSnapshotB>
+			<Caption>Snapshot Συστήματος Β</Caption>
+		</lblSnapshotB>
+	</dlgCompareSns>
+	<dlgExportRegistry>
+		<btnCancel>
+			<Caption>Άκυρο</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>ΟΚ</Caption>
+		</btnOk>
+		<Caption>Εξαγωγή Αλλαγών Μητρώου</Caption>
+		<cbCreatedKeys>
+			<Caption>Δημιουργηθέντα Κλειδιά</Caption>
+		</cbCreatedKeys>
+		<cbCreatedValues>
+			<Caption>Δημιουργηθείσες Τιμές</Caption>
+		</cbCreatedValues>
+		<cbDeletedKeys>
+			<Caption>Διαγραφέντα Κλειδιά</Caption>
+		</cbDeletedKeys>
+		<cbDeletedValues>
+			<Caption>Διαγραφείσες Τιμές</Caption>
+		</cbDeletedValues>
+		<cbModifiedValues>
+			<Caption>Τροποποιηθείσες Τιμές</Caption>
+		</cbModifiedValues>
+		<gbDetails>
+			<Caption>Αλλαγές Μητρώου</Caption>
+		</gbDetails>
+		<gbExportType>
+			<Caption>Εξαγωγή Τύπου</Caption>
+		</gbExportType>
+		<gbRange>
+			<Caption>Εύρος εξαγωγής</Caption>
+		</gbRange>
+		<rbExpAll>
+			<Caption>Όλα</Caption>
+		</rbExpAll>
+		<rbExpBranch>
+			<Caption>Επιλεγμένος κλάδος</Caption>
+		</rbExpBranch>
+		<rbInstall>
+			<Caption>Εγκατάσταση Αρχείου</Caption>
+		</rbInstall>
+		<rbUninstall>
+			<Caption>Απεγκατάσταση Αρχείου</Caption>
+		</rbUninstall>
+	</dlgExportRegistry>
+	<dlgGroupProp>
+		<btnCancel>
+			<Caption>Άκυρο</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>ΟΚ</Caption>
+		</btnOk>
+		<Caption>Γκρούπ</Caption>
+		<lblIcon>
+			<Caption>Εικονίδιο</Caption>
+		</lblIcon>
+		<lblName>
+			<Caption>Όνομα</Caption>
+		</lblName>
+	</dlgGroupProp>
+	<dlgMergeLogs>
+		<btnCancel>
+			<Caption>Άκυρο</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>ΟΚ</Caption>
+		</btnOK>
+		<Caption>Συγχώνευση Ημερολογίων</Caption>
+		<cbDeleteUpdate>
+			<Caption>Διαγραφή ημερολόγιου ενημέρωσης μετά τη συγχώνευση</Caption>
+		</cbDeleteUpdate>
+		<gbDestination>
+			<Caption>Προορισμός</Caption>
+		</gbDestination>
+		<gbSources>
+			<Caption>Πηγές</Caption>
+		</gbSources>
+		<lblInstallLog>
+			<Caption>Ημερολόγιο Εγκατάστασης</Caption>
+		</lblInstallLog>
+		<lblNewName>
+			<Caption>Νέο όνομα</Caption>
+		</lblNewName>
+		<lblUpdateLog>
+			<Caption>Ενημέρωση ημερολογίου</Caption>
+		</lblUpdateLog>
+		<rbCreateANewLog>
+			<Caption>Νέο Ημερολόγιο</Caption>
+		</rbCreateANewLog>
+		<rbSaveInInstallLog>
+			<Caption>Αποθήκευση στο Ημερολόγιο</Caption>
+		</rbSaveInInstallLog>
+	</dlgMergeLogs>
+	<dlgPendingFileRename>
+		<btnApply>
+			<Caption>Εφαρμογή</Caption>
+		</btnApply>
+		<btnClose>
+			<Caption>Κλείσιμο</Caption>
+		</btnClose>
+		<Caption>Εκκρεμείς Απόπειρες Μετονομασίας Αρχείων</Caption>
+		<tvPendingFiles>
+			<Columns_0>Πηγή</Columns_0>
+			<Columns_1>Προορισμός</Columns_1>
+		</tvPendingFiles>
+	</dlgPendingFileRename>
+	<dlgRegister>
+		<btnBuy>
+			<Caption>Αγορά</Caption>
+		</btnBuy>
+		<btnCancel>
+			<Caption>Άκυρο</Caption>
+		</btnCancel>
+		<btnRegister>
+			<Caption>Δήλωση</Caption>
+		</btnRegister>
+		<Caption>Δήλωση Total Uninstall</Caption>
+		<lblKey>
+			<Caption>Κλειδί Δήλωσης</Caption>
+		</lblKey>
+		<lblName>
+			<Caption>Όνομα Δήλωσης</Caption>
+		</lblName>
+		<ulblLostRegistrationInfo>
+			<Caption>Έχασα το κλειδί που αγόρασα.</Caption>
+		</ulblLostRegistrationInfo>
+	</dlgRegister>
+	<dlgRestrictedFeature>
+		<btnCancel>
+			<Caption>Άκυρο</Caption>
+		</btnCancel>
+		<Caption>Απαγορευμένη λειτουργία</Caption>
+		<clinkPurchase>
+			<Caption>Αγορά</Caption>
+			<Note>Άνοιγμα φόρμας παραγγελίας</Note>
+		</clinkPurchase>
+		<lblInstruction>
+			<Caption>Αυτό το χαρακτηριστικό διατίθεται μονο με αγορά</Caption>
+		</lblInstruction>
+		<lblProfessionalEdition>
+			<Caption>- Επαγγελματική έκδοση</Caption>
+		</lblProfessionalEdition>
+	</dlgRestrictedFeature>
+	<dlgRmvShared>
+		<btnNo>
+			<Caption>Όχι</Caption>
+		</btnNo>
+		<btnNoToAll>
+			<Caption>Όχι Σε Όλα</Caption>
+		</btnNoToAll>
+		<btnYes>
+			<Caption>Ναί</Caption>
+		</btnYes>
+		<btnYesToAll>
+			<Caption>Ναί Σε Όλα</Caption>
+		</btnYesToAll>
+		<Caption>Απομάκρυνση Κοινού Αρχείου;</Caption>
+		<lblFileName>
+			<Caption>Όνομα:</Caption>
+		</lblFileName>
+		<lblLocated>
+			<Caption>Τοποθεσία:</Caption>
+		</lblLocated>
+		<lblOne>
+			<Caption>Το σύστημα δείχνει οτι τα ακόλουθα κοινά αρχεία δεν χρησιμοποιούνται πια απο κανένα πρόγραμμα. Εαν κάποια προγράμματα τα χρησιμοποιούν ακόμα και απομακρυνθούν, ισως να μην λειτουργούν σωστά. Θέλετε να απομακρύνετε το κοινό αρχείο;</Caption>
+		</lblOne>
+		<lblTwo>
+			<Caption>Αφήνοντας αυτό το αρχείο δεν θα βλάψει το σύστημά σας. Εαν δεν είστε σίγουροι για το τι πρέπει να κάνετε, προτείνεται να μην απομακρύνετε το κοινό αρχείο.</Caption>
+		</lblTwo>
+	</dlgRmvShared>
+	<dlgSelect>
+		<btnCancel>
+			<Caption>Άκυρο</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>ΟΚ</Caption>
+		</btnOk>
+		<Caption>Επιλογή</Caption>
+	</dlgSelect>
+	<dlgSelectLibIcon>
+		<btnAdd>
+			<Caption>Προσθήκη</Caption>
+		</btnAdd>
+		<btnCancel>
+			<Caption>Άκυρο</Caption>
+		</btnCancel>
+		<btnDelete>
+			<Caption>Διαγραφή</Caption>
+		</btnDelete>
+		<btnOk>
+			<Caption>ΟΚ</Caption>
+		</btnOk>
+		<Caption>Επιλογή Εικονιδίου</Caption>
+		<gbIcons>
+			<Caption>Εικονίδια</Caption>
+		</gbIcons>
+	</dlgSelectLibIcon>
+	<dlgSysBrowser>
+		<btnCancel>
+			<Caption>&amp;Άκυρο</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>&amp;ΟΚ</Caption>
+		</btnOk>
+		<lblExpanded>
+			<Caption>Επεκταμένο</Caption>
+		</lblExpanded>
+	</dlgSysBrowser>
+	<dlgTUAbout>
+		<btnOK>
+			<Caption>ΟΚ</Caption>
+		</btnOK>
+		<Caption>Περί - Μετάφραση: Ιπποκράτης Γιακουμής</Caption>
+		<lblCopyright>
+			<Caption>Copyright © 2001-2019, Gavrila Martau. Μετάφραση: Ι. Γιακουμής</Caption>
+		</lblCopyright>
+		<lblEmail>
+			<Caption>Email</Caption>
+		</lblEmail>
+		<lblHomePage>
+			<Caption>Ιστοσελίδα</Caption>
+		</lblHomePage>
+		<ulblBuyUpgrade>
+			<Caption>Αγορά αναβάθμισης</Caption>
+		</ulblBuyUpgrade>
+		<ulblDownload>
+			<Caption>Λήψη δωρεάν ενημέρωσης</Caption>
+		</ulblDownload>
+	</dlgTUAbout>
+	<dlgTunBackup>
+		<btnCancel>
+			<Caption>Άκυρο</Caption>
+		</btnCancel>
+		<btnCopy>
+			<Caption>Αντιγραφή σε...</Caption>
+		</btnCopy>
+		<btnCreate>
+			<Caption>Δημιουργία</Caption>
+		</btnCreate>
+		<lblArchiving>
+			<Caption>Αρχειοθέτηση αρχείων και μητρώου...</Caption>
+		</lblArchiving>
+		<lblCreateBackup>
+			<Caption>Δημιουργία αντ. ασφ. για το πρόγραμμα</Caption>
+		</lblCreateBackup>
+		<lblFilesNotIncluded>
+			<Caption>Αρχεία που δεν μπήκαν στο αντ. ασφ.</Caption>
+		</lblFilesNotIncluded>
+	</dlgTunBackup>
+	<dlgTunRestore>
+		<btnImport>
+			<Caption>Εισαγωγή</Caption>
+		</btnImport>
+		<cbRestoreOnlyLog>
+			<Caption>Επαναφορά μόνο αρχείου καταγραφής</Caption>
+		</cbRestoreOnlyLog>
+		<lblFilesNotIncluded>
+			<Caption>Οι δράσεις δεν εκτελέστηκαν</Caption>
+		</lblFilesNotIncluded>
+		<lblRestoreProfile>
+			<Caption>Προφίλ επαναφοράς</Caption>
+		</lblRestoreProfile>
+		<lblRestoreProgram>
+			<Caption>Επιλέξτε πρόγραμμα προς επαναφορά</Caption>
+		</lblRestoreProgram>
+		<lblUndoRestoration>
+			<Caption>Επιλέξτε επαναφορά για αναίρεση</Caption>
+		</lblUndoRestoration>
+		<pmiCopyTo>
+			<Caption>Αντιγραφή σε...</Caption>
+		</pmiCopyTo>
+		<pmiDelete>
+			<Caption>Διαγραφή</Caption>
+		</pmiDelete>
+	</dlgTunRestore>
+	<dlgTUOptions>
+		<btnAddAnalysisProfile>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddAnalysisProfile>
+		<btnAddChgView>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddChgView>
+		<btnAddCleaner>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddCleaner>
+		<btnAddCompareProfile>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddCompareProfile>
+		<btnAddExclFlds>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddExclFlds>
+		<btnAddExclKey>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddExclKey>
+		<btnAddIgnChgFs>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddIgnChgFs>
+		<btnAddIgnChgReg>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddIgnChgReg>
+		<btnAddIgnFile>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddIgnFile>
+		<btnAddInclFlds>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddInclFlds>
+		<btnAddInclKeys>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddInclKeys>
+		<btnAddInstallLoc>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddInstallLoc>
+		<btnAddProtectedFld>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddProtectedFld>
+		<btnAddProtectedKey>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddProtectedKey>
+		<btnAddRedo>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddRedo>
+		<btnAddScanProfile>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddScanProfile>
+		<btnAddUninst>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddUninst>
+		<btnAddUninstInst>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddUninstInst>
+		<btnAddValue>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddValue>
+		<btnAddVer>
+			<Caption>Προσθήκη...</Caption>
+		</btnAddVer>
+		<btnAgentAddExcMask>
+			<Caption>Προσθήκη...</Caption>
+		</btnAgentAddExcMask>
+		<btnAgentAddIncMask>
+			<Caption>Προσθήκη...</Caption>
+		</btnAgentAddIncMask>
+		<btnAgentRemExcMask>
+			<Caption>Αφαίρεση</Caption>
+		</btnAgentRemExcMask>
+		<btnAgentRemIncMask>
+			<Caption>Αφαίρεση</Caption>
+		</btnAgentRemIncMask>
+		<btnAnlSaveAs>
+			<Caption>Αποθήκευση ως...</Caption>
+		</btnAnlSaveAs>
+		<btnCancel>
+			<Caption>Άκυρο</Caption>
+		</btnCancel>
+		<btnChgViewSaveAs>
+			<Caption>Αποθήκευση ως...</Caption>
+		</btnChgViewSaveAs>
+		<btnCleanerSaveAs>
+			<Caption>Αποθήκευση ως...</Caption>
+		</btnCleanerSaveAs>
+		<btnClnAddExclFs>
+			<Caption>Προσθήκη...</Caption>
+		</btnClnAddExclFs>
+		<btnClnAddExclRegistry>
+			<Caption>Προσθήκη...</Caption>
+		</btnClnAddExclRegistry>
+		<btnClnEditExclFs>
+			<Caption>Επεξεργασία...</Caption>
+		</btnClnEditExclFs>
+		<btnClnEditExclRegistry>
+			<Caption>Επεξεργασία...</Caption>
+		</btnClnEditExclRegistry>
+		<btnClnRemExclFs>
+			<Caption>Αφαίρεση</Caption>
+		</btnClnRemExclFs>
+		<btnClnRemExclRegistry>
+			<Caption>Αφαίρεση</Caption>
+		</btnClnRemExclRegistry>
+		<btnCompPlaySound>
+			<Caption>Δοκιμή</Caption>
+		</btnCompPlaySound>
+		<btnCompSaveAs>
+			<Caption>Αποθήκευση ως...</Caption>
+		</btnCompSaveAs>
+		<btnEditExclFlds>
+			<Caption>Επεξεργασία...</Caption>
+		</btnEditExclFlds>
+		<btnEditExclKeys>
+			<Caption>Επεξεργασία...</Caption>
+		</btnEditExclKeys>
+		<btnEditIgnChgFs>
+			<Caption>Επεξεργασία...</Caption>
+		</btnEditIgnChgFs>
+		<btnEditIgnChgReg>
+			<Caption>Επεξεργασία...</Caption>
+		</btnEditIgnChgReg>
+		<btnEditIgnFile>
+			<Caption>Επεξεργασία...</Caption>
+		</btnEditIgnFile>
+		<btnEditIgnValues>
+			<Caption>Επεξεργασία...</Caption>
+		</btnEditIgnValues>
+		<btnEditProtectedFld>
+			<Caption>Επεξεργασία...</Caption>
+		</btnEditProtectedFld>
+		<btnEditProtectedKey>
+			<Caption>Επεξεργασία...</Caption>
+		</btnEditProtectedKey>
+		<btnOK>
+			<Caption>ΟΚ</Caption>
+		</btnOK>
+		<btnRedoSaveAs>
+			<Caption>Αποθήκευση ώς...</Caption>
+		</btnRedoSaveAs>
+		<btnRemAnalysisProfile>
+			<Caption>Αφαίρεση...</Caption>
+		</btnRemAnalysisProfile>
+		<btnRemChgView>
+			<Caption>Αφαίρεση...</Caption>
+		</btnRemChgView>
+		<btnRemCleaner>
+			<Caption>Αφαίρεση...</Caption>
+		</btnRemCleaner>
+		<btnRemCompareProfile>
+			<Caption>Αφαίρεση...</Caption>
+		</btnRemCompareProfile>
+		<btnRemExclFlds>
+			<Caption>Αφαίρεση</Caption>
+		</btnRemExclFlds>
+		<btnRemExclKeys>
+			<Caption>Αφαίρεση</Caption>
+		</btnRemExclKeys>
+		<btnRemIgnChgFs>
+			<Caption>Αφαίρεση</Caption>
+		</btnRemIgnChgFs>
+		<btnRemIgnChgReg>
+			<Caption>Αφαίρεση</Caption>
+		</btnRemIgnChgReg>
+		<btnRemIgnFile>
+			<Caption>Αφαίρεση</Caption>
+		</btnRemIgnFile>
+		<btnRemInclFlds>
+			<Caption>Αφαίρεση</Caption>
+		</btnRemInclFlds>
+		<btnRemInclKeys>
+			<Caption>Αφαίρεση</Caption>
+		</btnRemInclKeys>
+		<btnRemoveInstallLoc>
+			<Caption>Αφαίρεση</Caption>
+		</btnRemoveInstallLoc>
+		<btnRemoveRedo>
+			<Caption>Αφαίρεση...</Caption>
+		</btnRemoveRedo>
+		<btnRemProtectedFld>
+			<Caption>Αφαίρεση</Caption>
+		</btnRemProtectedFld>
+		<btnRemProtectedKey>
+			<Caption>Αφαίρεση</Caption>
+		</btnRemProtectedKey>
+		<btnRemScanProfile>
+			<Caption>Αφαίρεση...</Caption>
+		</btnRemScanProfile>
+		<btnRemUninst>
+			<Caption>Αφαίρεση...</Caption>
+		</btnRemUninst>
+		<btnRemUninstInst>
+			<Caption>Αφαίρεση...</Caption>
+		</btnRemUninstInst>
+		<btnRemValues>
+			<Caption>Αφαίρεση</Caption>
+		</btnRemValues>
+		<btnRemVer>
+			<Caption>Αφαίρεση</Caption>
+		</btnRemVer>
+		<btnResetAll>
+			<Caption>Επαναφορά Όλων</Caption>
+		</btnResetAll>
+		<btnScanPlaySound>
+			<Caption>Δοκιμή</Caption>
+		</btnScanPlaySound>
+		<btnScanSaveAs>
+			<Caption>Αποθήκευση ως...</Caption>
+		</btnScanSaveAs>
+		<btnUninstSaveAs>
+			<Caption>Αποθήκευση ως...</Caption>
+		</btnUninstSaveAs>
+		<Caption>Επιλογές</Caption>
+		<cbAnlProfileDefault>
+			<Caption>Προεπιλεγμένο</Caption>
+		</cbAnlProfileDefault>
+		<cbAutoStart>
+			<Caption>Αυτόματη εκκίνηση με τα Windows για συνέχεια της διαδικασίας παρακολούθησης</Caption>
+		</cbAutoStart>
+		<cbBackup>
+			<Caption>Φτιάξε αντ. ασφ. απεγκατεστημένου πρ.</Caption>
+		</cbBackup>
+		<cbChgViewDefault>
+			<Caption>Προεπιλεγμένο</Caption>
+		</cbChgViewDefault>
+		<cbCleanerDefault>
+			<Caption>Προεπιλεγμένο</Caption>
+		</cbCleanerDefault>
+		<cbCleanerEnable>
+			<Caption>Ενεργοποίηση καθαριστή</Caption>
+		</cbCleanerEnable>
+		<cbClickRestore>
+			<Caption>Επαναφορά με ένα κλίκ</Caption>
+		</cbClickRestore>
+		<cbCompareRegistry>
+			<Caption>Σύγκριση Μητρώου</Caption>
+		</cbCompareRegistry>
+		<cbCompFiles>
+			<Caption>Σύγκριση Αρχείων</Caption>
+		</cbCompFiles>
+		<cbCompPlaySound>
+			<Caption>Αναπαραγωγή Ήχου Στο Τέλος</Caption>
+		</cbCompPlaySound>
+		<cbCompProfileDefault>
+			<Caption>Προεπιλεγμένο</Caption>
+		</cbCompProfileDefault>
+		<cbCompProfileFrozen>
+			<Caption>Παγωμένο</Caption>
+		</cbCompProfileFrozen>
+		<cbComputeMD5>
+			<Caption>Υπολογισμός MD5 των Νέων Αρχείων</Caption>
+		</cbComputeMD5>
+		<cbCreateKeys>
+			<Caption>Δημιουργία διαγραφέντων κλειδιών</Caption>
+		</cbCreateKeys>
+		<cbCreateValues>
+			<Caption>Δημιουργία διαγραφέντων τιμών</Caption>
+		</cbCreateValues>
+		<cbCustomSnsName>
+			<Caption>Επιτρέπεται Προσωπικό Όνομα Snapshot</Caption>
+		</cbCustomSnsName>
+		<cbDecrement>
+			<Caption>Μείωση μετρητή κοινού αρχείου</Caption>
+		</cbDecrement>
+		<cbDelFiles>
+			<Caption>Διαγραφή δημιουργηθέντων αρχείων (κοινά αρχεία μόνο αν ο μετρητής φτάσει 0)</Caption>
+		</cbDelFiles>
+		<cbDelFolders>
+			<Caption>Διαγραφή δημιουργηθέντων φακέλων</Caption>
+		</cbDelFolders>
+		<cbDelKeys>
+			<Caption>Διαγραφή δημιουργηθέντων κλειδιών</Caption>
+		</cbDelKeys>
+		<cbDelUseRecycle>
+			<Caption>Χρήση Κάδου Ανακύκλωσης</Caption>
+		</cbDelUseRecycle>
+		<cbDelValues>
+			<Caption>Διαγραφή δημιουργηθέντων τιμών</Caption>
+		</cbDelValues>
+		<cbDontUseLog>
+			<Caption>Μη χρησιμοποιείς αρχείο καταγραφής αλλαγών</Caption>
+		</cbDontUseLog>
+		<cbEnableAgent>
+			<Caption>Ενεργοποίηση εικονιδίου Total Uninstall στην Μπάρα εργασιών</Caption>
+		</cbEnableAgent>
+		<cbExtractFileVersion>
+			<Caption>Αποσυμπίεση πληρ. έκδοσης αρχείων</Caption>
+		</cbExtractFileVersion>
+		<cbHexViewerNot64Bit>
+			<Caption>Μη συμβατό με 64-bit</Caption>
+		</cbHexViewerNot64Bit>
+		<cbIgnoreMissingItems>
+			<Caption>Αγνόησε αντικέιμενα που λείπουν</Caption>
+		</cbIgnoreMissingItems>
+		<cbInstPrgsEnable>
+			<Caption>Ενεργοποίηση υποσυστήματος Εγκατεστημένων προγρ.</Caption>
+		</cbInstPrgsEnable>
+		<cbMinToTray>
+			<Caption>Ελαχιστοποίηση την Μπάρα Εργασιών</Caption>
+		</cbMinToTray>
+		<cbMonPrgsEnable>
+			<Caption>Ενεργοποίηση υποσηστ. Παρακολούθησης προγρ.</Caption>
+		</cbMonPrgsEnable>
+		<cbRedoCreateFiles>
+			<Caption>Επανάφ. δημ/νων αρχείων</Caption>
+		</cbRedoCreateFiles>
+		<cbRedoCreateFilesOvr>
+			<Caption>Επανεγγραφή αρχείων</Caption>
+		</cbRedoCreateFilesOvr>
+		<cbRedoCreateFilesOvrLck>
+			<Caption>Επανεγγραφή κλειδωμένων</Caption>
+		</cbRedoCreateFilesOvrLck>
+		<cbRedoCreateFolders>
+			<Caption>Επαναφ. δημριουργ. φακέλων</Caption>
+		</cbRedoCreateFolders>
+		<cbRedoCreateKeys>
+			<Caption>Επαναφ. δημ. κλειδιών</Caption>
+		</cbRedoCreateKeys>
+		<cbRedoCreateValues>
+			<Caption>Επαναφ. δημ. τιμών</Caption>
+		</cbRedoCreateValues>
+		<cbRedoDefault>
+			<Caption>Προεπιλογή</Caption>
+		</cbRedoDefault>
+		<cbRedoDeleteFiles>
+			<Caption>Διαγραφή αρχείων</Caption>
+		</cbRedoDeleteFiles>
+		<cbRedoDeleteFolders>
+			<Caption>Διαγραφή φακέλων</Caption>
+		</cbRedoDeleteFolders>
+		<cbRedoDeleteKeys>
+			<Caption>Διαγραφή κλειδιών</Caption>
+		</cbRedoDeleteKeys>
+		<cbRedoDeleteValues>
+			<Caption>Διαγραφή τιμών</Caption>
+		</cbRedoDeleteValues>
+		<cbRedoEnabled>
+			<Caption>Ενεργό</Caption>
+		</cbRedoEnabled>
+		<cbRedoModifyFiles>
+			<Caption>Επαναφ. τροποπ. αρχείων</Caption>
+		</cbRedoModifyFiles>
+		<cbRedoModifyFilesLck>
+			<Caption>Επανεγγρ. κλειδωμ. αρχείων</Caption>
+		</cbRedoModifyFilesLck>
+		<cbRedoModifyValues>
+			<Caption>Επαναφ. τροποπ. τιμών</Caption>
+		</cbRedoModifyValues>
+		<cbRedoSysRestore>
+			<Caption>Δημ. Σημείου Επαναφ. προ επαναφοράς</Caption>
+		</cbRedoSysRestore>
+		<cbRestoreValues>
+			<Caption>Επαναφορά τροποποιημένων τιμών</Caption>
+		</cbRestoreValues>
+		<cbRstFileCreated>
+			<Caption>Επαναφορά Ημ/νιας Δημιουργίας</Caption>
+		</cbRstFileCreated>
+		<cbScanForAds>
+			<Caption>Έλεγχος για Εναλλακτικές Ροές Δεδομένων</Caption>
+		</cbScanForAds>
+		<cbScanPlaySound>
+			<Caption>Αναπαραγωγή Ήχου Στο Τέλος</Caption>
+		</cbScanPlaySound>
+		<cbScanProfileDefault>
+			<Caption>Προεπιλεγμένο</Caption>
+		</cbScanProfileDefault>
+		<cbScanProfileFrozen>
+			<Caption>Παγωμένο</Caption>
+		</cbScanProfileFrozen>
+		<cbShell>
+			<Caption>Ύπαρξη του Total Uninstall στο δεξί κλίκ</Caption>
+		</cbShell>
+		<cbShowAfter>
+			<Caption>Στήλη Μετά</Caption>
+		</cbShowAfter>
+		<cbShowBefore>
+			<Caption>Στήλη Πρίν</Caption>
+		</cbShowBefore>
+		<cbShowBinAsText>
+			<Caption>Εμφάνιση δυαδικών δεδομένων ως κείμενο</Caption>
+		</cbShowBinAsText>
+		<cbShowChanged>
+			<Caption>Αλλαγμένα Αντικείμενα</Caption>
+		</cbShowChanged>
+		<cbShowCreated>
+			<Caption>Δημιουργηθέντα αντικέιμενα</Caption>
+		</cbShowCreated>
+		<cbShowCurrent>
+			<Caption>Τρέχουσα Στήλη</Caption>
+		</cbShowCurrent>
+		<cbShowDataSize>
+			<Caption>Μέγεθος Δεδομένων</Caption>
+		</cbShowDataSize>
+		<cbShowDataType>
+			<Caption>Τύπος</Caption>
+		</cbShowDataType>
+		<cbShowDateCreated>
+			<Caption>Ημ/νια δημιουργίας</Caption>
+		</cbShowDateCreated>
+		<cbShowDateModified>
+			<Caption>Ημ/νια τροποποίησης</Caption>
+		</cbShowDateModified>
+		<cbShowDeleted>
+			<Caption>Διαγραφέντα Αντικείμενα</Caption>
+		</cbShowDeleted>
+		<cbShowFileAttrib>
+			<Caption>Ιδιότητες Αρχείου</Caption>
+		</cbShowFileAttrib>
+		<cbShowFileSize>
+			<Caption>Μέγεθος Αρχείου</Caption>
+		</cbShowFileSize>
+		<cbShowFileVersion>
+			<Caption>Έκδοση Αρχείου</Caption>
+		</cbShowFileVersion>
+		<cbShowMD5>
+			<Caption>Νέο Άθροισμα MD5 Αρχείου</Caption>
+		</cbShowMD5>
+		<cbSmartAdjustAnalysisLevel>
+			<Caption>Έξυπνη ρύθμιση επιπέδου ανάλυσης</Caption>
+		</cbSmartAdjustAnalysisLevel>
+		<cbSysRestore>
+			<Caption>Δημιουργία Σημείου Επαναφοράς Συστήματος προ της απεγκατάστασης</Caption>
+		</cbSysRestore>
+		<cbSystemFilesAdditional>
+			<Caption>Επιπλέον ανάλυση</Caption>
+		</cbSystemFilesAdditional>
+		<cbTxtViewerNot64Bit>
+			<Caption>Μη συμβατό με 64-bit</Caption>
+		</cbTxtViewerNot64Bit>
+		<cbUninstDefault>
+			<Caption>Προεπιλεγμένο</Caption>
+		</cbUninstDefault>
+		<cbUninstEnabled>
+			<Caption>Ενεργοποιημένο</Caption>
+		</cbUninstEnabled>
+		<cbUseUninstaller>
+			<Caption>Πρώτα χρήση του κανονικού απεγκαταστάτη</Caption>
+		</cbUseUninstaller>
+		<cmbUpdateFrequency>
+			<Items>Ημερησίως\nΕβδομαδιαία\nΜηνιαία\n</Items>
+		</cmbUpdateFrequency>
+		<cmbUpdateMethod>
+			<Items>Χειροκίνητα\nΜε υπενθύμιση\nΑυτόματα\n</Items>
+		</cmbUpdateMethod>
+		<gbAgentMasks>
+			<Caption>Μάσκες για το όνομα αρχείου Εγκατάστασης</Caption>
+		</gbAgentMasks>
+		<gbClnExcludeFs>
+			<Caption>Αγνόησε Φάκελους και Αρχεία</Caption>
+		</gbClnExcludeFs>
+		<gbClnExcludeRegistry>
+			<Caption>Αγνόησε Κλειδιά Και Τιμές</Caption>
+		</gbClnExcludeRegistry>
+		<gbCompareIgnChgReg>
+			<Caption>Αγνόηση τροποποιημένων αντικειμένων</Caption>
+		</gbCompareIgnChgReg>
+		<gbCompareIgnKeys>
+			<Caption>Αγνόησε Κλειδιά και Τιμές</Caption>
+		</gbCompareIgnKeys>
+		<gbCompIgnChgFs>
+			<Caption>Αγνόηση τροποποιημένων αντικειμένων</Caption>
+		</gbCompIgnChgFs>
+		<gbCompIgnoreFld>
+			<Caption>Αγνόησε Φάκελους Και Αρχεία</Caption>
+		</gbCompIgnoreFld>
+		<gbFileExtensions>
+			<Caption>Προεκτάσεις αρχείων με πληροφορίες έκδοσης</Caption>
+		</gbFileExtensions>
+		<gbInstallLoc>
+			<Caption>Τοποθεσίες εγκατάστασης</Caption>
+		</gbInstallLoc>
+		<gbInstallLocation>
+			<Caption>Εντοπισμός τοποθεσίας εγκατάστασης</Caption>
+		</gbInstallLocation>
+		<gbLimits>
+			<Caption>Όρια φακέλου των snapshots</Caption>
+		</gbLimits>
+		<gbPrgData>
+			<Caption>Εντοπισμός δεδομένων προγράμματος</Caption>
+		</gbPrgData>
+		<gbPrgSettings>
+			<Caption>Εντοπισμός ρυθμίσεων προγράμματος</Caption>
+		</gbPrgSettings>
+		<gbPrgShortcuts>
+			<Caption>Εντοπισμός συντομεύσεων προγράμματος</Caption>
+		</gbPrgShortcuts>
+		<gbProtectedFolders>
+			<Caption>Προστατευμένοι φάκελοι</Caption>
+		</gbProtectedFolders>
+		<gbProtectedKeys>
+			<Caption>Προστατευμένα κλειδιά</Caption>
+		</gbProtectedKeys>
+		<gbRegEditor>
+			<Caption>Επεξεργαστής Μητρώου</Caption>
+		</gbRegEditor>
+		<gbRegScanner>
+			<Caption>Αναλυτής μητρώου</Caption>
+		</gbRegScanner>
+		<gbScanExclFolders>
+			<Caption>Εξαίρεση Φακέλων</Caption>
+		</gbScanExclFolders>
+		<gbScanExclKeys>
+			<Caption>Εξαίρεση Κλειδιών</Caption>
+		</gbScanExclKeys>
+		<gbScanInclFolders>
+			<Caption>Συμπεριέλαβε Φακέλους</Caption>
+		</gbScanInclFolders>
+		<gbScanInclKeys>
+			<Caption>Συμπεριέλαβε Κλειδιά</Caption>
+		</gbScanInclKeys>
+		<gbShellIntegration>
+			<Caption>Εντοπισμός προσθήκης στο δεξί κλίκ</Caption>
+		</gbShellIntegration>
+		<gbSystemFiles>
+			<Caption>Εντοπισμός αρχείων συστήματος</Caption>
+		</gbSystemFiles>
+		<gbTranslation>
+			<Caption>Μετάφραση</Caption>
+		</gbTranslation>
+		<grpExistingViewStyle>
+			<Caption>Υπάρχοντα Αντικείμενα στο Σύστημα</Caption>
+		</grpExistingViewStyle>
+		<grpMissingViewStyle>
+			<Caption>Αντικείμενα που λείπουν απο το Σύστημα</Caption>
+		</grpMissingViewStyle>
+		<lblAdvanced1>
+			<Caption>Για προχωρημένους</Caption>
+		</lblAdvanced1>
+		<lblAdvanced2>
+			<Caption>Για προχωρημένους</Caption>
+		</lblAdvanced2>
+		<lblAdvanced3>
+			<Caption>Για προχωρημένους</Caption>
+		</lblAdvanced3>
+		<lblAdvanced4>
+			<Caption>Για προχωρημένους</Caption>
+		</lblAdvanced4>
+		<lblAdvanced5>
+			<Caption>Για προχωρημένους</Caption>
+		</lblAdvanced5>
+		<lblAdvanced6>
+			<Caption>Για προχωρημένους</Caption>
+		</lblAdvanced6>
+		<lblAgentExcludeMask>
+			<Caption>Εξαίρεσε</Caption>
+		</lblAgentExcludeMask>
+		<lblAgentIncludeMask>
+			<Caption>Συμπεριέλαβε</Caption>
+		</lblAgentIncludeMask>
+		<lblAnalysisProfiles>
+			<Caption>Προφίλ ανάλυσης</Caption>
+		</lblAnalysisProfiles>
+		<lblAnlProfileDesc>
+			<Caption>Περιγραφή</Caption>
+		</lblAnlProfileDesc>
+		<lblAnlProfileName>
+			<Caption>Όνομα</Caption>
+		</lblAnlProfileName>
+		<lblBackupLimiFolderSize>
+			<Caption>Όριο μεγέθους φακέλου (ΜΒ)</Caption>
+		</lblBackupLimiFolderSize>
+		<lblChageViewName>
+			<Caption>Όνομα</Caption>
+		</lblChageViewName>
+		<lblChangeViews>
+			<Caption>Άλλαξε Εμφανίσεις</Caption>
+		</lblChangeViews>
+		<lblCheckUpdateMethod>
+			<Caption>Μέθοδος Ελέγχου για Ενημερώση</Caption>
+		</lblCheckUpdateMethod>
+		<lblCheckUpdatesFrequency>
+			<Caption>Συχνότητα</Caption>
+		</lblCheckUpdatesFrequency>
+		<lblCleanerDescription>
+			<Caption>Περιγραφή</Caption>
+		</lblCleanerDescription>
+		<lblCleanerName>
+			<Caption>Όνομα</Caption>
+		</lblCleanerName>
+		<lblCleaners>
+			<Caption>Καθαριστές</Caption>
+		</lblCleaners>
+		<lblCompareProfileDesc>
+			<Caption>Περιγραφή</Caption>
+		</lblCompareProfileDesc>
+		<lblCompareProfileName>
+			<Caption>Όνομα</Caption>
+		</lblCompareProfileName>
+		<lblFolderSize>
+			<Caption>Μέγεθος Αρχείου (MBytes)</Caption>
+		</lblFolderSize>
+		<lblHexViewer>
+			<Caption>Δεκαεξαδικός προβολέας</Caption>
+		</lblHexViewer>
+		<lblLanguage>
+			<Caption>Γλώσσα</Caption>
+		</lblLanguage>
+		<lblNone1>
+			<Caption>Τίποτα</Caption>
+		</lblNone1>
+		<lblNone2>
+			<Caption>Τίποτα</Caption>
+		</lblNone2>
+		<lblNone3>
+			<Caption>Τίποτα</Caption>
+		</lblNone3>
+		<lblNone4>
+			<Caption>Τίποτα</Caption>
+		</lblNone4>
+		<lblNone5>
+			<Caption>Τίποτα</Caption>
+		</lblNone5>
+		<lblNone6>
+			<Caption>Τίποτα</Caption>
+		</lblNone6>
+		<lblProgramDataPath>
+			<Caption>Διαδρομή δεδομένων εφαρμογής</Caption>
+		</lblProgramDataPath>
+		<lblRedoDescription>
+			<Caption>Περιγραφή</Caption>
+		</lblRedoDescription>
+		<lblRedoName>
+			<Caption>Όνομα</Caption>
+		</lblRedoName>
+		<lblRedoProfiles>
+			<Caption>Προφίλ επαναφοράς</Caption>
+		</lblRedoProfiles>
+		<lblScanningProfiles>
+			<Caption>Προφίλ Ελέγχου</Caption>
+		</lblScanningProfiles>
+		<lblScanProfileDesc>
+			<Caption>Περιγραφή</Caption>
+		</lblScanProfileDesc>
+		<lblScanProfileName>
+			<Caption>Όνομα</Caption>
+		</lblScanProfileName>
+		<lblSimultaneousTasks>
+			<Caption>Παράλληλες εργασίες</Caption>
+		</lblSimultaneousTasks>
+		<lblSnsCompareProfiles>
+			<Caption>Σύγκριση προφίλ snapshot</Caption>
+		</lblSnsCompareProfiles>
+		<lblSnsCount>
+			<Caption>Αριθμός snapshot</Caption>
+		</lblSnsCount>
+		<lblTranslatedBy1>
+			<Caption>Μεταφρασμένο απο τον Ιπποκράτη Γιακουμή, στον Πειραιά</Caption>
+		</lblTranslatedBy1>
+		<lblTranslatedBy2>
+			<Caption>Ιστοσελίδα: http://users.hol.gr/~defiler</Caption>
+		</lblTranslatedBy2>
+		<lblTranslatedBy3>
+			<Caption>Email: igiakoumis@gmail.com</Caption>
+		</lblTranslatedBy3>
+		<lblTxtViewer>
+			<Caption>Προβολέας Κειμένου</Caption>
+		</lblTxtViewer>
+		<lblUninstallProfiles>
+			<Caption>Προφίλ Απεγκατάστασης</Caption>
+		</lblUninstallProfiles>
+		<lblUninstallProfilesInst>
+			<Caption>Προφίλ Απεγκατάστασης</Caption>
+		</lblUninstallProfilesInst>
+		<lblUninstDesc>
+			<Caption>Περιγραφή</Caption>
+		</lblUninstDesc>
+		<lblUninstName>
+			<Caption>Όνομα</Caption>
+		</lblUninstName>
+		<lblUninstRemoveLog>
+			<Caption>Αφαίρεση απεγκατεστημένου προγρ. απο τη λίστα</Caption>
+		</lblUninstRemoveLog>
+		<lblUserInteraction>
+			<Caption>Χρήση πιο εύκαιρου ενσωματωμένου απεγκαταστάτη</Caption>
+		</lblUserInteraction>
+		<rbDialog>
+			<Caption>Διάλογος</Caption>
+		</rbDialog>
+		<rbOtherRegEdit>
+			<Caption>Άλλα</Caption>
+		</rbOtherRegEdit>
+		<rbTrayBaloon>
+			<Caption>Φούσκα μπάρας εργασιών</Caption>
+		</rbTrayBaloon>
+		<rbWinRegEdit>
+			<Caption>Επεξεργαστής Μητρώου των Windows</Caption>
+		</rbWinRegEdit>
+		<rgAgentNotif>
+			<Caption>Ειδοποίηση ενεργού προγράμματος εγκατάστασης</Caption>
+		</rgAgentNotif>
+		<tabAnlFileSystem>
+			<Caption>Σύστημα αρχείων</Caption>
+		</tabAnlFileSystem>
+		<tabAnlGeneral>
+			<Caption>Γενικά</Caption>
+		</tabAnlGeneral>
+		<tabChageViewFileSystem>
+			<Caption>Σύστημα αρχείων</Caption>
+		</tabChageViewFileSystem>
+		<tabChageViewGeneral>
+			<Caption>Γενικά</Caption>
+		</tabChageViewGeneral>
+		<tabChageViewRegistry>
+			<Caption>Μητρώο</Caption>
+		</tabChageViewRegistry>
+		<tabChageViewView>
+			<Caption>Εμφάνιση</Caption>
+		</tabChageViewView>
+		<tabCleanerFileSystem>
+			<Caption>Σύστημα αρχείων</Caption>
+		</tabCleanerFileSystem>
+		<tabCleanerGen>
+			<Caption>Γενικά</Caption>
+		</tabCleanerGen>
+		<tabCleanerReg>
+			<Caption>Μητρώο</Caption>
+		</tabCleanerReg>
+		<tabCmpProfileFileSys>
+			<Caption>Σύστημα αρχείων</Caption>
+		</tabCmpProfileFileSys>
+		<tabCompareProfileGen>
+			<Caption>Γενικά</Caption>
+		</tabCompareProfileGen>
+		<tabCompareProfileReg>
+			<Caption>Μητρώο</Caption>
+		</tabCompareProfileReg>
+		<tabRedoAdvanced>
+			<Caption>Προχωρημένα</Caption>
+		</tabRedoAdvanced>
+		<tabRedoFileSystem>
+			<Caption>Σύστημα αρχείων</Caption>
+		</tabRedoFileSystem>
+		<tabRedoGeneral>
+			<Caption>Γενικά</Caption>
+		</tabRedoGeneral>
+		<tabRedoRegistry>
+			<Caption>Μητρώο</Caption>
+		</tabRedoRegistry>
+		<tabScanProfileFolders>
+			<Caption>Φάκελοι</Caption>
+		</tabScanProfileFolders>
+		<tabScanProfileGeneral>
+			<Caption>Γενικά</Caption>
+		</tabScanProfileGeneral>
+		<tabScanProfileRegistry>
+			<Caption>Μητρώο</Caption>
+		</tabScanProfileRegistry>
+		<tabUninstAdv>
+			<Caption>Για προχωρημένους</Caption>
+		</tabUninstAdv>
+		<tabUninstFS>
+			<Caption>Σύστημα αρχείων</Caption>
+		</tabUninstFS>
+		<tabUninstGeneral>
+			<Caption>Γενικά</Caption>
+		</tabUninstGeneral>
+		<tabUninstRegistry>
+			<Caption>Μητρώο</Caption>
+		</tabUninstRegistry>
+		<tblAnlRegistry>
+			<Caption>Μητρώο</Caption>
+		</tblAnlRegistry>
+	</dlgTUOptions>
+	<dlgUninstall>
+		<btnBringToFront>
+			<Caption>Στο προσκήνιο</Caption>
+		</btnBringToFront>
+		<btnCancel>
+			<Caption>Άκυρο</Caption>
+		</btnCancel>
+		<btnUninstall>
+			<Caption>Απεγκατάσταση</Caption>
+		</btnUninstall>
+		<lblCreatingRestorePnt>
+			<Caption>Δημιουργία Σημείου Επαναφοράς Συστήματος...</Caption>
+		</lblCreatingRestorePnt>
+		<lblProfile>
+			<Caption>Επιλέξτε προφίλ απεγκατάστασης</Caption>
+		</lblProfile>
+		<lblUninstalling>
+			<Caption>Απεγκατάσταση...</Caption>
+		</lblUninstalling>
+		<lblWaitTitle>
+			<Caption>Περιμένετε να τελειώσει το τυπικό πρόγραμμα (απ)εγκατάστασης</Caption>
+		</lblWaitTitle>
+	</dlgUninstall>
+	<frmInstall>
+		<btnBrowseSetup>
+			<Caption>Ανα&amp;ζήτηση...</Caption>
+		</btnBrowseSetup>
+		<btnCancel>
+			<Caption>Άκυρο</Caption>
+		</btnCancel>
+		<btnCompleteLater>
+			<Caption>Ο&amp;λοκλήρωση της διαδικασίας παρακολούθησης αργότερα</Caption>
+		</btnCompleteLater>
+		<btnLaunchSetup>
+			<Caption>&amp;Τρέξε το πρόγραμμα εγκατάστασης</Caption>
+		</btnLaunchSetup>
+		<btnNext>
+			<Caption>Επόμενο</Caption>
+		</btnNext>
+		<btnProgramIsInstalled>
+			<Caption>Το π&amp;ρόγραμμα είναι εγκατεστημένο</Caption>
+		</btnProgramIsInstalled>
+		<btnSuggest>
+			<Caption>Πρότε&amp;ινε</Caption>
+		</btnSuggest>
+		<lblCreateLog>
+			<Caption>Δημιουργία ημερολογίου εγκατάστασης</Caption>
+		</lblCreateLog>
+		<lblCreateOrSelectSns>
+			<Caption>Πριν την εγκατάσταση δημιούργησε νέο ή επίλεξε το προηγούμενο snapshot</Caption>
+		</lblCreateOrSelectSns>
+		<lblCreatePreInstallSns>
+			<Caption>Δημιούργησε snapshot προ της εγκατάστασης</Caption>
+		</lblCreatePreInstallSns>
+		<lblCreatingLog>
+			<Caption>Δημιουργία ημερολογίου εγκατάστασης</Caption>
+		</lblCreatingLog>
+		<lblCreatingSystemSns>
+			<Caption>Δημηουργία του snapshot συστήματος</Caption>
+		</lblCreatingSystemSns>
+		<lblFinish>
+			<Caption>Το ημερολόγιο εγκατάστασης δημιουργήθηκε επιτυχώς</Caption>
+		</lblFinish>
+		<lblInstallMonProgram>
+			<Caption>Εγκατάσταση παρακολουθούμενου προγράμματος</Caption>
+		</lblInstallMonProgram>
+		<lblProfiles>
+			<Caption>&amp;Προφίλ ελέγχου</Caption>
+		</lblProfiles>
+		<lblProgramName>
+			<Caption>&amp;Όνομα προγράμματος</Caption>
+		</lblProgramName>
+		<lblProgramSetupPath>
+			<Caption>&amp;Μονοπάτι αρχείου εγκατάστασης</Caption>
+		</lblProgramSetupPath>
+		<lblSnsName>
+			<Caption>Όνομα &amp;Snapshot</Caption>
+		</lblSnsName>
+		<lblSpecifySnsName>
+			<Caption>&amp;Καθόρισε όνομα του snapshot μετα την εγκατάσταση</Caption>
+		</lblSpecifySnsName>
+		<rbNewSnapshot>
+			<Caption>&amp;Δημιουργία νέου snapshot (προτείνεται)</Caption>
+		</rbNewSnapshot>
+		<rbUseLastSnapshot>
+			<Caption>&amp;Χρήση του τελευταίου snapshot</Caption>
+		</rbUseLastSnapshot>
+	</frmInstall>
+	<frmTUMain>
+		<btnClear>
+			<Caption>Καθαρισμός</Caption>
+		</btnClear>
+		<btnGroupAddChild>
+			<Caption>Προσθήκη γκρούπ παιδιών...</Caption>
+		</btnGroupAddChild>
+		<btnGroupAddRoot>
+			<Caption>Προσθήκη γκρούπ ρίζας...</Caption>
+		</btnGroupAddRoot>
+		<btnGroupEdit>
+			<Caption>Τροποποίηση γκρούπ...</Caption>
+		</btnGroupEdit>
+		<btnGroupMoveToRoot>
+			<Caption>Μετακίνηση στη ρίζα</Caption>
+		</btnGroupMoveToRoot>
+		<btnGroupRemove>
+			<Caption>Απομάκρυνση γκρούπ</Caption>
+		</btnGroupRemove>
+		<btnSearch>
+			<Caption>Εκκίνηση</Caption>
+		</btnSearch>
+		<cbBundle>
+			<Caption>Πακέτο</Caption>
+		</cbBundle>
+		<cbCaseSensitive>
+			<Caption>Ευαίσθητο σε Κεφαλαία</Caption>
+		</cbCaseSensitive>
+		<cbChanged>
+			<Caption>Άλλαξε</Caption>
+		</cbChanged>
+		<cbCreated>
+			<Caption>Δημιουργήθηκε</Caption>
+		</cbCreated>
+		<cbData>
+			<Caption>Δεδομένα</Caption>
+		</cbData>
+		<cbDeleted>
+			<Caption>Διεγραμμένα</Caption>
+		</cbDeleted>
+		<cbFiles>
+			<Caption>Αρχεία</Caption>
+		</cbFiles>
+		<cbFolders>
+			<Caption>Φάκελοι</Caption>
+		</cbFolders>
+		<cbKeys>
+			<Caption>Κλειδιά</Caption>
+		</cbKeys>
+		<cbSearchMask>
+			<Caption>Αναζήτηση Μάσκας</Caption>
+		</cbSearchMask>
+		<cbUnchanged>
+			<Caption>Χωρίς Αλλαγές</Caption>
+		</cbUnchanged>
+		<cbValues>
+			<Caption>Τιμές</Caption>
+		</cbValues>
+		<Copy1>
+			<Caption>Αντιγραφή</Caption>
+			<Hint>Αντιγραφή επιλεγμένων στο Πρόχειρο</Hint>
+		</Copy1>
+		<Copy2>
+			<Caption>Αντιγραφή</Caption>
+			<Hint>Αντιγραφή επιλεγμένων στο Πρόχειρο</Hint>
+		</Copy2>
+		<gbAdvanced>
+			<Caption>Για προχωρημένους</Caption>
+		</gbAdvanced>
+		<gbChanges>
+			<Caption>Αντικείμενα</Caption>
+		</gbChanges>
+		<gbFileSystem>
+			<Caption>Σύστημα Αρχείων</Caption>
+		</gbFileSystem>
+		<gbRegistry>
+			<Caption>Μητρώο</Caption>
+		</gbRegistry>
+		<gbScope>
+			<Caption>Αναζήτηση Σε</Caption>
+		</gbScope>
+		<miAddtoCompareIgnoreList>
+			<Caption>Προσθήκη στην λίστα αγνόησης συγκρίσεων</Caption>
+			<Hint>Προσθήκη επιλεγμένων στην λίστα αγνόησης όλων των προφίλ σύγκρισης</Hint>
+		</miAddtoCompareIgnoreList>
+		<miAddtoScanExcludeList>
+			<Caption>Προσθήκη στην λίστα αγνόησης εξαιρέσεων</Caption>
+			<Hint>Προσθήκη επιλεγμένων στην λίστα εξαιρεσης όλων των προφίλ ελέγχου</Hint>
+		</miAddtoScanExcludeList>
+		<miAppSendTo>
+			<Caption>Αποστολή σε Γκρούπ</Caption>
+		</miAppSendTo>
+		<miAutorunManager>
+			<Caption>Διαχειριστής Αυτ. Εκκ.</Caption>
+		</miAutorunManager>
+		<miChanges>
+			<Caption>Αλλαγές</Caption>
+			<Hint>Εντοπισθείσες αλλαγές|Εμφάνιση εντοπισθείσων αλλαγών συστήματος απο το πρόγραμμα</Hint>
+		</miChanges>
+		<miCleaner>
+			<Caption>Καθαριστής</Caption>
+			<Hint>Καθαριστής</Hint>
+		</miCleaner>
+		<miClnItems>
+			<Caption>Αντικείμενα</Caption>
+		</miClnItems>
+		<miClnSummary>
+			<Caption>Σύνοψη</Caption>
+			<Hint>Σύνοψη|Εμφανίζει συνοπτικές πληροφορίες για το τρέχον πρόγραμμα</Hint>
+		</miClnSummary>
+		<miCollapse>
+			<Caption>Λιγότερα</Caption>
+			<Hint>Σύμπτυξη ενεργού κόμβου δέντρου</Hint>
+		</miCollapse>
+		<miCopyDetail>
+			<Caption>Αντιγραφή</Caption>
+		</miCopyDetail>
+		<miDeleteCompletely>
+			<Caption>Πλήρης Διαγραφή</Caption>
+			<Hint>Αφαίρεση επιλεγμένου απο την καταγραφή και το σύστημα</Hint>
+		</miDeleteCompletely>
+		<miDeletefromSystemOnly>
+			<Caption>Διαγραφή Μόνο απο το Σύστημα</Caption>
+			<Hint>Διαγραφή επιλεγμένου μόνο απο το σύστημα</Hint>
+		</miDeletefromSystemOnly>
+		<miEdit>
+			<Caption>&amp;Επεξεργασία</Caption>
+		</miEdit>
+		<miEditAutorunLocateEntry>
+			<Caption>Εντοπ. εγγραφών εκκίνησης</Caption>
+		</miEditAutorunLocateEntry>
+		<miEditAutorunLocateTarget>
+			<Caption>Εντοπισμός στόχου</Caption>
+		</miEditAutorunLocateTarget>
+		<miEditAutorunRun>
+			<Caption>Εκκίνηση</Caption>
+		</miEditAutorunRun>
+		<miEditAutorunStop>
+			<Caption>Διακοπή</Caption>
+		</miEditAutorunStop>
+		<miEditAutorunTargetProperties>
+			<Caption>Ιδιότητες στόχου</Caption>
+		</miEditAutorunTargetProperties>
+		<miEditRedo>
+			<Caption>Ξανακάνε</Caption>
+			<Hint>Ξανακάνε τις επιλεγμένες αλλαγές στο σύστημα</Hint>
+		</miEditRedo>
+		<miEditRedoDepth>
+			<Caption>Ξανακάνε εις βάθος</Caption>
+			<Hint>Ξανακάνε εις βάθος τις επιλεγμένες αλλαγές στο σύστημα</Hint>
+		</miEditRedoDepth>
+		<miEditRestoreFromBackup>
+			<Caption>Επαναφορά απο αντ. ασφ.</Caption>
+			<Hint>Επαναφέρει τα επιλεγμένα αρχεία, φακέλους και υποφακέλους απο αντ. ασφ.</Hint>
+		</miEditRestoreFromBackup>
+		<miEditUndo>
+			<Caption>Αναίρεση</Caption>
+			<Hint>Αναίρεση επιλεγμένων αλλαγών απο το σύστημα</Hint>
+		</miEditUndo>
+		<miEditUndoDepth>
+			<Caption>Αναίρεση βάθους</Caption>
+			<Hint>Αναίρεση βάθους των επιλεγμένων αλλαγών απο το σύστημα</Hint>
+		</miEditUndoDepth>
+		<miExpand>
+			<Caption>Περισσότερα</Caption>
+			<Hint>Επέκταση ενεργού κόμβου δέντρου</Hint>
+		</miExpand>
+		<miExpChanges>
+			<Caption>Αλλαγές...</Caption>
+			<Hint>Εξαγωγή δέντρου αλλαγών</Hint>
+		</miExpChanges>
+		<miExpInstalledApps>
+			<Caption>Εγκατεστημένα προγράμματα...</Caption>
+			<Hint>Εξαγωγή λίστας εγκατ. εφαρμογών</Hint>
+		</miExpInstalledApps>
+		<miExpMonitoredApps>
+			<Caption>Παρακολουθούμενα προγράμματα...</Caption>
+			<Hint>Εξαγωγή λίστας παρακολουθουμενων εφαρμογών</Hint>
+		</miExpMonitoredApps>
+		<miExport>
+			<Caption>Ε&amp;ξαγωγή</Caption>
+		</miExport>
+		<miExpRegistry>
+			<Caption>Αλλαγές Μητρώου...</Caption>
+			<Hint>Εξαγωγή αλλαγών μητρώου για (απ)εγκατάσταση</Hint>
+		</miExpRegistry>
+		<miExpUninstallLog>
+			<Caption>&amp;Αρχείο Καταγραφής Απεγκατάστασης...</Caption>
+			<Hint>Εξαγωγή Αρχείου Καταγραφής Απεγκατάστασης</Hint>
+		</miExpUninstallLog>
+		<miFile>
+			<Caption>&amp;Αρχείο</Caption>
+		</miFile>
+		<miFileAddInstalledPrg>
+			<Caption>Προσθήκη προγρ. στη λίστα...</Caption>
+		</miFileAddInstalledPrg>
+		<miFileAnalyze>
+			<Caption>Ανάλυση</Caption>
+			<Hint>Ανάλυση|Ανάλυση αλλαγών συστήματος απο το τρέχον πρόγραμμα</Hint>
+		</miFileAnalyze>
+		<miFileAutorunAdd>
+			<Caption>Προσθήκη</Caption>
+		</miFileAutorunAdd>
+		<miFileAutorunDelete>
+			<Caption>Διαγραφή</Caption>
+		</miFileAutorunDelete>
+		<miFileChange>
+			<Caption>Αλλαγή</Caption>
+			<Hint>Επιδιόρθωση, επεξεργασία ή απεγκατάσταση</Hint>
+		</miFileChange>
+		<miFileChangeIcon>
+			<Caption>Αλλαγή εικονιδίου...</Caption>
+		</miFileChangeIcon>
+		<miFileClnClean>
+			<Caption>Καθαρισμός</Caption>
+			<Hint>Καθαρισμός</Hint>
+		</miFileClnClean>
+		<miFileClnScan>
+			<Caption>Έλεγχος</Caption>
+			<Hint>Έλεγχος|Έλεγχος για διαγράψιμα αρχεία</Hint>
+		</miFileClnScan>
+		<miFileCreateBackup>
+			<Caption>Δημιουργεί το αντ. ασφαλείας του προγράμματος...</Caption>
+		</miFileCreateBackup>
+		<miFileDelete>
+			<Caption>Διαγραφή</Caption>
+			<Hint>Διαγραφή τρέχοντος ημερολογίου εγκατάστασης</Hint>
+		</miFileDelete>
+		<miFileEditProgram>
+			<Caption>Επεξεργασία προγράμματος...</Caption>
+		</miFileEditProgram>
+		<miFileExit>
+			<Caption>Έξοδος</Caption>
+			<Hint>Έξοδος απο την εφαρμογή</Hint>
+		</miFileExit>
+		<miFileGroupAddChild>
+			<Caption>Προσθήκη Γκρούπ Παιδιών...</Caption>
+		</miFileGroupAddChild>
+		<miFileGroupAddRoot>
+			<Caption>Προσθήκη Γκρούπ Ρίζας...</Caption>
+		</miFileGroupAddRoot>
+		<miFileGroupEdit>
+			<Caption>Τροποποίηση Γκρούπ...</Caption>
+		</miFileGroupEdit>
+		<miFileGroupMoveToRoot>
+			<Caption>Μετακίνηση στη Ρίζα</Caption>
+		</miFileGroupMoveToRoot>
+		<miFileGroupRemove>
+			<Caption>Απομάκρυνση Γκρούπ</Caption>
+		</miFileGroupRemove>
+		<miFileInstall>
+			<Caption>&amp;Εγκατάσταση Νέου...</Caption>
+			<Hint>Παρακολούθηση εγκατάστασης νέου προγράμματος</Hint>
+		</miFileInstall>
+		<miFileInstallUpdate>
+			<Caption>Εγκατάσταση ενημέρωσης...</Caption>
+			<Hint>Εγκατάσταση ενημέρωσης|Παρακολούθησε την εγκατάσταση της ενημέρωσης για το τρέχον πρόγραμμα</Hint>
+		</miFileInstallUpdate>
+		<miFileNotes>
+			<Caption>Σημειώσεις...</Caption>
+			<Hint>Προσθήκη σημειώσεων στο τρέχον ημερολόγιο εγκατάστασης</Hint>
+		</miFileNotes>
+		<miFilePrint>
+			<Caption>Εκτύπωση</Caption>
+		</miFilePrint>
+		<miFileReload>
+			<Caption>Επαναφόρτωση</Caption>
+		</miFileReload>
+		<miFileRemoveInstalledPrg>
+			<Caption>Αφαίρεση προγρ. απο τη λίστα</Caption>
+		</miFileRemoveInstalledPrg>
+		<miFileRename>
+			<Caption>Μετονομασία...</Caption>
+			<Hint>Αφαίρεσε τρέχον ημερολόγιο εγκατάστασης</Hint>
+		</miFileRename>
+		<miFileRestoreBackup>
+			<Caption>Επαναφορά προγράμματος από αντ. ασφ....</Caption>
+		</miFileRestoreBackup>
+		<miFileSave>
+			<Caption>Α&amp;ποθήκευση</Caption>
+			<Hint>Αποθήκευση αλλαγών απο το τρέχον ημερολόγιο εγκατ.</Hint>
+		</miFileSave>
+		<miFileSaveAs>
+			<Caption>Αποθήκευση ως...</Caption>
+		</miFileSaveAs>
+		<miFileSendTo>
+			<Caption>Αποστολή σε Γκρούπ</Caption>
+		</miFileSendTo>
+		<miFileUndoRestoration>
+			<Caption>Ακύρωση επαναφοράς...</Caption>
+		</miFileUndoRestoration>
+		<miFileUninstall>
+			<Caption>&amp;Απεγκατάσταση...</Caption>
+		</miFileUninstall>
+		<miHelp>
+			<Caption>&amp;Βοήθεια</Caption>
+		</miHelp>
+		<miHelpAbout>
+			<Caption>&amp;Περί...</Caption>
+			<Hint>Εμφανίζει πληροφορίες για το πρόγραμμα, έκδοση και πνευματικά δικαιώματα</Hint>
+		</miHelpAbout>
+		<miHelpCheckForUpdates>
+			<Caption>Έλεγχος για &amp;Ενημερώσεις...</Caption>
+			<Hint>Ελέγει το site του δημιουργού για ενημερώσεις</Hint>
+		</miHelpCheckForUpdates>
+		<miHelpContents>
+			<Caption>&amp;Περιεχόμενα</Caption>
+			<Hint>Εμφανίζει τα περιεχίμενα της βοήθειας</Hint>
+		</miHelpContents>
+		<miHelpHomePage>
+			<Caption>Ιστοσελίδα</Caption>
+		</miHelpHomePage>
+		<miHelpPurchase>
+			<Caption>Αγορά</Caption>
+		</miHelpPurchase>
+		<miHelpRegister>
+			<Caption>&amp;Δήλωση...</Caption>
+			<Hint>Δήλωση του  Total Uninstall</Hint>
+		</miHelpRegister>
+		<miHexView>
+			<Caption>Δεκαεξαδικός Προβολέας</Caption>
+			<Hint>Άνοιγμα με Δεκαεξαδικό Προβολέα</Hint>
+		</miHexView>
+		<miImport>
+			<Caption>Εισαγωγή</Caption>
+		</miImport>
+		<miInstalledPrograms>
+			<Caption>Εγκατεστημένα προγράμματα</Caption>
+			<Hint>Εγκατεστημένα προγράμματα|Εναλλαγή σε Εγκατεστημένα προγράμματα</Hint>
+		</miInstalledPrograms>
+		<miList>
+			<Caption>Λίστα</Caption>
+		</miList>
+		<miListGroupNotes>
+			<Caption>Σημειώσεις ομάδας</Caption>
+		</miListGroupNotes>
+		<miListLargeIcons>
+			<Caption>Μεγάλα εικονίδια</Caption>
+		</miListLargeIcons>
+		<miListProgramNotes>
+			<Caption>Σημειώσεις προγράμματος</Caption>
+		</miListProgramNotes>
+		<miListSmallIcons>
+			<Caption>Μικρά εικονίδια</Caption>
+		</miListSmallIcons>
+		<miModules>
+			<Caption>&amp;Υποσυστήματα</Caption>
+		</miModules>
+		<miMonAppsGroupAddChild>
+			<Caption>Προσθήκη Γκρούπ Παιδιών...</Caption>
+		</miMonAppsGroupAddChild>
+		<miMonAppsGroupAddRoot>
+			<Caption>Προσθήκη Γκρούπ Ρίζας...</Caption>
+		</miMonAppsGroupAddRoot>
+		<miMonAppsGroupEdit>
+			<Caption>Τροποποίηση Γκρούπ...</Caption>
+		</miMonAppsGroupEdit>
+		<miMonAppsGroupMoveToRoot>
+			<Caption>Μετακίνηση στη Ρίζα</Caption>
+		</miMonAppsGroupMoveToRoot>
+		<miMonAppsGroupRemove>
+			<Caption>Απομάκρυνση Γκρούπ</Caption>
+		</miMonAppsGroupRemove>
+		<miMonitoredPrograms>
+			<Caption>Παρακολουθούμενα προγράμματα</Caption>
+			<Hint>Παρακολουθούμενα προγράμματα|Εναλλαγή σε Παρακολουθούμενα προγράμματα</Hint>
+		</miMonitoredPrograms>
+		<miOpen>
+			<Caption>Άνοιγμα</Caption>
+			<Hint>Άνοιγμα αρχείου, φακέλου ή μετάβαση σε κλειδί στον Επεξεργαστή Μητρώου</Hint>
+		</miOpen>
+		<miPendingFileRenameOp>
+			<Caption>Εκκρεμείς Απόπειρες Μετονομασίας Αρχείων...</Caption>
+			<Hint>Εμφάνιση και εφαρμογή εκκρεμών απόπειρων μετονομασίας αρχείων</Hint>
+		</miPendingFileRenameOp>
+		<miPrgAddInstalledPrg>
+			<Caption>Προσθήκη προγρ. στη λίστα...</Caption>
+		</miPrgAddInstalledPrg>
+		<miPrgAnalyze>
+			<Caption>&amp;Ανάλυση</Caption>
+			<Hint>Ανάλυση|Ανάλυση αλλαγών συστήματος απο το τρέχον πρόγραμμα</Hint>
+		</miPrgAnalyze>
+		<miPrgChangeIcon>
+			<Caption>Αλλαγή εικονιδίου...</Caption>
+		</miPrgChangeIcon>
+		<miPrgDelete>
+			<Caption>Διαγραφή</Caption>
+			<Hint>Διαγραφή τρέχοντος ημερολογίου εγκατάστασης</Hint>
+		</miPrgDelete>
+		<miPrgEditInstalledPrg>
+			<Caption>Επεξεργασία προγράμματος...</Caption>
+		</miPrgEditInstalledPrg>
+		<miPrgNotes>
+			<Caption>Σημειώσεις...</Caption>
+			<Hint>Προσθήκη σημειώσεων στο τρέχον ημερολόγιο εγκατάστασης</Hint>
+		</miPrgNotes>
+		<miPrgRemoveInstalledPrg>
+			<Caption>Αφαίρεση προγρ. απο τη λίστα</Caption>
+		</miPrgRemoveInstalledPrg>
+		<miPrgRename>
+			<Caption>Μετονομασία...</Caption>
+			<Hint>Αφαίρεσε τρέχον ημερολόγιο εγκατάστασης</Hint>
+		</miPrgRename>
+		<miPrintChanges>
+			<Caption>Αλλαγές...</Caption>
+			<Hint>Εκτύπωση δένδρου αλλαγών</Hint>
+		</miPrintChanges>
+		<miPrintInstalledPrograms>
+			<Caption>Εγκατεστημένα προγράμματα...</Caption>
+		</miPrintInstalledPrograms>
+		<miPrintMonitoredPrograms>
+			<Caption>Παρακολουθούμενα προγράμματα...</Caption>
+		</miPrintMonitoredPrograms>
+		<miProperties>
+			<Caption>Ιδιότητες</Caption>
+			<Hint>Εμφάνιση ιδιοτήτων επιλεγμένου αρχείου ή φακέλου</Hint>
+		</miProperties>
+		<miRemovefromLog>
+			<Caption>Απομάκρυνση απο την καταγραφή</Caption>
+			<Hint>Απομάκρυνση επιλεγμένων απο την καταγραφή</Hint>
+		</miRemovefromLog>
+		<miSnsTreeOpen>
+			<Caption>Άνοιγμα</Caption>
+		</miSnsTreeOpen>
+		<miSummary>
+			<Caption>Σύνοψη</Caption>
+			<Hint>Σύνοψη|Εμφάνιση σύνοψης παρακολουθούμενης εφαρμογής</Hint>
+		</miSummary>
+		<miTextView>
+			<Caption>Προβολέας Κειμένου</Caption>
+			<Hint>Άνοιγμα με επεξεργαστή κειμένου</Hint>
+		</miTextView>
+		<miToolbarLarge>
+			<Caption>Μεγάλη</Caption>
+		</miToolbarLarge>
+		<miToolbarMedium>
+			<Caption>Μεσαία</Caption>
+		</miToolbarMedium>
+		<miToolbarSmall>
+			<Caption>Μικρή</Caption>
+		</miToolbarSmall>
+		<miTools>
+			<Caption>&amp;Εργαλεία</Caption>
+		</miTools>
+		<miToolsCompareSnapshots>
+			<Caption>Σύγκριση Snapshots...</Caption>
+		</miToolsCompareSnapshots>
+		<miToolsFind>
+			<Caption>Ανα&amp;ζήτηση</Caption>
+			<Hint>Αναζήτηση|Αναζήτηση κειμένου στις εντοπισθείσες αλλαγές</Hint>
+		</miToolsFind>
+		<miToolsMergeLogs>
+			<Caption>Συγχώνευση Καταγραφών...</Caption>
+		</miToolsMergeLogs>
+		<miToolsOptions>
+			<Caption>&amp;Επιλογές...</Caption>
+			<Hint>Ρυθμίστε το πρόγραμμα με επιλογές</Hint>
+		</miToolsOptions>
+		<miToolsSystemRestore>
+			<Caption>Επαναφορά Συστήματος</Caption>
+		</miToolsSystemRestore>
+		<miULogSuccessful>
+			<Caption>Επιτυχείς δράσεις</Caption>
+			<Hint>Εμφάνιση/Απόκρυψη επιτυχών δράσεων απο την καταγραφή απεγκατάστασης</Hint>
+		</miULogSuccessful>
+		<miULogWarnings>
+			<Caption>Προειδοποιήσεις</Caption>
+			<Hint>Εμφάνιση/Απόκρυψη προειδοποιήσεων απο την καταγραφή απεγκατάστασης</Hint>
+		</miULogWarnings>
+		<miUninstallLog>
+			<Caption>Ημερολόγιο απεγκατάστασης</Caption>
+			<Hint>Ημερολόγιο απεγκατάστασης|Εμφάνιση του ημερολογίου απεγκατάστασης</Hint>
+		</miUninstallLog>
+		<miUninstallLogDet>
+			<Caption>&amp;Λεπτομέρειες Καταγραφής Απεγκατάστασης</Caption>
+		</miUninstallLogDet>
+		<miView>
+			<Caption>&amp;Εμφάνιση</Caption>
+		</miView>
+		<miViewBundle>
+			<Caption>Πακέτο</Caption>
+		</miViewBundle>
+		<miViewColorScheme>
+			<Caption>Παλέτα χρωμάτων</Caption>
+		</miViewColorScheme>
+		<miViewDetails>
+			<Caption>Λεπτομέρειες</Caption>
+			<Hint>Λεπτομέρειες προγράμματος|Εμφάνιση ή απόκρυψη λεπτομερειών προγράμματος</Hint>
+		</miViewDetails>
+		<miViewItemCurrentView>
+			<Caption>Τρέχουσα &amp;Εμφάνιση</Caption>
+		</miViewItemCurrentView>
+		<miViewItemDetails>
+			<Caption>&amp;Λεπτομέρειες Αντικειμένου</Caption>
+			<Hint>Εμφάνιση/Απόκρυψη λεπτομερειών επιλεγμένου κόμβου του δέντρου αλλαγών</Hint>
+		</miViewItemDetails>
+		<miViewNavigator>
+			<Caption>Προγράμματα</Caption>
+			<Hint>Λίστα προγράμματος|Εμφάνιση/απόκρυψη της λίστας προγράμματος</Hint>
+		</miViewNavigator>
+		<miViewRefresh>
+			<Caption>Ανανέωση</Caption>
+		</miViewRefresh>
+		<miViewStatusBar>
+			<Caption>Μπ&amp;άρα κατάστασης</Caption>
+			<Hint>Εμφάνιση/Απόκρυψη μπάρας κατάστασης</Hint>
+		</miViewStatusBar>
+		<miViewToolbars>
+			<Caption>Εργαλειοθήκες</Caption>
+		</miViewToolbars>
+		<miViewToolbarsBtnCaption>
+			<Caption>Τίτλος κουμπιού</Caption>
+			<Hint>Εμφάνιση/απόκρυψη τίτλων εργαλειοθήκης</Hint>
+		</miViewToolbarsBtnCaption>
+		<miViewToolbarsBtnSize>
+			<Caption>Μέγεθος κουμπιού</Caption>
+		</miViewToolbarsBtnSize>
+		<miViewToolbarsBtnWordWrap>
+			<Caption>Word wrap τίτλων κουμπιών</Caption>
+		</miViewToolbarsBtnWordWrap>
+		<miViewToolbarsTbrCaption>
+			<Caption>Τίτλος εργαλειοθήκης</Caption>
+			<Hint>Εμφάνιση/απόκρυψη τίτλων μπάρας εργαλείων</Hint>
+		</miViewToolbarsTbrCaption>
+		<miViewToolbarsVisible>
+			<Caption>Ορατό</Caption>
+			<Hint>Εμφάνιση ή απόκρυψη της εργαλειοθήκης</Hint>
+		</miViewToolbarsVisible>
+		<pmiAutorunAdd>
+			<Caption>Προσθήκη</Caption>
+		</pmiAutorunAdd>
+		<pmiAutorunDelete>
+			<Caption>Διαγραφή</Caption>
+		</pmiAutorunDelete>
+		<pmiAutorunLocateEntry>
+			<Caption>Εντοπ. εγγραφής εκκίνησης</Caption>
+		</pmiAutorunLocateEntry>
+		<pmiAutorunLocateTarget>
+			<Caption>Εντοπισμός στόχου</Caption>
+		</pmiAutorunLocateTarget>
+		<pmiAutorunRun>
+			<Caption>Εκκίνηση</Caption>
+		</pmiAutorunRun>
+		<pmiAutorunStop>
+			<Caption>Διακοπή</Caption>
+		</pmiAutorunStop>
+		<pmiAutorunTargetProperties>
+			<Caption>Ιδιότητες στόχου</Caption>
+		</pmiAutorunTargetProperties>
+		<pmiChgTreeCompareExcl>
+			<Caption>Προσθήκη στην λίστα αγνόησης συγκρίσεων</Caption>
+			<Hint>Προσθήκη επιλεγμένων στην λίστα αγνόησης όλων των προφίλ σύγκρισης</Hint>
+		</pmiChgTreeCompareExcl>
+		<pmiChgTreeDelete>
+			<Caption>Πλήρης Διαγραφή</Caption>
+			<Hint>Αφαίρεση επιλεγμένου απο την καταγραφή και το σύστημα</Hint>
+		</pmiChgTreeDelete>
+		<pmiChgTreeDelSys>
+			<Caption>Διαγραφή Μόνο απο το Σύστημα</Caption>
+			<Hint>Διαγραφή επιλεγμένου μόνο απο το σύστημα</Hint>
+		</pmiChgTreeDelSys>
+		<pmiChgTreeHexView>
+			<Caption>Δεκαεξαδικός Προβολέας</Caption>
+			<Hint>Άνοιγμα με Δεκαεξαδικό Προβολέα</Hint>
+		</pmiChgTreeHexView>
+		<pmiChgTreeOpen>
+			<Caption>Άνοιγμα</Caption>
+			<Hint>Άνοιγμα αρχείου, φακέλου ή μετάβαση σε κλειδί στον Επεξεργαστή Μητρώου</Hint>
+		</pmiChgTreeOpen>
+		<pmiChgTreeProperties>
+			<Caption>Ιδιότητες</Caption>
+			<Hint>Εμφάνιση ιδιοτήτων επιλεγμένου αρχείου ή φακέλου</Hint>
+		</pmiChgTreeProperties>
+		<pmiChgTreeRedo>
+			<Caption>Ξανακάνε</Caption>
+			<Hint>Ξανακάνε τις επιλεγμένες αλλαγές στο σύστημα</Hint>
+		</pmiChgTreeRedo>
+		<pmiChgTreeRedoDepth>
+			<Caption>Ξανακάνε εις βάθος</Caption>
+			<Hint>Ξανακάνε εις βάθος τις επιλεγμένες αλλαγές στο σύστημα</Hint>
+		</pmiChgTreeRedoDepth>
+		<pmiChgTreeRemove>
+			<Caption>Απομάκρυνση απο την καταγραφή</Caption>
+			<Hint>Απομάκρυνση επιλεγμένων απο την καταγραφή</Hint>
+		</pmiChgTreeRemove>
+		<pmiChgTreeRestoreFromBackup>
+			<Caption>Επαναφορά απο αντ. ασφ.</Caption>
+			<Hint>Επαναφέρει τα επιλεγμένα αρχεία, φακέλους και υποφακέλους απο αντ. ασφ.</Hint>
+		</pmiChgTreeRestoreFromBackup>
+		<pmiChgTreeScanExcl>
+			<Caption>Προσθήκη στην λίστα αγνόησης εξαιρέσεων</Caption>
+			<Hint>Προσθήκη επιλεγμένων στην λίστα εξαιρεσης όλων των προφίλ ελέγχου</Hint>
+		</pmiChgTreeScanExcl>
+		<pmiChgTreeTextView>
+			<Caption>Προβολέας Κειμένου</Caption>
+			<Hint>Άνοιγμα με επεξεργαστή κειμένου</Hint>
+		</pmiChgTreeTextView>
+		<pmiChgTreeUndo>
+			<Caption>Αναίρεση</Caption>
+			<Hint>Αναίρεση επιλεγμένων αλλαγών απο το σύστημα</Hint>
+		</pmiChgTreeUndo>
+		<pmiChgTreeUndoDepth>
+			<Caption>Αναίρεση βάθους</Caption>
+			<Hint>Αναίρεση βάθους των επιλεγμένων αλλαγών απο το σύστημα</Hint>
+		</pmiChgTreeUndoDepth>
+		<pmiClnExclude>
+			<Caption>Εξαίρεση</Caption>
+		</pmiClnExclude>
+		<pmiClnSelectBranch>
+			<Caption>Επιλογή κλάδου</Caption>
+		</pmiClnSelectBranch>
+		<pmiClnUnselectBranch>
+			<Caption>Αποεπιλογή κλάδου</Caption>
+		</pmiClnUnselectBranch>
+		<pmiCopySummary>
+			<Caption>Αντιγραφή</Caption>
+		</pmiCopySummary>
+		<pmiInstAppsHeaderAutoResize>
+			<Caption>Αυτόματο Μέγεθος</Caption>
+		</pmiInstAppsHeaderAutoResize>
+		<pmiLocate>
+			<Caption>Εντοπισμός</Caption>
+		</pmiLocate>
+		<pmiMonAppsHeaderAutoResize>
+			<Caption>Αυτόματο Μέγεθος</Caption>
+		</pmiMonAppsHeaderAutoResize>
+		<pmiShowSuccessful>
+			<Caption>Επιτυχείς δράσεις</Caption>
+			<Hint>Εμφάνιση/Απόκρυψη επιτυχών δράσεων απο την καταγραφή απεγκατάστασης</Hint>
+		</pmiShowSuccessful>
+		<pmiShowWarnings>
+			<Caption>Προειδοποιήσεις</Caption>
+			<Hint>Εμφάνιση/Απόκρυψη προειδοποιήσεων απο την καταγραφή απεγκατάστασης</Hint>
+		</pmiShowWarnings>
+		<pmiTrayRestore>
+			<Caption>Επαναφορά</Caption>
+		</pmiTrayRestore>
+		<rbAll>
+			<Caption>Όλα τα προγράμματα</Caption>
+		</rbAll>
+		<rbSelection>
+			<Caption>Επιλογή</Caption>
+		</rbSelection>
+		<sbAppClose>
+			<Hint>Κλείσιμο|Κλείσιμο</Hint>
+		</sbAppClose>
+		<sbDetailsClose>
+			<Hint>Κλείσιμο|Κλείσιμο</Hint>
+		</sbDetailsClose>
+		<sbSearchClose>
+			<Hint>Κλείσιμο|Κλείσιμο</Hint>
+		</sbSearchClose>
+		<tabOptions>
+			<Caption>Επιλογές</Caption>
+		</tabOptions>
+		<tabResults>
+			<Caption>Αποτελέσματα</Caption>
+		</tabResults>
+		<tbrActions>
+			<Caption>Δράσεις</Caption>
+		</tbrActions>
+		<tbrDetails>
+			<Caption>Λεπτομέρειες</Caption>
+		</tbrDetails>
+		<tbrLayout>
+			<Caption>Απόδοση</Caption>
+		</tbrLayout>
+		<tbrModules>
+			<Caption>Υποσυστήματα</Caption>
+		</tbrModules>
+		<tbrView>
+			<Caption>Εμφάνιση</Caption>
+		</tbrView>
+		<tbtnAnalyze>
+			<Caption>Ανάλυση</Caption>
+			<Hint>Ανάλυση|Ανάλυση αλλαγών συστήματος απο το τρέχον πρόγραμμα</Hint>
+		</tbtnAnalyze>
+		<tbtnArAdd>
+			<Caption>Προσθήκη</Caption>
+		</tbtnArAdd>
+		<tbtnArDelete>
+			<Caption>Διαγραφή</Caption>
+		</tbtnArDelete>
+		<tbtnArRun>
+			<Caption>Εκκίνηση</Caption>
+		</tbtnArRun>
+		<tbtnArStop>
+			<Caption>Διακοπή</Caption>
+		</tbtnArStop>
+		<tbtnAutorunMgr>
+			<Caption>Διαχειριστής Αυτ. Εκκ.</Caption>
+		</tbtnAutorunMgr>
+		<tbtnChanges>
+			<Caption>Αλλαγές</Caption>
+			<Hint>Εντοπισθείσες αλλαγές|Εμφάνιση εντοπισθείσων αλλαγών συστήματος απο το πρόγραμμα</Hint>
+		</tbtnChanges>
+		<tbtnChgView>
+			<Caption>Εμφάνιση</Caption>
+			<Hint>Εμφάνιση|Εφαρμογή καθορισμένης εμφάνισης αλλαγών</Hint>
+		</tbtnChgView>
+		<tbtnCleaner>
+			<Caption>Καθαριστής</Caption>
+			<Hint>Καθαριστής</Hint>
+		</tbtnCleaner>
+		<tbtnClnClean>
+			<Caption>Καθαρισμός</Caption>
+			<Hint>Καθαρισμός</Hint>
+		</tbtnClnClean>
+		<tbtnClnItems>
+			<Caption>Αντικείμενα</Caption>
+		</tbtnClnItems>
+		<tbtnClnScan>
+			<Caption>Έλεγχος</Caption>
+			<Hint>Έλεγχος|Έλεγχος για διαγράψιμα αντικείμενα</Hint>
+		</tbtnClnScan>
+		<tbtnClnSummary>
+			<Caption>Σύνοψη</Caption>
+			<Hint>Σύνοψη|Εμφάνιση σύντομης επεξήγησης για το τρέχον πρόγραμμα</Hint>
+		</tbtnClnSummary>
+		<tbtnCollapse>
+			<Caption>Σύμπτυξη</Caption>
+			<Hint>Σύμπτυξη|Πλήρης σύμπτυξη ενεργού δέντρου</Hint>
+		</tbtnCollapse>
+		<tbtnDetails>
+			<Caption>Λεπτομέρειες</Caption>
+			<Hint>Λεπτομέρειες προγράμματος|Εμφάνιση ή απόκρυψη λεπτομερειών προγράμματος</Hint>
+		</tbtnDetails>
+		<tbtnExpand>
+			<Caption>Ανάπτυξη</Caption>
+			<Hint>Ανάπτυξη|Πλήρης ανάπτυξη ενεργού δέντρου</Hint>
+		</tbtnExpand>
+		<tbtnInstallModify>
+			<Caption>Αλλαγή</Caption>
+			<Hint>Επιδιόρθωση, επεξεργασία ή απεγκατάσταση</Hint>
+		</tbtnInstallModify>
+		<tbtnInstallNew>
+			<Caption>Εγκατάσταση</Caption>
+			<Hint>Εγκατάσταση Νέου|Παρακολούθηση εγκατάστασης νέας εφαρμογής</Hint>
+		</tbtnInstallNew>
+		<tbtnInstallUpdate>
+			<Caption>Ενημέρωση</Caption>
+			<Hint>Εγκατάσταση ενημέρωσης|Παρακολούθησε την εγκατάσταση της ενημέρωσης για το τρέχον πρόγραμμα</Hint>
+		</tbtnInstallUpdate>
+		<tbtnInstPrograms>
+			<Caption>Εγκατεστημένα προγράμματα</Caption>
+			<Hint>Εγκατεστημένα προγράμματα|Εναλλαγή σε Εγκατεστημένα προγράμματα</Hint>
+		</tbtnInstPrograms>
+		<tbtnMonPrograms>
+			<Caption>Παρακολουθούμενα προγράμματα</Caption>
+			<Hint>Παρακολουθούμενα προγράμματα|Εναλλαγή σε Παρακολουθούμενα προγράμματα</Hint>
+		</tbtnMonPrograms>
+		<tbtnPrograms>
+			<Caption>Προγράμματα</Caption>
+			<Hint>Λίστα προγράμματος|Εμφάνιση/απόκρυψη της λίστας προγράμματος</Hint>
+		</tbtnPrograms>
+		<tbtnSave>
+			<Caption>Αποθήκευση</Caption>
+			<Hint>Αποθήκευση αλλαγών απο το τρέχον ημερολόγιο εγκατ.</Hint>
+		</tbtnSave>
+		<tbtnSearch>
+			<Caption>Αναζήτηση</Caption>
+			<Hint>Αναζήτηση|Αναζήτηση κειμένου στις εντοπισθείσες αλλαγές</Hint>
+		</tbtnSearch>
+		<tbtnShowSnapshot>
+			<Caption>Εμφάνιση Snapshot</Caption>
+		</tbtnShowSnapshot>
+		<tbtnSummary>
+			<Caption>Σύνοψη</Caption>
+			<Hint>Σύνοψη|Εμφάνιση σύνοψης παρακολουθούμενης εφαρμογής</Hint>
+		</tbtnSummary>
+		<tbtnUninstall>
+			<Caption>Απεγκατάσταση</Caption>
+		</tbtnUninstall>
+		<tbtnUninstallLog>
+			<Caption>Ημερολόγιο</Caption>
+			<Hint>Ημερολόγιο απεγκατάστασης|Εμφάνιση του ημερολογίου απεγκατάστασης</Hint>
+		</tbtnUninstallLog>
+		<tpnlSearch>
+			<Caption>Αναζήτηση</Caption>
+		</tpnlSearch>
+		<tvAutorunItems>
+			<Columns_0>Όνομα</Columns_0>
+			<Columns_1>Τομέας</Columns_1>
+			<Columns_2>Κατάσταση</Columns_2>
+			<Columns_3>Περιγραφή</Columns_3>
+			<Columns_4>Εκδότης</Columns_4>
+			<Columns_5>Εντολή</Columns_5>
+		</tvAutorunItems>
+		<tvChanges>
+			<Columns_0>Εντοπισθήσες αλλαγές</Columns_0>
+			<Columns_1>Πρίν</Columns_1>
+			<Columns_2>Μετά</Columns_2>
+			<Columns_3>Τρέχον</Columns_3>
+		</tvChanges>
+		<tvClnItems>
+			<Columns_0>Αντικείμενα</Columns_0>
+			<Columns_1>Ιδιότητες</Columns_1>
+		</tvClnItems>
+		<tvResults>
+			<Columns_0>Όνομα</Columns_0>
+			<Columns_1>Τοποθεσία</Columns_1>
+			<Columns_2>Πρόγραμμα</Columns_2>
+		</tvResults>
+	</frmTUMain>
+	<RESOURCESTRING>
+		<ACCESS_DENIED_X>Άρνηση πρόσβασης: %s</ACCESS_DENIED_X>
+		<ACT_CRE_KEY>Δημιουργία κλειδιού μητρώου: %s</ACT_CRE_KEY>
+		<ACT_CRE_VAL>Δημιουργία τιμής μητρώου: %s</ACT_CRE_VAL>
+		<ACT_DEC_CNT>Μείωση μετρητή κοινού αρχείου μητρώου: %s</ACT_DEC_CNT>
+		<ACT_DEL_ADS>Διαγραφη Εναλλ. Ροής Δεδομ.: %s</ACT_DEL_ADS>
+		<ACT_DEL_FILE>Διαγραφή αρχείου: %s</ACT_DEL_FILE>
+		<ACT_DEL_FOLDER>Διαγραφή φακέλου: %s</ACT_DEL_FOLDER>
+		<ACT_DEL_KEY>Διαγραφή κλειδιού μητρώου: %s</ACT_DEL_KEY>
+		<ACT_DEL_SERVICE>Διαγραφή Υπηρεσίας ή Συσκευής: %s</ACT_DEL_SERVICE>
+		<ACT_DEL_VAL>Διαγραφή τιμής μητρώου: %s</ACT_DEL_VAL>
+		<ACT_RST_FILE>Αποκατάσταση ιδιοτήτων αρχείου: %s</ACT_RST_FILE>
+		<ACT_RST_VAL>Αποκατάσταση τιμής μητρώου: %s</ACT_RST_VAL>
+		<ACT_STOP_SERVICE>Διακοπή Υπηρεσίας ή Συσκευής: %s</ACT_STOP_SERVICE>
+		<ADD>Προσθήκη</ADD>
+		<ADVANCED>Για προχωρημένους</ADVANCED>
+		<AGENT>Εικονίδιο</AGENT>
+		<ALL>Όλα</ALL>
+		<ALL_BRA>(Όλα)</ALL_BRA>
+		<ALL_DETAILS>Όλες οι Λεπτομέρειες</ALL_DETAILS>
+		<ALWAYS>Πάντα</ALWAYS>
+		<ANALYSIS_PROFILE>Προφίλ ανάλυσης</ANALYSIS_PROFILE>
+		<ANALYSIS_PROFILES>Προφίλ ανάλυσης</ANALYSIS_PROFILES>
+		<ANALYZING>Ανάλυση...</ANALYZING>
+		<ASK>Ερώτηση</ASK>
+		<ASK_COMPLETE_LATER>Ολοκλήρωση της διαδικασίας παρακολούθησης αργότερα;</ASK_COMPLETE_LATER>
+		<ASK_IF_NO_ERROR>Ερώτηση αν δεν έχει λάθη</ASK_IF_NO_ERROR>
+		<ASK_SAVE_CHG>Αποθήκευση αλλαγών του &quot;%s&quot;;</ASK_SAVE_CHG>
+		<ASK_USER>Ερώτηση χρήστη</ASK_USER>
+		<AUTOMATIC>Αυτόματο</AUTOMATIC>
+		<AUTORUN_MGR>Διαχειριστής αυτ. εκκ.</AUTORUN_MGR>
+		<BACKUP>Αντίγραφο Ασφαλείας</BACKUP>
+		<BACKUP_CREATED>Αντ. ασφ. δημιουργήθηκε.</BACKUP_CREATED>
+		<BACKUP_CREATED_OK>Το αντ. ασφ. δημιουργήθηκε επιτυχώς.</BACKUP_CREATED_OK>
+		<BACKUP_PROGRAM>Δημιουργία του αντιγράφου ασφαλείας...</BACKUP_PROGRAM>
+		<BACKUP_PROGRAM_X>Δημιουργεί το αντ. ασφ. για το πρόγραμμα &quot;%s&quot;</BACKUP_PROGRAM_X>
+		<BEGIN_UNINSTALL>Πατήστε Απεγκατάσταση για να ξεκινήσει η διαδικασία.</BEGIN_UNINSTALL>
+		<BEGIN_UNINSTALL_LAUNCH>Πατήστε Ξεκίνα για να ξεκινήσει η διαδικασία απεγκατάστασης.</BEGIN_UNINSTALL_LAUNCH>
+		<BROWSE_FOR_FILE>Αναζήτηση αρχείου</BROWSE_FOR_FILE>
+		<BROWSE_FOR_FOLDER>Αναζήτηση φακέλου</BROWSE_FOR_FOLDER>
+		<BROWSE_FOR_FOLDER_OR_FILE>Αναζήτηση φακέλου ή αρχείου</BROWSE_FOR_FOLDER_OR_FILE>
+		<BROWSE_FOR_KEY>Αναζήτηση κλειδιού</BROWSE_FOR_KEY>
+		<BROWSE_FOR_KEY_OR_VALUE>Αναζήτηση κλειδιού ή τιμής</BROWSE_FOR_KEY_OR_VALUE>
+		<BROWSE_FOR_VALUE>Περιήγηση για Τιμή</BROWSE_FOR_VALUE>
+		<BTN_CONTINUE>Συνέχεια</BTN_CONTINUE>
+		<BUILT_IN_CANCELLED>Η ενσωματωμένη απεγκατάσταση ακυρώθηκε ή δεν ολοκληρώθηκε.</BUILT_IN_CANCELLED>
+		<BUILT_IN_UNINSTALLER_RUNNING>Η ενσωματωμένη απεγκατάσταση τρέχει.</BUILT_IN_UNINSTALLER_RUNNING>
+		<CANCEL>&amp;Άκυρο</CANCEL>
+		<CANNOT_BROWSE>Σφάλμα κατα την εκκίνηση του προεπιλεγμένου περιηγητή.\nΗ συντόμευση αντιγράφηκε στο Πρόχειρο.</CANNOT_BROWSE>
+		<CANT_EXECUTE>Αδύνατη η εκκίνηση του &quot;%s&quot;.</CANT_EXECUTE>
+		<CANT_OPEN_KEY>Αδύνατο το άνοιγμα κλειδιού</CANT_OPEN_KEY>
+		<CHANGED_ITEMS>Αλλαγμένα Αντικείμενα</CHANGED_ITEMS>
+		<CHANGES>&quot;%s&quot; αλλαγές</CHANGES>
+		<CHECK_UPD_NEW>Νέες ενημερώσεις ή νέα διαθέσιμα</CHECK_UPD_NEW>
+		<CHECK_UPD_REMINDER>Υπενθύμηση ελέγχου ενημερώσεων</CHECK_UPD_REMINDER>
+		<CHG_VIEWS>Άλλαξε Εμφανίσεις</CHG_VIEWS>
+		<CLEAN_UP>Καθαρισμός</CLEAN_UP>
+		<CLEAN_UP_DESC>Απομάκρυνση ιχνών απεγκατεστημένων παρακολουθημένων προγραμμάτων</CLEAN_UP_DESC>
+		<CLEANED>Καθαρίστηκε</CLEANED>
+		<CLEANER>Καθαριστής</CLEANER>
+		<CLEANING>Καθαρισμός...</CLEANING>
+		<CLOSE>Κλείσιμο</CLOSE>
+		<CLOSE_PROCESSES>Κλείσιμο διαδικασιών</CLOSE_PROCESSES>
+		<CMP_ERROR>Σφάλμα σύγκρισης στιγμιοτύπων.</CMP_ERROR>
+		<CMP_PROFILE>Σύγκριση Ονόματος Προφίλ</CMP_PROFILE>
+		<CNT_DEL_MON>Μετρητής κοινού αρχείου μητρώου διαγράφηκε κατα την παρακολούθηση</CNT_DEL_MON>
+		<COMMENTS>Σχόλια</COMMENTS>
+		<COMMON>Κοινά</COMMON>
+		<COMP_PROFILES>Σύγκριση Προφίλ</COMP_PROFILES>
+		<COMPARE>Σύγκρινε</COMPARE>
+		<COMPARING_SNS>Σύγκριση snapshot συστήματος...</COMPARING_SNS>
+		<COMPLETE>Ολοκληρώθηκε</COMPLETE>
+		<COMPUTER>Υπολογιστής</COMPUTER>
+		<COMPUTER_X>Υπολογιστής (%s)</COMPUTER_X>
+		<CONTACT>Επικοινωνία</CONTACT>
+		<CONTINUE>Θέλετε να συνεχίσετε;</CONTINUE>
+		<CONTINUE_UNINSTALL>Συνέχεια διαδικασίας απεγκατάστασης</CONTINUE_UNINSTALL>
+		<CONTINUE_UNINSTALL_Q>Συνέχεια της διαδικασίας απεγκατάστασης;</CONTINUE_UNINSTALL_Q>
+		<CORRUPT_CNT>Εντοπίστηκε άκυρη αλλαγή στο μετρητή κοινού αρχείου μητρώου: η τιμή μειώθηκε ή με άκυρα δεδομένα</CORRUPT_CNT>
+		<CREATE_REG_KEYS>Δημιουργία κλειδιών μητρώου</CREATE_REG_KEYS>
+		<CREATE_REG_VALS>Δημιουργία τιμών μητρώου</CREATE_REG_VALS>
+		<CREATED_ITEMS>Δημιουργηθέντα αντικέιμενα</CREATED_ITEMS>
+		<CREATED_ON>Δημιουργήθηκε την</CREATED_ON>
+		<CREATED_X>Δημιουργήθηκε: %s</CREATED_X>
+		<DEC_CNT>Μείωση μετρητή κοινού αρχείου μητρώου</DEC_CNT>
+		<DEFAULT>Προεπιλεγμένο</DEFAULT>
+		<DEFAULT_PAR>(Προεπιλογή)</DEFAULT_PAR>
+		<DEL_AT_STARTUP>Προς διαγραφή στην επόμενη εκκίνηση</DEL_AT_STARTUP>
+		<DEL_CNT>Διαγραφή μετρητή κοινού αρχειου μητρώου</DEL_CNT>
+		<DEL_FILES>Διαγραφή αρχείων</DEL_FILES>
+		<DEL_FOLDERS>Διαγραφή φακέλων</DEL_FOLDERS>
+		<DEL_REG_KEYS>Διαγραφή κλειδιών μητρώου</DEL_REG_KEYS>
+		<DEL_REG_VALS>Διαγραφή τιμών μητρώου</DEL_REG_VALS>
+		<DEL_SH_FILE>Διαγραφή κοινού αρχείου απο το δίστκο στον Κάδο Ανακύκλωσης</DEL_SH_FILE>
+		<DELETE_SEL_BACKUPS>Διαγραφή των επιλεγμένων backup;</DELETE_SEL_BACKUPS>
+		<DELETE_SEL_UNDO>Διαγραφή επιλεγμένων εγγραφών αναίρεσης;</DELETE_SEL_UNDO>
+		<DELETE_SYS_SEL_ITEM>Διαγραφή απο το σύστημα του επιλεγμένου;</DELETE_SYS_SEL_ITEM>
+		<DELETED_ITEMS>Διαγραφέντα Αντικείμενα</DELETED_ITEMS>
+		<DETECTED_CHG>Εντοπισθήσες αλλαγές</DETECTED_CHG>
+		<DISABLED>Ανενεργό</DISABLED>
+		<DISPOSABLE_ITEMS>Αρχεία για πέταμα</DISPOSABLE_ITEMS>
+		<DLG_ABORT>Ακύρωση</DLG_ABORT>
+		<DLG_ALL>Όλα</DLG_ALL>
+		<DLG_CANCEL>Άκυρο</DLG_CANCEL>
+		<DLG_CLOSE>Κλείσιμο</DLG_CLOSE>
+		<DLG_CNF>Επιβεβαίωση</DLG_CNF>
+		<DLG_ERR>Σφάλμα</DLG_ERR>
+		<DLG_IGNORE>Αγνόηση</DLG_IGNORE>
+		<DLG_INF>Πληροφορίες</DLG_INF>
+		<DLG_NO>Όχι</DLG_NO>
+		<DLG_NOTOALL>Όχι σε Όλα</DLG_NOTOALL>
+		<DLG_OK>ΟΚ</DLG_OK>
+		<DLG_RETRY>Δοκιμή ξανά</DLG_RETRY>
+		<DLG_WRN>Προειδοποίηση</DLG_WRN>
+		<DLG_YES>Ναί</DLG_YES>
+		<DLG_YESTOALL>Ναί σε Όλα</DLG_YESTOALL>
+		<DONT_DEL_SH_FILE>Ο χρήστης επέλεξε να κρατήσει το κοινό αρχείο</DONT_DEL_SH_FILE>
+		<EDIT_PROGRAM>Επεξεργασία προγράμματος</EDIT_PROGRAM>
+		<ELAPSED>Χρόνος %d:%2.2d</ELAPSED>
+		<ENTER_IDENTIFIER>Εισάγετε το όνομα του εγκατεστημένου προγράμματος.</ENTER_IDENTIFIER>
+		<ERR>Σφάλμα</ERR>
+		<ERR_BRA>(ΣΦΑ)</ERR_BRA>
+		<ERR_DEL_FLD_FILES>Αδύνατη διαγραφή ενός ή περισσότερων αρχείων και φακέλων.</ERR_DEL_FLD_FILES>
+		<ERR_DEL_REG_KEYS_VALS>Αδύνατη διαγραφή ενός ή περισσότερων τιμών και κλειδιών.</ERR_DEL_REG_KEYS_VALS>
+		<ERR_REDO_REG_KEYS_VALS>Αδύνατο να ξαναγίνουν ορισμένα κλειδιά ή τιμές.</ERR_REDO_REG_KEYS_VALS>
+		<ERR_UNDO_REG_KEYS_VALS>Αδύνατη η αναίρεση σε ένα ή περισσότερα κλειδιά ή τιμές.</ERR_UNDO_REG_KEYS_VALS>
+		<ERR_WRN_OK_STAT>Σφάλματα: %d   Προειδοποιήσεις: %d  Επιτυχείς δράσεις: %d</ERR_WRN_OK_STAT>
+		<EXIT>Έξοδος</EXIT>
+		<EXPERT>Ειδικοί</EXPERT>
+		<EXPIRE_DAYS>Λήγει σε %d ημέρες.</EXPIRE_DAYS>
+		<EXPORT_ERROR>Σφάλμα εξαγωγής !</EXPORT_ERROR>
+		<EXTENSION>Προέκταση</EXTENSION>
+		<FAMILY_NOT_ACCEPTED>Η οικογενειακή άδεια απορρίφθηκε.</FAMILY_NOT_ACCEPTED>
+		<FFILTER_ALL>Όλα τα αρχεία (*.*)|*.*</FFILTER_ALL>
+		<FFILTER_DLL>Επεκτάσεις εφαρμογών (*.dll)|*.dll</FFILTER_DLL>
+		<FFILTER_EXE>Εφαρμογές (*.exe)|*.exe</FFILTER_EXE>
+		<FFILTER_HTM>Έγγραφα HTML (*.htm, *.html)|*.htm;*html</FFILTER_HTM>
+		<FFILTER_ICL>Συλλογές εικονιδίων (*.icl)|*.icl</FFILTER_ICL>
+		<FFILTER_ICO>Εικονίδια (*.ico)|*.ico</FFILTER_ICO>
+		<FFILTER_MSI>Εγκαταστάτες Microsoft (*.msi)|*.msi</FFILTER_MSI>
+		<FFILTER_REG>Αρχεία καταχώρησης (*.reg)|*.reg</FFILTER_REG>
+		<FFILTER_TXT>Έγγραφα Κειμένου (*.txt)|*.txt</FFILTER_TXT>
+		<FFILTER_WAV>Αρχεία ήχου (*.wav)|*.wav</FFILTER_WAV>
+		<FFILTER_XML>Έγγραφα XML - (*.xml)|*.xml</FFILTER_XML>
+		<FFILTER_ZIP>Αντίγραφα ασφαλείας (*.zip)|*.zip</FFILTER_ZIP>
+		<FILE>(ΑΡΧΕΙΟ)</FILE>
+		<FILE_MASK>Μάσκα αρχείου</FILE_MASK>
+		<FILE_SYSTEM>Σύστημα αρχείων</FILE_SYSTEM>
+		<FILES_CHG_STAT>Αρχεία που τροποποιήθηκαν  :%6.1d</FILES_CHG_STAT>
+		<FILES_CREATED_STAT>Αρχεία που δημιουργήθηκαν  :%6.1d</FILES_CREATED_STAT>
+		<FILES_DEL_STAT>Αρχεία που διαγράφηκαν  :%6.1d</FILES_DEL_STAT>
+		<FILES_NOT_INCLUDED>Αρχεία που δεν μπήκαν στο αντ. ασφ.</FILES_NOT_INCLUDED>
+		<FILES_X>Αρχεία   :%6.1d</FILES_X>
+		<FINISH>Τέλος</FINISH>
+		<FLDS_CREATED_STAT>Φάκελοι που δημιουργήθηκαν  :%6.1d</FLDS_CREATED_STAT>
+		<FLDS_DEL_STAT>Φάκελοι που διαγράφηκαν  :%6.1d</FLDS_DEL_STAT>
+		<FOLDER>(ΦΑΚΕΛΟΣ)</FOLDER>
+		<FOLDER_MASK>Μάσκα φακέλου</FOLDER_MASK>
+		<FOLDERS_X>Φάκελοι :%6.1d</FOLDERS_X>
+		<FREE_UPDATES_UNTIL>Δωρεάν ενημερώσεις μέχρι %s</FREE_UPDATES_UNTIL>
+		<FS_DET_VIEW_PRF>Λεπτομέρειες συστήματος αρχείων [Βλέπε: %s]</FS_DET_VIEW_PRF>
+		<GENERAL>Γενικά</GENERAL>
+		<GENERATED_BY_TU>Δημιουργήθηκε από το Total Uninstall</GENERATED_BY_TU>
+		<HIDDEN_NODE>Ο Κόμβος είναι κρυμμένος</HIDDEN_NODE>
+		<HIDDEN_NODE_IN_VIEW>Ο κόμβος είναι κρυμμένος στην τρέχουσα προβολή.</HIDDEN_NODE_IN_VIEW>
+		<HIDE_OPTIONS>Ε&amp;πιλογές απόκρυψης</HIDE_OPTIONS>
+		<IF_NO_ERROR>Αν δεν έχει λάθη</IF_NO_ERROR>
+		<IMPORTING_ARCHIVE>Εισαγωγή αρχειοθηκών...</IMPORTING_ARCHIVE>
+		<INCLUDE_FOLDER_IN_LOG>Συμπεριέλαβε Φάκελο στην Καταγραφή</INCLUDE_FOLDER_IN_LOG>
+		<INF_VOLATILE_KEY>Παραβιάζον κλειδί δεν δημιουργήθηκε</INF_VOLATILE_KEY>
+		<INF_VOLATILE_VAL>Παραβιάζουσα τιμή δεν δημιουργήθηκε</INF_VOLATILE_VAL>
+		<INST_ON>Εγκαταστήθηκε Σε</INST_ON>
+		<INST_PRG>Εγκατεστημένο πρόγραμμα</INST_PRG>
+		<INST_PRGS>Εγκατεστημένα προγράμματα</INST_PRGS>
+		<INST_SERV_AND_DEV>Εγκατεστημένες Υπηρεσίες και Συσκευές</INST_SERV_AND_DEV>
+		<INSTALL>Εγκατάσταση</INSTALL>
+		<INSTALL_HISTORY>Ιστορικό εγκατάστασης</INSTALL_HISTORY>
+		<INSTALLED_PRGS_CMPS>%d εγκατεστημένα προγράμματα, %d στοιχεία συστήματος</INSTALLED_PRGS_CMPS>
+		<INSTALLER_ERR>Σφάλμα εγκαταστάτη: Μετρητής κοινού αρχείου δημιουργήθηκε για υπάρχον αρχείο</INSTALLER_ERR>
+		<INTERFACE>Διασύνδεση</INTERFACE>
+		<INVALID_AFTER_CNT>Άκυρος μετρητής ΜΕΤΑ</INVALID_AFTER_CNT>
+		<INVALID_BEFORE_CNT>Άκυρος μετρητής ΠΡΙΝ</INVALID_BEFORE_CNT>
+		<INVALID_CURRENT_CNT>Άκυρος μετρητής ΤΡΕΧΟΝ βρέθηκε στο μητρώο</INVALID_CURRENT_CNT>
+		<INVALID_FILE_FORMAT>Άκυρη μορφή αρχείου</INVALID_FILE_FORMAT>
+		<ITEM_X>Αντικείμενο : %s</ITEM_X>
+		<KEYS_CREATED_STAT>Δημιουργηθέντα κλειδιά      :%6.1d</KEYS_CREATED_STAT>
+		<KEYS_DEL_STAT>Διαγραφέντα κλειδιά      :%6.1d</KEYS_DEL_STAT>
+		<KEYS_X>Κλειδιά    :%6.1d</KEYS_X>
+		<LAST_CHECK>Τελ. Έλεγχος: %s</LAST_CHECK>
+		<LAST_WRITE_X>Τελευταία εγγραφή: %s</LAST_WRITE_X>
+		<LAUNCH>Ξεκίνα</LAUNCH>
+		<LAUNCH_SUPPLIED_UNINST>Ο τυπικός (απ)εγκαταστάτης του προγράμματος θα ξεκινήσει.</LAUNCH_SUPPLIED_UNINST>
+		<LAUNCH_TU>Εκκίνηση Total Uninstall</LAUNCH_TU>
+		<LIC_COUNTRY>Άδεια Χώρας</LIC_COUNTRY>
+		<LIC_FAMILY>Άδεια Οικογένειας</LIC_FAMILY>
+		<LIC_MULTIPLE>Άδεια Πολλαπλών Υπολογιστών</LIC_MULTIPLE>
+		<LIC_SINGLE_COMPUTER>Άδεια Μονού Υπολογιστή</LIC_SINGLE_COMPUTER>
+		<LIC_SITE>Άδεια Ιστοσελίδας</LIC_SITE>
+		<LIC_SMALL_OFFICE>Άδεια Μικρομεσαίας Επιχείρησης</LIC_SMALL_OFFICE>
+		<LIC_TECHNICIAN>Άδεια Τεχνικού</LIC_TECHNICIAN>
+		<LIC_TEMPORARY>Προσωρινή Άδεια</LIC_TEMPORARY>
+		<LIC_WORLDWIDE>Παγκόσμια Άδεια</LIC_WORLDWIDE>
+		<LICENSED_TO>Δηλωμένο στον &quot;%s&quot;</LICENSED_TO>
+		<LNK_EXE_FILTER>Συντομεύσεις και εκτελέσιμα (*.lnk, *.exe)|*.lnk;*.exe</LNK_EXE_FILTER>
+		<LOADING>Φόρτωση...</LOADING>
+		<LOADING_INST_PRGS>Φόρτωση εγκατεστημένων προγραμμάτων...</LOADING_INST_PRGS>
+		<LOADING_MON_PRGS>Φόρτωση παρακολουθούμενων προγραμμάτων...</LOADING_MON_PRGS>
+		<LOCATE_PRG_LNK_EXE>Επιλέξτε πρόγραμμα ή συντόμευση του</LOCATE_PRG_LNK_EXE>
+		<LOCATE_UNINSTALLER_EXE>Επιλέξτε το πρόγραμμα απεγκατάστασης</LOCATE_UNINSTALLER_EXE>
+		<LOG_FILE_NAME>Όνομα αρχείου καταγραφής</LOG_FILE_NAME>
+		<LOGON>Είσοδος</LOGON>
+		<MAINTENANCE_ENDED>Η περίοδος συντήρησης για την άδειά σας έληξε.</MAINTENANCE_ENDED>
+		<MAINTENANCE_ENDED_INFO>Η νέα έκδοση του εγκατεστημένου προγράμματος θα τρέχει σε λειτουργία δοκιμής.</MAINTENANCE_ENDED_INFO>
+		<MANUAL>Εγχειρίδιο</MANUAL>
+		<MISSING_ITEMS>Αντικείμενα που Λείπουν</MISSING_ITEMS>
+		<MON_ON>Παρακολουθείται Σε</MON_ON>
+		<MON_PRG>Παρακολουθούμενο πρόγραμμα</MON_PRG>
+		<MON_PRG_PATH>Τοποθεσία Παρακολουθούμενου προγραμματος</MON_PRG_PATH>
+		<MON_PRG_RUNNING>Φαίνεται πως το παρακολουθούμενο πρόγραμμα τρέχει ακόμα.</MON_PRG_RUNNING>
+		<MONITOR_WITH_TU>Παρακολούθηση με το Total Uninstall</MONITOR_WITH_TU>
+		<MONITORED_PRGS>%d παρακολουθούμενα προγράμματα</MONITORED_PRGS>
+		<NAME>Όνομα</NAME>
+		<NEVER>Ποτέ</NEVER>
+		<NEW_NAME>Νέο όνομα</NEW_NAME>
+		<NO>όχι</NO>
+		<NO_GROUPS>Όχι Γκρούπ</NO_GROUPS>
+		<NO_MORE_INSTANCES_ALLOWED>Η άδειά σας δεν επιτρέπει να τρέχουν περισσότερα αντίγραφα του προγράμματος ταυτόχρονα.</NO_MORE_INSTANCES_ALLOWED>
+		<NO_RIGHTS>Ανεπαρκή δικαιώματα</NO_RIGHTS>
+		<NO_UPDATES>Φθαρμένη έκδοση.</NO_UPDATES>
+		<NORMAL>Τυπικό</NORMAL>
+		<NOT_A_VALID_UNINST>Μη έγκυρος απεγκαταστάτης.</NOT_A_VALID_UNINST>
+		<NOT_AVAILABLE>Μη διαθέσιμο</NOT_AVAILABLE>
+		<NOT_DELETED_FILES>Δεν διαγράφηκαν φάκελοι και αρχεία</NOT_DELETED_FILES>
+		<NOT_DELETED_FILES_DET>Δεν διαγράφηκαν φάκελοι και αρχεία κατα την απεγκατάσταση</NOT_DELETED_FILES_DET>
+		<NOT_DELETED_REG>Δεν διαγράφηκαν κλειδιά και τιμές μητρώου</NOT_DELETED_REG>
+		<NOT_DELETED_REG_DET>Δεν διαγράφηκαν κλειδιά και τιμές μητρώου κατα την απεγκατάσταση</NOT_DELETED_REG_DET>
+		<NOT_EMPTY>Όχι άδειο</NOT_EMPTY>
+		<NOT_FOUND>Δεν βρέθηκε</NOT_FOUND>
+		<NOT_FOUND_X>Δεν βράθηκε: %s</NOT_FOUND_X>
+		<NOTES>Σημειώσεις</NOTES>
+		<OK>ΟΚ</OK>
+		<OK_BRA>(OK)</OK_BRA>
+		<ON_PRG_CLOSE>Στο κλείσιμο προγράμματος</ON_PRG_CLOSE>
+		<ON_REFRESH>Στην Ανανέωση</ON_REFRESH>
+		<ONLY_FILES_TO_KEEP>Δεν διαγράφηκε. Περιέχει μόνο αρχεία και φακέλους που θα κρατήσετε.</ONLY_FILES_TO_KEEP>
+		<ONLY_KEYS_TO_KEEP>Δεν διαγράφηκε. Περιέχει μόνο κλειδιά και τιμές μητρώου που θα κρατήσετε.</ONLY_KEYS_TO_KEEP>
+		<OTHER>Άλλα</OTHER>
+		<PAGE>Σελίδα:</PAGE>
+		<PAINT_ITEM_STYLES>Δείξε Κανονικά\nΚρύψε\nΦώτισε Κείμενο\nΘόλωσε Εικονίδιο\nΘόλωσε Εικονίδιο και Φώτισε Κείμενο</PAINT_ITEM_STYLES>
+		<PENDING_FILE_REN>Εκκρεμείς απόπειρες μετονομασίας αρχείων.</PENDING_FILE_REN>
+		<PRE_INST_SNS_NAME>Όνομα Snapshot Προ Εγκατάστασης</PRE_INST_SNS_NAME>
+		<PRE_INSTALL>Snapshot συστήματος πρίν την εγκατάσταση</PRE_INSTALL>
+		<PREFERENCES>Προτιμήσεις</PREFERENCES>
+		<PRG_DETECTED>Εντοπίστηκε πρόγραμμα:</PRG_DETECTED>
+		<PRG_NAME>Όνομα προγράμματος</PRG_NAME>
+		<PRG_PART_UNINSTALLED>Το πρόγραμμα απεγκαταστάθηκε μερικώς</PRG_PART_UNINSTALLED>
+		<PRG_RESTORED>Το πρόγραμμα επαναφέρθηκε.</PRG_RESTORED>
+		<PRG_UNINSTALLED>Το πρόγραμμα απεγκαταστάθηκε επιτυχώς</PRG_UNINSTALLED>
+		<PRINT_ERROR>Σφάλμα εκτύπωσης !</PRINT_ERROR>
+		<PROCESS_CANCELLED>Η διαδικασία ακυρώθηκε.</PROCESS_CANCELLED>
+		<PROCESSING_INSTALLATIONS>Επεξεργασία εγκαταστάσεων</PROCESSING_INSTALLATIONS>
+		<PRODUCT_UPDATES>Ενημερώσεις Προϊόντος</PRODUCT_UPDATES>
+		<PROGRAM_WILL_RESTART>Το πρόγραμμα θα επανεκκινηθεί για να ενεργοποιηθέι η δήλωση.</PROGRAM_WILL_RESTART>
+		<PROGRESS_DEFAULT>Πρόοδος, προεπιλογή</PROGRESS_DEFAULT>
+		<PST_INST_SNS_NAME>Όνομα Snapshot μετά την Εγκατάσταση</PST_INST_SNS_NAME>
+		<PUBLISHER>Εκδότης</PUBLISHER>
+		<QST_DEL_FLD_FILES>Είστε σίγουροι οτι θέλετε να διαγράψετε τα επιλεγμένα αρχεία και φακέλους;</QST_DEL_FLD_FILES>
+		<QST_DEL_REG_KEYS_VALS>Είστε σίγουροι οτι θέλετε να διαγράψετε τα επιλεγμένα κλειδιά και τιμές;</QST_DEL_REG_KEYS_VALS>
+		<QST_DEL_SERVICES>Σίγουρα διαγραφή επιλεγμένων υπηρεσιών;</QST_DEL_SERVICES>
+		<QST_REMOVE_INST_PRG_LST>Σίγουρα αφάιρεση απο τη λίστα;</QST_REMOVE_INST_PRG_LST>
+		<QUEST_REMOVE_GROUP>Αφαίρεση Γκρούπ;</QUEST_REMOVE_GROUP>
+		<QUIET_PROGRESS_DEFAULT>Ήσυχο, πρόοδος, προεπιλογή</QUIET_PROGRESS_DEFAULT>
+		<README>Διάβασέ με</README>
+		<READY>Έτοιμο</READY>
+		<RECORD_CHANGED_X>Η εγγραφή τροποποιήθηκε: %s</RECORD_CHANGED_X>
+		<REDO_PROFILES>Προφίλ επαναφοράς</REDO_PROFILES>
+		<REG_DET_VIEW_PRF>ΛΕΠΤΟΜΕΡΕΙΕΣ ΜΗΤΡΩΟΥ [Βλέπε: %s]</REG_DET_VIEW_PRF>
+		<REG_KEY>(REG KEY)</REG_KEY>
+		<REG_RUN>Εκκίνηση</REG_RUN>
+		<REG_RUN_ONCE>Εκκίνηση μία φορά</REG_RUN_ONCE>
+		<REG_SCAN_ERROR>Σφάλμα ανάλυσης μητρώου.</REG_SCAN_ERROR>
+		<REG_VAL>(REG VAL)</REG_VAL>
+		<REGISTER_DISABLED_KEY>Ίσως είστε θύμα λαθρεμπορίας λογισμικού.\nΠαρακαλώ αγοράστε γνήσιο κλειδί άδειας.</REGISTER_DISABLED_KEY>
+		<REGISTER_FAILED>Η δήλωση απέτυχε.</REGISTER_FAILED>
+		<REGISTER_FIREWALL>Ένα τείχος προστασίας αποτρέπει το %s να επικυρώσει την άδεια σας στο ίντερνετ.</REGISTER_FIREWALL>
+		<REGISTER_HOST>Μία εγγραφή στο αρχείο HOSTS αποτρέπει το %s να επικυρώσει την άδεια σας στο ίντερνετ.</REGISTER_HOST>
+		<REGISTER_INVALID>Άκυρες πληροφορίες δήλωσης</REGISTER_INVALID>
+		<REGISTER_PRO>Θα πρέπει να δηλώσετε το πρόγραμμα με ένα κλειδί για την επαγγελματική έκδοση.</REGISTER_PRO>
+		<REGISTER_THANK_YOU>Ευχαριστούμε για τη δήλωση του %s.</REGISTER_THANK_YOU>
+		<REGISTERED_COMPANY>Δηλωμένη Εταιρεία</REGISTERED_COMPANY>
+		<REGISTERED_OWNER>Δηλωμένος Ιδιοκτήτης</REGISTERED_OWNER>
+		<REGISTRY>Μητρώο</REGISTRY>
+		<REMOVE_LEFT_BEHIND>Πατήστε Απεγκατάσταση για απομάκρυνση των ανιχνευμένων απομειναριών (φακέλοι, αρχεία ή/και τιμές μητρώου).</REMOVE_LEFT_BEHIND>
+		<REMOVE_LOG>Διαγραφή ημερολογίου αλλαγών;</REMOVE_LOG>
+		<REMOVE_LOG_DET>Δεν θα μπορείτε να επαναφέρετε τις αλλαγές που έγιναν απο το επιλεγμένο πρόγραμμα.</REMOVE_LOG_DET>
+		<REMOVE_PRG_DATA>Απομάκρυνση ρυθμίσεων και δεδομένων προγράμματος;</REMOVE_PRG_DATA>
+		<REMOVE_PRG_DATA_INFO>Επιλέξτε &quot;Όχι&quot; εαν σκοπεύετε να ενημερώσετε ή να αναβαθμίσετε το Total Uninstall</REMOVE_PRG_DATA_INFO>
+		<RENAME>Μετονομασία</RENAME>
+		<REQUEST_INTERNET_ACCESS>Η πρόσβαση στο Ίντερνετ είναι υποχρεωτική.</REQUEST_INTERNET_ACCESS>
+		<RESTORATION_UNDONE>Η επαναφορά αναιρέθηκε.</RESTORATION_UNDONE>
+		<RESTORE>Επαναφορά</RESTORE>
+		<RESTORE_PROGRAM>Επαναφορά προγράμματος</RESTORE_PROGRAM>
+		<RESTORE_REG_VALS>Αποκατάσταση τιμών μητρώου</RESTORE_REG_VALS>
+		<RESTORING_ARCHIVE>Επαναφορά αρχείων και εγγραφών μητρώου...</RESTORING_ARCHIVE>
+		<RESTORING_FILES_FROM_BKP>Επαναφορά απο αντ. ασφ....</RESTORING_FILES_FROM_BKP>
+		<RST_FILE_PROP>Αποκατάσταση ιδιοτήτων αρχείου</RST_FILE_PROP>
+		<RUN_EVAL_PERIOD>Τρέξιμο του προγράμματος σε δοκιμάστική περίοδο;</RUN_EVAL_PERIOD>
+		<RUNNING_DOMAIN>Τρέχει σε Windows NT domain.</RUNNING_DOMAIN>
+		<RUNNING_SERVER>Τρέχει σε Windows Server.</RUNNING_SERVER>
+		<RUNNING_VM>Τρέχει σε εικονική μηχανή.</RUNNING_VM>
+		<SAFE>Ασφαλές</SAFE>
+		<SAVE_AS>Αποθήκευση Ως</SAVE_AS>
+		<SCAN_PROFILES>Προφίλ Ελέγχου</SCAN_PROFILES>
+		<SCANNING>Έλεγχος...</SCANNING>
+		<SCANNING_REGISTRY_AND_FS>Έλεγχος μητρώου και συστήματος αρχείων...</SCANNING_REGISTRY_AND_FS>
+		<SCHEDULED_TASKS>Προγραμματισμένες εργασίες</SCHEDULED_TASKS>
+		<SEARCH>Αναζήτηση</SEARCH>
+		<SEARCH_IN_X>Αναζήτηση σε &quot;%s&quot;</SEARCH_IN_X>
+		<SEL_BRA>(Επιλογή)</SEL_BRA>
+		<SEL_HAS_HD_NODES>Η επιλογή περιέχει τουλάχιστον έναν κρυμμένο κόμβο.</SEL_HAS_HD_NODES>
+		<SEL_PRG_UNINSTALLED>Το επιλεγμένο πρόγραμμα είναι ήδη απεγκατεστημένο.</SEL_PRG_UNINSTALLED>
+		<SEL_UNINSTALL_PROFILE>Επιλέξτε προφίλ απεγκατάστασης.</SEL_UNINSTALL_PROFILE>
+		<SELECT>Επιλογή</SELECT>
+		<SERVICES>Υπηρεσίες</SERVICES>
+		<SHARED_FILE>Κοινό Αρχείο. Δεν εντοπίστηκε σε αυτή τη φάση</SHARED_FILE>
+		<SHARED_FILE_CNT_DEC>Ο μετρητής κοινών αρχείων μειώθηκε ήδη</SHARED_FILE_CNT_DEC>
+		<SHARED_FILE_NOT_FOUND>Δεν βρέθηκε το κοινό αρχείο στο δίσκο</SHARED_FILE_NOT_FOUND>
+		<SHOW_OPTIONS>Εμφάνιση &amp;επιλογών</SHOW_OPTIONS>
+		<SHOW_SYS_COMP>Εμφάνιση στοιχείων συστήματος: %s</SHOW_SYS_COMP>
+		<SIZE>Μέγεθος</SIZE>
+		<SIZE_STAT>Μέγεθος                   : %s</SIZE_STAT>
+		<SKIP>Παράβλεψη</SKIP>
+		<SKIP_BUILTIN_UNINSTALLER>Αν ο ενσωματωμένος απεγκαταστάτης δεν αποκρίνεται, πατήστε Παράλειψη για συνέχεια. Ο επόμενος ενσωματωμένος απεγκαταστάτης θα εκκινηθεί.</SKIP_BUILTIN_UNINSTALLER>
+		<SMALL_CNT>Ο μετρητής κοινού αρχείου είναι πολύ μικρός στο μητρώο</SMALL_CNT>
+		<START>Εκκίνηση</START>
+		<START_MENU>Μενού εκκίνησης</START_MENU>
+		<START_SCANNING>Πατήστε Έλεγχος για έναρξη της ανάλυσης</START_SCANNING>
+		<START_UNINSTALL_PROCESS>Εκκίνηση της διαδικασίας απεγκατάστασης.</START_UNINSTALL_PROCESS>
+		<STARTUP_TYPE_X>Τύπος εκκίνησης : %s</STARTUP_TYPE_X>
+		<STOP>Διακοπή</STOP>
+		<STOP_SERVICES>Διακοπή υπηρεσιών</STOP_SERVICES>
+		<SUPPORT_INFO>Πληροφορίες Υποστήριξης</SUPPORT_INFO>
+		<SUPPORT_PHONE>Τηλέφωνο Υποστήριξης</SUPPORT_PHONE>
+		<SVC_CMD_NOT_ACCEPTED>Η υπηρεσία δεν επιδέχεται εντολή διακοπής.</SVC_CMD_NOT_ACCEPTED>
+		<SW_VERSION>Έκδοση %s</SW_VERSION>
+		<SYSTEM>Σύστημα</SYSTEM>
+		<TEMPORARY_FILES>Προσωρινά αρχεία</TEMPORARY_FILES>
+		<TITLE_MON_INSTALL>Παρακολούθηση Νέας Εγκατάστασης</TITLE_MON_INSTALL>
+		<TITLE_MON_UPDATE_X>Παρακολούθησε την ενημέρωση προγράμματος &quot;%s&quot;</TITLE_MON_UPDATE_X>
+		<TOTAL_LIC_COMPUTERS>Συνολικοί υπολογιστές με Άδεια για το παραπάνω όνομα: %s</TOTAL_LIC_COMPUTERS>
+		<TOTAL_UNINSTALL>Απόλυτη Απεγκατάσταση</TOTAL_UNINSTALL>
+		<TRACES_AFTER_UNINSTALL>Ίχνη Μετά την Απεγκατάσταση</TRACES_AFTER_UNINSTALL>
+		<TRIAL_EXPIRED>Η δοκιμαστική περίοδος έληξε. Παρακαλώ δηλωθείτε.</TRIAL_EXPIRED>
+		<TU_AGENT>Εικονίδιο γραμμής εργασιών Total Uninstall</TU_AGENT>
+		<TU_MON_PRG_TITLE>Παρακολουθούμενα προγράμματα</TU_MON_PRG_TITLE>
+		<TU_PRO_EDITION>Total Uninstall Επαγγελματική Έκδοση</TU_PRO_EDITION>
+		<TU_STD_EDITION>Total Uninstall Τυπική Έκδοση</TU_STD_EDITION>
+		<TU_USE_FIRST_UNINST>Απόλυτη απεγκατάσταση χρησιμοποιώντας πρώτα τον παρεχόμενο απεγκαταστάτη</TU_USE_FIRST_UNINST>
+		<TU_USE_FIRST_UNINST_DESC>Απεγκαταστήστε anti-virus, anti-spyware, τείχη προστασίας, οδηγούς, ή οποιοδήποτε άλλο πρόγραμμα εγκαθιστά συσκευές συστήματος.</TU_USE_FIRST_UNINST_DESC>
+		<UNDO>Αναίρεση</UNDO>
+		<UNDO_RESTORATION>Αναίρεση επαναφοράς</UNDO_RESTORATION>
+		<UNINST_ANALYZED>Απεγκατάσταση αναλυμένου προγράμματος</UNINST_ANALYZED>
+		<UNINST_BUNDLE>Απεγκατάσταση αναλυμένων προγραμμάτων - πακέτο</UNINST_BUNDLE>
+		<UNINST_PROFILES>Προφίλ Απεγκατάστασης</UNINST_PROFILES>
+		<UNINSTALL>Απεγκατάσταση</UNINSTALL>
+		<UNINSTALL_INST_HINT>Απεγκατάσταση|Απεγκατέστησε το επιλεγμένο αναλυμένο πρόγραμμα</UNINSTALL_INST_HINT>
+		<UNINSTALL_MON_HINT>Απεγκατάσταση|Απεγκατέστησε το επιλεγμένο παρακολουθημένο πρόγραμμα</UNINSTALL_MON_HINT>
+		<UNINSTALL_PROGRAM_X>Απεγκατέστησε το &quot;%s&quot;</UNINSTALL_PROGRAM_X>
+		<UNINSTALLED_WITH_TU>Απεγκαταστήθηκε με το Total Uninstall &quot;%s&quot;</UNINSTALLED_WITH_TU>
+		<UNREGISTERED>Μη δηλωμένο</UNREGISTERED>
+		<USE_LAST_SNS>Χρήση Τελευταίου Snapshot</USE_LAST_SNS>
+		<USE_LAST_SNS_AGO_D>Χρήση Τελευταίου Snapshot (%d ημέρες, %d ώρες και %d λεπτά πρίν)</USE_LAST_SNS_AGO_D>
+		<USE_LAST_SNS_AGO_H>Χρήση Τελευταίου Snapshot (%d ώρες και %d λεπτά πρίν)</USE_LAST_SNS_AGO_H>
+		<USE_LAST_SNS_AGO_M>Χρήση Τελευταίου Snapshot (%d λεπτά πρίν)</USE_LAST_SNS_AGO_M>
+		<USE_OLD_PURCHASE_NEW>Εγκαταστήστε μία παλαιότερη έκδοση ή αγοράστε την ενημέρωση για να χρησιμοποιήσετε αυτήν την έκδοση.</USE_OLD_PURCHASE_NEW>
+		<USE_ONLY_PRG_UNINST>Χρήση μόνο του απεγκαταστάτη του προγράμματος</USE_ONLY_PRG_UNINST>
+		<USE_OR_BUILD_SNS>Δημιουργία ή χρήση προηγούμενου snapshot πριν την εγκατάσταση.</USE_OR_BUILD_SNS>
+		<USR_ABORT>Ακυρώθηκε απο το χρήστη</USR_ABORT>
+		<VALS_CHG_STAT>Τιμές που τροποποιήθηκαν   :%6.1d</VALS_CHG_STAT>
+		<VALS_CREATED_STAT>Τιμές που δημιουργήθηκαν   :%6.1d</VALS_CREATED_STAT>
+		<VALS_DEL_STAT>Τιμές που διαγράφηκαν   :%6.1d</VALS_DEL_STAT>
+		<VALUES_X>Τιμές  :%6.1d</VALUES_X>
+		<VERSION>Έκδοση</VERSION>
+		<WAIT_UNINST_REMOVE_LEFT>Όταν ο τυπικός απεγκαταστάτης τελειώσει, πατήστε Απεγκατάσταση για να απομακρύνετε τα απομεινάρια (φάκελους, αρχεία ή/και τιμές μητρώου).</WAIT_UNINST_REMOVE_LEFT>
+		<WRN_BRA>(ΠΡΔ)</WRN_BRA>
+		<X_BYTE>%s B</X_BYTE>
+		<X_BYTES>%d bytes</X_BYTES>
+		<X_CHANGES>%s - Αλλαγές</X_CHANGES>
+		<X_GIGABYTE>%s GB</X_GIGABYTE>
+		<X_KILOBYTE>%s KB</X_KILOBYTE>
+		<X_MEGABYTE>%s MB</X_MEGABYTE>
+		<X_RESULTS>%d αποτελέσματα</X_RESULTS>
+		<X_UNINSTALL_LOG>&quot;%s&quot; - Καταγραφή απεγκατάστασης</X_UNINSTALL_LOG>
+		<X_UNINSTALL_LOG_FILE>&quot;%s&quot; - UninstallLog.txt</X_UNINSTALL_LOG_FILE>
+		<YES>ναί</YES>
+		<ZERO_LENGTH_DATA>(μηδενικό μήκος δεδομένων)</ZERO_LENGTH_DATA>
+	</RESOURCESTRING>
+</TotalUninstall>

@@ -1,0 +1,1777 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TotalUninstall>
+	<_System_>
+		<Flag>
+			<Size>438</Size>
+			<Data>Qk22AQAAAAAAAHYAAAAoAAAAIAAAABQAAAABAAQAAAAAAEABAADEDgAAxA4AABAAAAAAAAAAAAAAAAAA/wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIiIiIiIiIiIiIiIiIiIgAiIiIiIiIiIiIiIiIiIiIAIiIiIiIiIiIiIiIiIiIiACIiIiIiIiEREiIiIiIiIgAiIiIiIiERERESIiIiIiIAIiIiIiIRERERESIiIiIiACIiIiIiEREREREiIiIiIgAiIiIiIREREREREiIiIiIAIiIiIiERERERERIiIiIiACIiIiIhERERERESIiIiIgAiIiIiIREREREREiIiIiIAIiIiIiIRERERESIiIiIiACIiIiIiEREREREiIiIiIgAiIiIiIiERERESIiIiIiIAIiIiIiIiIRESIiIiIiIiACIiIiIiIiIiIiIiIiIiIgAiIiIiIiIiIiIiIiIiIiIAIiIiIiIiIiIiIiIiIiIiAAAAAAAAAAAAAAAAAAAAAA</Data>
+		</Flag>
+		<LanguageCode>en</LanguageCode>
+		<LocalizedName>日本語</LocalizedName>
+		<Version>5700</Version>
+	</_System_>
+	<dlgAddInstalledPrg>
+		<btnCancel>
+			<Caption>キャンセル</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>プログラムを一覧に追加</Caption>
+		<lblInstallationFolder>
+			<Caption>インストール フォルダー</Caption>
+		</lblInstallationFolder>
+		<lblPrgName>
+			<Caption>プログラム名</Caption>
+		</lblPrgName>
+	</dlgAddInstalledPrg>
+	<dlgAskDelItem>
+		<btnOK>
+			<Caption>OK(&amp;O)</Caption>
+		</btnOK>
+		<btnSelectAll>
+			<Caption>すべて選択(&amp;S)</Caption>
+		</btnSelectAll>
+		<btnUnselectAll>
+			<Caption>すべて選択解除(&amp;U)</Caption>
+		</btnUnselectAll>
+		<Caption>アイテムを削除しますか?</Caption>
+		<lblDelSel>
+			<Caption>選択されたアイテムは削除されます(&amp;I)</Caption>
+		</lblDelSel>
+	</dlgAskDelItem>
+	<dlgChangeIcon>
+		<btnBrowse>
+			<Caption>参照...</Caption>
+		</btnBrowse>
+		<btnCancel>
+			<Caption>キャンセル</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>アイコンの変更</Caption>
+		<gbIcons>
+			<Caption>アイコン</Caption>
+		</gbIcons>
+	</dlgChangeIcon>
+	<dlgCheckUpdates>
+		<btnClose>
+			<Caption>閉じる</Caption>
+		</btnClose>
+		<btnRefresh>
+			<Caption>更新</Caption>
+		</btnRefresh>
+		<Caption>更新のチェック</Caption>
+	</dlgCheckUpdates>
+	<dlgCompareSns>
+		<btnCancel>
+			<Caption>キャンセル</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>システム スナップショットの比較</Caption>
+		<lblCompareProfile>
+			<Caption>プロファイルの比較</Caption>
+		</lblCompareProfile>
+		<lblResultLog>
+			<Caption>結果ログ</Caption>
+		</lblResultLog>
+		<lblSnapshotA>
+			<Caption>システム スナップショット A</Caption>
+		</lblSnapshotA>
+		<lblSnapshotB>
+			<Caption>システム スナップショット B</Caption>
+		</lblSnapshotB>
+	</dlgCompareSns>
+	<dlgExportRegistry>
+		<btnCancel>
+			<Caption>キャンセル</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>レジストリの変更点のエクスポート</Caption>
+		<cbCreatedKeys>
+			<Caption>作成されたキー</Caption>
+		</cbCreatedKeys>
+		<cbCreatedValues>
+			<Caption>作成された値</Caption>
+		</cbCreatedValues>
+		<cbDeletedKeys>
+			<Caption>削除されたキー</Caption>
+		</cbDeletedKeys>
+		<cbDeletedValues>
+			<Caption>削除された値</Caption>
+		</cbDeletedValues>
+		<cbModifiedValues>
+			<Caption>変更された値</Caption>
+		</cbModifiedValues>
+		<gbDetails>
+			<Caption>レジストリの変更点</Caption>
+		</gbDetails>
+		<gbExportType>
+			<Caption>エクスポートの種類</Caption>
+		</gbExportType>
+		<gbRange>
+			<Caption>エクスポート範囲</Caption>
+		</gbRange>
+		<rbExpAll>
+			<Caption>すべて</Caption>
+		</rbExpAll>
+		<rbExpBranch>
+			<Caption>選択された分岐</Caption>
+		</rbExpBranch>
+		<rbInstall>
+			<Caption>インストール ファイル</Caption>
+		</rbInstall>
+		<rbUninstall>
+			<Caption>アンインストール ファイル</Caption>
+		</rbUninstall>
+	</dlgExportRegistry>
+	<dlgGroupProp>
+		<btnCancel>
+			<Caption>キャンセル</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>グループ</Caption>
+		<lblIcon>
+			<Caption>アイコン</Caption>
+		</lblIcon>
+		<lblName>
+			<Caption>名前</Caption>
+		</lblName>
+	</dlgGroupProp>
+	<dlgMergeLogs>
+		<btnCancel>
+			<Caption>キャンセル</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>ログの合併</Caption>
+		<cbDeleteUpdate>
+			<Caption>合併後に更新ログを削除する</Caption>
+		</cbDeleteUpdate>
+		<gbDestination>
+			<Caption>合併先</Caption>
+		</gbDestination>
+		<gbSources>
+			<Caption>ソース</Caption>
+		</gbSources>
+		<lblInstallLog>
+			<Caption>インストール ログ</Caption>
+		</lblInstallLog>
+		<lblUpdateLog>
+			<Caption>更新ログ</Caption>
+		</lblUpdateLog>
+		<rbCreateANewLog>
+			<Caption>新しいログを作成する</Caption>
+		</rbCreateANewLog>
+		<rbSaveInInstallLog>
+			<Caption>インストール ログに保存する</Caption>
+		</rbSaveInInstallLog>
+	</dlgMergeLogs>
+	<dlgPendingFileRename>
+		<btnApply>
+			<Caption>適用</Caption>
+		</btnApply>
+		<btnClose>
+			<Caption>閉じる</Caption>
+		</btnClose>
+		<Caption>未決のファイル名の変更の操作</Caption>
+		<tvPendingFiles>
+			<Columns_0>ソース</Columns_0>
+			<Columns_1>名前の変更先</Columns_1>
+		</tvPendingFiles>
+	</dlgPendingFileRename>
+	<dlgRegister>
+		<btnBuy>
+			<Caption>購入</Caption>
+		</btnBuy>
+		<btnCancel>
+			<Caption>キャンセル</Caption>
+		</btnCancel>
+		<btnRegister>
+			<Caption>登録</Caption>
+		</btnRegister>
+		<Caption>Total Uninstall の登録</Caption>
+		<lblKey>
+			<Caption>登録キー</Caption>
+		</lblKey>
+		<lblName>
+			<Caption>登録名</Caption>
+		</lblName>
+	</dlgRegister>
+	<dlgRestrictedFeature>
+		<btnCancel>
+			<Caption>キャンセル</Caption>
+		</btnCancel>
+		<Caption>制限されている機能</Caption>
+		<clinkPurchase>
+			<Caption>購入</Caption>
+			<Note>注文フォームを開きます</Note>
+		</clinkPurchase>
+		<lblInstruction>
+			<Caption>この機能は登録済みバージョンで利用可能です</Caption>
+		</lblInstruction>
+		<lblProfessionalEdition>
+			<Caption>- Professional エディション</Caption>
+		</lblProfessionalEdition>
+	</dlgRestrictedFeature>
+	<dlgRmvShared>
+		<btnNo>
+			<Caption>いいえ</Caption>
+		</btnNo>
+		<btnNoToAll>
+			<Caption>すべていいえ</Caption>
+		</btnNoToAll>
+		<btnYes>
+			<Caption>はい</Caption>
+		</btnYes>
+		<btnYesToAll>
+			<Caption>すべてはい</Caption>
+		</btnYesToAll>
+		<Caption>共有ファイルを削除しますか?</Caption>
+		<lblFileName>
+			<Caption>ファイル名:</Caption>
+		</lblFileName>
+		<lblLocated>
+			<Caption>場所:</Caption>
+		</lblLocated>
+		<lblOne>
+			<Caption>システムは以下の共有ファイルはもうすべてのプログラムによって使用されていないことを示しています。何かのプログラムがまだこのファイルを使用していて削除された場合、それらのプログラムは機能しない可能性があります。共有ファイルを削除してもよろしいですか?</Caption>
+		</lblOne>
+		<lblTwo>
+			<Caption>このファイルを残すことはお使いのシステムを害しません。何をするかが確実でない場合、この共有コンポーネントを削除しないのを選択することが推奨されます。</Caption>
+		</lblTwo>
+	</dlgRmvShared>
+	<dlgSelect>
+		<btnCancel>
+			<Caption>キャンセル</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>選択</Caption>
+	</dlgSelect>
+	<dlgSelectLibIcon>
+		<btnAdd>
+			<Caption>追加</Caption>
+		</btnAdd>
+		<btnCancel>
+			<Caption>キャンセル</Caption>
+		</btnCancel>
+		<btnDelete>
+			<Caption>削除</Caption>
+		</btnDelete>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>アイコンの選択</Caption>
+		<gbIcons>
+			<Caption>アイコン</Caption>
+		</gbIcons>
+	</dlgSelectLibIcon>
+	<dlgTUAbout>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>バージョン情報</Caption>
+		<lblCopyright>
+			<Caption>Copyright © 2001-2019, Gavrila Martau</Caption>
+		</lblCopyright>
+		<lblEmail>
+			<Caption>電子メール</Caption>
+		</lblEmail>
+		<lblHomePage>
+			<Caption>ホーム ページ</Caption>
+		</lblHomePage>
+	</dlgTUAbout>
+	<dlgTUOptions>
+		<btnAddAnalysisProfile>
+			<Caption>追加...</Caption>
+		</btnAddAnalysisProfile>
+		<btnAddChgView>
+			<Caption>追加...</Caption>
+		</btnAddChgView>
+		<btnAddCompareProfile>
+			<Caption>追加...</Caption>
+		</btnAddCompareProfile>
+		<btnAddExclKey>
+			<Caption>追加...</Caption>
+		</btnAddExclKey>
+		<btnAddIgnFile>
+			<Caption>追加...</Caption>
+		</btnAddIgnFile>
+		<btnAddInclFlds>
+			<Caption>追加...</Caption>
+		</btnAddInclFlds>
+		<btnAddInclKeys>
+			<Caption>追加...</Caption>
+		</btnAddInclKeys>
+		<btnAddInstallLoc>
+			<Caption>追加...</Caption>
+		</btnAddInstallLoc>
+		<btnAddScanProfile>
+			<Caption>追加...</Caption>
+		</btnAddScanProfile>
+		<btnAddUninst>
+			<Caption>追加...</Caption>
+		</btnAddUninst>
+		<btnAddUninstInst>
+			<Caption>追加...</Caption>
+		</btnAddUninstInst>
+		<btnAddVer>
+			<Caption>追加...</Caption>
+		</btnAddVer>
+		<btnAgentAddExcMask>
+			<Caption>追加...</Caption>
+		</btnAgentAddExcMask>
+		<btnAgentAddIncMask>
+			<Caption>追加...</Caption>
+		</btnAgentAddIncMask>
+		<btnAgentRemExcMask>
+			<Caption>削除</Caption>
+		</btnAgentRemExcMask>
+		<btnAgentRemIncMask>
+			<Caption>削除</Caption>
+		</btnAgentRemIncMask>
+		<btnAnlSaveAs>
+			<Caption>名前を付けて保存...</Caption>
+		</btnAnlSaveAs>
+		<btnCancel>
+			<Caption>キャンセル</Caption>
+		</btnCancel>
+		<btnChgViewSaveAs>
+			<Caption>名前を付けて保存...</Caption>
+		</btnChgViewSaveAs>
+		<btnCompPlaySound>
+			<Caption>テスト</Caption>
+		</btnCompPlaySound>
+		<btnCompSaveAs>
+			<Caption>名前を付けて保存...</Caption>
+		</btnCompSaveAs>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<btnRemAnalysisProfile>
+			<Caption>削除...</Caption>
+		</btnRemAnalysisProfile>
+		<btnRemChgView>
+			<Caption>削除...</Caption>
+		</btnRemChgView>
+		<btnRemCompareProfile>
+			<Caption>削除...</Caption>
+		</btnRemCompareProfile>
+		<btnRemExclFlds>
+			<Caption>削除</Caption>
+		</btnRemExclFlds>
+		<btnRemExclKeys>
+			<Caption>削除</Caption>
+		</btnRemExclKeys>
+		<btnRemIgnFile>
+			<Caption>削除</Caption>
+		</btnRemIgnFile>
+		<btnRemInclFlds>
+			<Caption>削除</Caption>
+		</btnRemInclFlds>
+		<btnRemInclKeys>
+			<Caption>削除</Caption>
+		</btnRemInclKeys>
+		<btnRemoveInstallLoc>
+			<Caption>削除</Caption>
+		</btnRemoveInstallLoc>
+		<btnRemScanProfile>
+			<Caption>削除...</Caption>
+		</btnRemScanProfile>
+		<btnRemUninst>
+			<Caption>削除...</Caption>
+		</btnRemUninst>
+		<btnRemUninstInst>
+			<Caption>削除...</Caption>
+		</btnRemUninstInst>
+		<btnRemValues>
+			<Caption>削除</Caption>
+		</btnRemValues>
+		<btnRemVer>
+			<Caption>削除</Caption>
+		</btnRemVer>
+		<btnResetAll>
+			<Caption>すべてリセット</Caption>
+		</btnResetAll>
+		<btnScanPlaySound>
+			<Caption>テスト</Caption>
+		</btnScanPlaySound>
+		<btnScanSaveAs>
+			<Caption>名前を付けて保存...</Caption>
+		</btnScanSaveAs>
+		<btnUninstSaveAs>
+			<Caption>名前を付けて保存...</Caption>
+		</btnUninstSaveAs>
+		<Caption>オプション</Caption>
+		<cbAnlProfileDefault>
+			<Caption>既定</Caption>
+		</cbAnlProfileDefault>
+		<cbAutoStart>
+			<Caption>未完了の監視中のプロセスを続行するのに Windows と自動起動する</Caption>
+		</cbAutoStart>
+		<cbChgViewDefault>
+			<Caption>既定</Caption>
+		</cbChgViewDefault>
+		<cbClickRestore>
+			<Caption>シングル クリックで復元する</Caption>
+		</cbClickRestore>
+		<cbCompareRegistry>
+			<Caption>レジストリを比較する</Caption>
+		</cbCompareRegistry>
+		<cbCompFiles>
+			<Caption>ファイルを比較する</Caption>
+		</cbCompFiles>
+		<cbCompPlaySound>
+			<Caption>完了時にサウンドを再生する</Caption>
+		</cbCompPlaySound>
+		<cbCompProfileDefault>
+			<Caption>既定</Caption>
+		</cbCompProfileDefault>
+		<cbCompProfileFrozen>
+			<Caption>固定する</Caption>
+		</cbCompProfileFrozen>
+		<cbComputeMD5>
+			<Caption>新しいファイルの MD5 を計算する</Caption>
+		</cbComputeMD5>
+		<cbCreateKeys>
+			<Caption>削除されたキーを作成する</Caption>
+		</cbCreateKeys>
+		<cbCreateValues>
+			<Caption>削除された値を作成する</Caption>
+		</cbCreateValues>
+		<cbCustomSnsName>
+			<Caption>カスタム スナップショット名を許可する</Caption>
+		</cbCustomSnsName>
+		<cbDecrement>
+			<Caption>共有ファイル カウンターを減らす</Caption>
+		</cbDecrement>
+		<cbDelFiles>
+			<Caption>作成されたファイル (カウンターが 0 に達する場合のみ共有ファイル) を削除する</Caption>
+		</cbDelFiles>
+		<cbDelFolders>
+			<Caption>作成されたフォルダーを削除する</Caption>
+		</cbDelFolders>
+		<cbDelKeys>
+			<Caption>作成されたキーを削除する</Caption>
+		</cbDelKeys>
+		<cbDelUseRecycle>
+			<Caption>ごみ箱を使用する</Caption>
+		</cbDelUseRecycle>
+		<cbDelValues>
+			<Caption>作成された値を削除する</Caption>
+		</cbDelValues>
+		<cbDontUseLog>
+			<Caption>検出された変更点ログを使用しない</Caption>
+		</cbDontUseLog>
+		<cbEnableAgent>
+			<Caption>Total Uninstall エージェントを有効にする</Caption>
+		</cbEnableAgent>
+		<cbIgnoreMissingItems>
+			<Caption>見つからないアイテムを無視する</Caption>
+		</cbIgnoreMissingItems>
+		<cbInstPrgsEnable>
+			<Caption>[インストール済みプログラム] モジュールを有効にする</Caption>
+		</cbInstPrgsEnable>
+		<cbMinToTray>
+			<Caption>トレイへ最小化する</Caption>
+		</cbMinToTray>
+		<cbMonPrgsEnable>
+			<Caption>[監視済みプログラム] モジュールを有効にする</Caption>
+		</cbMonPrgsEnable>
+		<cbRestoreValues>
+			<Caption>変更された値を復元する</Caption>
+		</cbRestoreValues>
+		<cbRstFileCreated>
+			<Caption>ファイルの作成日を復元する</Caption>
+		</cbRstFileCreated>
+		<cbScanPlaySound>
+			<Caption>完了時にサウンドを再生する</Caption>
+		</cbScanPlaySound>
+		<cbScanProfileDefault>
+			<Caption>既定</Caption>
+		</cbScanProfileDefault>
+		<cbScanProfileFrozen>
+			<Caption>固定する</Caption>
+		</cbScanProfileFrozen>
+		<cbShell>
+			<Caption>シェルに Total Uninstall を統合する</Caption>
+		</cbShell>
+		<cbShowAfter>
+			<Caption>列の後</Caption>
+		</cbShowAfter>
+		<cbShowBefore>
+			<Caption>列の前</Caption>
+		</cbShowBefore>
+		<cbShowBinAsText>
+			<Caption>テキストとしてバイナリ データを表示する</Caption>
+		</cbShowBinAsText>
+		<cbShowChanged>
+			<Caption>変更されたアイテム</Caption>
+		</cbShowChanged>
+		<cbShowCreated>
+			<Caption>作成されたアイテム</Caption>
+		</cbShowCreated>
+		<cbShowCurrent>
+			<Caption>現在の列</Caption>
+		</cbShowCurrent>
+		<cbShowDataSize>
+			<Caption>データ サイズ</Caption>
+		</cbShowDataSize>
+		<cbShowDataType>
+			<Caption>データの種類</Caption>
+		</cbShowDataType>
+		<cbShowDateCreated>
+			<Caption>作成日</Caption>
+		</cbShowDateCreated>
+		<cbShowDateModified>
+			<Caption>変更日</Caption>
+		</cbShowDateModified>
+		<cbShowDeleted>
+			<Caption>削除されたアイテム</Caption>
+		</cbShowDeleted>
+		<cbShowFileAttrib>
+			<Caption>ファイルの属性</Caption>
+		</cbShowFileAttrib>
+		<cbShowFileSize>
+			<Caption>ファイル サイズ</Caption>
+		</cbShowFileSize>
+		<cbShowFileVersion>
+			<Caption>ファイル バージョン</Caption>
+		</cbShowFileVersion>
+		<cbShowMD5>
+			<Caption>新しいファイルの MD5 サム</Caption>
+		</cbShowMD5>
+		<cbSysRestore>
+			<Caption>アンインストール前にシステムの復元ポイントを作成する</Caption>
+		</cbSysRestore>
+		<cbUninstDefault>
+			<Caption>既定</Caption>
+		</cbUninstDefault>
+		<cbUninstEnabled>
+			<Caption>有効</Caption>
+		</cbUninstEnabled>
+		<cbUseUninstaller>
+			<Caption>供給されたアンインストーラーを最初に使用する</Caption>
+		</cbUseUninstaller>
+		<cmbUpdateFrequency>
+			<Items>毎日\n毎週\n毎月\n</Items>
+		</cmbUpdateFrequency>
+		<cmbUpdateMethod>
+			<Items>手動\nリマインダ\n自動\n</Items>
+		</cmbUpdateMethod>
+		<gbAgentMasks>
+			<Caption>セットアップ プログラムのファイル名のマスク</Caption>
+		</gbAgentMasks>
+		<gbCompareIgnKeys>
+			<Caption>無視するキーと値</Caption>
+		</gbCompareIgnKeys>
+		<gbCompIgnoreFld>
+			<Caption>無視するフォルダーとファイル</Caption>
+		</gbCompIgnoreFld>
+		<gbFileExtensions>
+			<Caption>バージョン情報付きファイル拡張子</Caption>
+		</gbFileExtensions>
+		<gbInstallLoc>
+			<Caption>インストール場所</Caption>
+		</gbInstallLoc>
+		<gbInstallLocation>
+			<Caption>インストール場所の検出</Caption>
+		</gbInstallLocation>
+		<gbLimits>
+			<Caption>スナップショット フォルダーの制限</Caption>
+		</gbLimits>
+		<gbPrgData>
+			<Caption>プログラムのデータの検出</Caption>
+		</gbPrgData>
+		<gbPrgSettings>
+			<Caption>プログラムの設定の検出</Caption>
+		</gbPrgSettings>
+		<gbPrgShortcuts>
+			<Caption>プログラムのショートカットの検出</Caption>
+		</gbPrgShortcuts>
+		<gbRegEditor>
+			<Caption>レジストリ エディター</Caption>
+		</gbRegEditor>
+		<gbScanExclFolders>
+			<Caption>除外するフォルダー</Caption>
+		</gbScanExclFolders>
+		<gbScanExclKeys>
+			<Caption>除外するキー</Caption>
+		</gbScanExclKeys>
+		<gbScanInclFolders>
+			<Caption>含めるフォルダー</Caption>
+		</gbScanInclFolders>
+		<gbScanInclKeys>
+			<Caption>含めるキー</Caption>
+		</gbScanInclKeys>
+		<gbShellIntegration>
+			<Caption>シェル統合の検出</Caption>
+		</gbShellIntegration>
+		<gbSystemFiles>
+			<Caption>システム ファイルの検出</Caption>
+		</gbSystemFiles>
+		<gbTranslation>
+			<Caption>翻訳</Caption>
+		</gbTranslation>
+		<grpExistingViewStyle>
+			<Caption>システムに存在するアイテム</Caption>
+		</grpExistingViewStyle>
+		<grpMissingViewStyle>
+			<Caption>システムから見つからないアイテム</Caption>
+		</grpMissingViewStyle>
+		<lblAdvanced1>
+			<Caption>詳細設定</Caption>
+		</lblAdvanced1>
+		<lblAdvanced2>
+			<Caption>詳細設定</Caption>
+		</lblAdvanced2>
+		<lblAdvanced3>
+			<Caption>詳細設定</Caption>
+		</lblAdvanced3>
+		<lblAdvanced4>
+			<Caption>詳細設定</Caption>
+		</lblAdvanced4>
+		<lblAdvanced5>
+			<Caption>詳細設定</Caption>
+		</lblAdvanced5>
+		<lblAdvanced6>
+			<Caption>詳細設定</Caption>
+		</lblAdvanced6>
+		<lblAgentExcludeMask>
+			<Caption>除外</Caption>
+		</lblAgentExcludeMask>
+		<lblAgentIncludeMask>
+			<Caption>包含</Caption>
+		</lblAgentIncludeMask>
+		<lblAnalysisProfiles>
+			<Caption>解析プロファイル</Caption>
+		</lblAnalysisProfiles>
+		<lblAnlProfileDesc>
+			<Caption>説明</Caption>
+		</lblAnlProfileDesc>
+		<lblAnlProfileName>
+			<Caption>名前</Caption>
+		</lblAnlProfileName>
+		<lblChageViewName>
+			<Caption>名前</Caption>
+		</lblChageViewName>
+		<lblChangeViews>
+			<Caption>変更点の表示</Caption>
+		</lblChangeViews>
+		<lblCheckUpdateMethod>
+			<Caption>更新のチェックの方法</Caption>
+		</lblCheckUpdateMethod>
+		<lblCheckUpdatesFrequency>
+			<Caption>頻度</Caption>
+		</lblCheckUpdatesFrequency>
+		<lblCompareProfileDesc>
+			<Caption>説明</Caption>
+		</lblCompareProfileDesc>
+		<lblCompareProfileName>
+			<Caption>名前</Caption>
+		</lblCompareProfileName>
+		<lblFolderSize>
+			<Caption>フォルダー サイズ (M バイト)</Caption>
+		</lblFolderSize>
+		<lblHexViewer>
+			<Caption>16 進ビューア</Caption>
+		</lblHexViewer>
+		<lblLanguage>
+			<Caption>言語</Caption>
+		</lblLanguage>
+		<lblNone1>
+			<Caption>なし</Caption>
+		</lblNone1>
+		<lblNone2>
+			<Caption>なし</Caption>
+		</lblNone2>
+		<lblNone3>
+			<Caption>なし</Caption>
+		</lblNone3>
+		<lblNone4>
+			<Caption>なし</Caption>
+		</lblNone4>
+		<lblNone5>
+			<Caption>なし</Caption>
+		</lblNone5>
+		<lblNone6>
+			<Caption>なし</Caption>
+		</lblNone6>
+		<lblScanningProfiles>
+			<Caption>プロファイルのスキャン</Caption>
+		</lblScanningProfiles>
+		<lblScanProfileDesc>
+			<Caption>説明</Caption>
+		</lblScanProfileDesc>
+		<lblScanProfileName>
+			<Caption>名前</Caption>
+		</lblScanProfileName>
+		<lblSnsCompareProfiles>
+			<Caption>プロファイルの比較のスナップショット</Caption>
+		</lblSnsCompareProfiles>
+		<lblSnsCount>
+			<Caption>スナップショット数</Caption>
+		</lblSnsCount>
+		<lblTranslatedBy1>
+			<Caption>翻訳者: Nardog</Caption>
+		</lblTranslatedBy1>
+		<lblTranslatedBy2>
+			<Caption>ホーム ページ: nardog.takoweb.com</Caption>
+		</lblTranslatedBy2>
+		<lblTranslatedBy3>
+			<Caption>電子メール: nardog@e2umail.com</Caption>
+		</lblTranslatedBy3>
+		<lblTxtViewer>
+			<Caption>テキスト ビューアー</Caption>
+		</lblTxtViewer>
+		<lblUninstallProfiles>
+			<Caption>アンインストール プロファイル</Caption>
+		</lblUninstallProfiles>
+		<lblUninstallProfilesInst>
+			<Caption>アンインストール プロファイル</Caption>
+		</lblUninstallProfilesInst>
+		<lblUninstDesc>
+			<Caption>説明</Caption>
+		</lblUninstDesc>
+		<lblUninstName>
+			<Caption>名前</Caption>
+		</lblUninstName>
+		<lblUninstRemoveLog>
+			<Caption>一覧からアンインストールされたプログラムを削除する</Caption>
+		</lblUninstRemoveLog>
+		<rbDialog>
+			<Caption>ダイアログ</Caption>
+		</rbDialog>
+		<rbOtherRegEdit>
+			<Caption>その他</Caption>
+		</rbOtherRegEdit>
+		<rbTrayBaloon>
+			<Caption>トレイ バルーン</Caption>
+		</rbTrayBaloon>
+		<rbWinRegEdit>
+			<Caption>Windows レジストリ エディター</Caption>
+		</rbWinRegEdit>
+		<rgAgentNotif>
+			<Caption>セットアップ プログラムの実行の通知</Caption>
+		</rgAgentNotif>
+		<tabAnlFileSystem>
+			<Caption>ファイル システム</Caption>
+		</tabAnlFileSystem>
+		<tabAnlGeneral>
+			<Caption>全般</Caption>
+		</tabAnlGeneral>
+		<tabChageViewFileSystem>
+			<Caption>ファイル システム</Caption>
+		</tabChageViewFileSystem>
+		<tabChageViewGeneral>
+			<Caption>全般</Caption>
+		</tabChageViewGeneral>
+		<tabChageViewRegistry>
+			<Caption>レジストリ</Caption>
+		</tabChageViewRegistry>
+		<tabChageViewView>
+			<Caption>表示</Caption>
+		</tabChageViewView>
+		<tabCmpProfileFileSys>
+			<Caption>ファイル システム</Caption>
+		</tabCmpProfileFileSys>
+		<tabCompareProfileGen>
+			<Caption>全般</Caption>
+		</tabCompareProfileGen>
+		<tabCompareProfileReg>
+			<Caption>レジストリ</Caption>
+		</tabCompareProfileReg>
+		<tabScanProfileFolders>
+			<Caption>フォルダー</Caption>
+		</tabScanProfileFolders>
+		<tabScanProfileGeneral>
+			<Caption>全般</Caption>
+		</tabScanProfileGeneral>
+		<tabScanProfileRegistry>
+			<Caption>レジストリ</Caption>
+		</tabScanProfileRegistry>
+		<tabUninstAdv>
+			<Caption>詳細設定</Caption>
+		</tabUninstAdv>
+		<tabUninstFS>
+			<Caption>ファイル システム</Caption>
+		</tabUninstFS>
+		<tabUninstGeneral>
+			<Caption>全般</Caption>
+		</tabUninstGeneral>
+		<tabUninstRegistry>
+			<Caption>レジストリ</Caption>
+		</tabUninstRegistry>
+		<tblAnlRegistry>
+			<Caption>レジストリ</Caption>
+		</tblAnlRegistry>
+	</dlgTUOptions>
+	<dlgUninstall>
+		<btnCancel>
+			<Caption>キャンセル</Caption>
+		</btnCancel>
+		<btnUninstall>
+			<Caption>アンインストール</Caption>
+		</btnUninstall>
+		<lblCreatingRestorePnt>
+			<Caption>システムの復元ポイントを作成しています...</Caption>
+		</lblCreatingRestorePnt>
+		<lblProfile>
+			<Caption>アンインストール プロファイルの選択</Caption>
+		</lblProfile>
+		<lblUninstalling>
+			<Caption>アンインストールしています</Caption>
+		</lblUninstalling>
+		<lblWaitTitle>
+			<Caption>供給された [プログラムの追加と削除] が完了するのを待機しています</Caption>
+		</lblWaitTitle>
+	</dlgUninstall>
+	<frmInstall>
+		<btnBrowseSetup>
+			<Caption>参照(&amp;B)...</Caption>
+		</btnBrowseSetup>
+		<btnCancel>
+			<Caption>キャンセル</Caption>
+		</btnCancel>
+		<btnCompleteLater>
+			<Caption>後で監視中のプロセスを完了する(&amp;C)</Caption>
+		</btnCompleteLater>
+		<btnLaunchSetup>
+			<Caption>セットアップ プログラムの起動(&amp;L)</Caption>
+		</btnLaunchSetup>
+		<btnNext>
+			<Caption>次へ</Caption>
+		</btnNext>
+		<btnProgramIsInstalled>
+			<Caption>プログラムはインストールされています(&amp;R)</Caption>
+		</btnProgramIsInstalled>
+		<btnSuggest>
+			<Caption>提案(&amp;G)</Caption>
+		</btnSuggest>
+		<lblCreateLog>
+			<Caption>インストール プログラムの作成</Caption>
+		</lblCreateLog>
+		<lblCreateOrSelectSns>
+			<Caption>インストールの前に新規を作成するか以前のシステム スナップショットを選択します。</Caption>
+		</lblCreateOrSelectSns>
+		<lblCreatePreInstallSns>
+			<Caption>インストール前システム スナップショットの作成</Caption>
+		</lblCreatePreInstallSns>
+		<lblCreatingLog>
+			<Caption>インストール ログを作成しています</Caption>
+		</lblCreatingLog>
+		<lblCreatingSystemSns>
+			<Caption>システム スナップショットを作成しています</Caption>
+		</lblCreatingSystemSns>
+		<lblFinish>
+			<Caption>インストール ログは正常に作成されました</Caption>
+		</lblFinish>
+		<lblInstallMonProgram>
+			<Caption>監視済みプログラムをインストールします</Caption>
+		</lblInstallMonProgram>
+		<lblProfiles>
+			<Caption>スキャン中のプロファイル(&amp;S)</Caption>
+		</lblProfiles>
+		<lblProgramName>
+			<Caption>プログラム名(&amp;P)</Caption>
+		</lblProgramName>
+		<lblProgramSetupPath>
+			<Caption>セットアップ プログラムのパス(&amp;S)</Caption>
+		</lblProgramSetupPath>
+		<lblSnsName>
+			<Caption>スナップショット名(&amp;N)</Caption>
+		</lblSnsName>
+		<lblSpecifySnsName>
+			<Caption>インストール後スナップショット名を指定します(&amp;S)</Caption>
+		</lblSpecifySnsName>
+		<rbNewSnapshot>
+			<Caption>新しいシステム スナップショットを作成する (推奨)(&amp;C)</Caption>
+		</rbNewSnapshot>
+		<rbUseLastSnapshot>
+			<Caption>最後のスナップショットを使用する(&amp;U)</Caption>
+		</rbUseLastSnapshot>
+	</frmInstall>
+	<frmTUMain>
+		<btnClear>
+			<Caption>クリア</Caption>
+		</btnClear>
+		<btnGroupAddChild>
+			<Caption>子グループの追加...</Caption>
+		</btnGroupAddChild>
+		<btnGroupAddRoot>
+			<Caption>ルート グループの追加...</Caption>
+		</btnGroupAddRoot>
+		<btnGroupEdit>
+			<Caption>グループの編集...</Caption>
+		</btnGroupEdit>
+		<btnGroupMoveToRoot>
+			<Caption>ルートへ移動</Caption>
+		</btnGroupMoveToRoot>
+		<btnGroupRemove>
+			<Caption>グループの削除</Caption>
+		</btnGroupRemove>
+		<btnSearch>
+			<Caption>開始</Caption>
+		</btnSearch>
+		<cbCaseSensitive>
+			<Caption>大/小文字を区別する</Caption>
+		</cbCaseSensitive>
+		<cbChanged>
+			<Caption>変更された</Caption>
+		</cbChanged>
+		<cbCreated>
+			<Caption>作成された</Caption>
+		</cbCreated>
+		<cbData>
+			<Caption>データ</Caption>
+		</cbData>
+		<cbDeleted>
+			<Caption>削除された</Caption>
+		</cbDeleted>
+		<cbFiles>
+			<Caption>ファイル</Caption>
+		</cbFiles>
+		<cbFolders>
+			<Caption>フォルダー</Caption>
+		</cbFolders>
+		<cbKeys>
+			<Caption>キー</Caption>
+		</cbKeys>
+		<cbSearchMask>
+			<Caption>マスクを検索する</Caption>
+		</cbSearchMask>
+		<cbUnchanged>
+			<Caption>未変更</Caption>
+		</cbUnchanged>
+		<cbValues>
+			<Caption>値</Caption>
+		</cbValues>
+		<Copy1>
+			<Caption>コピー</Caption>
+			<Hint>クリップボードへ選択されたファイルをコピーします</Hint>
+		</Copy1>
+		<Copy2>
+			<Caption>コピー</Caption>
+			<Hint>クリップボードへ選択されたファイルをコピーします</Hint>
+		</Copy2>
+		<gbChanges>
+			<Caption>アイテム</Caption>
+		</gbChanges>
+		<gbFileSystem>
+			<Caption>ファイル システム</Caption>
+		</gbFileSystem>
+		<gbRegistry>
+			<Caption>レジストリ</Caption>
+		</gbRegistry>
+		<gbScope>
+			<Caption>検索する場所</Caption>
+		</gbScope>
+		<miAddtoCompareIgnoreList>
+			<Caption>比較の無視の一覧に追加</Caption>
+			<Hint>選択されたアイテムをすべてのプロファイルの比較の無視の一覧に追加します</Hint>
+		</miAddtoCompareIgnoreList>
+		<miAddtoScanExcludeList>
+			<Caption>スキャンの除外の一覧に追加</Caption>
+			<Hint>選択されたアイテムをすべてのプロファイルのスキャンの除外の一覧に追加します</Hint>
+		</miAddtoScanExcludeList>
+		<miAppSendTo>
+			<Caption>グループへ送信</Caption>
+		</miAppSendTo>
+		<miChanges>
+			<Caption>変更点</Caption>
+			<Hint>検出された変更点|検出された現在のプログラムによって作成されたシステムの変更点を表示します</Hint>
+		</miChanges>
+		<miCopyDetail>
+			<Caption>コピー</Caption>
+		</miCopyDetail>
+		<miDeleteCompletely>
+			<Caption>完全に削除</Caption>
+			<Hint>ログとシステムから選択されたアイテムを削除します</Hint>
+		</miDeleteCompletely>
+		<miDeletefromSystemOnly>
+			<Caption>システムのみから削除</Caption>
+			<Hint>システムのみから選択されたアイテムを削除します</Hint>
+		</miDeletefromSystemOnly>
+		<miEdit>
+			<Caption>編集(&amp;E)</Caption>
+		</miEdit>
+		<miEditUndo>
+			<Caption>元に戻す</Caption>
+			<Hint>システムからの選択された変更点を元に戻します</Hint>
+		</miEditUndo>
+		<miExpChanges>
+			<Caption>変更点...</Caption>
+			<Hint>変更点ツリーをエクスポートします</Hint>
+		</miExpChanges>
+		<miExpInstalledApps>
+			<Caption>インストール済みプログラム...</Caption>
+			<Hint>インストール済みアプリケーションの一覧をエクスポートします</Hint>
+		</miExpInstalledApps>
+		<miExpMonitoredApps>
+			<Caption>監視済みプログラム...</Caption>
+			<Hint>監視済みアプリケーションの一覧をエクスポートします</Hint>
+		</miExpMonitoredApps>
+		<miExport>
+			<Caption>エクスポート</Caption>
+		</miExport>
+		<miExpRegistry>
+			<Caption>レジストリの変更点...</Caption>
+			<Hint>インストールまたはアンインストール用にレジストリの変更点をエクスポートします</Hint>
+		</miExpRegistry>
+		<miExpUninstallLog>
+			<Caption>アンインストール ログ...</Caption>
+			<Hint>アンインストール ログをエクスポートします</Hint>
+		</miExpUninstallLog>
+		<miFile>
+			<Caption>ファイル(&amp;F)</Caption>
+		</miFile>
+		<miFileAddInstalledPrg>
+			<Caption>プログラムを一覧に追加...</Caption>
+		</miFileAddInstalledPrg>
+		<miFileAnalyze>
+			<Caption>解析</Caption>
+			<Hint>解析|現在のプログラムのシステムの変更点を解析します</Hint>
+		</miFileAnalyze>
+		<miFileChange>
+			<Caption>変更</Caption>
+			<Hint>修復、変更またはアンインストールします</Hint>
+		</miFileChange>
+		<miFileChangeIcon>
+			<Caption>アイコンの変更...</Caption>
+		</miFileChangeIcon>
+		<miFileDelete>
+			<Caption>削除</Caption>
+			<Hint>現在のインストール ログを削除します</Hint>
+		</miFileDelete>
+		<miFileExit>
+			<Caption>終了</Caption>
+			<Hint>アプリケーションを終了します</Hint>
+		</miFileExit>
+		<miFileGroupAddChild>
+			<Caption>子グループの追加...</Caption>
+		</miFileGroupAddChild>
+		<miFileGroupAddRoot>
+			<Caption>ルート グループの追加...</Caption>
+		</miFileGroupAddRoot>
+		<miFileGroupEdit>
+			<Caption>グループの編集...</Caption>
+		</miFileGroupEdit>
+		<miFileGroupMoveToRoot>
+			<Caption>ルートへ移動</Caption>
+		</miFileGroupMoveToRoot>
+		<miFileGroupRemove>
+			<Caption>グループの削除</Caption>
+		</miFileGroupRemove>
+		<miFileInstall>
+			<Caption>新しいインストール...</Caption>
+			<Hint>新しいプログラムのインストールを監視します</Hint>
+		</miFileInstall>
+		<miFileInstallUpdate>
+			<Caption>更新のインストール...</Caption>
+			<Hint>更新のインストール|現在のプログラムの更新のインストールを監視します</Hint>
+		</miFileInstallUpdate>
+		<miFileNotes>
+			<Caption>ノート...</Caption>
+			<Hint>ノートを現在のインストール ログを追加します</Hint>
+		</miFileNotes>
+		<miFilePrint>
+			<Caption>印刷...</Caption>
+			<Hint>変更点ツリーを印刷します</Hint>
+		</miFilePrint>
+		<miFileReload>
+			<Caption>再読み込み</Caption>
+		</miFileReload>
+		<miFileRemoveInstalledPrg>
+			<Caption>一覧からプログラムを削除</Caption>
+		</miFileRemoveInstalledPrg>
+		<miFileRename>
+			<Caption>名前の変更...</Caption>
+			<Hint>現在のインストール ログの名前を変更します</Hint>
+		</miFileRename>
+		<miFileSave>
+			<Caption>上書き保存(&amp;S)</Caption>
+			<Hint>現在のインストール ログから変更点を保存します</Hint>
+		</miFileSave>
+		<miFileSaveAs>
+			<Caption>名前を付けて保存...</Caption>
+		</miFileSaveAs>
+		<miFileSendTo>
+			<Caption>グループへ送信</Caption>
+		</miFileSendTo>
+		<miFileUninstall>
+			<Caption>アンインストール...</Caption>
+		</miFileUninstall>
+		<miHelp>
+			<Caption>ヘルプ(&amp;H)</Caption>
+		</miHelp>
+		<miHelpAbout>
+			<Caption>バージョン情報...</Caption>
+			<Hint>プログラム情報、バージョン番号および著作権を表示します</Hint>
+		</miHelpAbout>
+		<miHelpCheckForUpdates>
+			<Caption>更新のチェック...</Caption>
+			<Hint>製品の更新があるか作者のウェブ サイトをチェックします</Hint>
+		</miHelpCheckForUpdates>
+		<miHelpContents>
+			<Caption>目次</Caption>
+			<Hint>ヘルプの目次ページを表示します</Hint>
+		</miHelpContents>
+		<miHelpHomePage>
+			<Caption>ホーム ページ</Caption>
+		</miHelpHomePage>
+		<miHelpPurchase>
+			<Caption>購入</Caption>
+		</miHelpPurchase>
+		<miHelpRegister>
+			<Caption>登録...</Caption>
+			<Hint>Total Uninstall プログラムを登録します</Hint>
+		</miHelpRegister>
+		<miHexView>
+			<Caption>16 進表示</Caption>
+			<Hint>16 進エディターでファイルを開きます</Hint>
+		</miHexView>
+		<miImport>
+			<Caption>インポート</Caption>
+		</miImport>
+		<miInstalledPrograms>
+			<Caption>インストール済みプログラム</Caption>
+			<Hint>インストール済みプログラム|[インストール済みプログラム] へ切り替えます</Hint>
+		</miInstalledPrograms>
+		<miList>
+			<Caption>一覧</Caption>
+		</miList>
+		<miListLargeIcons>
+			<Caption>大きいアイコン</Caption>
+		</miListLargeIcons>
+		<miListSmallIcons>
+			<Caption>小さいアイコン</Caption>
+		</miListSmallIcons>
+		<miModules>
+			<Caption>モジュール(&amp;M)</Caption>
+		</miModules>
+		<miMonAppsGroupAddChild>
+			<Caption>子グループの追加...</Caption>
+		</miMonAppsGroupAddChild>
+		<miMonAppsGroupAddRoot>
+			<Caption>ルート グループの追加...</Caption>
+		</miMonAppsGroupAddRoot>
+		<miMonAppsGroupEdit>
+			<Caption>グループの編集...</Caption>
+		</miMonAppsGroupEdit>
+		<miMonAppsGroupMoveToRoot>
+			<Caption>ルートへ移動</Caption>
+		</miMonAppsGroupMoveToRoot>
+		<miMonAppsGroupRemove>
+			<Caption>グループの削除</Caption>
+		</miMonAppsGroupRemove>
+		<miMonitoredPrograms>
+			<Caption>監視済みプログラム</Caption>
+			<Hint>監視済みプログラム|[監視済みプログラム] へ切り替えます</Hint>
+		</miMonitoredPrograms>
+		<miOpen>
+			<Caption>開く</Caption>
+			<Hint>ファイル、フォルダーを開くか [レジストリ エディター] でキーへジャンプします</Hint>
+		</miOpen>
+		<miPendingFileRenameOp>
+			<Caption>未決のファイル名の変更の操作...</Caption>
+			<Hint>未決のファイル名の変更の操作を表示および適用します</Hint>
+		</miPendingFileRenameOp>
+		<miPrgAddInstalledPrg>
+			<Caption>プログラムを一覧に追加...</Caption>
+		</miPrgAddInstalledPrg>
+		<miPrgAnalyze>
+			<Caption>解析(&amp;A)</Caption>
+			<Hint>解析|現在のプログラムのシステムの変更点を解析します</Hint>
+		</miPrgAnalyze>
+		<miPrgChangeIcon>
+			<Caption>アイコンの変更...</Caption>
+		</miPrgChangeIcon>
+		<miPrgDelete>
+			<Caption>削除</Caption>
+			<Hint>現在のインストール ログを削除します</Hint>
+		</miPrgDelete>
+		<miPrgNotes>
+			<Caption>ノート...</Caption>
+			<Hint>ノートを現在のインストール ログを追加します</Hint>
+		</miPrgNotes>
+		<miPrgRemoveInstalledPrg>
+			<Caption>一覧からプログラムを削除</Caption>
+		</miPrgRemoveInstalledPrg>
+		<miPrgRename>
+			<Caption>名前の変更...</Caption>
+			<Hint>現在のインストール ログの名前を変更します</Hint>
+		</miPrgRename>
+		<miPrintChanges>
+			<Caption>変更点...</Caption>
+			<Hint>変更点ツリーを印刷します</Hint>
+		</miPrintChanges>
+		<miPrintInstalledPrograms>
+			<Caption>インストール済みプログラム...</Caption>
+		</miPrintInstalledPrograms>
+		<miPrintMonitoredPrograms>
+			<Caption>監視済みプログラム...</Caption>
+		</miPrintMonitoredPrograms>
+		<miProperties>
+			<Caption>プロパティ</Caption>
+			<Hint>選択されたファイルまたはフォルダーのプロパティを表示します</Hint>
+		</miProperties>
+		<miRemovefromLog>
+			<Caption>ログから削除</Caption>
+			<Hint>ログから選択されたアイテムを削除します</Hint>
+		</miRemovefromLog>
+		<miSummary>
+			<Caption>要約</Caption>
+			<Hint>要約|現在のプログラムについての簡単な情報を表示します</Hint>
+		</miSummary>
+		<miTextView>
+			<Caption>テキスト表示</Caption>
+			<Hint>テキスト エディターでファイルを開きます</Hint>
+		</miTextView>
+		<miToolbarLarge>
+			<Caption>大</Caption>
+		</miToolbarLarge>
+		<miToolbarMedium>
+			<Caption>中</Caption>
+		</miToolbarMedium>
+		<miToolbarSmall>
+			<Caption>小</Caption>
+		</miToolbarSmall>
+		<miTools>
+			<Caption>ツール(&amp;T)</Caption>
+		</miTools>
+		<miToolsCompareSnapshots>
+			<Caption>スナップショットの比較...</Caption>
+		</miToolsCompareSnapshots>
+		<miToolsFind>
+			<Caption>検索</Caption>
+			<Hint>検索|検出された変更点からテキストを検索します</Hint>
+		</miToolsFind>
+		<miToolsMergeLogs>
+			<Caption>ログの合併...</Caption>
+		</miToolsMergeLogs>
+		<miToolsOptions>
+			<Caption>オプション...</Caption>
+			<Hint>ソフトウェアのオプションを構成します</Hint>
+		</miToolsOptions>
+		<miToolsSystemRestore>
+			<Caption>システムの復元</Caption>
+		</miToolsSystemRestore>
+		<miULogSuccessful>
+			<Caption>成功した動作</Caption>
+			<Hint>アンインストール ログからの成功した動作の表示または非表示を切り替えます</Hint>
+		</miULogSuccessful>
+		<miULogWarnings>
+			<Caption>警告</Caption>
+			<Hint>アンインストール ログからの警告の表示または非表示を切り替えます</Hint>
+		</miULogWarnings>
+		<miUninstallLog>
+			<Caption>アンインストール ログ</Caption>
+			<Hint>アンインストール ログ|プログラムのアンインストール ログを表示します</Hint>
+		</miUninstallLog>
+		<miUninstallLogDet>
+			<Caption>アンインストール ログの詳細</Caption>
+		</miUninstallLogDet>
+		<miView>
+			<Caption>表示(&amp;V)</Caption>
+		</miView>
+		<miViewDetails>
+			<Caption>詳細</Caption>
+			<Hint>プログラムの詳細|監視済みアプリケーションの詳細の表示または非表示を切り替えます</Hint>
+		</miViewDetails>
+		<miViewItemCurrentView>
+			<Caption>現在の表示</Caption>
+		</miViewItemCurrentView>
+		<miViewItemDetails>
+			<Caption>アイテムの詳細</Caption>
+			<Hint>変更点ツリーからの選択されたノードの詳細の表示または非表示を切り替えます</Hint>
+		</miViewItemDetails>
+		<miViewNavigator>
+			<Caption>プログラム</Caption>
+			<Hint>プログラムの一覧|監視済みアプリケーションの一覧の表示または非表示を切り替えます</Hint>
+		</miViewNavigator>
+		<miViewRefresh>
+			<Caption>更新</Caption>
+		</miViewRefresh>
+		<miViewStatusBar>
+			<Caption>ステータス バー</Caption>
+			<Hint>ステータス バーの表示または非表示を切り替えます</Hint>
+		</miViewStatusBar>
+		<miViewToolbars>
+			<Caption>ツール バー</Caption>
+		</miViewToolbars>
+		<miViewToolbarsBtnCaption>
+			<Caption>ボタンのキャプション</Caption>
+			<Hint>ツール バーのキャプションの表示または非表示を切り替えます</Hint>
+		</miViewToolbarsBtnCaption>
+		<miViewToolbarsBtnSize>
+			<Caption>ボタンのサイズ</Caption>
+		</miViewToolbarsBtnSize>
+		<miViewToolbarsTbrCaption>
+			<Caption>ツール バーのキャプション</Caption>
+		</miViewToolbarsTbrCaption>
+		<miViewToolbarsVisible>
+			<Caption>可視</Caption>
+			<Hint>ツール バーの表示または非表示を切り替えます</Hint>
+		</miViewToolbarsVisible>
+		<pmiChgTreeCompareExcl>
+			<Caption>比較の無視の一覧に追加</Caption>
+			<Hint>選択されたアイテムをすべてのプロファイルの比較の無視の一覧に追加します</Hint>
+		</pmiChgTreeCompareExcl>
+		<pmiChgTreeDelete>
+			<Caption>完全に削除</Caption>
+			<Hint>ログとシステムから選択されたアイテムを削除します</Hint>
+		</pmiChgTreeDelete>
+		<pmiChgTreeDelSys>
+			<Caption>システムのみから削除</Caption>
+			<Hint>システムのみから選択されたアイテムを削除します</Hint>
+		</pmiChgTreeDelSys>
+		<pmiChgTreeHexView>
+			<Caption>16 進表示</Caption>
+			<Hint>16 進エディターでファイルを開きます</Hint>
+		</pmiChgTreeHexView>
+		<pmiChgTreeOpen>
+			<Caption>開く</Caption>
+			<Hint>ファイル、フォルダーを開くか [レジストリ エディター] でキーへジャンプします</Hint>
+		</pmiChgTreeOpen>
+		<pmiChgTreeProperties>
+			<Caption>プロパティ</Caption>
+			<Hint>選択されたファイルまたはフォルダーのプロパティを表示します</Hint>
+		</pmiChgTreeProperties>
+		<pmiChgTreeRemove>
+			<Caption>ログから削除</Caption>
+			<Hint>ログから選択されたアイテムを削除します</Hint>
+		</pmiChgTreeRemove>
+		<pmiChgTreeScanExcl>
+			<Caption>スキャンの除外の一覧に追加</Caption>
+			<Hint>選択されたアイテムをすべてのプロファイルのスキャンの除外の一覧に追加します</Hint>
+		</pmiChgTreeScanExcl>
+		<pmiChgTreeTextView>
+			<Caption>テキスト表示</Caption>
+			<Hint>テキスト エディターでファイルを開きます</Hint>
+		</pmiChgTreeTextView>
+		<pmiChgTreeUndo>
+			<Caption>元に戻す</Caption>
+			<Hint>システムからの選択された変更を元に戻します</Hint>
+		</pmiChgTreeUndo>
+		<pmiCopySummary>
+			<Caption>コピー</Caption>
+		</pmiCopySummary>
+		<pmiInstAppsHeaderAutoResize>
+			<Caption>自動的にサイズを変更</Caption>
+		</pmiInstAppsHeaderAutoResize>
+		<pmiLocate>
+			<Caption>検索</Caption>
+		</pmiLocate>
+		<pmiMonAppsHeaderAutoResize>
+			<Caption>自動的にサイズを変更</Caption>
+		</pmiMonAppsHeaderAutoResize>
+		<pmiShowSuccessful>
+			<Caption>成功した動作</Caption>
+			<Hint>アンインストール ログからの成功した動作の表示または非表示を切り替えます</Hint>
+		</pmiShowSuccessful>
+		<pmiShowWarnings>
+			<Caption>警告</Caption>
+			<Hint>アンインストール ログからの警告の表示または非表示を切り替えます</Hint>
+		</pmiShowWarnings>
+		<pmiTrayRestore>
+			<Caption>復元</Caption>
+		</pmiTrayRestore>
+		<rbAll>
+			<Caption>すべてのプログラム</Caption>
+		</rbAll>
+		<rbSelection>
+			<Caption>選択範囲</Caption>
+		</rbSelection>
+		<sbAppClose>
+			<Hint>閉じる|閉じます</Hint>
+		</sbAppClose>
+		<sbDetailsClose>
+			<Hint>閉じる|閉じます</Hint>
+		</sbDetailsClose>
+		<sbSearchClose>
+			<Hint>閉じる|閉じます</Hint>
+		</sbSearchClose>
+		<tabOptions>
+			<Caption>オプション</Caption>
+		</tabOptions>
+		<tabResults>
+			<Caption>結果</Caption>
+		</tabResults>
+		<tbrActions>
+			<Caption>動作</Caption>
+		</tbrActions>
+		<tbrDetails>
+			<Caption>詳細</Caption>
+		</tbrDetails>
+		<tbrLayout>
+			<Caption>レイアウト</Caption>
+		</tbrLayout>
+		<tbrModules>
+			<Caption>モジュール</Caption>
+		</tbrModules>
+		<tbrView>
+			<Caption>表示</Caption>
+		</tbrView>
+		<tbtnAnalyze>
+			<Caption>解析</Caption>
+			<Hint>解析|現在のプログラムのシステムの変更点を解析します</Hint>
+		</tbtnAnalyze>
+		<tbtnChanges>
+			<Caption>変更点</Caption>
+			<Hint>検出された変更点|検出された現在のプログラムによって作成されたシステムの変更点を表示します</Hint>
+		</tbtnChanges>
+		<tbtnChgView>
+			<Caption>表示</Caption>
+			<Hint>表示|定義された変更点の表示を適用します</Hint>
+		</tbtnChgView>
+		<tbtnCollapse>
+			<Caption>格納</Caption>
+			<Hint>格納|アクティブなツリーを完全に格納します</Hint>
+		</tbtnCollapse>
+		<tbtnDetails>
+			<Caption>詳細</Caption>
+			<Hint>プログラムの詳細|監視済みアプリケーションの詳細の表示または非表示を切り替えます</Hint>
+		</tbtnDetails>
+		<tbtnExpand>
+			<Caption>展開</Caption>
+			<Hint>展開|アクティブなツリーを完全に展開します</Hint>
+		</tbtnExpand>
+		<tbtnInstallModify>
+			<Caption>変更</Caption>
+			<Hint>修復、変更またはアンインストールします</Hint>
+		</tbtnInstallModify>
+		<tbtnInstallNew>
+			<Caption>インストール</Caption>
+			<Hint>新しくインストール|新しいアプリケーションのインストールを監視します</Hint>
+		</tbtnInstallNew>
+		<tbtnInstallUpdate>
+			<Caption>更新</Caption>
+			<Hint>更新のインストール|現在のプログラムの更新のインストールを監視します</Hint>
+		</tbtnInstallUpdate>
+		<tbtnInstPrograms>
+			<Caption>インストール済みプログラム</Caption>
+			<Hint>インストール済みプログラム|[インストール済みプログラム] へ切り替えます</Hint>
+		</tbtnInstPrograms>
+		<tbtnMonPrograms>
+			<Caption>監視済みプログラム</Caption>
+			<Hint>監視済みプログラム|[監視済みプログラム] へ切り替えます</Hint>
+		</tbtnMonPrograms>
+		<tbtnPrograms>
+			<Caption>プログラム</Caption>
+			<Hint>プログラムの一覧|監視済みアプリケーションの一覧の表示または非表示を切り替えます</Hint>
+		</tbtnPrograms>
+		<tbtnSave>
+			<Caption>上書き保存</Caption>
+			<Hint>現在のインストール ログから変更点を保存します</Hint>
+		</tbtnSave>
+		<tbtnSearch>
+			<Caption>検索</Caption>
+			<Hint>検索|検出された変更点からテキストを検索します</Hint>
+		</tbtnSearch>
+		<tbtnSummary>
+			<Caption>要約</Caption>
+			<Hint>要約|現在のプログラムについての簡単な情報を表示します</Hint>
+		</tbtnSummary>
+		<tbtnUninstall>
+			<Caption>アンインストール</Caption>
+		</tbtnUninstall>
+		<tbtnUninstallLog>
+			<Caption>アンインストール ログ</Caption>
+			<Hint>アンインストール ログ|プログラムのアンインストール ログを表示します</Hint>
+		</tbtnUninstallLog>
+		<tpnlSearch>
+			<Caption>検索</Caption>
+		</tpnlSearch>
+		<tvChanges>
+			<Columns_0>検出された変更点</Columns_0>
+			<Columns_1>前</Columns_1>
+			<Columns_2>後</Columns_2>
+			<Columns_3>現在</Columns_3>
+		</tvChanges>
+		<tvResults>
+			<Columns_0>名前</Columns_0>
+			<Columns_1>場所</Columns_1>
+			<Columns_2>プログラム</Columns_2>
+		</tvResults>
+	</frmTUMain>
+	<RESOURCESTRING>
+		<ACT_CRE_KEY>レジストリ キーの作成: %s</ACT_CRE_KEY>
+		<ACT_CRE_VAL>レジストリ値の作成: %s</ACT_CRE_VAL>
+		<ACT_DEC_CNT>レジストリからの共有ファイル カウンターの減少: %s</ACT_DEC_CNT>
+		<ACT_DEL_FILE>ファイルの削除: %s</ACT_DEL_FILE>
+		<ACT_DEL_FOLDER>フォルダーの削除: %s</ACT_DEL_FOLDER>
+		<ACT_DEL_KEY>レジストリ キーの削除: %s</ACT_DEL_KEY>
+		<ACT_DEL_VAL>レジストリ値の削除: %s</ACT_DEL_VAL>
+		<ACT_RST_FILE>ファイル プロパティの復元: %s</ACT_RST_FILE>
+		<ACT_RST_VAL>レジストリ値の復元: %s</ACT_RST_VAL>
+		<ACT_STOP_SERVICE>サービスまたはデバイスの中止: %s</ACT_STOP_SERVICE>
+		<ADD>追加</ADD>
+		<ADVANCED>詳細設定</ADVANCED>
+		<AGENT>エージェント</AGENT>
+		<ALL_BRA>(すべて)</ALL_BRA>
+		<ALL_DETAILS>すべての詳細</ALL_DETAILS>
+		<ALWAYS>常に</ALWAYS>
+		<ANALYSIS_PROFILES>解析プロファイル</ANALYSIS_PROFILES>
+		<ANALYZING>解析しています...</ANALYZING>
+		<ASK>質問</ASK>
+		<ASK_COMPLETE_LATER>後で監視中のプロセスを完了しますか?</ASK_COMPLETE_LATER>
+		<ASK_IF_NO_ERROR>エラーがない場合の質問</ASK_IF_NO_ERROR>
+		<ASK_SAVE_CHG>&quot;%s&quot; からの変更を保存しますか ?</ASK_SAVE_CHG>
+		<ASK_USER>ユーザーに質問</ASK_USER>
+		<BEGIN_UNINSTALL>アンインストール処理を始めるには [アンインストール] を押します。</BEGIN_UNINSTALL>
+		<BEGIN_UNINSTALL_LAUNCH>アンインストール処理を始めるには [起動] を押します。</BEGIN_UNINSTALL_LAUNCH>
+		<BROWSE_FOR_VALUE>値の参照</BROWSE_FOR_VALUE>
+		<CANCEL>キャンセル</CANCEL>
+		<CANNOT_BROWSE>既定のブラウザの起動の試行エラーがありました。\nリンクはクリップボードへコピーされました。</CANNOT_BROWSE>
+		<CANT_EXECUTE>プログラム &quot;%s&quot; を起動できません。</CANT_EXECUTE>
+		<CANT_OPEN_KEY>キーを開けません</CANT_OPEN_KEY>
+		<CHANGED_ITEMS>変更されたアイテム</CHANGED_ITEMS>
+		<CHANGES>&quot;%s&quot; 変更点</CHANGES>
+		<CHECK_UPD_NEW>新しい更新またはニュースが利用可能です</CHECK_UPD_NEW>
+		<CHECK_UPD_REMINDER>更新のチェック リマインダー</CHECK_UPD_REMINDER>
+		<CHG_VIEWS>変更点の表示</CHG_VIEWS>
+		<CLEAN_UP>クリーン アップ</CLEAN_UP>
+		<CLEAN_UP_DESC>アンインストールされた監視済みプログラムの形跡を削除します</CLEAN_UP_DESC>
+		<CLOSE>閉じる</CLOSE>
+		<CLOSE_PROCESSES>プロセスを閉じる</CLOSE_PROCESSES>
+		<CMP_PROFILE>比較するプロファイル名</CMP_PROFILE>
+		<CNT_DEL_MON>レジストリの共有ファイル カウンターが監視中に削除されました</CNT_DEL_MON>
+		<COMMENTS>コメント</COMMENTS>
+		<COMP_PROFILES>プロファイルの比較</COMP_PROFILES>
+		<COMPARE>比較</COMPARE>
+		<COMPARING_SNS>システム スナップショットを比較しています...</COMPARING_SNS>
+		<COMPUTER>コンピューター</COMPUTER>
+		<CONTACT>連絡</CONTACT>
+		<CONTINUE>続行しますか?</CONTINUE>
+		<CONTINUE_UNINSTALL>アンインストール処理の続行</CONTINUE_UNINSTALL>
+		<CORRUPT_CNT>レジストリの共有ファイル カウンターの検出された不正な変更点: 値が減らされているか不正なデータがあります</CORRUPT_CNT>
+		<CREATE_REG_KEYS>レジストリ キーの作成</CREATE_REG_KEYS>
+		<CREATE_REG_VALS>レジストリ値の作成</CREATE_REG_VALS>
+		<CREATED_ITEMS>作成されたアイテム</CREATED_ITEMS>
+		<CREATED_X>作成された: %s</CREATED_X>
+		<DEC_CNT>レジストリの共有ファイル カウンターの減少</DEC_CNT>
+		<DEFAULT>既定</DEFAULT>
+		<DEFAULT_PAR>(既定)</DEFAULT_PAR>
+		<DEL_AT_STARTUP>次の起動時に削除されるようキューされています</DEL_AT_STARTUP>
+		<DEL_CNT>レジストリの共有ファイル カウンターの削除</DEL_CNT>
+		<DEL_FILES>ファイルの削除</DEL_FILES>
+		<DEL_FOLDERS>フォルダーの削除</DEL_FOLDERS>
+		<DEL_REG_KEYS>レジストリ キーの削除</DEL_REG_KEYS>
+		<DEL_REG_VALS>レジストリ値の削除</DEL_REG_VALS>
+		<DEL_SH_FILE>ディスクからごみ箱へ共有ファイルを削除</DEL_SH_FILE>
+		<DELETED_ITEMS>削除されたアイテム</DELETED_ITEMS>
+		<DETECTED_CHG>検出された変更点</DETECTED_CHG>
+		<DONT_DEL_SH_FILE>共有ファイルの維持のユーザー選択</DONT_DEL_SH_FILE>
+		<ELAPSED>経過 %d:%2.2d</ELAPSED>
+		<ENTER_IDENTIFIER>インストールされたプログラムの名前を入力します。</ENTER_IDENTIFIER>
+		<ERR>エラー</ERR>
+		<ERR_BRA>(エラー)</ERR_BRA>
+		<ERR_DEL_FLD_FILES>1 つ以上のフォルダーまたはファイルを削除できません。</ERR_DEL_FLD_FILES>
+		<ERR_DEL_REG_KEYS_VALS>1 つ以上のキーまたは値を削除できません。</ERR_DEL_REG_KEYS_VALS>
+		<ERR_UNDO_REG_KEYS_VALS>1 つ以上のキーまたは値を元に戻せません。</ERR_UNDO_REG_KEYS_VALS>
+		<ERR_WRN_OK_STAT>エラー: %d   警告: %d  成功した動作: %d</ERR_WRN_OK_STAT>
+		<EXIT>終了</EXIT>
+		<EXPERT>上級者</EXPERT>
+		<EXPORT_ERROR>エクスポート エラーです !</EXPORT_ERROR>
+		<EXTENSION>拡張子</EXTENSION>
+		<FILE>(ファイル)</FILE>
+		<FILE_MASK>ファイル マスク</FILE_MASK>
+		<FILE_SYSTEM>ファイル システム</FILE_SYSTEM>
+		<FILES_CHG_STAT>変更されたファイル     :%6.1d</FILES_CHG_STAT>
+		<FILES_CREATED_STAT>作成されたファイル      :%6.1d</FILES_CREATED_STAT>
+		<FILES_DEL_STAT>削除されたファイル      :%6.1d</FILES_DEL_STAT>
+		<FINISH>完了</FINISH>
+		<FLDS_CREATED_STAT>作成されたフォルダー  :%6.1d</FLDS_CREATED_STAT>
+		<FLDS_DEL_STAT>削除されたフォルダー  :%6.1d</FLDS_DEL_STAT>
+		<FOLDER>(フォルダー)</FOLDER>
+		<FOLDER_MASK>フォルダー マスク</FOLDER_MASK>
+		<FS_DET_VIEW_PRF>ファイル システムの詳細 [表示: %s]</FS_DET_VIEW_PRF>
+		<GENERAL>全般</GENERAL>
+		<GENERATED_BY_TU>Generated by Total Uninstall</GENERATED_BY_TU>
+		<HIDDEN_NODE>ノードは非表示です。</HIDDEN_NODE>
+		<HIDDEN_NODE_IN_VIEW>ノードは現在の表示で非表示です。</HIDDEN_NODE_IN_VIEW>
+		<HIDE_OPTIONS>オプションを非表示にする(&amp;O)</HIDE_OPTIONS>
+		<IF_NO_ERROR>エラーがない場合</IF_NO_ERROR>
+		<INCLUDE_FOLDER_IN_LOG>ログにフォルダーを含める</INCLUDE_FOLDER_IN_LOG>
+		<INF_VOLATILE_KEY>揮発性キーが作成されません</INF_VOLATILE_KEY>
+		<INF_VOLATILE_VAL>揮発性値が作成されません</INF_VOLATILE_VAL>
+		<INST_ON>インストール日</INST_ON>
+		<INST_PRG>インストール済みプログラム</INST_PRG>
+		<INST_PRGS>インストール済みプログラム</INST_PRGS>
+		<INST_SERV_AND_DEV>インストール済みサービスおよびデバイス</INST_SERV_AND_DEV>
+		<INSTALL>インストール</INSTALL>
+		<INSTALLED_PRGS_CMPS>%d 個のインストール済みプログラム、%d 個のシステム コンポーネント</INSTALLED_PRGS_CMPS>
+		<INSTALLER_ERR>インストーラーがエラーを検出しました: 共有ファイル カウンターが存在するファイルに作成されています</INSTALLER_ERR>
+		<INTERFACE>インターフェイス</INTERFACE>
+		<INVALID_AFTER_CNT>不正な後カウンター</INVALID_AFTER_CNT>
+		<INVALID_BEFORE_CNT>不正な前カウンター</INVALID_BEFORE_CNT>
+		<INVALID_CURRENT_CNT>不正な現在カウンターがレジストリに見つかりました</INVALID_CURRENT_CNT>
+		<KEYS_CREATED_STAT>作成されたキー      :%6.1d</KEYS_CREATED_STAT>
+		<KEYS_DEL_STAT>削除されたキー      :%6.1d</KEYS_DEL_STAT>
+		<LAST_CHECK>最後のチェック: %s</LAST_CHECK>
+		<LAUNCH>起動</LAUNCH>
+		<LAUNCH_SUPPLIED_UNINST>供給された [プログラムの追加と削除] は起動されます。</LAUNCH_SUPPLIED_UNINST>
+		<LAUNCH_TU>Total Uninstall の起動</LAUNCH_TU>
+		<LIC_COUNTRY>国ライセンス</LIC_COUNTRY>
+		<LIC_FAMILY>家族ライセンス</LIC_FAMILY>
+		<LIC_MULTIPLE>複数のコンピュータ ライセンス</LIC_MULTIPLE>
+		<LIC_SINGLE_COMPUTER>単一のコンピュータ ライセンス</LIC_SINGLE_COMPUTER>
+		<LIC_SITE>サイト ライセンス</LIC_SITE>
+		<LIC_SMALL_OFFICE>小規模事務所ライセンス</LIC_SMALL_OFFICE>
+		<LIC_TEMPORARY>一時ライセンス</LIC_TEMPORARY>
+		<LIC_WORLDWIDE>世界ライセンス</LIC_WORLDWIDE>
+		<LICENSED_TO>ライセンス先: &quot;%s&quot;</LICENSED_TO>
+		<LNK_EXE_FILTER>ショートカットと実行ファイル (*.lnk, *.exe)|*.lnk;*.exe</LNK_EXE_FILTER>
+		<LOADING_INST_PRGS>インストール済みプログラムを読み込んでいます...</LOADING_INST_PRGS>
+		<LOADING_MON_PRGS>監視済みプログラムを読み込んでいます...</LOADING_MON_PRGS>
+		<LOCATE_PRG_LNK_EXE>プログラムのショートカットまたは実行ファイルを選択します</LOCATE_PRG_LNK_EXE>
+		<LOG_FILE_NAME>ログのファイル名</LOG_FILE_NAME>
+		<MISSING_ITEMS>見つからないアイテム</MISSING_ITEMS>
+		<MON_ON>監視日</MON_ON>
+		<MON_PRG>監視済みプログラム</MON_PRG>
+		<MON_PRG_PATH>監視済みプログラムのパス</MON_PRG_PATH>
+		<MON_PRG_RUNNING>監視済みプログラムはまだ実行しているように見えます。</MON_PRG_RUNNING>
+		<MONITOR_WITH_TU>Total Uninstall で監視</MONITOR_WITH_TU>
+		<MONITORED_PRGS>%d 個の監視済みプログラム</MONITORED_PRGS>
+		<NAME>名前</NAME>
+		<NEVER>なし</NEVER>
+		<NEW_NAME>新しい名前</NEW_NAME>
+		<NO>いいえ</NO>
+		<NO_GROUPS>グループなし</NO_GROUPS>
+		<NO_RIGHTS>不十分な権限</NO_RIGHTS>
+		<NORMAL>通常</NORMAL>
+		<NOT_A_VALID_UNINST>有効または登録済みのアンインストーラーが見つかりません。</NOT_A_VALID_UNINST>
+		<NOT_AVAILABLE>N.A.</NOT_AVAILABLE>
+		<NOT_DELETED_FILES>削除されていないフォルダーとファイル</NOT_DELETED_FILES>
+		<NOT_DELETED_FILES_DET>フォルダーとファイルがアンインストール中に削除されていません</NOT_DELETED_FILES_DET>
+		<NOT_DELETED_REG>削除されていないレジストリ キーおよび値</NOT_DELETED_REG>
+		<NOT_DELETED_REG_DET>レジストリ キーおよび値がアンインストール中に削除されていません</NOT_DELETED_REG_DET>
+		<NOT_EMPTY>空ではありません</NOT_EMPTY>
+		<NOT_FOUND>見つかりません</NOT_FOUND>
+		<NOTES>ノート</NOTES>
+		<OK>OK</OK>
+		<OK_BRA>(OK)</OK_BRA>
+		<ON_PRG_CLOSE>プログラムを閉じるとき</ON_PRG_CLOSE>
+		<ON_REFRESH>更新時</ON_REFRESH>
+		<ONLY_FILES_TO_KEEP>検出されません。維持するファイルまたはフォルダーのみ含みます。</ONLY_FILES_TO_KEEP>
+		<ONLY_KEYS_TO_KEEP>検出されません。維持するレジストリ キーのみ含みます。</ONLY_KEYS_TO_KEEP>
+		<OTHER>その他</OTHER>
+		<PAGE>ページ:</PAGE>
+		<PAINT_ITEM_STYLES>通常表示\n非表示\nテキストのハイライト\n薄暗いアイコン\n薄暗いアイコンテキストのハイライト</PAINT_ITEM_STYLES>
+		<PENDING_FILE_REN>未決のファイル名の変更の操作があります。</PENDING_FILE_REN>
+		<PRE_INST_SNS_NAME>インストール前スナップショット名</PRE_INST_SNS_NAME>
+		<PRE_INSTALL>インストール前のシステム スナップショット</PRE_INSTALL>
+		<PREFERENCES>環境設定</PREFERENCES>
+		<PRG_DETECTED>検出されたプログラム:</PRG_DETECTED>
+		<PRG_NAME>プログラム名</PRG_NAME>
+		<PRG_PART_UNINSTALLED>プログラムは部分的にアンインストールされました。</PRG_PART_UNINSTALLED>
+		<PRG_UNINSTALLED>プログラムは正常にアンインストールされました</PRG_UNINSTALLED>
+		<PRINT_ERROR>印刷エラーです !</PRINT_ERROR>
+		<PROCESSING_INSTALLATIONS>処理中のインストール</PROCESSING_INSTALLATIONS>
+		<PRODUCT_UPDATES>製品の更新</PRODUCT_UPDATES>
+		<PST_INST_SNS_NAME>インストール後スナップショット名</PST_INST_SNS_NAME>
+		<PUBLISHER>発行元</PUBLISHER>
+		<QST_DEL_FLD_FILES>選択されたフォルダーまたはファイルを削除してもよろしいですか?</QST_DEL_FLD_FILES>
+		<QST_DEL_REG_KEYS_VALS>選択されたキーまたは値を削除してもよろしいですか?</QST_DEL_REG_KEYS_VALS>
+		<QST_REMOVE_INST_PRG_LST>一覧から選択されたプログラムを削除してもよろしいですか?</QST_REMOVE_INST_PRG_LST>
+		<QUEST_REMOVE_GROUP>グループを削除しますか?</QUEST_REMOVE_GROUP>
+		<README>Readme</README>
+		<READY>レディ</READY>
+		<REG_DET_VIEW_PRF>レジストリの詳細 [表示: %s]</REG_DET_VIEW_PRF>
+		<REG_KEY>(レジストリ キー)</REG_KEY>
+		<REG_VAL>(レジストリ値)</REG_VAL>
+		<REGISTER_INVALID>不正な登録情報です</REGISTER_INVALID>
+		<REGISTER_THANK_YOU>%s をご登録いただきありがとうございます。</REGISTER_THANK_YOU>
+		<REGISTERED_COMPANY>登録会社</REGISTERED_COMPANY>
+		<REGISTERED_OWNER>登録所有者</REGISTERED_OWNER>
+		<REGISTRY>レジストリ</REGISTRY>
+		<REMOVE_LEFT_BEHIND>検出された残されたフォルダー、ファイル、レジストリ キーおよび値を削除するには [アンインストール] を押します。</REMOVE_LEFT_BEHIND>
+		<REMOVE_LOG>変更点ログを削除しますか?</REMOVE_LOG>
+		<REMOVE_LOG_DET>選択されたプログラムによって作成された変更点を復元できなくなります。</REMOVE_LOG_DET>
+		<REMOVE_PRG_DATA>設定とプログラムのデータを削除しますか?</REMOVE_PRG_DATA>
+		<REMOVE_PRG_DATA_INFO>Total Uninstall の更新またはアップグレードを計画している場合は &quot;いいえ&quot; を選択します</REMOVE_PRG_DATA_INFO>
+		<RENAME>名前の変更</RENAME>
+		<RESTORE_REG_VALS>レジストリ値の復元</RESTORE_REG_VALS>
+		<RST_FILE_PROP>ファイルのプロパティの復元</RST_FILE_PROP>
+		<SAFE>安全</SAFE>
+		<SAVE_AS>名前をつけて保存</SAVE_AS>
+		<SCAN_PROFILES>プロファイルのスキャン</SCAN_PROFILES>
+		<SCANNING>スキャン中...</SCANNING>
+		<SCANNING_REGISTRY_AND_FS>レジストリとファイル システムをスキャンしています...</SCANNING_REGISTRY_AND_FS>
+		<SEARCH>検索</SEARCH>
+		<SEARCH_IN_X>&quot;%s&quot; から検索</SEARCH_IN_X>
+		<SEL_BRA>(選択範囲)</SEL_BRA>
+		<SEL_HAS_HD_NODES>選択範囲は少なくとも非表示のノードを含みます。</SEL_HAS_HD_NODES>
+		<SEL_PRG_UNINSTALLED>選択されたプログラムはすでにアンインストールされています。</SEL_PRG_UNINSTALLED>
+		<SEL_UNINSTALL_PROFILE>アンインストール プロファイルを選択します。</SEL_UNINSTALL_PROFILE>
+		<SELECT>選択</SELECT>
+		<SHARED_FILE>共有ファイルです。この段階では削除されません</SHARED_FILE>
+		<SHARED_FILE_CNT_DEC>共有ファイル カウンターはすでに減少しています</SHARED_FILE_CNT_DEC>
+		<SHARED_FILE_NOT_FOUND>共有ファイルがディスクに見つかりません</SHARED_FILE_NOT_FOUND>
+		<SHOW_OPTIONS>オプションの表示(&amp;O)</SHOW_OPTIONS>
+		<SHOW_SYS_COMP>システム コンポーネントの表示: %s</SHOW_SYS_COMP>
+		<SIZE>サイズ</SIZE>
+		<SIZE_STAT>サイズ                    : %s</SIZE_STAT>
+		<SMALL_CNT>レジストリに見つかった共有ファイル カウンターが小さすぎます</SMALL_CNT>
+		<START>開始</START>
+		<START_UNINSTALL_PROCESS>アンインストール処理を開始します。</START_UNINSTALL_PROCESS>
+		<STOP>中止</STOP>
+		<STOP_SERVICES>サービスの中止</STOP_SERVICES>
+		<SUPPORT_INFO>サポート情報</SUPPORT_INFO>
+		<SUPPORT_PHONE>電話サポート</SUPPORT_PHONE>
+		<SVC_CMD_NOT_ACCEPTED>サービスはコマンドの中止を承認しません</SVC_CMD_NOT_ACCEPTED>
+		<SW_VERSION>Version %s</SW_VERSION>
+		<TITLE_MON_INSTALL>新しいインストールの監視</TITLE_MON_INSTALL>
+		<TITLE_MON_UPDATE_X>プログラムの更新 &quot;%s&quot; の監視</TITLE_MON_UPDATE_X>
+		<TOTAL_LIC_COMPUTERS>上の名前にライセンスされた全体のコンピュータ: %s</TOTAL_LIC_COMPUTERS>
+		<TOTAL_UNINSTALL>Total Uninstall</TOTAL_UNINSTALL>
+		<TRACES_AFTER_UNINSTALL>アンインストール後の形跡</TRACES_AFTER_UNINSTALL>
+		<TU_AGENT>Total Uninstall エージェント</TU_AGENT>
+		<TU_MON_PRG_TITLE>監視済みプログラム</TU_MON_PRG_TITLE>
+		<TU_PRO_EDITION>Total Uninstall Professional Edition</TU_PRO_EDITION>
+		<TU_STD_EDITION>Total Uninstall Standard Edition</TU_STD_EDITION>
+		<TU_USE_FIRST_UNINST>提供されたアンインストーラーを最初に使用するトータル アンインストール</TU_USE_FIRST_UNINST>
+		<TU_USE_FIRST_UNINST_DESC>システム デバイスをインストールするアンチウイルス、アンチスパイウェア、ファイアウォール、ドライバーまたはすべてのプログラムをアンインストールします。</TU_USE_FIRST_UNINST_DESC>
+		<UNINST_ANALYZED>解析済みプログラムのアンインストール</UNINST_ANALYZED>
+		<UNINST_PROFILES>アンインストール プロファイル</UNINST_PROFILES>
+		<UNINSTALL>アンインストール</UNINSTALL>
+		<UNINSTALL_INST_HINT>アンインストール|選択された解析済みプログラムをアンインストールします</UNINSTALL_INST_HINT>
+		<UNINSTALL_MON_HINT>アンインストール|選択された監視済みプログラムをアンインストールします</UNINSTALL_MON_HINT>
+		<UNINSTALL_PROGRAM_X>プログラム &quot;%s&quot; のアンインストール</UNINSTALL_PROGRAM_X>
+		<UNINSTALLED_WITH_TU>Total Uninstall でアンインストールされた &quot;%s&quot;</UNINSTALLED_WITH_TU>
+		<UNREGISTERED>未登録</UNREGISTERED>
+		<USE_LAST_SNS>最後のスナップショットの使用</USE_LAST_SNS>
+		<USE_LAST_SNS_AGO_D>最後のスナップショットの使用 (%d 日、%d 時間および %d 分前)</USE_LAST_SNS_AGO_D>
+		<USE_LAST_SNS_AGO_H>最後のスナップショットの使用 (%d 時間および %d 分前)</USE_LAST_SNS_AGO_H>
+		<USE_LAST_SNS_AGO_M>最後のスナップショットの使用 (%d 分前)</USE_LAST_SNS_AGO_M>
+		<USE_ONLY_PRG_UNINST>プログラムのアンインストーラーのみ使用する</USE_ONLY_PRG_UNINST>
+		<USE_OR_BUILD_SNS>以前のインストール前スナップショットを構築または使用します。</USE_OR_BUILD_SNS>
+		<USR_ABORT>ユーザーによって中止されました</USR_ABORT>
+		<VALS_CHG_STAT>変更された値  :%6.1d</VALS_CHG_STAT>
+		<VALS_CREATED_STAT>作成された値   :%6.1d</VALS_CREATED_STAT>
+		<VALS_DEL_STAT>削除された値   :%6.1d</VALS_DEL_STAT>
+		<VERSION>バージョン</VERSION>
+		<WAIT_UNINST_REMOVE_LEFT>供給された [プログラムの追加と削除] の完了時に残されたフォルダー、ファイル、レジストリ キーおよび値を削除するには [アンインストール] を押します。</WAIT_UNINST_REMOVE_LEFT>
+		<WRN_BRA>(WRN)</WRN_BRA>
+		<X_BYTE>%s B</X_BYTE>
+		<X_BYTES>%d バイト</X_BYTES>
+		<X_CHANGES>%s - 変更点</X_CHANGES>
+		<X_GIGABYTE>%s GB</X_GIGABYTE>
+		<X_KILOBYTE>%s KB</X_KILOBYTE>
+		<X_MEGABYTE>%s MB</X_MEGABYTE>
+		<X_RESULTS>%d 個の結果</X_RESULTS>
+		<X_UNINSTALL_LOG>&quot;%s&quot; - アンインストール ログ</X_UNINSTALL_LOG>
+		<X_UNINSTALL_LOG_FILE>&quot;%s&quot; - アンインストールログ.txt</X_UNINSTALL_LOG_FILE>
+		<YES>はい</YES>
+		<ZERO_LENGTH_DATA>(長さ 0 のデータ)</ZERO_LENGTH_DATA>
+	</RESOURCESTRING>
+</TotalUninstall>

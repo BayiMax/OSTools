@@ -1,0 +1,2615 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TotalUninstall>
+	<_System_>
+		<Flag>
+			<Size>1974</Size>
+			<Data>Qk22BwAAAAAAADYAAAAoAAAAIAAAABQAAAABABgAAAAAAIAHAADDDgAAww4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAAAP//AP//AP//AP//AP//AP//AP//AP//AP//AP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Data>
+		</Flag>
+		<LanguageCode>en</LanguageCode>
+		<LocalizedName>Română</LocalizedName>
+		<Version>62400</Version>
+	</_System_>
+	<Cleaner>
+		<CF-BROWSER-CACHE>Navigator pentru Internet</CF-BROWSER-CACHE>
+		<CF-BROWSER-CACHE-CHROME>Chrome</CF-BROWSER-CACHE-CHROME>
+		<CF-BROWSER-CACHE-FIREFOX>Firefox</CF-BROWSER-CACHE-FIREFOX>
+		<CF-BROWSER-CACHE-IE>Internet Explorer</CF-BROWSER-CACHE-IE>
+		<CF-BROWSER-CACHE-MAXTHON>Maxthon</CF-BROWSER-CACHE-MAXTHON>
+		<CF-BROWSER-CACHE-OPERA>Opera</CF-BROWSER-CACHE-OPERA>
+		<CF-PROGRAMS>Programe</CF-PROGRAMS>
+		<CF-PROGRAMS-ADOBE-FLASH-PLAYER>Adobe Flash Player</CF-PROGRAMS-ADOBE-FLASH-PLAYER>
+		<CF-PROGRAMS-MSOFFICE-RECENT>Fișiere recente în Microsoft Office</CF-PROGRAMS-MSOFFICE-RECENT>
+		<CF-PROGRAMS-SUN-JAVA-CACHE>Fișiere de acces rapid pentru Sun Java</CF-PROGRAMS-SUN-JAVA-CACHE>
+		<CF-SYSTEM>Sistem</CF-SYSTEM>
+		<CF-SYSTEM-JUNK-FILES>Fișiere inutile</CF-SYSTEM-JUNK-FILES>
+		<CF-SYSTEM-RECYCLE-BIN>Coș de gunoi pentru curățare forțată</CF-SYSTEM-RECYCLE-BIN>
+		<CF-SYSTEM-TEMP-FILES>Fișiere temporare</CF-SYSTEM-TEMP-FILES>
+		<CF-SYSTEM-THUMBNAILS-CACHE>Fișier de accesare rapidă pentru pictograme</CF-SYSTEM-THUMBNAILS-CACHE>
+		<CF-WINDOWS>Windows</CF-WINDOWS>
+		<CF-WINDOWS-ERROR-REPORTING>Rapoarte de eroare</CF-WINDOWS-ERROR-REPORTING>
+		<CF-WINDOWS-EXPLORER>Explorator Windows</CF-WINDOWS-EXPLORER>
+		<CF-WINDOWS-EXPLORER-RECENT-FILES>Documente recente</CF-WINDOWS-EXPLORER-RECENT-FILES>
+		<CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>Foldere goale abandonate</CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>
+		<CF-WINDOWS-LOG-FILES>Fișiere jurnal</CF-WINDOWS-LOG-FILES>
+		<CF-WINDOWS-MEMORY-DUMP-FILES>Fișier cu instantaneul memoriei</CF-WINDOWS-MEMORY-DUMP-FILES>
+		<CF-WINDOWS-TEMP-FOLDERS>Foldere temporare</CF-WINDOWS-TEMP-FOLDERS>
+		<CR-INVALID-ENTRIES>Înregistrări incorecte</CR-INVALID-ENTRIES>
+		<CR-INVALID-ENTRIES-FILE-REFERENCES>Referințe la fișiere</CR-INVALID-ENTRIES-FILE-REFERENCES>
+		<CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>Chei goale de regiștri abandonate</CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>
+		<CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>Librării parajate lipsă</CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>
+		<CR-INVALID-ENTRIES-MSI-PATHS>Căi MSI</CR-INVALID-ENTRIES-MSI-PATHS>
+		<CR-INVALID-ENTRIES-MUI-REFERENCES>Referințe la cele mai folosite fișiere</CR-INVALID-ENTRIES-MUI-REFERENCES>
+		<CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>Formate de fișier fără informații</CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>
+		<CF-WINDOWS-ETL-FILES>Fișiere jurnal de urmărire a evenimentelor</CF-WINDOWS-ETL-FILES>
+		<CF-WINDOWS-EVL-FILES>Fișiere jurnal de vizualizare a evenimentelor</CF-WINDOWS-EVL-FILES>
+		<CR-MUI-REFERENCES>Referințe la cele mai folosite elemente</CR-MUI-REFERENCES>
+	</Cleaner>
+	<dlgAddInstalledPrg>
+		<btnCancel>
+			<Caption>Revocare</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Adăugare program la listă</Caption>
+		<lblBuiltInUninstaller>
+			<Caption>Dezinstalator propriu</Caption>
+		</lblBuiltInUninstaller>
+		<lblInstallationFolder>
+			<Caption>Instalat în folder</Caption>
+		</lblInstallationFolder>
+		<lblPrgName>
+			<Caption>Nume program</Caption>
+		</lblPrgName>
+	</dlgAddInstalledPrg>
+	<dlgAskDelItem>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<btnSelectAll>
+			<Caption>Selectare totală</Caption>
+		</btnSelectAll>
+		<btnUnselectAll>
+			<Caption>Deselectare totală</Caption>
+		</btnUnselectAll>
+		<Caption>Ştergeţi elementele?</Caption>
+		<cbAutoSelectAll>
+			<Caption>Auto selectare totală</Caption>
+		</cbAutoSelectAll>
+		<lblDelSel>
+			<Caption>Elementele selectate vor fi şterse</Caption>
+		</lblDelSel>
+	</dlgAskDelItem>
+	<dlgAutorunItem>
+		<btnCancel>
+			<Caption>Revocare</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Element de autopornire</Caption>
+		<gbStartLocation>
+			<Caption>Locația de pornire</Caption>
+		</gbStartLocation>
+		<gbUser>
+			<Caption>Autopornire la logon pentru</Caption>
+		</gbUser>
+		<lblCommand>
+			<Caption>Comanda</Caption>
+		</lblCommand>
+		<lblName>
+			<Caption>Nume</Caption>
+		</lblName>
+		<rbLogonAnyUser>
+			<Caption>Oricare utilizator</Caption>
+		</rbLogonAnyUser>
+		<rbLogonCurentUser>
+			<Caption>Utilizatorul curent</Caption>
+		</rbLogonCurentUser>
+		<rbRegRun>
+			<Caption>Regiștrii, rulează la fiecare logon</Caption>
+		</rbRegRun>
+		<rbRegRunOnce>
+			<Caption>Regiștrii, rulează doar odată la următorul logon</Caption>
+		</rbRegRunOnce>
+		<rbStartMenu>
+			<Caption>Folderul de pornire, rulează la fiecare logon</Caption>
+		</rbStartMenu>
+	</dlgAutorunItem>
+	<dlgChangeIcon>
+		<btnBrowse>
+			<Caption>Răsfoire...</Caption>
+		</btnBrowse>
+		<btnCancel>
+			<Caption>Revocare</Caption>
+		</btnCancel>
+		<btnClear>
+			<Caption>Curăță</Caption>
+		</btnClear>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Schimbare pictogramă</Caption>
+		<gbIcons>
+			<Caption>Pictograme</Caption>
+		</gbIcons>
+	</dlgChangeIcon>
+	<dlgCheckUpdates>
+		<btnClose>
+			<Caption>Închidere</Caption>
+		</btnClose>
+		<btnRefresh>
+			<Caption>Reîmprospătare</Caption>
+		</btnRefresh>
+		<Caption>Verificare actualizări</Caption>
+	</dlgCheckUpdates>
+	<dlgCompareSns>
+		<btnCancel>
+			<Caption>Revocare</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Comparare instantanee sistem</Caption>
+		<lblCompareProfile>
+			<Caption>Profil de comparare</Caption>
+		</lblCompareProfile>
+		<lblResultLog>
+			<Caption>Jurnal rezultat</Caption>
+		</lblResultLog>
+		<lblSnapshotA>
+			<Caption>Instantaneu sistem A</Caption>
+		</lblSnapshotA>
+		<lblSnapshotB>
+			<Caption>Instantaneu sistem B</Caption>
+		</lblSnapshotB>
+	</dlgCompareSns>
+	<dlgExportRegistry>
+		<btnCancel>
+			<Caption>Revocare</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Export schimbări regiştrii</Caption>
+		<cbCreatedKeys>
+			<Caption>Chei create</Caption>
+		</cbCreatedKeys>
+		<cbCreatedValues>
+			<Caption>Valori create</Caption>
+		</cbCreatedValues>
+		<cbDeletedKeys>
+			<Caption>Chei şterse</Caption>
+		</cbDeletedKeys>
+		<cbDeletedValues>
+			<Caption>Valori şterse</Caption>
+		</cbDeletedValues>
+		<cbModifiedValues>
+			<Caption>Valori modificate</Caption>
+		</cbModifiedValues>
+		<gbDetails>
+			<Caption>Schimbări regiştrii</Caption>
+		</gbDetails>
+		<gbExportType>
+			<Caption>Tip de export</Caption>
+		</gbExportType>
+		<gbRange>
+			<Caption>Limitare export</Caption>
+		</gbRange>
+		<rbExpAll>
+			<Caption>Tot</Caption>
+		</rbExpAll>
+		<rbExpBranch>
+			<Caption>Ramura selectată</Caption>
+		</rbExpBranch>
+		<rbInstall>
+			<Caption>Fişier de instalare</Caption>
+		</rbInstall>
+		<rbUninstall>
+			<Caption>Fişier de dezinstalare</Caption>
+		</rbUninstall>
+	</dlgExportRegistry>
+	<dlgGroupProp>
+		<btnCancel>
+			<Caption>Revocare</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Grup</Caption>
+		<lblIcon>
+			<Caption>Pictogramă</Caption>
+		</lblIcon>
+		<lblName>
+			<Caption>Nume</Caption>
+		</lblName>
+	</dlgGroupProp>
+	<dlgMergeLogs>
+		<btnCancel>
+			<Caption>Revocare</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Contopire jurnale</Caption>
+		<cbDeleteUpdate>
+			<Caption>Şterge jurnalul de actualizare după contopire</Caption>
+		</cbDeleteUpdate>
+		<gbDestination>
+			<Caption>Destinaţie</Caption>
+		</gbDestination>
+		<gbSources>
+			<Caption>Surse</Caption>
+		</gbSources>
+		<lblInstallLog>
+			<Caption>Jurnal de instalare</Caption>
+		</lblInstallLog>
+		<lblNewName>
+			<Caption>Nume nou</Caption>
+		</lblNewName>
+		<lblUpdateLog>
+			<Caption>Jurnal de actualizare</Caption>
+		</lblUpdateLog>
+		<rbCreateANewLog>
+			<Caption>Creare jurnal nou</Caption>
+		</rbCreateANewLog>
+		<rbSaveInInstallLog>
+			<Caption>Salvează în jurnalul de instalare</Caption>
+		</rbSaveInInstallLog>
+	</dlgMergeLogs>
+	<dlgPendingFileRename>
+		<btnApply>
+			<Caption>Se aplică</Caption>
+		</btnApply>
+		<btnClose>
+			<Caption>Închidere</Caption>
+		</btnClose>
+		<Caption>Operaţii de redenumire în curs</Caption>
+		<tvPendingFiles>
+			<Columns_0>Sursă</Columns_0>
+			<Columns_1>Destinaţie</Columns_1>
+		</tvPendingFiles>
+	</dlgPendingFileRename>
+	<dlgRegister>
+		<btnBuy>
+			<Caption>Cumpărare</Caption>
+		</btnBuy>
+		<btnCancel>
+			<Caption>Revocare</Caption>
+		</btnCancel>
+		<btnRegister>
+			<Caption>Înregistrare</Caption>
+		</btnRegister>
+		<Caption>Înregistrare Total Uninstall</Caption>
+		<lblKey>
+			<Caption>Cheie de înregistrare</Caption>
+		</lblKey>
+		<lblName>
+			<Caption>Nume de înregistrare</Caption>
+		</lblName>
+		<ulblLostRegistrationInfo>
+			<Caption>Am pierdut informația mea de înregistrare.</Caption>
+		</ulblLostRegistrationInfo>
+	</dlgRegister>
+	<dlgRestrictedFeature>
+		<btnCancel>
+			<Caption>Revocare</Caption>
+		</btnCancel>
+		<Caption>Caracteristică restricţionată</Caption>
+		<clinkPurchase>
+			<Caption>Cumpără</Caption>
+			<Note>Deschide formularul de comandă</Note>
+		</clinkPurchase>
+		<lblInstruction>
+			<Caption>Această caracteristică este disponibilă în versiunea înregistrată</Caption>
+		</lblInstruction>
+		<lblProfessionalEdition>
+			<Caption>- Ediţia Profesională</Caption>
+		</lblProfessionalEdition>
+	</dlgRestrictedFeature>
+	<dlgRmvShared>
+		<btnNo>
+			<Caption>Nu</Caption>
+		</btnNo>
+		<btnNoToAll>
+			<Caption>Nu la tot</Caption>
+		</btnNoToAll>
+		<btnYes>
+			<Caption>Da</Caption>
+		</btnYes>
+		<btnYesToAll>
+			<Caption>Da la tot</Caption>
+		</btnYesToAll>
+		<Caption>Eliminaţi fişierul partajat?</Caption>
+		<lblFileName>
+			<Caption>Nume fişier:</Caption>
+		</lblFileName>
+		<lblLocated>
+			<Caption>Localizat în:</Caption>
+		</lblLocated>
+		<lblOne>
+			<Caption>Sistemul indică că următorul fişier partajat nu mai este folosit de nici un program. Dacă alte programe totuşi îl folosesc şi este eliminat, acele programe s-ar putea să nu mai funcţioneze. Sunteţi sigur că vreţi să eliminaţi fişierul partajat?</Caption>
+		</lblOne>
+		<lblTwo>
+			<Caption>Lăsând acest fişier nu va dăuna sistemului. Dacă nu sunteţi siguri ce să faceţi, este sugerată alegerea de a nu elimina această componentă partajată.</Caption>
+		</lblTwo>
+	</dlgRmvShared>
+	<dlgSelect>
+		<btnCancel>
+			<Caption>Revocare</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Selectare</Caption>
+	</dlgSelect>
+	<dlgSelectLibIcon>
+		<btnAdd>
+			<Caption>Adăugare</Caption>
+		</btnAdd>
+		<btnCancel>
+			<Caption>Revocare</Caption>
+		</btnCancel>
+		<btnDelete>
+			<Caption>Ştergere</Caption>
+		</btnDelete>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Selectare pictogramă</Caption>
+		<gbIcons>
+			<Caption>Pictograme</Caption>
+		</gbIcons>
+	</dlgSelectLibIcon>
+	<dlgSysBrowser>
+		<btnCancel>
+			<Caption>&amp;Revocare</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>&amp;OK</Caption>
+		</btnOk>
+		<lblExpanded>
+			<Caption>Expandat</Caption>
+		</lblExpanded>
+	</dlgSysBrowser>
+	<dlgTUAbout>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Despre</Caption>
+		<lblCopyright>
+			<Caption>Drepturi de autor © 2001-2019, Gavrilă Martău</Caption>
+		</lblCopyright>
+		<lblEmail>
+			<Caption>Poştă electronică</Caption>
+		</lblEmail>
+		<lblHomePage>
+			<Caption>Sait web</Caption>
+		</lblHomePage>
+		<ulblBuyUpgrade>
+			<Caption>Cumpără actualizare</Caption>
+		</ulblBuyUpgrade>
+		<ulblDownload>
+			<Caption>Descarcă ultima actualizare gratis</Caption>
+		</ulblDownload>
+	</dlgTUAbout>
+	<dlgTunBackup>
+		<btnCancel>
+			<Caption>Revocare</Caption>
+		</btnCancel>
+		<btnCopy>
+			<Caption>Copiază în...</Caption>
+		</btnCopy>
+		<btnCreate>
+			<Caption>Creare</Caption>
+		</btnCreate>
+		<lblArchiving>
+			<Caption>Se arhivează fişierele şi regiştrii...</Caption>
+		</lblArchiving>
+		<lblCreateBackup>
+			<Caption>Crează o copie de siguranţă a programului</Caption>
+		</lblCreateBackup>
+		<lblFilesNotIncluded>
+			<Caption>Fişiere care nu au fost incluse în copia de siguranţă</Caption>
+		</lblFilesNotIncluded>
+	</dlgTunBackup>
+	<dlgTunRestore>
+		<btnImport>
+			<Caption>Import</Caption>
+		</btnImport>
+		<cbRestoreOnlyLog>
+			<Caption>Restaurează numai jurnalul de instalare</Caption>
+		</cbRestoreOnlyLog>
+		<lblFilesNotIncluded>
+			<Caption>Acțiune neexecutate</Caption>
+		</lblFilesNotIncluded>
+		<lblRestoreProfile>
+			<Caption>Profil de restaurare</Caption>
+		</lblRestoreProfile>
+		<lblRestoreProgram>
+			<Caption>Selectaţi un program pentru restaurare</Caption>
+		</lblRestoreProgram>
+		<lblUndoRestoration>
+			<Caption>Selectați o restaurare pentru a fi anulată</Caption>
+		</lblUndoRestoration>
+		<pmiCopyTo>
+			<Caption>Copiază în...</Caption>
+		</pmiCopyTo>
+		<pmiDelete>
+			<Caption>Ștergere</Caption>
+		</pmiDelete>
+	</dlgTunRestore>
+	<dlgTUOptions>
+		<btnAddAnalysisProfile>
+			<Caption>Adăugare...</Caption>
+		</btnAddAnalysisProfile>
+		<btnAddAutorunView>
+			<Caption>Adăugare...</Caption>
+		</btnAddAutorunView>
+		<btnAddChgView>
+			<Caption>Adăugare...</Caption>
+		</btnAddChgView>
+		<btnAddCleaner>
+			<Caption>Adăugare...</Caption>
+		</btnAddCleaner>
+		<btnAddCompareProfile>
+			<Caption>Adăugare...</Caption>
+		</btnAddCompareProfile>
+		<btnAddExclFlds>
+			<Caption>Adăugare...</Caption>
+		</btnAddExclFlds>
+		<btnAddExclKey>
+			<Caption>Adăugare...</Caption>
+		</btnAddExclKey>
+		<btnAddExcludeProduct>
+			<Caption>Adăugare...</Caption>
+		</btnAddExcludeProduct>
+		<btnAddExcludePublisher>
+			<Caption>Adăugare...</Caption>
+		</btnAddExcludePublisher>
+		<btnAddIgnChgFs>
+			<Caption>Adăugare...</Caption>
+		</btnAddIgnChgFs>
+		<btnAddIgnChgReg>
+			<Caption>Adăugare...</Caption>
+		</btnAddIgnChgReg>
+		<btnAddIgnFile>
+			<Caption>Adăugare...</Caption>
+		</btnAddIgnFile>
+		<btnAddInclFlds>
+			<Caption>Adăugare...</Caption>
+		</btnAddInclFlds>
+		<btnAddInclKeys>
+			<Caption>Adăugare...</Caption>
+		</btnAddInclKeys>
+		<btnAddIncludeProduct>
+			<Caption>Adăugare...</Caption>
+		</btnAddIncludeProduct>
+		<btnAddIncludePublisher>
+			<Caption>Adăugare...</Caption>
+		</btnAddIncludePublisher>
+		<btnAddInstallLoc>
+			<Caption>Adăugare...</Caption>
+		</btnAddInstallLoc>
+		<btnAddProtectedFld>
+			<Caption>Adăugare...</Caption>
+		</btnAddProtectedFld>
+		<btnAddProtectedKey>
+			<Caption>Adăugare...</Caption>
+		</btnAddProtectedKey>
+		<btnAddRedo>
+			<Caption>Adăugare...</Caption>
+		</btnAddRedo>
+		<btnAddScanProfile>
+			<Caption>Adăugare...</Caption>
+		</btnAddScanProfile>
+		<btnAddUninst>
+			<Caption>Adăugare...</Caption>
+		</btnAddUninst>
+		<btnAddUninstInst>
+			<Caption>Adăugare...</Caption>
+		</btnAddUninstInst>
+		<btnAddValue>
+			<Caption>Adăugare...</Caption>
+		</btnAddValue>
+		<btnAddVer>
+			<Caption>Adăugare...</Caption>
+		</btnAddVer>
+		<btnAgentAddExcMask>
+			<Caption>Adăugare...</Caption>
+		</btnAgentAddExcMask>
+		<btnAgentAddIncMask>
+			<Caption>Adăugare...</Caption>
+		</btnAgentAddIncMask>
+		<btnAgentRemExcMask>
+			<Caption>Eliminare</Caption>
+		</btnAgentRemExcMask>
+		<btnAgentRemIncMask>
+			<Caption>Eliminare</Caption>
+		</btnAgentRemIncMask>
+		<btnAnlSaveAs>
+			<Caption>Salvare ca...</Caption>
+		</btnAnlSaveAs>
+		<btnAutorunViewSaveAs>
+			<Caption>Salvare ca...</Caption>
+		</btnAutorunViewSaveAs>
+		<btnCancel>
+			<Caption>Revocare</Caption>
+		</btnCancel>
+		<btnChgViewSaveAs>
+			<Caption>Salvare ca...</Caption>
+		</btnChgViewSaveAs>
+		<btnCleanerSaveAs>
+			<Caption>Salvare ca...</Caption>
+		</btnCleanerSaveAs>
+		<btnClnAddExclFs>
+			<Caption>Adăugare...</Caption>
+		</btnClnAddExclFs>
+		<btnClnAddExclRegistry>
+			<Caption>Adăugare...</Caption>
+		</btnClnAddExclRegistry>
+		<btnClnEditExclFs>
+			<Caption>Editare...</Caption>
+		</btnClnEditExclFs>
+		<btnClnEditExclRegistry>
+			<Caption>Editare...</Caption>
+		</btnClnEditExclRegistry>
+		<btnClnRemExclFs>
+			<Caption>Eliminare</Caption>
+		</btnClnRemExclFs>
+		<btnClnRemExclRegistry>
+			<Caption>Eliminare</Caption>
+		</btnClnRemExclRegistry>
+		<btnCompPlaySound>
+			<Caption>Testare</Caption>
+		</btnCompPlaySound>
+		<btnCompSaveAs>
+			<Caption>Salvare ca...</Caption>
+		</btnCompSaveAs>
+		<btnEditExclFlds>
+			<Caption>Editare...</Caption>
+		</btnEditExclFlds>
+		<btnEditExclKeys>
+			<Caption>Editare...</Caption>
+		</btnEditExclKeys>
+		<btnEditIgnChgFs>
+			<Caption>Editare...</Caption>
+		</btnEditIgnChgFs>
+		<btnEditIgnChgReg>
+			<Caption>Editare...</Caption>
+		</btnEditIgnChgReg>
+		<btnEditIgnFile>
+			<Caption>Editare...</Caption>
+		</btnEditIgnFile>
+		<btnEditIgnValues>
+			<Caption>Editare...</Caption>
+		</btnEditIgnValues>
+		<btnEditProtectedFld>
+			<Caption>Editare...</Caption>
+		</btnEditProtectedFld>
+		<btnEditProtectedKey>
+			<Caption>Editare...</Caption>
+		</btnEditProtectedKey>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<btnRedoSaveAs>
+			<Caption>Salvare ca...</Caption>
+		</btnRedoSaveAs>
+		<btnRemAnalysisProfile>
+			<Caption>Eliminare...</Caption>
+		</btnRemAnalysisProfile>
+		<btnRemAutorunView>
+			<Caption>Eliminare</Caption>
+		</btnRemAutorunView>
+		<btnRemChgView>
+			<Caption>Eliminare...</Caption>
+		</btnRemChgView>
+		<btnRemCleaner>
+			<Caption>Eliminare...</Caption>
+		</btnRemCleaner>
+		<btnRemCompareProfile>
+			<Caption>Eliminare...</Caption>
+		</btnRemCompareProfile>
+		<btnRemExclFlds>
+			<Caption>Eliminare</Caption>
+		</btnRemExclFlds>
+		<btnRemExclKeys>
+			<Caption>Eliminare</Caption>
+		</btnRemExclKeys>
+		<btnRemExcludeProduct>
+			<Caption>Eliminare</Caption>
+		</btnRemExcludeProduct>
+		<btnRemExcludePublisher>
+			<Caption>Eliminare</Caption>
+		</btnRemExcludePublisher>
+		<btnRemIgnChgFs>
+			<Caption>Eliminare</Caption>
+		</btnRemIgnChgFs>
+		<btnRemIgnChgReg>
+			<Caption>Eliminare</Caption>
+		</btnRemIgnChgReg>
+		<btnRemIgnFile>
+			<Caption>Eliminare</Caption>
+		</btnRemIgnFile>
+		<btnRemInclFlds>
+			<Caption>Eliminare</Caption>
+		</btnRemInclFlds>
+		<btnRemInclKeys>
+			<Caption>Eliminare</Caption>
+		</btnRemInclKeys>
+		<btnRemIncludeProduct>
+			<Caption>Eliminare</Caption>
+		</btnRemIncludeProduct>
+		<btnRemIncludePublisher>
+			<Caption>Eliminare</Caption>
+		</btnRemIncludePublisher>
+		<btnRemoveInstallLoc>
+			<Caption>Eliminare</Caption>
+		</btnRemoveInstallLoc>
+		<btnRemoveRedo>
+			<Caption>Eliminare...</Caption>
+		</btnRemoveRedo>
+		<btnRemProtectedFld>
+			<Caption>Eliminare</Caption>
+		</btnRemProtectedFld>
+		<btnRemProtectedKey>
+			<Caption>Eliminare</Caption>
+		</btnRemProtectedKey>
+		<btnRemScanProfile>
+			<Caption>Eliminare...</Caption>
+		</btnRemScanProfile>
+		<btnRemUninst>
+			<Caption>Eliminare...</Caption>
+		</btnRemUninst>
+		<btnRemUninstInst>
+			<Caption>Eliminare...</Caption>
+		</btnRemUninstInst>
+		<btnRemValues>
+			<Caption>Eliminare</Caption>
+		</btnRemValues>
+		<btnRemVer>
+			<Caption>Eliminare</Caption>
+		</btnRemVer>
+		<btnResetAll>
+			<Caption>Restabilire totală</Caption>
+		</btnResetAll>
+		<btnScanPlaySound>
+			<Caption>Testare</Caption>
+		</btnScanPlaySound>
+		<btnScanSaveAs>
+			<Caption>Salvare ca...</Caption>
+		</btnScanSaveAs>
+		<btnUninstSaveAs>
+			<Caption>Salvare ca...</Caption>
+		</btnUninstSaveAs>
+		<Caption>Opţiuni</Caption>
+		<cbAnlProfileDefault>
+			<Caption>Implicit</Caption>
+		</cbAnlProfileDefault>
+		<cbAutorunDefault>
+			<Caption>Implicit</Caption>
+		</cbAutorunDefault>
+		<cbAutoStart>
+			<Caption>Pornire automată cu Windows pentru a continua monitorizarea neterminată</Caption>
+		</cbAutoStart>
+		<cbBackup>
+			<Caption>Crează o copie de siguranţă la programul dezinstalat</Caption>
+		</cbBackup>
+		<cbChgViewDefault>
+			<Caption>Implicit</Caption>
+		</cbChgViewDefault>
+		<cbCleanerDefault>
+			<Caption>Implicit</Caption>
+		</cbCleanerDefault>
+		<cbCleanerEnable>
+			<Caption>Activare modul de curățare</Caption>
+		</cbCleanerEnable>
+		<cbClickRestore>
+			<Caption>Restaurare cu un singur click</Caption>
+		</cbClickRestore>
+		<cbCompareRegistry>
+			<Caption>Compară regiştrii</Caption>
+		</cbCompareRegistry>
+		<cbCompFiles>
+			<Caption>Compară fişierele</Caption>
+		</cbCompFiles>
+		<cbCompPlaySound>
+			<Caption>Redare sunet la terminare</Caption>
+		</cbCompPlaySound>
+		<cbCompProfileDefault>
+			<Caption>Implicit</Caption>
+		</cbCompProfileDefault>
+		<cbCompProfileFrozen>
+			<Caption>Blocat</Caption>
+		</cbCompProfileFrozen>
+		<cbComputeMD5>
+			<Caption>Calculează MD5 pentru fişierele noi</Caption>
+		</cbComputeMD5>
+		<cbCreateKeys>
+			<Caption>Crează cheile şterse</Caption>
+		</cbCreateKeys>
+		<cbCreateValues>
+			<Caption>Crează valorile şterse</Caption>
+		</cbCreateValues>
+		<cbCustomSnsName>
+			<Caption>Permite nume de instantaneu personalizat</Caption>
+		</cbCustomSnsName>
+		<cbDecrement>
+			<Caption>Decrementează contoare fişiere partajate</Caption>
+		</cbDecrement>
+		<cbDelFiles>
+			<Caption>Şterge fişierele create (fişierele partajate numai dacă contorul a ajuns la 0)</Caption>
+		</cbDelFiles>
+		<cbDelFolders>
+			<Caption>Şterge folderele create</Caption>
+		</cbDelFolders>
+		<cbDelKeys>
+			<Caption>Şterge cheile create</Caption>
+		</cbDelKeys>
+		<cbDelUseRecycle>
+			<Caption>Utilizare Coş de reciclare</Caption>
+		</cbDelUseRecycle>
+		<cbDelValues>
+			<Caption>Şterge valorile create</Caption>
+		</cbDelValues>
+		<cbDontUseLog>
+			<Caption>Nu folosi jurnalul cu schimbările detectate</Caption>
+		</cbDontUseLog>
+		<cbEnableAgent>
+			<Caption>Activare agent Total Uninstall</Caption>
+		</cbEnableAgent>
+		<cbExtractFileVersion>
+			<Caption>Extrage informația de versiune</Caption>
+		</cbExtractFileVersion>
+		<cbHexViewerNot64Bit>
+			<Caption>Nu are capabilitate de 64 biți</Caption>
+		</cbHexViewerNot64Bit>
+		<cbIgnoreMissingItems>
+			<Caption>Ignoră elementele lipsă</Caption>
+		</cbIgnoreMissingItems>
+		<cbInstPrgsEnable>
+			<Caption>Activare modul Programe Instalate</Caption>
+		</cbInstPrgsEnable>
+		<cbMinToTray>
+			<Caption>Minimizare în zona de notificare</Caption>
+		</cbMinToTray>
+		<cbMonPrgsEnable>
+			<Caption>Activare modul Programe Monitorizate</Caption>
+		</cbMonPrgsEnable>
+		<cbRedoCreateFiles>
+			<Caption>Restaurează fișierele create</Caption>
+		</cbRedoCreateFiles>
+		<cbRedoCreateFilesOvr>
+			<Caption>Suprascrie fișierele</Caption>
+		</cbRedoCreateFilesOvr>
+		<cbRedoCreateFilesOvrLck>
+			<Caption>Suprascrie fișierele în uz</Caption>
+		</cbRedoCreateFilesOvrLck>
+		<cbRedoCreateFolders>
+			<Caption>Restaurează folderele create</Caption>
+		</cbRedoCreateFolders>
+		<cbRedoCreateKeys>
+			<Caption>Restaurează cheile create</Caption>
+		</cbRedoCreateKeys>
+		<cbRedoCreateValues>
+			<Caption>Restaurează valorile create</Caption>
+		</cbRedoCreateValues>
+		<cbRedoDefault>
+			<Caption>Implicit</Caption>
+		</cbRedoDefault>
+		<cbRedoDeleteFiles>
+			<Caption>Șterge fișierele</Caption>
+		</cbRedoDeleteFiles>
+		<cbRedoDeleteFolders>
+			<Caption>Șterge folderele</Caption>
+		</cbRedoDeleteFolders>
+		<cbRedoDeleteKeys>
+			<Caption>Șterge cheile</Caption>
+		</cbRedoDeleteKeys>
+		<cbRedoDeleteValues>
+			<Caption>Șterge valorile</Caption>
+		</cbRedoDeleteValues>
+		<cbRedoEnabled>
+			<Caption>Activare</Caption>
+		</cbRedoEnabled>
+		<cbRedoModifyFiles>
+			<Caption>Restaurează fișierele modificate</Caption>
+		</cbRedoModifyFiles>
+		<cbRedoModifyFilesLck>
+			<Caption>Suprascrie fișierele în uz</Caption>
+		</cbRedoModifyFilesLck>
+		<cbRedoModifyValues>
+			<Caption>Restaurează valorile modificate</Caption>
+		</cbRedoModifyValues>
+		<cbRedoSysRestore>
+			<Caption>Crează un punct de restaurare a sistemului înaintea restaurării</Caption>
+		</cbRedoSysRestore>
+		<cbRestoreValues>
+			<Caption>Restabileşte valorile schimbate</Caption>
+		</cbRestoreValues>
+		<cbRstFileCreated>
+			<Caption>Restabileşte data creării fişierelor</Caption>
+		</cbRstFileCreated>
+		<cbScanForAds>
+			<Caption>Scanează pentru ADS</Caption>
+		</cbScanForAds>
+		<cbScanPlaySound>
+			<Caption>Redare sunet la terminare</Caption>
+		</cbScanPlaySound>
+		<cbScanProfileDefault>
+			<Caption>Implicit</Caption>
+		</cbScanProfileDefault>
+		<cbScanProfileFrozen>
+			<Caption>Blocat</Caption>
+		</cbScanProfileFrozen>
+		<cbShell>
+			<Caption>Integrare Total Uninstall în Explorator</Caption>
+		</cbShell>
+		<cbShowAfter>
+			<Caption>Coloana După</Caption>
+		</cbShowAfter>
+		<cbShowBefore>
+			<Caption>Coloana Înainte</Caption>
+		</cbShowBefore>
+		<cbShowBinAsText>
+			<Caption>Afişare data binară ca text</Caption>
+		</cbShowBinAsText>
+		<cbShowChanged>
+			<Caption>Elemente schimbate</Caption>
+		</cbShowChanged>
+		<cbShowCreated>
+			<Caption>Elemente create</Caption>
+		</cbShowCreated>
+		<cbShowCurrent>
+			<Caption>Coloana Curent</Caption>
+		</cbShowCurrent>
+		<cbShowDataSize>
+			<Caption>Dimensiune dată</Caption>
+		</cbShowDataSize>
+		<cbShowDataType>
+			<Caption>Tip dată</Caption>
+		</cbShowDataType>
+		<cbShowDateCreated>
+			<Caption>Data creării</Caption>
+		</cbShowDateCreated>
+		<cbShowDateModified>
+			<Caption>Data modificării</Caption>
+		</cbShowDateModified>
+		<cbShowDeleted>
+			<Caption>Elemente şterse</Caption>
+		</cbShowDeleted>
+		<cbShowFileAttrib>
+			<Caption>Atribute fişier</Caption>
+		</cbShowFileAttrib>
+		<cbShowFileSize>
+			<Caption>Dimensiune fişier</Caption>
+		</cbShowFileSize>
+		<cbShowFileVersion>
+			<Caption>Versiune fişier</Caption>
+		</cbShowFileVersion>
+		<cbShowMD5>
+			<Caption>Suma MD5 a fişierului nou</Caption>
+		</cbShowMD5>
+		<cbSmartAdjustAnalysisLevel>
+			<Caption>Ajustare inteligentă an nivelului de analiză</Caption>
+		</cbSmartAdjustAnalysisLevel>
+		<cbSysRestore>
+			<Caption>Creare punct de restabilire sistem înaintea dezinstalării</Caption>
+		</cbSysRestore>
+		<cbSystemFilesAdditional>
+			<Caption>Analiză suplimentară</Caption>
+		</cbSystemFilesAdditional>
+		<cbTxtViewerNot64Bit>
+			<Caption>Nu are capabilitate de 64 biți</Caption>
+		</cbTxtViewerNot64Bit>
+		<cbUninstDefault>
+			<Caption>Implicit</Caption>
+		</cbUninstDefault>
+		<cbUninstEnabled>
+			<Caption>Activare</Caption>
+		</cbUninstEnabled>
+		<cbUseUninstaller>
+			<Caption>Foloseşte mai întîi dezinstalatorul oferit</Caption>
+		</cbUseUninstaller>
+		<cmbUpdateFrequency>
+			<Items>Zilnic\nSăptămânal\nLunar</Items>
+		</cmbUpdateFrequency>
+		<cmbUpdateMethod>
+			<Items>Manual\nMemento\nAutomat\n</Items>
+		</cmbUpdateMethod>
+		<gbAgentMasks>
+			<Caption>Şabloane pentru numele programelor de instalare</Caption>
+		</gbAgentMasks>
+		<gbClnExcludeFs>
+			<Caption>Exclude foldere și fișiere</Caption>
+		</gbClnExcludeFs>
+		<gbClnExcludeRegistry>
+			<Caption>Exclude chei și valori din regiștrii</Caption>
+		</gbClnExcludeRegistry>
+		<gbCompareIgnChgReg>
+			<Caption>Ignoră elementele schimbate</Caption>
+		</gbCompareIgnChgReg>
+		<gbCompareIgnKeys>
+			<Caption>Ignoră chei şi valori</Caption>
+		</gbCompareIgnKeys>
+		<gbCompIgnChgFs>
+			<Caption>Ignoră elementele schimbate</Caption>
+		</gbCompIgnChgFs>
+		<gbCompIgnoreFld>
+			<Caption>Ignoră foldere şi fişiere</Caption>
+		</gbCompIgnoreFld>
+		<gbExcludeProducts>
+			<Caption>Exclude produsele</Caption>
+		</gbExcludeProducts>
+		<gbExcludePublishers>
+			<Caption>Exclude producatorii</Caption>
+		</gbExcludePublishers>
+		<gbFileExtensions>
+			<Caption>Extensii de fişiere cu informaţii de versiune</Caption>
+		</gbFileExtensions>
+		<gbIncludeProducts>
+			<Caption>Include produsele</Caption>
+		</gbIncludeProducts>
+		<gbIncludePublishers>
+			<Caption>Include producatorii</Caption>
+		</gbIncludePublishers>
+		<gbInstallLoc>
+			<Caption>Locaţii de instalare</Caption>
+		</gbInstallLoc>
+		<gbInstallLocation>
+			<Caption>Detectare locaţie de instalare</Caption>
+		</gbInstallLocation>
+		<gbLimits>
+			<Caption>Limitele folderului cu instantanee</Caption>
+		</gbLimits>
+		<gbPrgData>
+			<Caption>Detectare date program</Caption>
+		</gbPrgData>
+		<gbPrgSettings>
+			<Caption>Detectare setări program</Caption>
+		</gbPrgSettings>
+		<gbPrgShortcuts>
+			<Caption>Detectare scurtături la program</Caption>
+		</gbPrgShortcuts>
+		<gbProtectedFolders>
+			<Caption>Foldere protejate</Caption>
+		</gbProtectedFolders>
+		<gbProtectedKeys>
+			<Caption>Chei protejate</Caption>
+		</gbProtectedKeys>
+		<gbRegEditor>
+			<Caption>Editor regiştrii</Caption>
+		</gbRegEditor>
+		<gbRegScanner>
+			<Caption>Scanerul de regiștri</Caption>
+		</gbRegScanner>
+		<gbScanExclFolders>
+			<Caption>Foldere excluse</Caption>
+		</gbScanExclFolders>
+		<gbScanExclKeys>
+			<Caption>Chei excluse</Caption>
+		</gbScanExclKeys>
+		<gbScanInclFolders>
+			<Caption>Foldere incluse</Caption>
+		</gbScanInclFolders>
+		<gbScanInclKeys>
+			<Caption>Chei incluse</Caption>
+		</gbScanInclKeys>
+		<gbShellIntegration>
+			<Caption>Detectare integrare in Explorator</Caption>
+		</gbShellIntegration>
+		<gbSystemFiles>
+			<Caption>Detectare fişiere sistem</Caption>
+		</gbSystemFiles>
+		<gbTranslation>
+			<Caption>Traducere</Caption>
+		</gbTranslation>
+		<grpExistingViewStyle>
+			<Caption>Elementele existente în sistem</Caption>
+		</grpExistingViewStyle>
+		<grpMissingViewStyle>
+			<Caption>Elementele lipsă din sistem</Caption>
+		</grpMissingViewStyle>
+		<lblAdvanced1>
+			<Caption>Avansat</Caption>
+		</lblAdvanced1>
+		<lblAdvanced2>
+			<Caption>Avansat</Caption>
+		</lblAdvanced2>
+		<lblAdvanced3>
+			<Caption>Avansat</Caption>
+		</lblAdvanced3>
+		<lblAdvanced4>
+			<Caption>Avansat</Caption>
+		</lblAdvanced4>
+		<lblAdvanced5>
+			<Caption>Avansat</Caption>
+		</lblAdvanced5>
+		<lblAdvanced6>
+			<Caption>Avansat</Caption>
+		</lblAdvanced6>
+		<lblAgentExcludeMask>
+			<Caption>Exclude</Caption>
+		</lblAgentExcludeMask>
+		<lblAgentIncludeMask>
+			<Caption>Include</Caption>
+		</lblAgentIncludeMask>
+		<lblAnalysisProfiles>
+			<Caption>Profile de analiză</Caption>
+		</lblAnalysisProfiles>
+		<lblAnlProfileDesc>
+			<Caption>Descriere</Caption>
+		</lblAnlProfileDesc>
+		<lblAnlProfileName>
+			<Caption>Nume</Caption>
+		</lblAnlProfileName>
+		<lblAutorunViewName>
+			<Caption>Nume</Caption>
+		</lblAutorunViewName>
+		<lblAutorunViews>
+			<Caption>Vizualizări de autopornire</Caption>
+		</lblAutorunViews>
+		<lblBackupLimiFolderSize>
+			<Caption>Limită pentru dimensiunea folderului pentru copii de siguranţă(MO)</Caption>
+		</lblBackupLimiFolderSize>
+		<lblChageViewName>
+			<Caption>Nume</Caption>
+		</lblChageViewName>
+		<lblChangeViews>
+			<Caption>Vizualizări schimbări</Caption>
+		</lblChangeViews>
+		<lblCheckUpdateMethod>
+			<Caption>Metoda de verificare actualizări</Caption>
+		</lblCheckUpdateMethod>
+		<lblCheckUpdatesFrequency>
+			<Caption>Frecvenţă</Caption>
+		</lblCheckUpdatesFrequency>
+		<lblCleanerDescription>
+			<Caption>Descriere</Caption>
+		</lblCleanerDescription>
+		<lblCleanerName>
+			<Caption>Nume</Caption>
+		</lblCleanerName>
+		<lblCleaners>
+			<Caption>Curățitori</Caption>
+		</lblCleaners>
+		<lblCompareProfileDesc>
+			<Caption>Descriere</Caption>
+		</lblCompareProfileDesc>
+		<lblCompareProfileName>
+			<Caption>Nume</Caption>
+		</lblCompareProfileName>
+		<lblFolderSize>
+			<Caption>Dimensiune folder (MOcteţi)</Caption>
+		</lblFolderSize>
+		<lblHexViewer>
+			<Caption>Vizualizor hexazecimal</Caption>
+		</lblHexViewer>
+		<lblLanguage>
+			<Caption>Limbă</Caption>
+		</lblLanguage>
+		<lblNone1>
+			<Caption>Fără</Caption>
+		</lblNone1>
+		<lblNone2>
+			<Caption>Fără</Caption>
+		</lblNone2>
+		<lblNone3>
+			<Caption>Fără</Caption>
+		</lblNone3>
+		<lblNone4>
+			<Caption>Fără</Caption>
+		</lblNone4>
+		<lblNone5>
+			<Caption>Fără</Caption>
+		</lblNone5>
+		<lblNone6>
+			<Caption>Fără</Caption>
+		</lblNone6>
+		<lblProgramDataPath>
+			<Caption>Calea la datele programului</Caption>
+		</lblProgramDataPath>
+		<lblRedoDescription>
+			<Caption>Descriere</Caption>
+		</lblRedoDescription>
+		<lblRedoName>
+			<Caption>Nume</Caption>
+		</lblRedoName>
+		<lblRedoProfiles>
+			<Caption>Profile de restaurare</Caption>
+		</lblRedoProfiles>
+		<lblScanningProfiles>
+			<Caption>Profiluri de scanare</Caption>
+		</lblScanningProfiles>
+		<lblScanProfileDesc>
+			<Caption>Descriere</Caption>
+		</lblScanProfileDesc>
+		<lblScanProfileName>
+			<Caption>Nume</Caption>
+		</lblScanProfileName>
+		<lblSimultaneousTasks>
+			<Caption>Sarcini simultane</Caption>
+		</lblSimultaneousTasks>
+		<lblSnsCompareProfiles>
+			<Caption>Profiluri de comparare instantanee</Caption>
+		</lblSnsCompareProfiles>
+		<lblSnsCount>
+			<Caption>Număr de instantanee</Caption>
+		</lblSnsCount>
+		<lblTranslatedBy1>
+			<Caption>Tradus de Gavrilă Martău</Caption>
+		</lblTranslatedBy1>
+		<lblTranslatedBy2>
+			<Caption>Sait web: www.martau.com</Caption>
+		</lblTranslatedBy2>
+		<lblTranslatedBy3>
+			<Caption>Poştă electronică: support@martau.com</Caption>
+		</lblTranslatedBy3>
+		<lblTxtViewer>
+			<Caption>Vizualizor text</Caption>
+		</lblTxtViewer>
+		<lblUninstallProfiles>
+			<Caption>Profiluri de dezinstalare</Caption>
+		</lblUninstallProfiles>
+		<lblUninstallProfilesInst>
+			<Caption>Profil de dezinstalare</Caption>
+		</lblUninstallProfilesInst>
+		<lblUninstDesc>
+			<Caption>Descriere</Caption>
+		</lblUninstDesc>
+		<lblUninstName>
+			<Caption>Nume</Caption>
+		</lblUninstName>
+		<lblUninstRemoveLog>
+			<Caption>Elimină programul dezinstalat din listă</Caption>
+		</lblUninstRemoveLog>
+		<lblUserInteraction>
+			<Caption>Folosește prima interacțiune cu utilizatorul disponibilă a programului de dezinstalare propriu.</Caption>
+		</lblUserInteraction>
+		<rbDialog>
+			<Caption>Dialog</Caption>
+		</rbDialog>
+		<rbOtherRegEdit>
+			<Caption>Altul</Caption>
+		</rbOtherRegEdit>
+		<rbTrayBaloon>
+			<Caption>Notificare balon</Caption>
+		</rbTrayBaloon>
+		<rbWinRegEdit>
+			<Caption>Editor regiştrii Windows</Caption>
+		</rbWinRegEdit>
+		<rgAgentNotif>
+			<Caption>Notificare executare programe de instalare</Caption>
+		</rgAgentNotif>
+		<tabAnlFileSystem>
+			<Caption>Sistemul de fişiere</Caption>
+		</tabAnlFileSystem>
+		<tabAnlGeneral>
+			<Caption>General</Caption>
+		</tabAnlGeneral>
+		<tabAutorunViewGeneral>
+			<Caption>General</Caption>
+		</tabAutorunViewGeneral>
+		<tabAutorunViewView>
+			<Caption>Vizualizări</Caption>
+		</tabAutorunViewView>
+		<tabChageViewFileSystem>
+			<Caption>Sistemul de fişiere</Caption>
+		</tabChageViewFileSystem>
+		<tabChageViewGeneral>
+			<Caption>General</Caption>
+		</tabChageViewGeneral>
+		<tabChageViewRegistry>
+			<Caption>Regiştrii</Caption>
+		</tabChageViewRegistry>
+		<tabChageViewView>
+			<Caption>Vizualizare</Caption>
+		</tabChageViewView>
+		<tabCleanerFileSystem>
+			<Caption>Sistemul de fişiere</Caption>
+		</tabCleanerFileSystem>
+		<tabCleanerGen>
+			<Caption>General</Caption>
+		</tabCleanerGen>
+		<tabCleanerReg>
+			<Caption>Regiştrii</Caption>
+		</tabCleanerReg>
+		<tabCmpProfileFileSys>
+			<Caption>Sistemul de fişiere</Caption>
+		</tabCmpProfileFileSys>
+		<tabCompareProfileGen>
+			<Caption>General</Caption>
+		</tabCompareProfileGen>
+		<tabCompareProfileReg>
+			<Caption>Regiştrii</Caption>
+		</tabCompareProfileReg>
+		<tabRedoAdvanced>
+			<Caption>Avansat</Caption>
+		</tabRedoAdvanced>
+		<tabRedoFileSystem>
+			<Caption>Sistemul de fișiere</Caption>
+		</tabRedoFileSystem>
+		<tabRedoGeneral>
+			<Caption>General</Caption>
+		</tabRedoGeneral>
+		<tabRedoRegistry>
+			<Caption>Regiștrii</Caption>
+		</tabRedoRegistry>
+		<tabScanProfileFolders>
+			<Caption>Sistemul de fişiere</Caption>
+		</tabScanProfileFolders>
+		<tabScanProfileGeneral>
+			<Caption>General</Caption>
+		</tabScanProfileGeneral>
+		<tabScanProfileRegistry>
+			<Caption>Regiştrii</Caption>
+		</tabScanProfileRegistry>
+		<tabUninstAdv>
+			<Caption>Avansat</Caption>
+		</tabUninstAdv>
+		<tabUninstFS>
+			<Caption>Sistemul de fişiere</Caption>
+		</tabUninstFS>
+		<tabUninstGeneral>
+			<Caption>General</Caption>
+		</tabUninstGeneral>
+		<tabUninstRegistry>
+			<Caption>Regiştrii</Caption>
+		</tabUninstRegistry>
+		<tblAnlRegistry>
+			<Caption>Regiştrii</Caption>
+		</tblAnlRegistry>
+		<cbRedoCreateUndo>
+			<Caption>Crează informația de anulare</Caption>
+		</cbRedoCreateUndo>
+		<cbExtractLastWriteTime>
+			<Caption>Extrage în coloana curentă timpul ultimei scrieri</Caption>
+		</cbExtractLastWriteTime>
+		<cbWinAppsEnable>
+			<Caption>Activare modul Aplicații Windows</Caption>
+		</cbWinAppsEnable>
+		<grpAlteredViewStyle>
+			<Caption>Elemente modificate în sistem</Caption>
+		</grpAlteredViewStyle>
+	</dlgTUOptions>
+	<dlgUninstall>
+		<btnBringToFront>
+			<Caption>Aduceți în față</Caption>
+		</btnBringToFront>
+		<btnCancel>
+			<Caption>Revocare</Caption>
+		</btnCancel>
+		<btnUninstall>
+			<Caption>Dezinstalare</Caption>
+		</btnUninstall>
+		<lblCreatingRestorePnt>
+			<Caption>Se crează un punct de restaurare a sistemului...</Caption>
+		</lblCreatingRestorePnt>
+		<lblProfile>
+			<Caption>Selectaţi profilul de dezinstalare</Caption>
+		</lblProfile>
+		<lblUninstalling>
+			<Caption>Se dezinstalează...</Caption>
+		</lblUninstalling>
+		<lblWaitTitle>
+			<Caption>Se aşteaptă ca programul integrat de dezinstalare să termine</Caption>
+		</lblWaitTitle>
+	</dlgUninstall>
+	<frmInstall>
+		<btnBrowseSetup>
+			<Caption>Răsfoire...</Caption>
+		</btnBrowseSetup>
+		<btnCancel>
+			<Caption>Revocare</Caption>
+		</btnCancel>
+		<btnCompleteLater>
+			<Caption>Finalizare proces de monitorizare mai târziu</Caption>
+		</btnCompleteLater>
+		<btnLaunchSetup>
+			<Caption>Lansează programul de instalare acum</Caption>
+		</btnLaunchSetup>
+		<btnNext>
+			<Caption>Înainte</Caption>
+		</btnNext>
+		<btnProgramIsInstalled>
+			<Caption>Programul este instalat</Caption>
+		</btnProgramIsInstalled>
+		<btnSuggest>
+			<Caption>Sugerare</Caption>
+		</btnSuggest>
+		<lblCreateLog>
+			<Caption>Crează jurnalul de instalare</Caption>
+		</lblCreateLog>
+		<lblCreateOrSelectSns>
+			<Caption>Înainte de instalare crează un instantaneu nou sau selectează instantaneul anterior.</Caption>
+		</lblCreateOrSelectSns>
+		<lblCreatePreInstallSns>
+			<Caption>Crează instantaneul sistem înaintea instalării</Caption>
+		</lblCreatePreInstallSns>
+		<lblCreatingLog>
+			<Caption>Se crează jurnalul de instalare</Caption>
+		</lblCreatingLog>
+		<lblCreatingSystemSns>
+			<Caption>Se crează instantaneul sistemului</Caption>
+		</lblCreatingSystemSns>
+		<lblFinish>
+			<Caption>Jurnalul de instalare a fost creat cu succes</Caption>
+		</lblFinish>
+		<lblInstallMonProgram>
+			<Caption>Instalează programul monitorizat</Caption>
+		</lblInstallMonProgram>
+		<lblProfiles>
+			<Caption>Profil de scanare</Caption>
+		</lblProfiles>
+		<lblProgramName>
+			<Caption>Nume program</Caption>
+		</lblProgramName>
+		<lblProgramSetupPath>
+			<Caption>Locaţie program de instalare</Caption>
+		</lblProgramSetupPath>
+		<lblSnsName>
+			<Caption>Nume instantaneu</Caption>
+		</lblSnsName>
+		<lblSpecifySnsName>
+			<Caption>Specifică numele instantaneului post instalare</Caption>
+		</lblSpecifySnsName>
+		<rbNewSnapshot>
+			<Caption>Crează un instantaneu sistem nou (recomandat)</Caption>
+		</rbNewSnapshot>
+		<rbUseLastSnapshot>
+			<Caption>Foloseşte ultimul instantaneu</Caption>
+		</rbUseLastSnapshot>
+	</frmInstall>
+	<frmTUMain>
+		<btnAddProgramToList>
+			<Caption>Adăugare program la listă...</Caption>
+			<Notes>Trageți și plasați o comandă rapidă sau apăsați butonul și dați cel puțin un nume pentru a porni dezinstalarea forțată\n</Notes>
+		</btnAddProgramToList>
+		<btnClear>
+			<Caption>Curăţare</Caption>
+		</btnClear>
+		<btnGroupAddChild>
+			<Caption>Adăugare subgrup...</Caption>
+		</btnGroupAddChild>
+		<btnGroupAddRoot>
+			<Caption>Adăugare grup rădăcină...</Caption>
+		</btnGroupAddRoot>
+		<btnGroupEdit>
+			<Caption>Editare grup...</Caption>
+		</btnGroupEdit>
+		<btnGroupMoveToRoot>
+			<Caption>Mutare în rădăcină</Caption>
+		</btnGroupMoveToRoot>
+		<btnGroupRemove>
+			<Caption>Eliminare grup</Caption>
+		</btnGroupRemove>
+		<btnSearch>
+			<Caption>Start</Caption>
+		</btnSearch>
+		<cbBundle>
+			<Caption>Pachet</Caption>
+		</cbBundle>
+		<cbCaseSensitive>
+			<Caption>Sensibil la litere mari şi mici</Caption>
+		</cbCaseSensitive>
+		<cbChanged>
+			<Caption>Schimbat</Caption>
+		</cbChanged>
+		<cbCreated>
+			<Caption>Creat</Caption>
+		</cbCreated>
+		<cbData>
+			<Caption>Date</Caption>
+		</cbData>
+		<cbDeleted>
+			<Caption>Şters</Caption>
+		</cbDeleted>
+		<cbFiles>
+			<Caption>Fişiere</Caption>
+		</cbFiles>
+		<cbFolders>
+			<Caption>Foldere</Caption>
+		</cbFolders>
+		<cbKeys>
+			<Caption>Chei</Caption>
+		</cbKeys>
+		<cbSearchMask>
+			<Caption>Căutare mască</Caption>
+		</cbSearchMask>
+		<cbUnchanged>
+			<Caption>Neschimbat</Caption>
+		</cbUnchanged>
+		<cbValues>
+			<Caption>Valori</Caption>
+		</cbValues>
+		<Copy1>
+			<Caption>Copiere</Caption>
+			<Hint>Copiază fişierele selectate în Clipboard</Hint>
+		</Copy1>
+		<Copy2>
+			<Caption>Copiere</Caption>
+			<Hint>Copiază fişierele selectate în Clipboard</Hint>
+		</Copy2>
+		<gbAdvanced>
+			<Caption>Avansat</Caption>
+		</gbAdvanced>
+		<gbChanges>
+			<Caption>Elemente</Caption>
+		</gbChanges>
+		<gbFileSystem>
+			<Caption>Sistem de fişiere</Caption>
+		</gbFileSystem>
+		<gbRegistry>
+			<Caption>Regiştrii</Caption>
+		</gbRegistry>
+		<gbScope>
+			<Caption>Căutare în</Caption>
+		</gbScope>
+		<miAddtoCompareIgnoreList>
+			<Caption>Adăugare la lista de ignorare la comparare</Caption>
+			<Hint>Se adaugă elementele selectate la lista de ignorare a tuturor profilurilor de comparare</Hint>
+		</miAddtoCompareIgnoreList>
+		<miAddtoScanExcludeList>
+			<Caption>Adăugare la lista de excludere la scanare</Caption>
+			<Hint>Se adaugă elementele selectate la lista de excludere a tuturor profilurilor de scanare</Hint>
+		</miAddtoScanExcludeList>
+		<miAppSendTo>
+			<Caption>Trimite în grup</Caption>
+		</miAppSendTo>
+		<miAutorunManager>
+			<Caption>Manager de autopornire</Caption>
+		</miAutorunManager>
+		<miChanges>
+			<Caption>Schimbări</Caption>
+			<Hint>Se arată schimbările detectate din sistem făcute de programul activ</Hint>
+		</miChanges>
+		<miCleaner>
+			<Caption>Curățitor</Caption>
+			<Hint>Curățitor</Hint>
+		</miCleaner>
+		<miClnItems>
+			<Caption>Elemente</Caption>
+		</miClnItems>
+		<miClnSummary>
+			<Caption>Rezumat</Caption>
+			<Hint>Rezumat|Se arată rezumatul elementelor care pot fi eliminate</Hint>
+		</miClnSummary>
+		<miCollapse>
+			<Caption>Restrângere</Caption>
+			<Hint>Se restrânge nodul selectat al arborelui activ</Hint>
+		</miCollapse>
+		<miCopyDetail>
+			<Caption>Copiere</Caption>
+		</miCopyDetail>
+		<miDeleteCompletely>
+			<Caption>Ştergere completă</Caption>
+			<Hint>Se elimină elementul selectat din jurnal şi din sistem</Hint>
+		</miDeleteCompletely>
+		<miDeletefromSystemOnly>
+			<Caption>Ştergere numai din sistem</Caption>
+			<Hint>Se şterge elementul selectat numai din sistem</Hint>
+		</miDeletefromSystemOnly>
+		<miEdit>
+			<Caption>&amp;Editare</Caption>
+		</miEdit>
+		<miEditAutorunLocateEntry>
+			<Caption>Localizare înregistrare de autopornire</Caption>
+		</miEditAutorunLocateEntry>
+		<miEditAutorunLocateTarget>
+			<Caption>Localizare țintă</Caption>
+		</miEditAutorunLocateTarget>
+		<miEditAutorunRun>
+			<Caption>Pornire</Caption>
+		</miEditAutorunRun>
+		<miEditAutorunStop>
+			<Caption>Oprire</Caption>
+		</miEditAutorunStop>
+		<miEditAutorunTargetProperties>
+			<Caption>Proprietăți țintă</Caption>
+		</miEditAutorunTargetProperties>
+		<miEditRedo>
+			<Caption>Refacere</Caption>
+			<Hint>Reface schimbarea selectată în sistem</Hint>
+		</miEditRedo>
+		<miEditRedoDepth>
+			<Caption>Refacere în adâncime</Caption>
+			<Hint>Se refac în adâncime schimbările selectate în sistem</Hint>
+		</miEditRedoDepth>
+		<miEditRestoreFromBackup>
+			<Caption>Restaurare din copia de siguranță</Caption>
+			<Hint>Se restaurează din copia de siguranță fișierele, foldere și subfoldere selectate</Hint>
+		</miEditRestoreFromBackup>
+		<miEditUndo>
+			<Caption>Anulare</Caption>
+			<Hint>Se anulează schimbările selectate din sistem</Hint>
+		</miEditUndo>
+		<miEditUndoDepth>
+			<Caption>Anulare în adâncime</Caption>
+			<Hint>Se anulează în adâncime schimbările selectate din sistem</Hint>
+		</miEditUndoDepth>
+		<miExpand>
+			<Caption>Expandare</Caption>
+			<Hint>Se expandează nodul selectat al arborelui activ</Hint>
+		</miExpand>
+		<miExpChanges>
+			<Caption>Schimbări...</Caption>
+			<Hint>Se exportă arborele cu schimbări</Hint>
+		</miExpChanges>
+		<miExpInstalledApps>
+			<Caption>Programele instalate...</Caption>
+			<Hint>Exportă lista de programei instalate</Hint>
+		</miExpInstalledApps>
+		<miExpMonitoredApps>
+			<Caption>Programe monitorizate...</Caption>
+			<Hint>Se exportă lista programelor monitorizate</Hint>
+		</miExpMonitoredApps>
+		<miExport>
+			<Caption>&amp;Export</Caption>
+		</miExport>
+		<miExpRegistry>
+			<Caption>Schimbări regiştrii...</Caption>
+			<Hint>Se exportă schimbările din regiştrii pentru instalare sau dezinstalare</Hint>
+		</miExpRegistry>
+		<miExpUninstallLog>
+			<Caption>Jurnal dezinstalare...</Caption>
+			<Hint>Export jurnal de dezinstalare</Hint>
+		</miExpUninstallLog>
+		<miFile>
+			<Caption>&amp;Fişier</Caption>
+		</miFile>
+		<miFileAddInstalledPrg>
+			<Caption>Adăugare program la listă...</Caption>
+		</miFileAddInstalledPrg>
+		<miFileAnalyze>
+			<Caption>Analizare</Caption>
+			<Hint>Analizare|Se analizează schimbările din sistem ale programului activ</Hint>
+		</miFileAnalyze>
+		<miFileAutorunAdd>
+			<Caption>Adăugare</Caption>
+		</miFileAutorunAdd>
+		<miFileAutorunDelete>
+			<Caption>Ștergere</Caption>
+		</miFileAutorunDelete>
+		<miFileChange>
+			<Caption>Modificare</Caption>
+			<Hint>Repară, modifică sau dezinstalează</Hint>
+		</miFileChange>
+		<miFileChangeIcon>
+			<Caption>Schimbare pictogramă...</Caption>
+		</miFileChangeIcon>
+		<miFileClnClean>
+			<Caption>Curăță</Caption>
+			<Hint>Curăță</Hint>
+		</miFileClnClean>
+		<miFileClnScan>
+			<Caption>Scanează</Caption>
+			<Hint>Scanează|Se scanează pentru elemente care pot fi eliminate</Hint>
+		</miFileClnScan>
+		<miFileCreateBackup>
+			<Caption>Crează copia de siguranţă a programului...</Caption>
+		</miFileCreateBackup>
+		<miFileDelete>
+			<Caption>Ştergere</Caption>
+			<Hint>Se şterge jurnalul activ de instalare</Hint>
+		</miFileDelete>
+		<miFileEditProgram>
+			<Caption>Editare program...</Caption>
+		</miFileEditProgram>
+		<miFileExit>
+			<Caption>Ieşire</Caption>
+			<Hint>Se închide aplicaţia</Hint>
+		</miFileExit>
+		<miFileGroupAddChild>
+			<Caption>Adăugare subgrup...</Caption>
+		</miFileGroupAddChild>
+		<miFileGroupAddRoot>
+			<Caption>Adăugare grup rădăcină...</Caption>
+		</miFileGroupAddRoot>
+		<miFileGroupEdit>
+			<Caption>Editare grup...</Caption>
+		</miFileGroupEdit>
+		<miFileGroupMoveToRoot>
+			<Caption>Mutare în rădăcină</Caption>
+		</miFileGroupMoveToRoot>
+		<miFileGroupRemove>
+			<Caption>Eliminare grup</Caption>
+		</miFileGroupRemove>
+		<miFileInstall>
+			<Caption>Instalare nouă...</Caption>
+			<Hint>Monitorizează instalarea unui program nou</Hint>
+		</miFileInstall>
+		<miFileInstallUpdate>
+			<Caption>Instalare actualizare...</Caption>
+			<Hint>Instalare actualizare|Monitorizează instalarea actualizării programului activ</Hint>
+		</miFileInstallUpdate>
+		<miFileNotes>
+			<Caption>Notiţe...</Caption>
+			<Hint>Se adaugă notiţe la jurnalul curent de instalare</Hint>
+		</miFileNotes>
+		<miFilePrint>
+			<Caption>Imprimare</Caption>
+		</miFilePrint>
+		<miFileReload>
+			<Caption>Reîncărcare</Caption>
+		</miFileReload>
+		<miFileRemoveInstalledPrg>
+			<Caption>Eliminare program din listă</Caption>
+		</miFileRemoveInstalledPrg>
+		<miFileRename>
+			<Caption>Redenumire...</Caption>
+			<Hint>Se redenumeşte jurnalul activ de instalare</Hint>
+		</miFileRename>
+		<miFileRestoreBackup>
+			<Caption>Restaurează un program din copia de siguranţă...</Caption>
+		</miFileRestoreBackup>
+		<miFileSave>
+			<Caption>&amp;Salvare</Caption>
+			<Hint>Se salvează schimbările din jurnalul activ de instalare</Hint>
+		</miFileSave>
+		<miFileSaveAs>
+			<Caption>Salvare ca...</Caption>
+		</miFileSaveAs>
+		<miFileSendTo>
+			<Caption>Trimite în grup</Caption>
+		</miFileSendTo>
+		<miFileUndoRestoration>
+			<Caption>Anulare restaurare...</Caption>
+		</miFileUndoRestoration>
+		<miFileUninstall>
+			<Caption>Dezinstalare...</Caption>
+		</miFileUninstall>
+		<miHelp>
+			<Caption>Ajutor</Caption>
+		</miHelp>
+		<miHelpAbout>
+			<Caption>Despre...</Caption>
+			<Hint>Se afişează informaţii despre program, numărul versiunii şi drepturile de autor</Hint>
+		</miHelpAbout>
+		<miHelpCheckForUpdates>
+			<Caption>Verificare &amp;actualizări...</Caption>
+			<Hint>Se verifică web saitul autorului pentru actualizări la produs</Hint>
+		</miHelpCheckForUpdates>
+		<miHelpContents>
+			<Caption>Conţinut</Caption>
+			<Hint>Se afişează pagina principală de asistenţă</Hint>
+		</miHelpContents>
+		<miHelpHomePage>
+			<Caption>Pagina gazdă</Caption>
+		</miHelpHomePage>
+		<miHelpPurchase>
+			<Caption>Achiziţionare</Caption>
+		</miHelpPurchase>
+		<miHelpRegister>
+			<Caption>Înregistrare...</Caption>
+			<Hint>Se înregistrează Total Uninstall</Hint>
+		</miHelpRegister>
+		<miHexView>
+			<Caption>Vizualizare hexa</Caption>
+			<Hint>Se deschide fişierul in editorul hexa</Hint>
+		</miHexView>
+		<miImport>
+			<Caption>Import</Caption>
+		</miImport>
+		<miInstalledPrograms>
+			<Caption>Programe instalate</Caption>
+			<Hint>Programe instalate|Comută pe Programe instalate</Hint>
+		</miInstalledPrograms>
+		<miList>
+			<Caption>Listă</Caption>
+		</miList>
+		<miListGroupNotes>
+			<Caption>Notițe grup</Caption>
+		</miListGroupNotes>
+		<miListLargeIcons>
+			<Caption>Pictograme mari</Caption>
+		</miListLargeIcons>
+		<miListProgramNotes>
+			<Caption>Notițe program</Caption>
+		</miListProgramNotes>
+		<miListSmallIcons>
+			<Caption>Pictograme mici</Caption>
+		</miListSmallIcons>
+		<miModules>
+			<Caption>&amp;Module</Caption>
+		</miModules>
+		<miMonAppsGroupAddChild>
+			<Caption>Adăugare subgrup...</Caption>
+		</miMonAppsGroupAddChild>
+		<miMonAppsGroupAddRoot>
+			<Caption>Adăugare grup rădăcină...</Caption>
+		</miMonAppsGroupAddRoot>
+		<miMonAppsGroupEdit>
+			<Caption>Editare grup...</Caption>
+		</miMonAppsGroupEdit>
+		<miMonAppsGroupMoveToRoot>
+			<Caption>Mutare în rădacină</Caption>
+		</miMonAppsGroupMoveToRoot>
+		<miMonAppsGroupRemove>
+			<Caption>Eliminare grup</Caption>
+		</miMonAppsGroupRemove>
+		<miMonitoredPrograms>
+			<Caption>Programe monitorizate</Caption>
+			<Hint>Programe monitorizate|Comută pe Programe monitorizate</Hint>
+		</miMonitoredPrograms>
+		<miOpen>
+			<Caption>Deschidere</Caption>
+			<Hint>Se deschide fişierul, folderul sau se sare la cheia de regiştrii în Registry Editor</Hint>
+		</miOpen>
+		<miPendingFileRenameOp>
+			<Caption>Operaţii de redenumire în curs...</Caption>
+			<Hint>Se vizualizează şi se aplică operaţiile de redenumire în curs</Hint>
+		</miPendingFileRenameOp>
+		<miPrgAddInstalledPrg>
+			<Caption>Adăugare program la listă...</Caption>
+		</miPrgAddInstalledPrg>
+		<miPrgAnalyze>
+			<Caption>Analizare</Caption>
+			<Hint>Analizare|Se analizează schimbările din sistem ale programului activ</Hint>
+		</miPrgAnalyze>
+		<miPrgChangeIcon>
+			<Caption>Schimbare pictogramă...</Caption>
+		</miPrgChangeIcon>
+		<miPrgDelete>
+			<Caption>Ştergere</Caption>
+			<Hint>Se şterge jurnalul activ de instalare</Hint>
+		</miPrgDelete>
+		<miPrgEditInstalledPrg>
+			<Caption>Editare program...</Caption>
+		</miPrgEditInstalledPrg>
+		<miPrgNotes>
+			<Caption>Notiţe...</Caption>
+			<Hint>Se adaugă notiţe la jurnalul curent de instalare</Hint>
+		</miPrgNotes>
+		<miPrgRemoveInstalledPrg>
+			<Caption>Se elimină programul din listă</Caption>
+		</miPrgRemoveInstalledPrg>
+		<miPrgRename>
+			<Caption>Redenumire...</Caption>
+			<Hint>Se redenumeşte jurnalul activ de instalare</Hint>
+		</miPrgRename>
+		<miPrintChanges>
+			<Caption>Schimbări...</Caption>
+			<Hint>Imprimă arborele cu schimbări</Hint>
+		</miPrintChanges>
+		<miPrintInstalledPrograms>
+			<Caption>Programele instalate...</Caption>
+		</miPrintInstalledPrograms>
+		<miPrintMonitoredPrograms>
+			<Caption>Programele monitorizate...</Caption>
+		</miPrintMonitoredPrograms>
+		<miProperties>
+			<Caption>Proprietăți</Caption>
+			<Hint>Se arată proprietăţile fişierului sau folderului selectat</Hint>
+		</miProperties>
+		<miRemovefromLog>
+			<Caption>Eliminare din jurnal</Caption>
+			<Hint>Se elimină elementele selectate din jurnal</Hint>
+		</miRemovefromLog>
+		<miSnsTreeOpen>
+			<Caption>Deschidere</Caption>
+		</miSnsTreeOpen>
+		<miSummary>
+			<Caption>Rezumat</Caption>
+			<Hint>Rezumat|Se arată rezumatul elementelor care pot fi eliminate</Hint>
+		</miSummary>
+		<miTextView>
+			<Caption>Vizualizare text</Caption>
+			<Hint>Se deschide fişierul in editorul text</Hint>
+		</miTextView>
+		<miToolbarLarge>
+			<Caption>Mare</Caption>
+		</miToolbarLarge>
+		<miToolbarMedium>
+			<Caption>Medie</Caption>
+		</miToolbarMedium>
+		<miToolbarSmall>
+			<Caption>Mică</Caption>
+		</miToolbarSmall>
+		<miTools>
+			<Caption>Instrumente</Caption>
+		</miTools>
+		<miToolsCompareSnapshots>
+			<Caption>Comparare instantanee...</Caption>
+		</miToolsCompareSnapshots>
+		<miToolsFind>
+			<Caption>Căutare</Caption>
+			<Hint>Căutare|Se caută un text în schimbările detectate</Hint>
+		</miToolsFind>
+		<miToolsMergeLogs>
+			<Caption>Contopire jurnale...</Caption>
+		</miToolsMergeLogs>
+		<miToolsOptions>
+			<Caption>&amp;Opţiuni...</Caption>
+			<Hint>Se stabilesc opţiunile programului</Hint>
+		</miToolsOptions>
+		<miToolsSystemRestore>
+			<Caption>Restabilire sistem</Caption>
+		</miToolsSystemRestore>
+		<miULogSuccessful>
+			<Caption>Acţiuni cu succes</Caption>
+			<Hint>Se arată sau se ascund acţiunile cu succes din jurnalul de dezinstalare</Hint>
+		</miULogSuccessful>
+		<miULogWarnings>
+			<Caption>Avertismente</Caption>
+			<Hint>Se arată sau se ascund avertismentele din jurnalul de dezinstalare</Hint>
+		</miULogWarnings>
+		<miUninstallLog>
+			<Caption>Jurnal de dezinstalare</Caption>
+			<Hint>Jurnal de dezinstalare|Se arată jurnalul de dezinstalare</Hint>
+		</miUninstallLog>
+		<miUninstallLogDet>
+			<Caption>Detalii jurnal dezinstalare</Caption>
+		</miUninstallLogDet>
+		<miView>
+			<Caption>&amp;Vizualizare</Caption>
+		</miView>
+		<miViewAutoGroupPrograms>
+			<Caption>Grupare automată a programelor</Caption>
+		</miViewAutoGroupPrograms>
+		<miViewBundle>
+			<Caption>Pachet</Caption>
+		</miViewBundle>
+		<miViewColorScheme>
+			<Caption>Schema de culori</Caption>
+		</miViewColorScheme>
+		<miViewDetails>
+			<Caption>Detalii</Caption>
+			<Hint>Se arată sau se ascund detaliile programului</Hint>
+		</miViewDetails>
+		<miViewItemCurrentView>
+			<Caption>Vizualizare curentă</Caption>
+		</miViewItemCurrentView>
+		<miViewItemDetails>
+			<Caption>Detalii element</Caption>
+			<Hint>Se arată sau se ascund detaliile nodului selectat din arborele cu schimbări</Hint>
+		</miViewItemDetails>
+		<miViewNavigator>
+			<Caption>Programe</Caption>
+			<Hint>Se arată sau se ascunde lista aplicaţiilor monitorizate</Hint>
+		</miViewNavigator>
+		<miViewRefresh>
+			<Caption>Reîmprospătare</Caption>
+		</miViewRefresh>
+		<miViewStatusBar>
+			<Caption>Bară de stare</Caption>
+			<Hint>Se arată sau se ascunde bara de stare</Hint>
+		</miViewStatusBar>
+		<miViewSystemComponents>
+			<Caption>Componente sistem</Caption>
+		</miViewSystemComponents>
+		<miViewToolbars>
+			<Caption>Bare de instrumente</Caption>
+		</miViewToolbars>
+		<miViewToolbarsBtnCaption>
+			<Caption>Butoane cu text</Caption>
+			<Hint>Se arată sau se ascund numele butoanelor de pe barele de instrumente</Hint>
+		</miViewToolbarsBtnCaption>
+		<miViewToolbarsBtnSize>
+			<Caption>Dimensiune butoane</Caption>
+		</miViewToolbarsBtnSize>
+		<miViewToolbarsBtnWordWrap>
+			<Caption>Text buton încadrat</Caption>
+		</miViewToolbarsBtnWordWrap>
+		<miViewToolbarsTbrCaption>
+			<Caption>Nume</Caption>
+			<Hint>Se arată sau se ascund numele barelor de instrumente</Hint>
+		</miViewToolbarsTbrCaption>
+		<miViewToolbarsVisible>
+			<Caption>Vizibile</Caption>
+			<Hint>Se arată sau se ascunde barele de instrumente</Hint>
+		</miViewToolbarsVisible>
+		<miWindowsApps>
+			<Caption>Aplicații Windows</Caption>
+		</miWindowsApps>
+		<pmiAutorunAdd>
+			<Caption>Adăugare</Caption>
+		</pmiAutorunAdd>
+		<pmiAutorunDelete>
+			<Caption>Ștergere</Caption>
+		</pmiAutorunDelete>
+		<pmiAutorunLocateEntry>
+			<Caption>Localizare înregistrare de autopornire</Caption>
+		</pmiAutorunLocateEntry>
+		<pmiAutorunLocateTarget>
+			<Caption>Localizare țintă</Caption>
+		</pmiAutorunLocateTarget>
+		<pmiAutorunRun>
+			<Caption>Pornire</Caption>
+		</pmiAutorunRun>
+		<pmiAutorunStop>
+			<Caption>Oprire</Caption>
+		</pmiAutorunStop>
+		<pmiAutorunTargetProperties>
+			<Caption>Proprietăți țintă</Caption>
+		</pmiAutorunTargetProperties>
+		<pmiChgTreeCompareExcl>
+			<Caption>Adăugare la lista de ignorare la comparare</Caption>
+			<Hint>Se adaugă elementele selectate la lista de ignorare a tuturor profilurilor de comparare</Hint>
+		</pmiChgTreeCompareExcl>
+		<pmiChgTreeDelete>
+			<Caption>Ştergere completă</Caption>
+			<Hint>Se elimină elementul selectat din jurnal şi din sistem</Hint>
+		</pmiChgTreeDelete>
+		<pmiChgTreeDelSys>
+			<Caption>Ştergere doar din sistem</Caption>
+			<Hint>Se şterge elementul selectat numai din sistem</Hint>
+		</pmiChgTreeDelSys>
+		<pmiChgTreeExportRegistryChanges>
+			<Caption>Exportă schimbările din regiştrii...</Caption>
+			<Hint>Se exportă schimbările din regiştrii pentru instalare sau dezinstalare</Hint>
+		</pmiChgTreeExportRegistryChanges>
+		<pmiChgTreeHexView>
+			<Caption>Vizualizare hexa</Caption>
+			<Hint>Se deschide fişierul in editorul hexa</Hint>
+		</pmiChgTreeHexView>
+		<pmiChgTreeOpen>
+			<Caption>Deschidere</Caption>
+			<Hint>Se deschide fişierul, folderul sau se sare la cheia de regiştrii în Registry Editor</Hint>
+		</pmiChgTreeOpen>
+		<pmiChgTreeProperties>
+			<Caption>Proprietăți</Caption>
+			<Hint>Se arată proprietăţile fişierului sau folderului selectat</Hint>
+		</pmiChgTreeProperties>
+		<pmiChgTreeRedo>
+			<Caption>Refacere</Caption>
+			<Hint>Reface schimbarea selectată în sistem</Hint>
+		</pmiChgTreeRedo>
+		<pmiChgTreeRedoDepth>
+			<Caption>Refacere în adâncime</Caption>
+			<Hint>Se refac în adâncime schimbările selectate în sistem</Hint>
+		</pmiChgTreeRedoDepth>
+		<pmiChgTreeRemove>
+			<Caption>Eliminare din jurnal</Caption>
+			<Hint>Se elimină elementele selectate din jurnal</Hint>
+		</pmiChgTreeRemove>
+		<pmiChgTreeRestoreFromBackup>
+			<Caption>Restaurare din copia de siguranță</Caption>
+			<Hint>Se restaurează din copia de siguranță fișierele, foldere și subfoldere selectate</Hint>
+		</pmiChgTreeRestoreFromBackup>
+		<pmiChgTreeScanExcl>
+			<Caption>Adăugare la lista de excludere la scanare</Caption>
+			<Hint>Se adaugă elementele selectate la lista de excludere a tuturor profilurilor de scanare</Hint>
+		</pmiChgTreeScanExcl>
+		<pmiChgTreeTextView>
+			<Caption>Vizualizare text</Caption>
+			<Hint>Se deschide fişierul in editorul text</Hint>
+		</pmiChgTreeTextView>
+		<pmiChgTreeUndo>
+			<Caption>Anulare</Caption>
+			<Hint>Se anulează schimbările selectate din sistem</Hint>
+		</pmiChgTreeUndo>
+		<pmiChgTreeUndoDepth>
+			<Caption>Anulare în adâncime</Caption>
+			<Hint>Se anulează în adâncime schimbările selectate din sistem</Hint>
+		</pmiChgTreeUndoDepth>
+		<pmiClnExclude>
+			<Caption>Excludere</Caption>
+		</pmiClnExclude>
+		<pmiClnSelectBranch>
+			<Caption>Selectare ramură</Caption>
+		</pmiClnSelectBranch>
+		<pmiClnUnselectBranch>
+			<Caption>Deselectare ramură</Caption>
+		</pmiClnUnselectBranch>
+		<pmiCopySummary>
+			<Caption>Copiere</Caption>
+		</pmiCopySummary>
+		<pmiInstAppsHeaderAutoResize>
+			<Caption>Redimensionare automată</Caption>
+		</pmiInstAppsHeaderAutoResize>
+		<pmiLocate>
+			<Caption>Localizare</Caption>
+		</pmiLocate>
+		<pmiMonAppsHeaderAutoResize>
+			<Caption>Auto redimensionare</Caption>
+		</pmiMonAppsHeaderAutoResize>
+		<pmiShowSuccessful>
+			<Caption>Acţiuni cu succes</Caption>
+			<Hint>Se arată sau se ascund acţiunile cu succes din jurnalul de dezinstalare</Hint>
+		</pmiShowSuccessful>
+		<pmiShowWarnings>
+			<Caption>Avertismente</Caption>
+			<Hint>Se arată sau se ascund avertismentele din jurnalul de dezinstalare</Hint>
+		</pmiShowWarnings>
+		<pmiTrayRestore>
+			<Caption>Restabilire</Caption>
+		</pmiTrayRestore>
+		<rbAll>
+			<Caption>Toate programele</Caption>
+		</rbAll>
+		<rbSelection>
+			<Caption>Selecţie</Caption>
+		</rbSelection>
+		<sbAppClose>
+			<Hint>Închidere</Hint>
+		</sbAppClose>
+		<sbDetailsClose>
+			<Hint>Închidere|Închidere</Hint>
+		</sbDetailsClose>
+		<sbSearchClose>
+			<Hint>Închidere|Închidere</Hint>
+		</sbSearchClose>
+		<tabOptions>
+			<Caption>Opţiuni</Caption>
+		</tabOptions>
+		<tabResults>
+			<Caption>Rezultate</Caption>
+		</tabResults>
+		<tbrActions>
+			<Caption>Acţiuni</Caption>
+		</tbrActions>
+		<tbrDetails>
+			<Caption>Detalii</Caption>
+		</tbrDetails>
+		<tbrLayout>
+			<Caption>Aspect</Caption>
+		</tbrLayout>
+		<tbrModules>
+			<Caption>Module</Caption>
+		</tbrModules>
+		<tbrView>
+			<Caption>Vizualizare</Caption>
+		</tbrView>
+		<tbtnAnalyze>
+			<Caption>Analizare</Caption>
+			<Hint>Analizare|Se analizează schimbările din sistem ale programului activ</Hint>
+		</tbtnAnalyze>
+		<tbtnArAdd>
+			<Caption>Adăugare</Caption>
+		</tbtnArAdd>
+		<tbtnArDelete>
+			<Caption>Ștergere</Caption>
+		</tbtnArDelete>
+		<tbtnArRun>
+			<Caption>Pornire</Caption>
+		</tbtnArRun>
+		<tbtnArStop>
+			<Caption>Oprire</Caption>
+		</tbtnArStop>
+		<tbtnAutorunMgr>
+			<Caption>Manager de autopornire</Caption>
+		</tbtnAutorunMgr>
+		<tbtnChanges>
+			<Caption>Schimbări</Caption>
+			<Hint>Schimbări detectate|Se arată schimbările din sistem făcute de programul activ</Hint>
+		</tbtnChanges>
+		<tbtnChgView>
+			<Caption>Vizualizare</Caption>
+			<Hint>Vizualizare|Se aplică o vizualizare definită</Hint>
+		</tbtnChgView>
+		<tbtnCleaner>
+			<Caption>Curățitor</Caption>
+			<Hint>Curățitor</Hint>
+		</tbtnCleaner>
+		<tbtnClnClean>
+			<Caption>Curăță</Caption>
+			<Hint>Curăță</Hint>
+		</tbtnClnClean>
+		<tbtnClnItems>
+			<Caption>Elemente</Caption>
+		</tbtnClnItems>
+		<tbtnClnScan>
+			<Caption>Scanează</Caption>
+			<Hint>Scanează|Se scanează pentru elemente care pot fi eliminate</Hint>
+		</tbtnClnScan>
+		<tbtnClnSummary>
+			<Caption>Rezumat</Caption>
+			<Hint>Rezumat|Se arată rezumatul elementelor care pot fi eliminate</Hint>
+		</tbtnClnSummary>
+		<tbtnCollapse>
+			<Caption>Restrângere</Caption>
+			<Hint>Restrângere|Restrângere totală a arborelui activ</Hint>
+		</tbtnCollapse>
+		<tbtnDetails>
+			<Caption>Detalii</Caption>
+			<Hint>Detalii program|Se arată sau se ascund detaliile programului</Hint>
+		</tbtnDetails>
+		<tbtnExpand>
+			<Caption>Extindere</Caption>
+			<Hint>Extindere|Extindere totală a arborelui activ</Hint>
+		</tbtnExpand>
+		<tbtnInstallModify>
+			<Caption>Schimbare</Caption>
+			<Hint>Repară, modifică sau dezinstalează</Hint>
+		</tbtnInstallModify>
+		<tbtnInstallNew>
+			<Caption>Instalare</Caption>
+			<Hint>Instalare nouă|Se monitorizează instalarea unui program nou</Hint>
+		</tbtnInstallNew>
+		<tbtnInstallUpdate>
+			<Caption>Actualizare</Caption>
+			<Hint>Instalare actualizare|Monitorizează instalarea actualizării programului activ</Hint>
+		</tbtnInstallUpdate>
+		<tbtnInstPrograms>
+			<Caption>Programe instalate</Caption>
+			<Hint>Programe instalate|Comută pe Programe instalate</Hint>
+		</tbtnInstPrograms>
+		<tbtnMonPrograms>
+			<Caption>Programe monitorizate</Caption>
+			<Hint>Programe monitorizate|Comută pe Programe monitorizate</Hint>
+		</tbtnMonPrograms>
+		<tbtnPrograms>
+			<Caption>Programe</Caption>
+			<Hint>Listă programe|Se arată sau se ascunde lista programelor</Hint>
+		</tbtnPrograms>
+		<tbtnSave>
+			<Caption>Salvare</Caption>
+			<Hint>Se salvează schimbările din jurnalul activ de instalare</Hint>
+		</tbtnSave>
+		<tbtnSearch>
+			<Caption>Căutare</Caption>
+			<Hint>Căutare|Se caută un text în schimbările detectate</Hint>
+		</tbtnSearch>
+		<tbtnShowSnapshot>
+			<Caption>Arată instantaneul</Caption>
+		</tbtnShowSnapshot>
+		<tbtnSummary>
+			<Caption>Rezumat</Caption>
+			<Hint>Rezumat|Se arată rezumatul elementelor care pot fi eliminate</Hint>
+		</tbtnSummary>
+		<tbtnUninstall>
+			<Caption>Dezinstalare</Caption>
+		</tbtnUninstall>
+		<tbtnUninstallLog>
+			<Caption>Jurnal de dezinstalare</Caption>
+			<Hint>Jurnal de dezinstalare|Se arată jurnalul de dezinstalare</Hint>
+		</tbtnUninstallLog>
+		<tbtnWinApps>
+			<Caption>Aplicații Windows</Caption>
+		</tbtnWinApps>
+		<tpnlSearch>
+			<Caption>Căutare</Caption>
+		</tpnlSearch>
+		<tvAutorunItems>
+			<Columns_0>Nume</Columns_0>
+			<Columns_1>Secțiune</Columns_1>
+			<Columns_2>Stare</Columns_2>
+			<Columns_3>Descriere</Columns_3>
+			<Columns_4>Editor</Columns_4>
+			<Columns_5>Comanda</Columns_5>
+		</tvAutorunItems>
+		<tvChanges>
+			<Columns_0>Schimbări detectate</Columns_0>
+			<Columns_1>Înainte</Columns_1>
+			<Columns_2>După</Columns_2>
+			<Columns_3>Curent</Columns_3>
+		</tvChanges>
+		<tvClnItems>
+			<Columns_0>Elemente</Columns_0>
+			<Columns_1>Proprietăți</Columns_1>
+		</tvClnItems>
+		<tvResults>
+			<Columns_0>Nume</Columns_0>
+			<Columns_1>Locaţie</Columns_1>
+			<Columns_2>Program</Columns_2>
+		</tvResults>
+	</frmTUMain>
+	<RESOURCESTRING>
+		<ACCESS_DENIED_X>Acces nepermis: %s</ACCESS_DENIED_X>
+		<ACT_CRE_KEY>Creare cheie regiştrii: %s</ACT_CRE_KEY>
+		<ACT_CRE_VAL>Creare valoare regiştrii: %s</ACT_CRE_VAL>
+		<ACT_DEC_CNT>Decrementare contor fişier partajat din regiştrii: %s</ACT_DEC_CNT>
+		<ACT_DEL_ADS>Ștergere ADS: %s</ACT_DEL_ADS>
+		<ACT_DEL_FILE>Ştergere fişier: %s</ACT_DEL_FILE>
+		<ACT_DEL_FOLDER>Ştergere folder: %s</ACT_DEL_FOLDER>
+		<ACT_DEL_KEY>Ştergere cheie regiştrii: %s</ACT_DEL_KEY>
+		<ACT_DEL_SERVICE>Şterge serviciu sau dispozitiv: %s</ACT_DEL_SERVICE>
+		<ACT_DEL_VAL>Ştergere valoare regiştrii: %s</ACT_DEL_VAL>
+		<ACT_RST_FILE>Restaurare proprietăţi fişier: %s</ACT_RST_FILE>
+		<ACT_RST_VAL>Restaurare valoare regiştrii: %s</ACT_RST_VAL>
+		<ACT_STOP_SERVICE>Oprire serviciu sau dispozitiv: %s</ACT_STOP_SERVICE>
+		<ADD>Adăugare</ADD>
+		<ADVANCED>Avansat</ADVANCED>
+		<AGENT>Agent</AGENT>
+		<ALL>Tot</ALL>
+		<ALL_BRA>(Tot)</ALL_BRA>
+		<ALL_DETAILS>Toate detaliile</ALL_DETAILS>
+		<ALWAYS>Întotdeauna</ALWAYS>
+		<ANALYSIS_PROFILE>Profilul de analiză</ANALYSIS_PROFILE>
+		<ANALYSIS_PROFILES>Profile de analiză</ANALYSIS_PROFILES>
+		<ANALYZING>Se analizează...</ANALYZING>
+		<ASK>Întreabă</ASK>
+		<ASK_COMPLETE_LATER>Finalizează procesul de monitorizare mai târziu?</ASK_COMPLETE_LATER>
+		<ASK_IF_NO_ERROR>Întreabă dacă nu sunt erori</ASK_IF_NO_ERROR>
+		<ASK_SAVE_CHG>Salvaţi schimbările din  &quot;%s&quot; ?</ASK_SAVE_CHG>
+		<ASK_USER>Întreabă utilizatorul</ASK_USER>
+		<AUTOMATIC>Automat</AUTOMATIC>
+		<AUTORUN_ITEMS>Elemente cu autopornire</AUTORUN_ITEMS>
+		<AUTORUN_MGR>Manager de autopornire</AUTORUN_MGR>
+		<BACKUP>Copie de siguranţă</BACKUP>
+		<BACKUP_CREATED>Copie de siguranţă creată.</BACKUP_CREATED>
+		<BACKUP_CREATED_OK>Copie de siguranţă creată cu succes.</BACKUP_CREATED_OK>
+		<BACKUP_PROGRAM>Se crează copia de siguranţă a programului...</BACKUP_PROGRAM>
+		<BACKUP_PROGRAM_X>Se crează copia de siguranţă a programului &quot;%s&quot;</BACKUP_PROGRAM_X>
+		<BEGIN_UNINSTALL>Apăsaţi Dezinstalare pentru a începe procesul de dezinstalare.</BEGIN_UNINSTALL>
+		<BEGIN_UNINSTALL_LAUNCH>Apăsaţi Lansare pentru a începe procesul de dezinstalare.</BEGIN_UNINSTALL_LAUNCH>
+		<BROWSE_FOR_FILE>Răsfoire după fișier</BROWSE_FOR_FILE>
+		<BROWSE_FOR_FOLDER>Răsfoire după folder</BROWSE_FOR_FOLDER>
+		<BROWSE_FOR_FOLDER_OR_FILE>Răsfoire după folder sau fișier</BROWSE_FOR_FOLDER_OR_FILE>
+		<BROWSE_FOR_KEY>Răsfoire după cheie</BROWSE_FOR_KEY>
+		<BROWSE_FOR_KEY_OR_VALUE>Răsfoire după cheie sau valoare</BROWSE_FOR_KEY_OR_VALUE>
+		<BROWSE_FOR_VALUE>Răsfoire pentru o valoare</BROWSE_FOR_VALUE>
+		<BTN_CONTINUE>Continuare</BTN_CONTINUE>
+		<BUILT_IN_CANCELLED>Programul de dezinstalare propriu a abandonat sau s-a terminat fără a încheia procesul de dezinstalare.</BUILT_IN_CANCELLED>
+		<BUILT_IN_UNINSTALLER_RUNNING>Programul de dezinstalare integrat se execută.</BUILT_IN_UNINSTALLER_RUNNING>
+		<CANCEL>Revocare</CANCEL>
+		<CANNOT_BROWSE>A apărut o eroare când s-a încercat pornirea browser-ului implicit.\nLegătura a fost copiată în Clipboard.</CANNOT_BROWSE>
+		<CANT_EXECUTE>Nu s-a putut porni programul &quot;%s&quot;.</CANT_EXECUTE>
+		<CANT_OPEN_KEY>Nu s-a putut deschide cheia</CANT_OPEN_KEY>
+		<CHANGED_ITEMS>Elemente schimbate</CHANGED_ITEMS>
+		<CHANGES>&quot;%s&quot; schimbări</CHANGES>
+		<CHECK_UPD_NEW>Sunt disponibile actualizări sau ştiri noi</CHECK_UPD_NEW>
+		<CHECK_UPD_REMINDER>Memento verificare actualizări</CHECK_UPD_REMINDER>
+		<CHG_VIEWS>Vizualizări schimbări</CHG_VIEWS>
+		<CLEAN_UP>Curăţare</CLEAN_UP>
+		<CLEAN_UP_DESC>Se elimină urmele unui program dezinstalat</CLEAN_UP_DESC>
+		<CLEANED>Curățat</CLEANED>
+		<CLEANER>Curățitor</CLEANER>
+		<CLEANING>Se curăță...</CLEANING>
+		<CLOSE>Închidere</CLOSE>
+		<CLOSE_PROCESSES>Închidere procese</CLOSE_PROCESSES>
+		<CMP_ERROR>Eroare în timpul comparării instantaneelor.</CMP_ERROR>
+		<CMP_PROFILE>Nume profil de comparare</CMP_PROFILE>
+		<CNT_DEL_MON>Contorul de fişier partajat a fost şters în timpul monitorizării</CNT_DEL_MON>
+		<COMMENTS>Comentarii</COMMENTS>
+		<COMMON>Comun</COMMON>
+		<COMP_PROFILES>Profiluri de comparare</COMP_PROFILES>
+		<COMPARE>Comparare</COMPARE>
+		<COMPARING_SNS>Se compară instantaneele sistem...</COMPARING_SNS>
+		<COMPLETE>Complet</COMPLETE>
+		<COMPUTER>Computer</COMPUTER>
+		<COMPUTER_X>Computer (%s)</COMPUTER_X>
+		<CONTACT>Persoană de contact</CONTACT>
+		<CONTINUE>Continuaţi?</CONTINUE>
+		<CONTINUE_UNINSTALL>Continuă procesul de dezinstalare</CONTINUE_UNINSTALL>
+		<CONTINUE_UNINSTALL_Q>Continuați procesul de dezinstalare?</CONTINUE_UNINSTALL_Q>
+		<CORRUPT_CNT>S-a detectat o schimbare incorectă pentru contorul de fişier partajat: valoarea a fost decrementată sau data este incorectă</CORRUPT_CNT>
+		<CREATE_REG_KEYS>Crează cheile în regiştrii</CREATE_REG_KEYS>
+		<CREATE_REG_VALS>Crează valorile în regiştrii</CREATE_REG_VALS>
+		<CREATED>Creat</CREATED>
+		<CREATED_ITEMS>Elemente create</CREATED_ITEMS>
+		<CREATED_ON>Creat la</CREATED_ON>
+		<CREATED_X>Creat: %s</CREATED_X>
+		<DEC_CNT>Decrementare contor fişier partajat în regiştrii</DEC_CNT>
+		<DEFAULT>Implicit</DEFAULT>
+		<DEFAULT_PAR>(implicit)</DEFAULT_PAR>
+		<DEL_AT_STARTUP>Va fi şters la repornire</DEL_AT_STARTUP>
+		<DEL_CNT>Ştergere contor fişier partajat din regiştrii</DEL_CNT>
+		<DEL_FILES>Ştergere fişiere</DEL_FILES>
+		<DEL_FOLDERS>Ştergere foldere</DEL_FOLDERS>
+		<DEL_REG_KEYS>Ştergere chei din regiştrii</DEL_REG_KEYS>
+		<DEL_REG_VALS>Ştergere valori din regiştrii</DEL_REG_VALS>
+		<DEL_SH_FILE>Ştergere fişier partajat de pe disc în Coşul de reciclare</DEL_SH_FILE>
+		<DELETE_SEL_BACKUPS>Ștergeți copiile de siguranță selectate?</DELETE_SEL_BACKUPS>
+		<DELETE_SEL_UNDO>Ștergeți înregistrările de anulare selectate?</DELETE_SEL_UNDO>
+		<DELETE_SYS_SEL_ITEM>Șterge din sistem elementul selectat?</DELETE_SYS_SEL_ITEM>
+		<DELETED>Șters</DELETED>
+		<DELETED_ITEMS>Elemente şterse</DELETED_ITEMS>
+		<DEPENDS_ON_PACKAGES>Depinde de pachete</DEPENDS_ON_PACKAGES>
+		<DETECTED_CHG>Schimbări detectate</DETECTED_CHG>
+		<DISABLED>Dezactivat</DISABLED>
+		<DISPOSABLE_ITEMS>Elemente care pot fi eliminate</DISPOSABLE_ITEMS>
+		<DLG_ABORT>Renunțare</DLG_ABORT>
+		<DLG_ALL>Tot</DLG_ALL>
+		<DLG_CANCEL>Revocare</DLG_CANCEL>
+		<DLG_CLOSE>Închidere</DLG_CLOSE>
+		<DLG_CNF>Confirmare</DLG_CNF>
+		<DLG_ERR>Eroare</DLG_ERR>
+		<DLG_IGNORE>Ignorare</DLG_IGNORE>
+		<DLG_INF>Informare</DLG_INF>
+		<DLG_NO>Nu</DLG_NO>
+		<DLG_NOTOALL>Nu la tot</DLG_NOTOALL>
+		<DLG_OK>OK</DLG_OK>
+		<DLG_RETRY>Reîncercare</DLG_RETRY>
+		<DLG_WRN>Atenționare</DLG_WRN>
+		<DLG_YES>Da</DLG_YES>
+		<DLG_YESTOALL>Da la tot</DLG_YESTOALL>
+		<DONT_DEL_SH_FILE>Utilizatorul a ales să păstreze fişierul partajat</DONT_DEL_SH_FILE>
+		<EDIT_PROGRAM>Editare program</EDIT_PROGRAM>
+		<ELAPSED>A trecut %d:%2.2d</ELAPSED>
+		<ENTER_IDENTIFIER>Introduceţi numele programului instalat.</ENTER_IDENTIFIER>
+		<ERR>Eroare</ERR>
+		<ERR_BRA>(EROARE)</ERR_BRA>
+		<ERR_DEL_FLD_FILES>Imposibil de şters unul sau mai multe foldere sau fişiere.</ERR_DEL_FLD_FILES>
+		<ERR_DEL_REG_KEYS_VALS>Imposibil de şters una sau mai multe chei sau valori.</ERR_DEL_REG_KEYS_VALS>
+		<ERR_REDO_REG_KEYS_VALS>Imposibil de refăcut una sau mai multe chei sau valori.</ERR_REDO_REG_KEYS_VALS>
+		<ERR_UNDO_REG_KEYS_VALS>Imposibil de anulat una sau mai multe chei sau valori.</ERR_UNDO_REG_KEYS_VALS>
+		<ERR_WRN_OK_STAT>Erori: %d   Avertismente: %d  Acţiuni cu succes: %d</ERR_WRN_OK_STAT>
+		<ERROR_UNINST_X_APPS>Eroare la dezinstalarea %d aplicații.</ERROR_UNINST_X_APPS>
+		<EXIT>Ieşire</EXIT>
+		<EXPERT>Expert</EXPERT>
+		<EXPIRE_DAYS>Expiră în %d zile.</EXPIRE_DAYS>
+		<EXPORT_ERROR>Eroare la export!</EXPORT_ERROR>
+		<EXTENSION>Extensie</EXTENSION>
+		<FAMILY_NOT_ACCEPTED>Licența familială nu este acceptată.</FAMILY_NOT_ACCEPTED>
+		<FFILTER_ALL>Toate fişierele (*.*)|*.*</FFILTER_ALL>
+		<FFILTER_DLL>Extensii de aplicație (*.dll)|*.dll</FFILTER_DLL>
+		<FFILTER_EXE>Aplicații (*.exe)|*.exe</FFILTER_EXE>
+		<FFILTER_EXE_MSI>Executabile, Pachete de instalator Windows</FFILTER_EXE_MSI>
+		<FFILTER_HTM>Documente HTML (*.htm, *.html)|*.htm;*html</FFILTER_HTM>
+		<FFILTER_ICL>Colecții de pictograme (*.icl)|*.icl</FFILTER_ICL>
+		<FFILTER_ICO>Pictograme (*.ico)|*.ico</FFILTER_ICO>
+		<FFILTER_MSI>Pachete pentru Windows installer (*.msi)|*.msi</FFILTER_MSI>
+		<FFILTER_REG>Fișiere regiștrii (*.reg)|*.reg</FFILTER_REG>
+		<FFILTER_TXT>Documente text (*.txt)|*.txt</FFILTER_TXT>
+		<FFILTER_WAV>Fișiere cu sunete (*.wav)|*.wav</FFILTER_WAV>
+		<FFILTER_XML>Documente XML (*.xml)|*.xml</FFILTER_XML>
+		<FFILTER_ZIP>Copii de siguranță (*.zip)|*.zip</FFILTER_ZIP>
+		<FILE>(FIŞIER)</FILE>
+		<FILE_MASK>Şablon fişier</FILE_MASK>
+		<FILE_SYSTEM>Sistemul de fişiere</FILE_SYSTEM>
+		<FILES_CHG_STAT>Fişiere modificate :%6.1d</FILES_CHG_STAT>
+		<FILES_CREATED_STAT>Fişiere create       :%6.1d</FILES_CREATED_STAT>
+		<FILES_DEL_STAT>Fişiere şterse       :%6.1d</FILES_DEL_STAT>
+		<FILES_NOT_INCLUDED>Fişiere neincluse în copia de siguranţă</FILES_NOT_INCLUDED>
+		<FILES_X>Fișiere   :%6.1d</FILES_X>
+		<FILTER>Filtru</FILTER>
+		<FINISH>Finalizare</FINISH>
+		<FLDS_CREATED_STAT>Foldere create     :%6.1d</FLDS_CREATED_STAT>
+		<FLDS_DEL_STAT>Foldere şterse     :%6.1d</FLDS_DEL_STAT>
+		<FOLDER>(FOLDER)</FOLDER>
+		<FOLDER_>Folder</FOLDER_>
+		<FOLDER_MASK>Mască folder</FOLDER_MASK>
+		<FOLDERS_X>Foldere :%6.1d</FOLDERS_X>
+		<FREE_UPDATES_UNTIL>Actualizări gratis până pe %s</FREE_UPDATES_UNTIL>
+		<FS_DET_VIEW_PRF>Detalii sistem de fişiere [Vizualizarea: %s]</FS_DET_VIEW_PRF>
+		<GENERAL>General</GENERAL>
+		<GENERATED_BY_TU>Generat de Total Uninstall</GENERATED_BY_TU>
+		<HIDDEN_NODE>Nodul nu este vizibil.</HIDDEN_NODE>
+		<HIDDEN_NODE_IN_VIEW>Nodul nu este vizibil în vizualizarea curentă</HIDDEN_NODE_IN_VIEW>
+		<HIDE_OPTIONS>Ascunde &amp;opţiuni</HIDE_OPTIONS>
+		<IF_NO_ERROR>Dacă nu sunt erori</IF_NO_ERROR>
+		<IMPORTING_ARCHIVE>Se importă arhivele...</IMPORTING_ARCHIVE>
+		<INCLUDE_FOLDER_IN_LOG>Include folder în jurnal</INCLUDE_FOLDER_IN_LOG>
+		<INF_VOLATILE_KEY>Cheia volatilă nu a fost creată.</INF_VOLATILE_KEY>
+		<INF_VOLATILE_VAL>Valoarea volatilă nu a fost creată.</INF_VOLATILE_VAL>
+		<INST_ON>Instalată pe</INST_ON>
+		<INST_PRG>Program instalat</INST_PRG>
+		<INST_PRGS>Programe instalate</INST_PRGS>
+		<INST_SERV_AND_DEV>Servicii şi dispozitive instalate</INST_SERV_AND_DEV>
+		<INSTALL>Instalare</INSTALL>
+		<INSTALL_HISTORY>Istoric instalări</INSTALL_HISTORY>
+		<INSTALLED_APPS>%d aplicații instalate.</INSTALLED_APPS>
+		<INSTALLED_PRGS_CMPS>%d programe instalate, %d componente sistem</INSTALLED_PRGS_CMPS>
+		<INSTALLER_ERR>S-a detectat o eroare a programului de instalare. A fost creat un contor de fişier partajat pentru un fişier existent.</INSTALLER_ERR>
+		<INTERFACE>Interfaţă</INTERFACE>
+		<INVALID_AFTER_CNT>Valoare contor DUPĂ eronată</INVALID_AFTER_CNT>
+		<INVALID_BEFORE_CNT>Valoare contor ÎNAINTE eronată</INVALID_BEFORE_CNT>
+		<INVALID_CURRENT_CNT>S-a găsit în regiştrii un contor de fişier partajat eronat</INVALID_CURRENT_CNT>
+		<INVALID_SERVER_RESPONSE>Raspuns invalid de la server. Cel mai probabil, un paravan de protecție corupe comunicația.</INVALID_SERVER_RESPONSE>
+		<ITEM_X>Element : %s</ITEM_X>
+		<KEY>Cheie</KEY>
+		<KEYS_CREATED_STAT>Chei create        :%6.1d</KEYS_CREATED_STAT>
+		<KEYS_DEL_STAT>Chei şterse        :%6.1d</KEYS_DEL_STAT>
+		<KEYS_X>Chei    :%6.1d</KEYS_X>
+		<LAST_CHECK>Ultima verificare: %s</LAST_CHECK>
+		<LAST_WRITE_X>Ultima scriere: %s</LAST_WRITE_X>
+		<LAUNCH>Lansare</LAUNCH>
+		<LAUNCH_SUPPLIED_UNINST>Programul integrat de dezinstalare va fi pornit.</LAUNCH_SUPPLIED_UNINST>
+		<LAUNCH_TU>Lansare Total Uninstall</LAUNCH_TU>
+		<LIC_COUNTRY>Licenţă pe ţară</LIC_COUNTRY>
+		<LIC_FAMILY>Licenţă Familială</LIC_FAMILY>
+		<LIC_MULTIPLE>Licenţă Computere Multiple</LIC_MULTIPLE>
+		<LIC_SINGLE_COMPUTER>Licenţă Computer Unic</LIC_SINGLE_COMPUTER>
+		<LIC_SITE>Licenţă sit</LIC_SITE>
+		<LIC_SMALL_OFFICE>Licenţă Birou Mic</LIC_SMALL_OFFICE>
+		<LIC_TECHNICIAN>Licență tehnician</LIC_TECHNICIAN>
+		<LIC_TEMPORARY>Licenţă temporară</LIC_TEMPORARY>
+		<LIC_WORLDWIDE>Licenţă în toată lumea</LIC_WORLDWIDE>
+		<LICENSED_TO>Licenţă acordată pentru &quot;%s&quot;</LICENSED_TO>
+		<LNK_EXE_FILTER>Comenzi rapide şi fişiere executabile (*.lnk, *.exe)|*.lnk;*.exe</LNK_EXE_FILTER>
+		<LOADING>Se încarcă...</LOADING>
+		<LOADING_INST_PRGS>Se încarcă programele instalate...</LOADING_INST_PRGS>
+		<LOADING_MON_PRGS>Se încarcă programele monitorizate...</LOADING_MON_PRGS>
+		<LOADING_WINDOWS_APPS>Se încarcă aplicațiile...</LOADING_WINDOWS_APPS>
+		<LOCATE_PRG_LNK_EXE>Selectaţi comanda rapidă la program sau executabilul</LOCATE_PRG_LNK_EXE>
+		<LOCATE_UNINSTALLER_EXE>Selectați executabilul programului de dezinstalare</LOCATE_UNINSTALLER_EXE>
+		<LOG_FILE_NAME>Nume fişier jurnal</LOG_FILE_NAME>
+		<LOGON>Logon</LOGON>
+		<MAINTENANCE_ENDED>Perioada de întreţinere pentru licenţa dumneavoastră s-a încheiat.</MAINTENANCE_ENDED>
+		<MAINTENANCE_ENDED_INFO>Noua versiune a programului va rula în modul de evaluare.</MAINTENANCE_ENDED_INFO>
+		<MANUAL>Manual</MANUAL>
+		<MICROSOFT>Microsoft</MICROSOFT>
+		<MISSING_ITEMS>Elemente lipsă</MISSING_ITEMS>
+		<MODIFIED>Modificat</MODIFIED>
+		<MON_ON>Monitorizat pe</MON_ON>
+		<MON_PRG>Program monitorizat</MON_PRG>
+		<MON_PRG_PATH>Locaţie program monitorizat</MON_PRG_PATH>
+		<MON_PRG_RUNNING>Se pare că programul monitorizat incă este in execuţie.</MON_PRG_RUNNING>
+		<MONITOR_WITH_TU>Monitorizare cu Total Uninstall</MONITOR_WITH_TU>
+		<MONITORED_PRGS>%d programe monitorizate</MONITORED_PRGS>
+		<NAME>Nume</NAME>
+		<NEVER>Niciodată</NEVER>
+		<NEW_NAME>Nume nou</NEW_NAME>
+		<NO>nu</NO>
+		<NO_GROUPS>Nici un grup</NO_GROUPS>
+		<NO_MORE_INSTANCES_ALLOWED>Licența dumneavoastră nu permite execuția a unui număr mai mare de instanțe a acestui program.</NO_MORE_INSTANCES_ALLOWED>
+		<NO_RIGHTS>Drepturi insuficiente</NO_RIGHTS>
+		<NO_UPDATES>Versiune coruptă.</NO_UPDATES>
+		<NON_MICROSOFT>Exclus Microsoft</NON_MICROSOFT>
+		<NON_WINDOWS>Exclus Windows</NON_WINDOWS>
+		<NORMAL>Normal</NORMAL>
+		<NOT_A_VALID_UNINST>Nu s-a găsit un dezinstalator valabil sau inregistrat.</NOT_A_VALID_UNINST>
+		<NOT_AVAILABLE>(indisponibil)</NOT_AVAILABLE>
+		<NOT_DELETED_FILES>Foldere şi fişiere care nu au fost şterse</NOT_DELETED_FILES>
+		<NOT_DELETED_FILES_DET>Foldere şi fişiere care nu au fost şterse la dezinstalare</NOT_DELETED_FILES_DET>
+		<NOT_DELETED_REG>Chei şi valori din regiştrii care nu au fost şterse</NOT_DELETED_REG>
+		<NOT_DELETED_REG_DET>Chei şi valori din regiştrii care nu au fost şterse la dezinstalare</NOT_DELETED_REG_DET>
+		<NOT_EMPTY>Nu este gol</NOT_EMPTY>
+		<NOT_FOUND>Nu a fost găsit</NOT_FOUND>
+		<NOT_FOUND_X>Nu a fost găsit: %s</NOT_FOUND_X>
+		<NOTES>Notiţe</NOTES>
+		<OK>OK</OK>
+		<OK_BRA>(OK)</OK_BRA>
+		<ON_PRG_CLOSE>La închiderea programului</ON_PRG_CLOSE>
+		<ON_REFRESH>La reîmprospătare</ON_REFRESH>
+		<ONLY_FILES_TO_KEEP>Nu s-a şters. Conţine numai fişiere sau foldere păstrate.</ONLY_FILES_TO_KEEP>
+		<ONLY_KEYS_TO_KEEP>Nu s-a şters. Conţine numai chei păstrate.</ONLY_KEYS_TO_KEEP>
+		<OTHER>Altele</OTHER>
+		<PACKAGES>Pachete</PACKAGES>
+		<PAGE>Pagina:</PAGE>
+		<PAINT_ITEM_STYLES>Afişare normală\nAscundere\nEvidenţiere text\nDiminuare pictogramă\nDiminuare pictogramă şi evidenţiere text</PAINT_ITEM_STYLES>
+		<PENDING_FILE_REN>Operaţii de redenumire fişiere în curs.</PENDING_FILE_REN>
+		<PRE_INST_SNS_NAME>Nume instantaneu pre-instalare</PRE_INST_SNS_NAME>
+		<PRE_INSTALL>Instantaneu sistem pre-instalare</PRE_INSTALL>
+		<PREFERENCES>Preferinţe</PREFERENCES>
+		<PRG_DETECTED>Program detectat:</PRG_DETECTED>
+		<PRG_NAME>Nume program</PRG_NAME>
+		<PRG_PART_UNINSTALLED>Programul a fost dezinstalat parţial</PRG_PART_UNINSTALLED>
+		<PRG_RESTORED>Programul a fost restaurat.</PRG_RESTORED>
+		<PRG_UNINSTALLED>Programul a fost dezinstalat cu succes</PRG_UNINSTALLED>
+		<PRINT_ERROR>Eroare la imprimare!</PRINT_ERROR>
+		<PROCESS_CANCELLED>Proces revocat.</PROCESS_CANCELLED>
+		<PROCESSING_INSTALLATIONS>Se procesează instalările...</PROCESSING_INSTALLATIONS>
+		<PRODUCT_UPDATES>Actualizări produs</PRODUCT_UPDATES>
+		<PROGRAM_WILL_RESTART>Programul va reporni pentru a încheia procesul de înregistrare.</PROGRAM_WILL_RESTART>
+		<PROGRESS_DEFAULT>Progres, implicit</PROGRESS_DEFAULT>
+		<PST_INST_SNS_NAME>Nume instantaneu post-instalare</PST_INST_SNS_NAME>
+		<PUBLISHER>Editor</PUBLISHER>
+		<QST_DEL_FLD_FILES>Sunteţi sigur că vreţi să ştergeţi folderele sau fişierele selectate?</QST_DEL_FLD_FILES>
+		<QST_DEL_REG_KEYS_VALS>Sunteţi sigur că vreţi să ştergeţi cheile sau valorile selectate?</QST_DEL_REG_KEYS_VALS>
+		<QST_DEL_SERVICES>Sunteți sigur că vreți să ștergeți serviciile selectate?</QST_DEL_SERVICES>
+		<QST_REMOVE_INST_PRG_LST>Sunteţi sigur că vreţi să eliminaţi programul selectat din listă?</QST_REMOVE_INST_PRG_LST>
+		<QUEST_REMOVE_GROUP>Eliminaţi grupul?</QUEST_REMOVE_GROUP>
+		<QUIET_PROGRESS_DEFAULT>Ascuns, progres, implicit</QUIET_PROGRESS_DEFAULT>
+		<README>Citeşte</README>
+		<READY>Gata</READY>
+		<RECORD_CHANGED_X>Înregistrare schimbată: %s</RECORD_CHANGED_X>
+		<REDO_PROFILES>Profile de restaurare</REDO_PROFILES>
+		<REG_DET_VIEW_PRF>Detalii regiştrii [Vizualizare: %s]</REG_DET_VIEW_PRF>
+		<REG_KEY>(CHEIE REG)</REG_KEY>
+		<REG_RUN>Regiștrii rulează</REG_RUN>
+		<REG_RUN_ONCE>Regiștrii rulează o dată</REG_RUN_ONCE>
+		<REG_SCAN_ERROR>Eroare în timpul scanării regiștrilor.</REG_SCAN_ERROR>
+		<REG_VAL>(VAL REG)</REG_VAL>
+		<REGISTER_DISABLED_KEY>Probabil sunteţi o victimă a distibuţiei de soft contrafăcut. Vă rugăm să cumpăraţi programul original.</REGISTER_DISABLED_KEY>
+		<REGISTER_FAILED>Înregistrare eşuată.</REGISTER_FAILED>
+		<REGISTER_FIREWALL>Un paravan de protecţie împiedică %s să valideze online licenţa dumneavoastră.</REGISTER_FIREWALL>
+		<REGISTER_HOST>O intrare in fişierul HOSTS împiedică %s să valideze online licenţa dumneavoastră.</REGISTER_HOST>
+		<REGISTER_INVALID>Informaţie de înregistrare eronată</REGISTER_INVALID>
+		<REGISTER_PORTABLE>Ediția portabilă Tehnician trebuie înregistrată</REGISTER_PORTABLE>
+		<REGISTER_PRO>Trebuie să înregistraţi programul cu o cheie pentru ediţia profesională.</REGISTER_PRO>
+		<REGISTER_THANK_YOU>Vă mulţumesc că aţi înregistrat %s.</REGISTER_THANK_YOU>
+		<REGISTERED_COMPANY>Companie înregistrată</REGISTERED_COMPANY>
+		<REGISTERED_OWNER>Proprietate înregistrată</REGISTERED_OWNER>
+		<REGISTRY>Regiştrii</REGISTRY>
+		<REMOVE_LEFT_BEHIND>Apăsaţi Dezinstalare pentru a elimina foldere, fişiere, chei şi valori din regiştrii rămase.</REMOVE_LEFT_BEHIND>
+		<REMOVE_LOG>Ştergeţi jurnalul de instalare?</REMOVE_LOG>
+		<REMOVE_LOG_DET>Nu veţi mai avea posibilitatea de a restaura modificările făcute de programul selectat.</REMOVE_LOG_DET>
+		<REMOVE_PRG_DATA>Eliminaţi setările şi datele programului?</REMOVE_PRG_DATA>
+		<REMOVE_PRG_DATA_INFO>Alegeţi &quot;Nu&quot; dacă planificaţi să actualizaţi sau să înlocuiţi cu o nouă versiune a programului Total Uninstall</REMOVE_PRG_DATA_INFO>
+		<RENAME>Redenumire</RENAME>
+		<REQUEST_INTERNET_ACCESS>Accesul la Internet este obligatoriu.</REQUEST_INTERNET_ACCESS>
+		<RESTORATION_UNDONE>Restaurarea a fost anulată.</RESTORATION_UNDONE>
+		<RESTORE>Restaurează</RESTORE>
+		<RESTORE_PROGRAM>Restaurare program</RESTORE_PROGRAM>
+		<RESTORE_REG_VALS>Restaurare valori regiştrii</RESTORE_REG_VALS>
+		<RESTORING_ARCHIVE>Se restaurează fișierele și elementele din regiștrii...</RESTORING_ARCHIVE>
+		<RESTORING_FILES_FROM_BKP>Se restaurează fișierele din copia de siguranță...</RESTORING_FILES_FROM_BKP>
+		<RST_FILE_PROP>Restaurare proprietăţi fişier</RST_FILE_PROP>
+		<RUN_EVAL_PERIOD>Rulaţi programul în perioada de evaluare?</RUN_EVAL_PERIOD>
+		<RUNNING>Rulează</RUNNING>
+		<RUNNING_DOMAIN>Rulează într-un domeniu Windows NT.</RUNNING_DOMAIN>
+		<RUNNING_SERVER>Programul rulează pe un server Windows.</RUNNING_SERVER>
+		<RUNNING_VM>Programul rulează într-o maşină virtuală.</RUNNING_VM>
+		<SAFE>În siguranţă</SAFE>
+		<SAVE_AS>Salvare ca</SAVE_AS>
+		<SCAN_PROFILES>Profiluri de scanare</SCAN_PROFILES>
+		<SCANNING>Se scanează...</SCANNING>
+		<SCANNING_REGISTRY_AND_FS>Se scanează regiştrii şi sistemul de fişiere...</SCANNING_REGISTRY_AND_FS>
+		<SCHEDULED_TASKS>Sarcini programate</SCHEDULED_TASKS>
+		<SEARCH>Căutare</SEARCH>
+		<SEARCH_IN_X>Căutare în &quot;%s&quot;</SEARCH_IN_X>
+		<SEL_BRA>(Selecţie)</SEL_BRA>
+		<SEL_HAS_HD_NODES>Selecţia conţine cel puţin un nod ascuns.</SEL_HAS_HD_NODES>
+		<SEL_PRG_UNINSTALLED>Programul selectat este deja dezinstalat</SEL_PRG_UNINSTALLED>
+		<SEL_UNINSTALL_PROFILE>Selectaţi un profil de dezinstalare.</SEL_UNINSTALL_PROFILE>
+		<SELECT>Selectare</SELECT>
+		<SERVICE>Serviciu</SERVICE>
+		<SERVICES>Servicii</SERVICES>
+		<SHARED_FILE>Fişier partajat. Nu s-a şters în această fază</SHARED_FILE>
+		<SHARED_FILE_CNT_DEC>Contorul fişierului partajat este deja decrementat</SHARED_FILE_CNT_DEC>
+		<SHARED_FILE_NOT_FOUND>Fişierul partajat nu a fost găsit pe disc</SHARED_FILE_NOT_FOUND>
+		<SHOW_OPTIONS>Arată &amp;opţiuni</SHOW_OPTIONS>
+		<SHOW_SYS_COMP>Arată componentele sistem: %s</SHOW_SYS_COMP>
+		<SIZE>Dimensiune</SIZE>
+		<SIZE_STAT>Dimensiune                : %s</SIZE_STAT>
+		<SKIP>Sari</SKIP>
+		<SKIP_BUILTIN_UNINSTALLER>Dacă programul de dezinstalare integrat aflat in execuție nu răspunde, apăsați Sari pentru a continua. Următorul program de dezinstalare integrat va fi pornit.</SKIP_BUILTIN_UNINSTALLER>
+		<SMALL_CNT>Contorul de fişier partajat din regiştrii a fost găsit prea mic</SMALL_CNT>
+		<START>Start</START>
+		<START_MENU>Meniul de start</START_MENU>
+		<START_SCANNING>Apăsați butonul Scan pentru a porni scanarea.</START_SCANNING>
+		<START_UNINSTALL_PROCESS>Porneşte procesul de dezinstalare.</START_UNINSTALL_PROCESS>
+		<STARTUP_TYPE_X>Pornire de tip: %s</STARTUP_TYPE_X>
+		<STOP>Stop</STOP>
+		<STOP_SERVICES>Se opresc serviciile</STOP_SERVICES>
+		<STOPPED>Oprit</STOPPED>
+		<SUMMARY>Sumar</SUMMARY>
+		<SUPPORT_INFO>Informaţii ajutătoare</SUPPORT_INFO>
+		<SUPPORT_PHONE>Telefon informaţii</SUPPORT_PHONE>
+		<SVC_CMD_NOT_ACCEPTED>Serviciul nu acceptă comanda stop.</SVC_CMD_NOT_ACCEPTED>
+		<SW_VERSION>Versiunea %s</SW_VERSION>
+		<SYSTEM>Sistem</SYSTEM>
+		<TEMPORARY_FILES>Fișiere temporare</TEMPORARY_FILES>
+		<TITLE_MON_INSTALL>Monitorizează o nouă instalare</TITLE_MON_INSTALL>
+		<TITLE_MON_UPDATE_X>Monitorizează actualizarea programului &quot;%s&quot;</TITLE_MON_UPDATE_X>
+		<TOTAL_LIC_COMPUTERS>Total computere cu licenţă pentru numele de mai sus: %s</TOTAL_LIC_COMPUTERS>
+		<TOTAL_UNINSTALL>Dezinstalare totală</TOTAL_UNINSTALL>
+		<TRACES_AFTER_UNINSTALL>Urme după dezinstalare</TRACES_AFTER_UNINSTALL>
+		<TRIAL_EXPIRED>Perioada de evaluare s-a încheiat. Vă rugăm să cumpăraţi programul.</TRIAL_EXPIRED>
+		<TU_AGENT>Agent Total Uninstall</TU_AGENT>
+		<TU_MON_PRG_TITLE>Programe monitorizate</TU_MON_PRG_TITLE>
+		<TU_PRO_EDITION>Total Uninstall ediţia Profesională</TU_PRO_EDITION>
+		<TU_STD_EDITION>Total Uninstall ediţia Standard</TU_STD_EDITION>
+		<TU_ULT_EDITION>Total Uninstall ediția Ultimate</TU_ULT_EDITION>
+		<TU_USE_FIRST_UNINST>Dezinstalare totală folosind mai întâi dezinstalatorul oferit</TU_USE_FIRST_UNINST>
+		<TU_USE_FIRST_UNINST_DESC>Dezinstalează antivirus, paravan de protecţie, driver sau orice program care instalează dispozitive sistem.</TU_USE_FIRST_UNINST_DESC>
+		<UNDO>Anulare</UNDO>
+		<UNDO_RESTORATION>Anulare restaurare</UNDO_RESTORATION>
+		<UNINST_ANALYZED>Dezinstalare program analizat</UNINST_ANALYZED>
+		<UNINST_BUNDLE>Dezinstalare programe analizate la pachet</UNINST_BUNDLE>
+		<UNINST_PROFILES>Profiluri de dezinstalare</UNINST_PROFILES>
+		<UNINSTALL>Dezinstalare</UNINSTALL>
+		<UNINSTALL_INST_HINT>Dezinstalare|Se dezinstalează programul selectat analizat</UNINSTALL_INST_HINT>
+		<UNINSTALL_LOG>Jurnal de dezinstalare</UNINSTALL_LOG>
+		<UNINSTALL_MON_HINT>Dezinstalare|Se dezinstalează programul selectat monitorizat</UNINSTALL_MON_HINT>
+		<UNINSTALL_PROGRAM_X>Dezinstalare program &quot;%s&quot;</UNINSTALL_PROGRAM_X>
+		<UNINSTALL_USER_WIN_APP_HINT>Dezinstalare|Se dezinstalează aplicația selectată din contul utilizatorului.</UNINSTALL_USER_WIN_APP_HINT>
+		<UNINSTALL_WIN_APPS>Dezinstalați aplicațiile selectate?</UNINSTALL_WIN_APPS>
+		<UNINSTALLED_WITH_TU>Dezinstalat cu Total Uninstall &quot;%s&quot;</UNINSTALLED_WITH_TU>
+		<UNREGISTERED>Neînregistrat</UNREGISTERED>
+		<USE_LAST_SNS>Foloseşte ultimul instantaneu</USE_LAST_SNS>
+		<USE_LAST_SNS_AGO_D>Foloseşte ultimul instantaneu (de acum %d zile, %d ore şi %d minute)</USE_LAST_SNS_AGO_D>
+		<USE_LAST_SNS_AGO_H>Foloseşte ultimul instantaneu (de acum %d ore şi %d minute)</USE_LAST_SNS_AGO_H>
+		<USE_LAST_SNS_AGO_M>Foloseşte ultimul instantaneu (de acum %d minute)</USE_LAST_SNS_AGO_M>
+		<USE_OLD_PURCHASE_NEW>Instalaţi o versiune mai veche sau cumpăraţi actualizarea pentru a utiliza această versiune.</USE_OLD_PURCHASE_NEW>
+		<USE_ONLY_PRG_UNINST>Foloseşte doar dezinstalatorul programului</USE_ONLY_PRG_UNINST>
+		<USE_OR_BUILD_SNS>Construieşte sau foloseşte instantaneul precedent.</USE_OR_BUILD_SNS>
+		<USR_ABORT>Revocat de utilizator</USR_ABORT>
+		<VALS_CHG_STAT>Valori modificate :%6.1d</VALS_CHG_STAT>
+		<VALS_CREATED_STAT>Valori create      :%6.1d</VALS_CREATED_STAT>
+		<VALS_DEL_STAT>Valori şterse       :%6.1d</VALS_DEL_STAT>
+		<VALUE>Valoare</VALUE>
+		<VALUES_X>Valori  :%6.1d</VALUES_X>
+		<VERSION>Versiune</VERSION>
+		<WAIT_UNINST_REMOVE_LEFT>După ce  programul integrat de dezinstalare s-a terminat apăsaţi Dezinstalare pentru a elimina foldere, fişiere, chei şi valori din regiştrii rămase.</WAIT_UNINST_REMOVE_LEFT>
+		<WIN_APP_NAME>Nume aplicație</WIN_APP_NAME>
+		<WIN_APPS>Aplicații Windows</WIN_APPS>
+		<WINDOWS>Windows</WINDOWS>
+		<WRN_BRA>(AVERTISMENT)</WRN_BRA>
+		<X_BYTE>%s O</X_BYTE>
+		<X_BYTES>%d octeţi</X_BYTES>
+		<X_CHANGES>%s - Schimbări</X_CHANGES>
+		<X_GIGABYTE>%s GO</X_GIGABYTE>
+		<X_KILOBYTE>%s KO</X_KILOBYTE>
+		<X_MEGABYTE>%s MO</X_MEGABYTE>
+		<X_RESULTS>%d rezultat(e)</X_RESULTS>
+		<X_UNINSTALL_LOG>&quot;%s&quot; - jurnal de dezinstalare</X_UNINSTALL_LOG>
+		<X_UNINSTALL_LOG_FILE>&quot;%s&quot; - jurnal de dezinstalare.txt</X_UNINSTALL_LOG_FILE>
+		<YES>da</YES>
+		<ZERO_LENGTH_DATA>(dată de lungime zero)</ZERO_LENGTH_DATA>
+		<ITEMS_AFTER_INST>Următoarele elemente au fost create după instalare.\nAlte programe ar putea avea nevoie de ele.</ITEMS_AFTER_INST>
+	</RESOURCESTRING>
+</TotalUninstall>

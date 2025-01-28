@@ -1,0 +1,1745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TotalUninstall>
+	<_System_>
+		<Flag>
+			<Size>1974</Size>
+			<Data>Qk22BwAAAAAAADYAAAAoAAAAIAAAABQAAAABABgAAAAAAIAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/////////////////////AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/////////////AAD/AAD/AAD/AAD/////AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/////////AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/////////////AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/////////AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/////AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/////////AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/////////////AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/////////AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/////AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/////////////AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/////////AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/////////////AAD/AAD/AAD/AAD/////AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/////////////////////AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Data>
+		</Flag>
+		<LanguageCode>en</LanguageCode>
+		<LocalizedName>Türkçe</LocalizedName>
+		<Version>5700</Version>
+	</_System_>
+	<dlgAddInstalledPrg>
+		<btnCancel>
+			<Caption>Vazgeç</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>Tamam</Caption>
+		</btnOK>
+		<Caption>Program listesine ekle</Caption>
+		<lblInstallationFolder>
+			<Caption>Yüklü klasör</Caption>
+		</lblInstallationFolder>
+		<lblPrgName>
+			<Caption>Program adı</Caption>
+		</lblPrgName>
+	</dlgAddInstalledPrg>
+	<dlgAskDelItem>
+		<btnOK>
+			<Caption>&amp;Tamam</Caption>
+		</btnOK>
+		<btnSelectAll>
+			<Caption>&amp;Tümünü Seç</Caption>
+		</btnSelectAll>
+		<btnUnselectAll>
+			<Caption>&amp;Hiçbirini Seçme</Caption>
+		</btnUnselectAll>
+		<Caption>Öğeler silinsin mi?</Caption>
+		<lblDelSel>
+			<Caption>Seçili tüm öğ&amp;eler silinecek</Caption>
+		</lblDelSel>
+	</dlgAskDelItem>
+	<dlgChangeIcon>
+		<btnBrowse>
+			<Caption>Gözat...</Caption>
+		</btnBrowse>
+		<btnCancel>
+			<Caption>Vazgeç</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>Tamam</Caption>
+		</btnOk>
+		<Caption>Simgeyi Değiştir</Caption>
+		<gbIcons>
+			<Caption>Simgeler</Caption>
+		</gbIcons>
+	</dlgChangeIcon>
+	<dlgCheckUpdates>
+		<btnClose>
+			<Caption>Kapat</Caption>
+		</btnClose>
+		<btnRefresh>
+			<Caption>Yenile</Caption>
+		</btnRefresh>
+		<Caption>Güncelleme için denetle</Caption>
+	</dlgCheckUpdates>
+	<dlgCompareSns>
+		<btnCancel>
+			<Caption>Vazgeç</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>Tamam</Caption>
+		</btnOK>
+		<Caption>Sistem anlık görüntülerini karşılaştır</Caption>
+		<lblCompareProfile>
+			<Caption>Pro&amp;fili Karşılaştır</Caption>
+		</lblCompareProfile>
+		<lblResultLog>
+			<Caption>Sonuç Günlüğü</Caption>
+		</lblResultLog>
+		<lblSnapshotA>
+			<Caption>Sistem anlık görüntüsü A</Caption>
+		</lblSnapshotA>
+		<lblSnapshotB>
+			<Caption>Sistem anlık görüntüsü B</Caption>
+		</lblSnapshotB>
+	</dlgCompareSns>
+	<dlgExportRegistry>
+		<btnCancel>
+			<Caption>Vazgeç</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>Tamam</Caption>
+		</btnOk>
+		<Caption>Kayıt Defteri Değişikliklerini Ver</Caption>
+		<cbCreatedKeys>
+			<Caption>Oluşturulan Anahtarlar</Caption>
+		</cbCreatedKeys>
+		<cbCreatedValues>
+			<Caption>Oluşturulan Değerler</Caption>
+		</cbCreatedValues>
+		<cbDeletedKeys>
+			<Caption>Silinen Anahtarlar</Caption>
+		</cbDeletedKeys>
+		<cbDeletedValues>
+			<Caption>Silinen Değerler</Caption>
+		</cbDeletedValues>
+		<cbModifiedValues>
+			<Caption>Değiştirilen Değerler</Caption>
+		</cbModifiedValues>
+		<gbDetails>
+			<Caption>Kayıt Defteri Değişiklikleri</Caption>
+		</gbDetails>
+		<gbExportType>
+			<Caption>Verme Türü</Caption>
+		</gbExportType>
+		<gbRange>
+			<Caption>Verme oranı</Caption>
+		</gbRange>
+		<rbExpAll>
+			<Caption>Tümü</Caption>
+		</rbExpAll>
+		<rbExpBranch>
+			<Caption>Seçili dal</Caption>
+		</rbExpBranch>
+		<rbInstall>
+			<Caption>Kur Dosyası</Caption>
+		</rbInstall>
+		<rbUninstall>
+			<Caption>Kaldır Dosyası</Caption>
+		</rbUninstall>
+	</dlgExportRegistry>
+	<dlgGroupProp>
+		<btnCancel>
+			<Caption>Vazgeç</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>Tamam</Caption>
+		</btnOk>
+		<Caption>Grup</Caption>
+		<lblIcon>
+			<Caption>Simge</Caption>
+		</lblIcon>
+		<lblName>
+			<Caption>Adı</Caption>
+		</lblName>
+	</dlgGroupProp>
+	<dlgMergeLogs>
+		<btnCancel>
+			<Caption>Vazgeç</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>Tamam</Caption>
+		</btnOK>
+		<Caption>Günlüğü Birleştir</Caption>
+		<cbDeleteUpdate>
+			<Caption>Birleştirmeden sonra güncelleme günlüğünü sil</Caption>
+		</cbDeleteUpdate>
+		<gbDestination>
+			<Caption>Hedef</Caption>
+		</gbDestination>
+		<gbSources>
+			<Caption>Kaynaklar</Caption>
+		</gbSources>
+		<lblInstallLog>
+			<Caption>Günlük Yükle</Caption>
+		</lblInstallLog>
+		<lblUpdateLog>
+			<Caption>Günlüğü güncelle</Caption>
+		</lblUpdateLog>
+		<rbCreateANewLog>
+			<Caption>Yeni Günlük Oluştur</Caption>
+		</rbCreateANewLog>
+		<rbSaveInInstallLog>
+			<Caption>Kur Günlüğüne Kaydet</Caption>
+		</rbSaveInInstallLog>
+	</dlgMergeLogs>
+	<dlgPendingFileRename>
+		<btnApply>
+			<Caption>Uygula</Caption>
+		</btnApply>
+		<btnClose>
+			<Caption>Kapat</Caption>
+		</btnClose>
+		<Caption>Dosya Yeniden Adlandırma İşlemleri</Caption>
+		<treeFiles>
+			<Columns_0>Kaynak</Columns_0>
+			<Columns_1>Hedef</Columns_1>
+		</treeFiles>
+	</dlgPendingFileRename>
+	<dlgRegister>
+		<btnBuy>
+			<Caption>Satın Al</Caption>
+		</btnBuy>
+		<btnCancel>
+			<Caption>Vazgeç</Caption>
+		</btnCancel>
+		<btnRegister>
+			<Caption>Kayıt</Caption>
+		</btnRegister>
+		<Caption>Total Uninstall Kayıt</Caption>
+		<lblKey>
+			<Caption>Kayıt Anahtarı</Caption>
+		</lblKey>
+		<lblName>
+			<Caption>Kayıt Adı</Caption>
+		</lblName>
+	</dlgRegister>
+	<dlgRestrictedFeature>
+		<btnCancel>
+			<Caption>Vazgeç</Caption>
+		</btnCancel>
+		<Caption>Kısıtlanmış özellik</Caption>
+		<clinkCompareFeatures>
+			<Caption>Standart sürüm ile Profesyonel sürüm arasındaki farklar</Caption>
+			<Note>Karşılaştırma çizelgesini göster</Note>
+		</clinkCompareFeatures>
+		<clinkContinue>
+			<Caption>Devam</Caption>
+		</clinkContinue>
+		<clinkPurchase>
+			<Caption>Satın Al</Caption>
+			<Note>Satın alma formunu aç</Note>
+		</clinkPurchase>
+		<lblInstruction>
+			<Caption>Bu özellik sadece kayıtlı sürümde mevcut</Caption>
+		</lblInstruction>
+		<lblProfessionalEdition>
+			<Caption>- Profesyonel sürüm</Caption>
+		</lblProfessionalEdition>
+		<lblStandardEdition>
+			<Caption>- Standard sürüm</Caption>
+		</lblStandardEdition>
+	</dlgRestrictedFeature>
+	<dlgRmvShared>
+		<btnNo>
+			<Caption>Hayır</Caption>
+		</btnNo>
+		<btnNoToAll>
+			<Caption>Hiçbiri</Caption>
+		</btnNoToAll>
+		<btnYes>
+			<Caption>Evet</Caption>
+		</btnYes>
+		<btnYesToAll>
+			<Caption>Evet, Tümü</Caption>
+		</btnYesToAll>
+		<Caption>Paylaşılan Dosya silinsin mi?</Caption>
+		<lblFileName>
+			<Caption>Dosya adı:</Caption>
+		</lblFileName>
+		<lblLocated>
+			<Caption>Konum:</Caption>
+		</lblLocated>
+		<lblOne>
+			<Caption>Sistem göstergeleri aşağıdaki paylaştırılmış dosyanın hiçbir uygulama tarafından kullanılmadığını gösteriyor. Bir program bu dosyayı hala kullanıyorsa ve dosya kaldırılmışsa, dosya kaldırıldığından dolayı program bir işlem yapamaz. Paylaştırılmış dosyayı gerçekten kaldırmak istiyor musunuz?</Caption>
+		</lblOne>
+		<lblTwo>
+			<Caption>Bu dosyası bırakmak sisteminize bir zarar vermez. Ancak ne yapacağınızdan emin değilseniz, bu paylaştırılmış bileşeni kaldırmayabilirsiniz.</Caption>
+		</lblTwo>
+	</dlgRmvShared>
+	<dlgSelect>
+		<btnCancel>
+			<Caption>Vazgeç</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>Tamam</Caption>
+		</btnOk>
+		<Caption>Seç</Caption>
+	</dlgSelect>
+	<dlgSelectLibIcon>
+		<btnAdd>
+			<Caption>Ekle</Caption>
+		</btnAdd>
+		<btnCancel>
+			<Caption>Vazgeç</Caption>
+		</btnCancel>
+		<btnDelete>
+			<Caption>Sil</Caption>
+		</btnDelete>
+		<btnOk>
+			<Caption>Tamam</Caption>
+		</btnOk>
+		<Caption>Simge Seç</Caption>
+		<gbIcons>
+			<Caption>Simgeler</Caption>
+		</gbIcons>
+	</dlgSelectLibIcon>
+	<dlgTUAbout>
+		<btnOK>
+			<Caption>Tamam</Caption>
+		</btnOK>
+		<Caption>Hakkında</Caption>
+		<lblCopyright>
+			<Caption>Telif hakkı © 2001-2019, Gavrila Martau</Caption>
+		</lblCopyright>
+		<lblEmail>
+			<Caption>E-posta</Caption>
+		</lblEmail>
+		<lblHomePage>
+			<Caption>Web sayfası</Caption>
+		</lblHomePage>
+	</dlgTUAbout>
+	<dlgTUOptions>
+		<btnAddAnalysisProfile>
+			<Caption>Ekle...</Caption>
+		</btnAddAnalysisProfile>
+		<btnAddChgView>
+			<Caption>Ekle...</Caption>
+		</btnAddChgView>
+		<btnAddCompareProfile>
+			<Caption>Ekle...</Caption>
+		</btnAddCompareProfile>
+		<btnAddExclKey>
+			<Caption>Ekle...</Caption>
+		</btnAddExclKey>
+		<btnAddIgnFile>
+			<Caption>Ekle...</Caption>
+		</btnAddIgnFile>
+		<btnAddInclFlds>
+			<Caption>Ekle...</Caption>
+		</btnAddInclFlds>
+		<btnAddInclKeys>
+			<Caption>Ekle...</Caption>
+		</btnAddInclKeys>
+		<btnAddInstallLoc>
+			<Caption>Ekle...</Caption>
+		</btnAddInstallLoc>
+		<btnAddScanProfile>
+			<Caption>Ekle...</Caption>
+		</btnAddScanProfile>
+		<btnAddUninst>
+			<Caption>Ekle...</Caption>
+		</btnAddUninst>
+		<btnAddUninstInst>
+			<Caption>Ekle...</Caption>
+		</btnAddUninstInst>
+		<btnAddVer>
+			<Caption>Ekle...</Caption>
+		</btnAddVer>
+		<btnAgentAddExcMask>
+			<Caption>Ekle...</Caption>
+		</btnAgentAddExcMask>
+		<btnAgentAddIncMask>
+			<Caption>Ekle...</Caption>
+		</btnAgentAddIncMask>
+		<btnAgentRemExcMask>
+			<Caption>Kaldır</Caption>
+		</btnAgentRemExcMask>
+		<btnAgentRemIncMask>
+			<Caption>Kaldır</Caption>
+		</btnAgentRemIncMask>
+		<btnAnlSaveAs>
+			<Caption>Farklı Kaydet</Caption>
+		</btnAnlSaveAs>
+		<btnCancel>
+			<Caption>Vazgeç</Caption>
+		</btnCancel>
+		<btnChgViewSaveAs>
+			<Caption>Farklı Kaydet</Caption>
+		</btnChgViewSaveAs>
+		<btnCompPlaySound>
+			<Caption>Sına</Caption>
+		</btnCompPlaySound>
+		<btnCompSaveAs>
+			<Caption>Farklı Kaydet</Caption>
+		</btnCompSaveAs>
+		<btnOK>
+			<Caption>Tamam</Caption>
+		</btnOK>
+		<btnRemAnalysisProfile>
+			<Caption>Kaldır...</Caption>
+		</btnRemAnalysisProfile>
+		<btnRemChgView>
+			<Caption>Kaldır...</Caption>
+		</btnRemChgView>
+		<btnRemCompareProfile>
+			<Caption>Kaldır...</Caption>
+		</btnRemCompareProfile>
+		<btnRemExclFlds>
+			<Caption>Kaldır</Caption>
+		</btnRemExclFlds>
+		<btnRemExclKeys>
+			<Caption>Kaldır</Caption>
+		</btnRemExclKeys>
+		<btnRemIgnFile>
+			<Caption>Kaldır</Caption>
+		</btnRemIgnFile>
+		<btnRemInclFlds>
+			<Caption>Kaldır</Caption>
+		</btnRemInclFlds>
+		<btnRemInclKeys>
+			<Caption>Kaldır</Caption>
+		</btnRemInclKeys>
+		<btnRemoveInstallLoc>
+			<Caption>Kaldır</Caption>
+		</btnRemoveInstallLoc>
+		<btnRemScanProfile>
+			<Caption>Kaldır...</Caption>
+		</btnRemScanProfile>
+		<btnRemUninst>
+			<Caption>Kaldır...</Caption>
+		</btnRemUninst>
+		<btnRemUninstInst>
+			<Caption>Kaldır...</Caption>
+		</btnRemUninstInst>
+		<btnRemValues>
+			<Caption>Kaldır</Caption>
+		</btnRemValues>
+		<btnRemVer>
+			<Caption>Kaldır</Caption>
+		</btnRemVer>
+		<btnResetAll>
+			<Caption>Tümünü Sıfırla</Caption>
+		</btnResetAll>
+		<btnScanPlaySound>
+			<Caption>Sına</Caption>
+		</btnScanPlaySound>
+		<btnScanSaveAs>
+			<Caption>Farklı Kaydet</Caption>
+		</btnScanSaveAs>
+		<btnUninstSaveAs>
+			<Caption>Farklı Kaydet</Caption>
+		</btnUninstSaveAs>
+		<Caption>Seçenekler</Caption>
+		<cbAnlProfileDefault>
+			<Caption>Varsayılan</Caption>
+		</cbAnlProfileDefault>
+		<cbAutoStart>
+			<Caption>Windows başladığında otom. izleme süreci bitmeyenleri tamamla</Caption>
+		</cbAutoStart>
+		<cbChgViewDefault>
+			<Caption>Varsayılan</Caption>
+		</cbChgViewDefault>
+		<cbClickRestore>
+			<Caption>Geri yüklemek için tek tıkla</Caption>
+		</cbClickRestore>
+		<cbCompareRegistry>
+			<Caption>Kayıt Girdisini Karşılaştır</Caption>
+		</cbCompareRegistry>
+		<cbCompFiles>
+			<Caption>Dosyaları Karşılaştır</Caption>
+		</cbCompFiles>
+		<cbCompPlaySound>
+			<Caption>Tamamlandığında Ses Çal</Caption>
+		</cbCompPlaySound>
+		<cbCompProfileDefault>
+			<Caption>Varsayılan</Caption>
+		</cbCompProfileDefault>
+		<cbCompProfileFrozen>
+			<Caption>Kitle</Caption>
+		</cbCompProfileFrozen>
+		<cbComputeMD5>
+			<Caption>Yeni Dosyalar için MD5 Hesapla</Caption>
+		</cbComputeMD5>
+		<cbCreateKeys>
+			<Caption>Silinmiş anahtarları oluştur</Caption>
+		</cbCreateKeys>
+		<cbCreateValues>
+			<Caption>Silinmiş değerleri oluştur</Caption>
+		</cbCreateValues>
+		<cbCustomSnsName>
+			<Caption>Özel Anlık Görüntü Adına İzin Ver</Caption>
+		</cbCustomSnsName>
+		<cbDecrement>
+			<Caption>Paylaştırılmış dosya sayaçını azalt</Caption>
+		</cbDecrement>
+		<cbDelFiles>
+			<Caption>Oluşturulmuş dosyaları sil (sadece boş dosyalar)</Caption>
+		</cbDelFiles>
+		<cbDelFolders>
+			<Caption>Oluşturulmuş klasörleri sil</Caption>
+		</cbDelFolders>
+		<cbDelKeys>
+			<Caption>Oluşturulmuş anahtarları sil</Caption>
+		</cbDelKeys>
+		<cbDelUseRecycle>
+			<Caption>Geri Dönüşüm Kutusu&apos;nu Kullan</Caption>
+		</cbDelUseRecycle>
+		<cbDelValues>
+			<Caption>Oluşturulmuş değerleri sil</Caption>
+		</cbDelValues>
+		<cbDontUseLog>
+			<Caption>Saptanan günlük dosyası değişiklikleri kullanma</Caption>
+		</cbDontUseLog>
+		<cbEnableAgent>
+			<Caption>Kaldırma Ajanı&apos;nı etkinleştir</Caption>
+		</cbEnableAgent>
+		<cbIgnoreMissingItems>
+			<Caption>Yanlış girdileri yoksay</Caption>
+		</cbIgnoreMissingItems>
+		<cbInstPrgsEnable>
+			<Caption>Yüklü programlar modülünü etkinleştir</Caption>
+		</cbInstPrgsEnable>
+		<cbMinToTray>
+			<Caption>Görev Çubuğuna Küçült (saat sekmesine)</Caption>
+		</cbMinToTray>
+		<cbMonPrgsEnable>
+			<Caption>İzlenen programlar modülünü etkinleştir</Caption>
+		</cbMonPrgsEnable>
+		<cbRestoreValues>
+			<Caption>Değiştirilen değerleri geri yükle</Caption>
+		</cbRestoreValues>
+		<cbRstFileCreated>
+			<Caption>Dosya Oluşturulma Tarihini Geri Yükle</Caption>
+		</cbRstFileCreated>
+		<cbScanPlaySound>
+			<Caption>Bittiğinde Ses ile Uyar</Caption>
+		</cbScanPlaySound>
+		<cbScanProfileDefault>
+			<Caption>Varsayılan</Caption>
+		</cbScanProfileDefault>
+		<cbScanProfileFrozen>
+			<Caption>Kitle</Caption>
+		</cbScanProfileFrozen>
+		<cbShell>
+			<Caption>Total Uninstall programını sistem ile bütünleştir</Caption>
+		</cbShell>
+		<cbShowAfter>
+			<Caption>Sütundan Sonra</Caption>
+		</cbShowAfter>
+		<cbShowBefore>
+			<Caption>Sütundan Önce</Caption>
+		</cbShowBefore>
+		<cbShowBinAsText>
+			<Caption>İkili Veriyi Metin Olarak Göster</Caption>
+		</cbShowBinAsText>
+		<cbShowChanged>
+			<Caption>Değiştirilen Öğeler</Caption>
+		</cbShowChanged>
+		<cbShowCreated>
+			<Caption>Oluşturulan Öğeler</Caption>
+		</cbShowCreated>
+		<cbShowCurrent>
+			<Caption>Geçerli Sütun</Caption>
+		</cbShowCurrent>
+		<cbShowDataSize>
+			<Caption>Veri Boyutu</Caption>
+		</cbShowDataSize>
+		<cbShowDataType>
+			<Caption>Veri Türü</Caption>
+		</cbShowDataType>
+		<cbShowDateCreated>
+			<Caption>Oluşturulma Tarihi</Caption>
+		</cbShowDateCreated>
+		<cbShowDateModified>
+			<Caption>Değiştirilme Tarihi</Caption>
+		</cbShowDateModified>
+		<cbShowDeleted>
+			<Caption>Silinen Öğeler</Caption>
+		</cbShowDeleted>
+		<cbShowFileAttrib>
+			<Caption>Dosya Öznitelikleri</Caption>
+		</cbShowFileAttrib>
+		<cbShowFileSize>
+			<Caption>Dosya Boyutu</Caption>
+		</cbShowFileSize>
+		<cbShowFileVersion>
+			<Caption>Dosya Sürümü</Caption>
+		</cbShowFileVersion>
+		<cbShowMD5>
+			<Caption>Yeni Dosya MD5 Toplamı</Caption>
+		</cbShowMD5>
+		<cbSysRestore>
+			<Caption>Kaldırmadan önce Geri Yükleme Noktası oluştur</Caption>
+		</cbSysRestore>
+		<cbUninstDefault>
+			<Caption>Varsayılan</Caption>
+		</cbUninstDefault>
+		<cbUninstEnabled>
+			<Caption>Etkinleştir</Caption>
+		</cbUninstEnabled>
+		<cbUseUninstaller>
+			<Caption>İlk önce kaldırma dosyasını kullan</Caption>
+		</cbUseUninstaller>
+		<cmbUpdateFrequency>
+			<Items>Günlük\nHaftalık\nAylık\n</Items>
+		</cmbUpdateFrequency>
+		<cmbUpdateMethod>
+			<Items>El ile\nHatırlatma\nOtomatik\n</Items>
+		</cmbUpdateMethod>
+		<gbAgentMasks>
+			<Caption>Kur programı dosya adı için maskeler</Caption>
+		</gbAgentMasks>
+		<gbCompareIgnKeys>
+			<Caption>Anahatarları ve Değerleri Yoksay</Caption>
+		</gbCompareIgnKeys>
+		<gbCompIgnoreFld>
+			<Caption>Klasörleri ve Dosyaları Yoksay</Caption>
+		</gbCompIgnoreFld>
+		<gbFileExtensions>
+			<Caption>Sürüm Bilgisi ile Dosya Uzantıları</Caption>
+		</gbFileExtensions>
+		<gbInstallLoc>
+			<Caption>Yüklü konumlar</Caption>
+		</gbInstallLoc>
+		<gbInstallLocation>
+			<Caption>Yüklü konumu algıla</Caption>
+		</gbInstallLocation>
+		<gbLimits>
+			<Caption>Anlık görüntü klasör limitleri</Caption>
+		</gbLimits>
+		<gbPrgData>
+			<Caption>Program veri algılaması</Caption>
+		</gbPrgData>
+		<gbPrgSettings>
+			<Caption>Program ayarları algılama</Caption>
+		</gbPrgSettings>
+		<gbPrgShortcuts>
+			<Caption>Program kısayolları algılaması</Caption>
+		</gbPrgShortcuts>
+		<gbRegEditor>
+			<Caption>Kayıt Defteri Düzenleyicisi</Caption>
+		</gbRegEditor>
+		<gbScanExclFolders>
+			<Caption>Hariç Klasörler</Caption>
+		</gbScanExclFolders>
+		<gbScanExclKeys>
+			<Caption>Kapsanan Anahtarlar</Caption>
+		</gbScanExclKeys>
+		<gbScanInclFolders>
+			<Caption>Klasörleri Kapsa</Caption>
+		</gbScanInclFolders>
+		<gbScanInclKeys>
+			<Caption>Anahtarları Kapsa</Caption>
+		</gbScanInclKeys>
+		<gbShellIntegration>
+			<Caption>Bütünleştirme algılaması</Caption>
+		</gbShellIntegration>
+		<gbTranslation>
+			<Caption>Arayüz Dili ve Çeviren Bilgisi:</Caption>
+		</gbTranslation>
+		<grpExistingViewStyle>
+			<Caption>Sistemde Varolan Öğeler</Caption>
+		</grpExistingViewStyle>
+		<grpMissingViewStyle>
+			<Caption>Sistemdeki Eksik Öğeler</Caption>
+		</grpMissingViewStyle>
+		<lblAdvanced1>
+			<Caption>Gelişmiş</Caption>
+		</lblAdvanced1>
+		<lblAdvanced2>
+			<Caption>Gelişmiş</Caption>
+		</lblAdvanced2>
+		<lblAdvanced3>
+			<Caption>Gelişmiş</Caption>
+		</lblAdvanced3>
+		<lblAdvanced4>
+			<Caption>Gelişmiş</Caption>
+		</lblAdvanced4>
+		<lblAdvanced5>
+			<Caption>Gelişmiş</Caption>
+		</lblAdvanced5>
+		<lblAgentExcludeMask>
+			<Caption>Hariç Tut</Caption>
+		</lblAgentExcludeMask>
+		<lblAgentIncludeMask>
+			<Caption>Kapsa</Caption>
+		</lblAgentIncludeMask>
+		<lblAnalysisProfiles>
+			<Caption>İnceleme profilleri</Caption>
+		</lblAnalysisProfiles>
+		<lblAnlProfileDesc>
+			<Caption>Tanım</Caption>
+		</lblAnlProfileDesc>
+		<lblAnlProfileName>
+			<Caption>Adı</Caption>
+		</lblAnlProfileName>
+		<lblChageViewName>
+			<Caption>Adı</Caption>
+		</lblChageViewName>
+		<lblChangeViews>
+			<Caption>Görünümleri Değiştir</Caption>
+		</lblChangeViews>
+		<lblCheckUpdateMethod>
+			<Caption>Güncelleme Yöntemini Denetle</Caption>
+		</lblCheckUpdateMethod>
+		<lblCheckUpdatesFrequency>
+			<Caption>Sıklık</Caption>
+		</lblCheckUpdatesFrequency>
+		<lblCompareProfileDesc>
+			<Caption>Tanım</Caption>
+		</lblCompareProfileDesc>
+		<lblCompareProfileName>
+			<Caption>Adı</Caption>
+		</lblCompareProfileName>
+		<lblFolderSize>
+			<Caption>Dosya Boyutu (MB)</Caption>
+		</lblFolderSize>
+		<lblHexViewer>
+			<Caption>Hex Görüntüleyicisi</Caption>
+		</lblHexViewer>
+		<lblLanguage>
+			<Caption>Etkin Dil</Caption>
+		</lblLanguage>
+		<lblNone1>
+			<Caption>Yok</Caption>
+		</lblNone1>
+		<lblNone2>
+			<Caption>Yok</Caption>
+		</lblNone2>
+		<lblNone3>
+			<Caption>Yok</Caption>
+		</lblNone3>
+		<lblNone4>
+			<Caption>Yok</Caption>
+		</lblNone4>
+		<lblNone5>
+			<Caption>Yok</Caption>
+		</lblNone5>
+		<lblScanningProfiles>
+			<Caption>Taranan Profiller</Caption>
+		</lblScanningProfiles>
+		<lblScanProfileDesc>
+			<Caption>Tanım</Caption>
+		</lblScanProfileDesc>
+		<lblScanProfileName>
+			<Caption>Adı</Caption>
+		</lblScanProfileName>
+		<lblSnsCompareProfiles>
+			<Caption>Anlık Görüntü Karşılaştırma Profilleri</Caption>
+		</lblSnsCompareProfiles>
+		<lblTranslatedBy1>
+			<Caption>Çeviren: Ali Sarıoğlu</Caption>
+		</lblTranslatedBy1>
+		<lblTranslatedBy2>
+			<Caption/>
+		</lblTranslatedBy2>
+		<lblTranslatedBy3>
+			<Caption>E-posta: alsau@mynet.com</Caption>
+		</lblTranslatedBy3>
+		<lblTxtViewer>
+			<Caption>Metin Görünleyicisi</Caption>
+		</lblTxtViewer>
+		<lblUninstallProfiles>
+			<Caption>Kaldır Profilleri</Caption>
+		</lblUninstallProfiles>
+		<lblUninstallProfilesInst>
+			<Caption>Kaldır Profilleri</Caption>
+		</lblUninstallProfilesInst>
+		<lblUninstDesc>
+			<Caption>Tanım</Caption>
+		</lblUninstDesc>
+		<lblUninstName>
+			<Caption>Adı</Caption>
+		</lblUninstName>
+		<lblUninstRemoveLog>
+			<Caption>Kaldırılan programı listeden kaldır</Caption>
+		</lblUninstRemoveLog>
+		<rbDialog>
+			<Caption>Diyalog</Caption>
+		</rbDialog>
+		<rbOtherRegEdit>
+			<Caption>Diğer</Caption>
+		</rbOtherRegEdit>
+		<rbTrayBaloon>
+			<Caption>Görev Çubuğu İpucu Balonu</Caption>
+		</rbTrayBaloon>
+		<rbWinRegEdit>
+			<Caption>Windows Kayıt Defteri Düzenleyicisi</Caption>
+		</rbWinRegEdit>
+		<rgAgentNotif>
+			<Caption>Çalışan kur programı bildirisi</Caption>
+		</rgAgentNotif>
+		<tabAnlFileSystem>
+			<Caption>Dosya sistemi</Caption>
+		</tabAnlFileSystem>
+		<tabAnlGeneral>
+			<Caption>Genel</Caption>
+		</tabAnlGeneral>
+		<tabChageViewFileSystem>
+			<Caption>Dosya sistemi</Caption>
+		</tabChageViewFileSystem>
+		<tabChageViewGeneral>
+			<Caption>Genel</Caption>
+		</tabChageViewGeneral>
+		<tabChageViewRegistry>
+			<Caption>Kayıt Defteri</Caption>
+		</tabChageViewRegistry>
+		<tabChageViewView>
+			<Caption>Görünüm</Caption>
+		</tabChageViewView>
+		<tabCmpProfileFileSys>
+			<Caption>Dosya sistemi</Caption>
+		</tabCmpProfileFileSys>
+		<tabCompareProfileGen>
+			<Caption>Genel</Caption>
+		</tabCompareProfileGen>
+		<tabCompareProfileReg>
+			<Caption>Kayıt Defteri</Caption>
+		</tabCompareProfileReg>
+		<tabScanProfileFolders>
+			<Caption>Klasör</Caption>
+		</tabScanProfileFolders>
+		<tabScanProfileGeneral>
+			<Caption>Genel</Caption>
+		</tabScanProfileGeneral>
+		<tabScanProfileRegistry>
+			<Caption>Kayıt Defteri</Caption>
+		</tabScanProfileRegistry>
+		<tabUninstAdv>
+			<Caption>Gelişmiş</Caption>
+		</tabUninstAdv>
+		<tabUninstFS>
+			<Caption>Dosya sistemi</Caption>
+		</tabUninstFS>
+		<tabUninstGeneral>
+			<Caption>Genel</Caption>
+		</tabUninstGeneral>
+		<tabUninstRegistry>
+			<Caption>Kayıt Defteri</Caption>
+		</tabUninstRegistry>
+		<tblAnlRegistry>
+			<Caption>Kayıt Defteri</Caption>
+		</tblAnlRegistry>
+	</dlgTUOptions>
+	<dlgUninstall>
+		<btnCancel>
+			<Caption>Vazgeç</Caption>
+		</btnCancel>
+		<btnUninstall>
+			<Caption>Kaldır</Caption>
+		</btnUninstall>
+		<lblCreatingRestorePnt>
+			<Caption>Sistem Geri Yükleme Noktası Oluşturuluyor...</Caption>
+		</lblCreatingRestorePnt>
+		<lblProfile>
+			<Caption>Kaldırma profili seç</Caption>
+		</lblProfile>
+		<lblUninstalling>
+			<Caption>Kaldırılıyor...</Caption>
+		</lblUninstalling>
+		<lblWaitTitle>
+			<Caption>Sağlanan Ekle/Kaldır programı işlemi tamamlayana kadar bekleyin</Caption>
+		</lblWaitTitle>
+	</dlgUninstall>
+	<frmInstall>
+		<btnBrowseSetup>
+			<Caption>&amp;Gözat...</Caption>
+		</btnBrowseSetup>
+		<btnCancel>
+			<Caption>Vazgeç</Caption>
+		</btnCancel>
+		<btnCompleteLater>
+			<Caption>İ&amp;zleme sürecini daha sonra tamamla</Caption>
+		</btnCompleteLater>
+		<btnLaunchSetup>
+			<Caption>&amp;Kur programı çalıştır</Caption>
+		</btnLaunchSetup>
+		<btnNext>
+			<Caption>İleri</Caption>
+		</btnNext>
+		<btnProgramIsInstalled>
+			<Caption>&amp;Program yüklü</Caption>
+		</btnProgramIsInstalled>
+		<btnSuggest>
+			<Caption>Ö&amp;ner</Caption>
+		</btnSuggest>
+		<lblCreateLog>
+			<Caption>Kurulum günlüğü oluştur</Caption>
+		</lblCreateLog>
+		<lblCreateOrSelectSns>
+			<Caption>Kurulumdan önce sistem anlık görüntüsü oluşturun ya da önceki sistem anlık görüntüsünü kullanın.</Caption>
+		</lblCreateOrSelectSns>
+		<lblCreatePreInstallSns>
+			<Caption>Ön-kurulum sistem anlık görüntüsü oluştur</Caption>
+		</lblCreatePreInstallSns>
+		<lblCreatingLog>
+			<Caption>Kurulum günlüğü oluşturuluyor</Caption>
+		</lblCreatingLog>
+		<lblCreatingSystemSns>
+			<Caption>Sistem anlık görüntüsü oluşturuluyor</Caption>
+		</lblCreatingSystemSns>
+		<lblFinish>
+			<Caption>Kurulum günlüğü başarıyla oluşturuldu</Caption>
+		</lblFinish>
+		<lblInstallMonProgram>
+			<Caption>İzlenen program kur</Caption>
+		</lblInstallMonProgram>
+		<lblProfiles>
+			<Caption>&amp;Profil Tara</Caption>
+		</lblProfiles>
+		<lblProgramName>
+			<Caption>&amp;Program adı</Caption>
+		</lblProgramName>
+		<lblProgramSetupPath>
+			<Caption>&amp;Kur programı yolu</Caption>
+		</lblProgramSetupPath>
+		<lblSnsName>
+			<Caption>&amp;Anlık Görüntü Adı</Caption>
+		</lblSnsName>
+		<lblSpecifySnsName>
+			<Caption>&amp;Kurulum anlık görüntüsünü belirt</Caption>
+		</lblSpecifySnsName>
+		<rbNewSnapshot>
+			<Caption>&amp;Sitem anlık görüntüsü oluştur (önerilen)</Caption>
+		</rbNewSnapshot>
+		<rbUseLastSnapshot>
+			<Caption>&amp;Son anlık görüntüyü kullan</Caption>
+		</rbUseLastSnapshot>
+	</frmInstall>
+	<frmTUMain>
+		<btnClear>
+			<Caption>Temizle</Caption>
+		</btnClear>
+		<btnGroupAddChild>
+			<Caption>Alt Grup Oluştur...</Caption>
+		</btnGroupAddChild>
+		<btnGroupAddRoot>
+			<Caption>Kök Grup Oluştur...</Caption>
+		</btnGroupAddRoot>
+		<btnGroupEdit>
+			<Caption>Grubu Düzenle...</Caption>
+		</btnGroupEdit>
+		<btnGroupMoveToRoot>
+			<Caption>Köke Taşı</Caption>
+		</btnGroupMoveToRoot>
+		<btnGroupRemove>
+			<Caption>Grubu Taşı</Caption>
+		</btnGroupRemove>
+		<btnSearch>
+			<Caption>Ara</Caption>
+		</btnSearch>
+		<cbCaseSensitive>
+			<Caption>Büyük Küçük Harf Eşleştir</Caption>
+		</cbCaseSensitive>
+		<cbChanged>
+			<Caption>Değiştirilme</Caption>
+		</cbChanged>
+		<cbCreated>
+			<Caption>Oluşturulma</Caption>
+		</cbCreated>
+		<cbData>
+			<Caption>Veri</Caption>
+		</cbData>
+		<cbDeleted>
+			<Caption>Silinen</Caption>
+		</cbDeleted>
+		<cbFiles>
+			<Caption>Dosya</Caption>
+		</cbFiles>
+		<cbFolders>
+			<Caption>Klasör</Caption>
+		</cbFolders>
+		<cbKeys>
+			<Caption>Anahtar</Caption>
+		</cbKeys>
+		<cbSearchMask>
+			<Caption>Arama Maskesi</Caption>
+		</cbSearchMask>
+		<cbUnchanged>
+			<Caption>Değiştirilmemiş</Caption>
+		</cbUnchanged>
+		<cbValues>
+			<Caption>Değer</Caption>
+		</cbValues>
+		<Copy1>
+			<Caption>Kopyala</Caption>
+			<Hint>Seçili dosyaları Pano&apos;ya kopyala</Hint>
+		</Copy1>
+		<Copy2>
+			<Caption>Kopyala</Caption>
+			<Hint>Seçili dosyaları Pano&apos;ya kopyala</Hint>
+		</Copy2>
+		<gbChanges>
+			<Caption>Öğe</Caption>
+		</gbChanges>
+		<gbFileSystem>
+			<Caption>Dosya Sistemi</Caption>
+		</gbFileSystem>
+		<gbRegistry>
+			<Caption>Kayıt Defteri</Caption>
+		</gbRegistry>
+		<gbScope>
+			<Caption>Aranacak</Caption>
+		</gbScope>
+		<miAddtoCompareIgnoreList>
+			<Caption>Karşılaştırma Yoksay Listesine Ekle</Caption>
+			<Hint>Seçili öğeleri tüm karşılaştırma profillerinin yoksay listesine ekle</Hint>
+		</miAddtoCompareIgnoreList>
+		<miAddtoScanExcludeList>
+			<Caption>Hariç Tutma Listesine Ekle</Caption>
+			<Hint>Tüm seçili öğeleri tüm taranan profillerin hariç tut listesine ekle</Hint>
+		</miAddtoScanExcludeList>
+		<miAppSendTo>
+			<Caption>Gruba Gönder</Caption>
+		</miAppSendTo>
+		<miChanges>
+			<Caption>Değişiklikler</Caption>
+			<Hint>Algılanan değişiklikler|Geçerli program tarafından oluşturulan sistem değişikliklerini göster</Hint>
+		</miChanges>
+		<miCopyDetail>
+			<Caption>Kopyala</Caption>
+		</miCopyDetail>
+		<miDeleteCompletely>
+			<Caption>Tamamen Sil</Caption>
+			<Hint>Seçili öğeyi günlükten ve sistemden kaldırır</Hint>
+		</miDeleteCompletely>
+		<miDeletefromSystemOnly>
+			<Caption>Sadece Sistemden Sil</Caption>
+			<Hint>Seçili öğeyi sadece sistemden siler</Hint>
+		</miDeletefromSystemOnly>
+		<miEdit>
+			<Caption>Düzenle</Caption>
+		</miEdit>
+		<miEditUndo>
+			<Caption>Geri Al</Caption>
+			<Hint>Seçili değişiklikleri geri al</Hint>
+		</miEditUndo>
+		<miExpChanges>
+			<Caption>&amp;Değişiklikler...</Caption>
+			<Hint>Değişiklikler ağacını ver</Hint>
+		</miExpChanges>
+		<miExpInstalledApps>
+			<Caption>Yüklü programlar...</Caption>
+			<Hint>Yüklü uygulama listesini ver</Hint>
+		</miExpInstalledApps>
+		<miExpMonitoredApps>
+			<Caption>İzlenen programlar...</Caption>
+			<Hint>İzlenen uygulama listesini ver</Hint>
+		</miExpMonitoredApps>
+		<miExport>
+			<Caption>&amp;Ver</Caption>
+		</miExport>
+		<miExpRegistry>
+			<Caption>Kayıt Defteri Değişikleri...</Caption>
+			<Hint>Kurma veya kaldırma için kayıt defteri değişikliklerini ver</Hint>
+		</miExpRegistry>
+		<miExpUninstallLog>
+			<Caption>&amp;Kaldırma Günlüğü...</Caption>
+			<Hint>Kaldırma günlüğü ver</Hint>
+		</miExpUninstallLog>
+		<miFile>
+			<Caption>&amp;Dosya</Caption>
+		</miFile>
+		<miFileAddInstalledPrg>
+			<Caption>Listeye Program Ekle...</Caption>
+		</miFileAddInstalledPrg>
+		<miFileAnalyze>
+			<Caption>İncele</Caption>
+			<Hint>İncele|Geçerli program için sistem değişiklikleri izle</Hint>
+		</miFileAnalyze>
+		<miFileChange>
+			<Caption>Değiştir</Caption>
+			<Hint>Onar, değiştir veya kaldır</Hint>
+		</miFileChange>
+		<miFileChangeIcon>
+			<Caption>Simge değiştir...</Caption>
+		</miFileChangeIcon>
+		<miFileDelete>
+			<Caption>Sil</Caption>
+			<Hint>Geçerli kurulum günlüğünü sil</Hint>
+		</miFileDelete>
+		<miFileExit>
+			<Caption>Çı&amp;kış</Caption>
+			<Hint>Uygulamadan çık</Hint>
+		</miFileExit>
+		<miFileGroupAddChild>
+			<Caption>Alt Grup Oluştur...</Caption>
+		</miFileGroupAddChild>
+		<miFileGroupAddRoot>
+			<Caption>Kök Grup Oluştur...</Caption>
+		</miFileGroupAddRoot>
+		<miFileGroupEdit>
+			<Caption>Grubu Düzenle...</Caption>
+		</miFileGroupEdit>
+		<miFileGroupMoveToRoot>
+			<Caption>Köke Taşı</Caption>
+		</miFileGroupMoveToRoot>
+		<miFileGroupRemove>
+			<Caption>Grubu Taşı</Caption>
+		</miFileGroupRemove>
+		<miFileInstall>
+			<Caption>&amp;Yeni Kurulum...</Caption>
+			<Hint>Yeni bir program için kurulum izlemesi</Hint>
+		</miFileInstall>
+		<miFileInstallUpdate>
+			<Caption>Güncelle...</Caption>
+			<Hint>Kurulumu Güncelle|Geçerli program için güncelle</Hint>
+		</miFileInstallUpdate>
+		<miFileNotes>
+			<Caption>Notlar:</Caption>
+			<Hint>Geçerli kurulum günlüğüne not ekle</Hint>
+		</miFileNotes>
+		<miFileRemoveInstalledPrg>
+			<Caption>Programı Listeden Kaldır</Caption>
+		</miFileRemoveInstalledPrg>
+		<miFileRename>
+			<Caption>Ad Değiştir...</Caption>
+			<Hint>Geçerli günlük dosyası adını değiştir</Hint>
+		</miFileRename>
+		<miFileSave>
+			<Caption>&amp;Kaydet</Caption>
+			<Hint>Değişiklikleri geçerli günlük dosyasından kaydet</Hint>
+		</miFileSave>
+		<miFileSaveAs>
+			<Caption>Farklı Kaydet</Caption>
+		</miFileSaveAs>
+		<miFileSendTo>
+			<Caption>Gruba Gönder</Caption>
+		</miFileSendTo>
+		<miFileUninstall>
+			<Caption>&amp;Kaldır...</Caption>
+		</miFileUninstall>
+		<miHelp>
+			<Caption>&amp;Yardım</Caption>
+		</miHelp>
+		<miHelpAbout>
+			<Caption>&amp;Hakkında...</Caption>
+			<Hint>Program bilgisini, sürüm numarasını ve telif hakkını göster</Hint>
+		</miHelpAbout>
+		<miHelpCheckForUpdates>
+			<Caption>&amp;Yeni Sürüm Denetimi...</Caption>
+			<Hint>Program için yeni sürüm denetimi yapar</Hint>
+		</miHelpCheckForUpdates>
+		<miHelpContents>
+			<Caption>İçi&amp;ndekiler</Caption>
+			<Hint>Yardım konularını listele</Hint>
+		</miHelpContents>
+		<miHelpHomePage>
+			<Caption>Web Sitesi</Caption>
+		</miHelpHomePage>
+		<miHelpPurchase>
+			<Caption>Satın Al</Caption>
+		</miHelpPurchase>
+		<miHelpRegister>
+			<Caption>&amp;Kayıt...</Caption>
+			<Hint>Total Uninstall Kayıt</Hint>
+		</miHelpRegister>
+		<miHexView>
+			<Caption>Hex Görünümü</Caption>
+			<Hint>Dosyayı onaltılık düzenleyicisi ile aç</Hint>
+		</miHexView>
+		<miImport>
+			<Caption>Al</Caption>
+		</miImport>
+		<miInstalledPrograms>
+			<Caption>Yüklü Programlar</Caption>
+			<Hint>Yüklü programlar|Yüklü programları göster</Hint>
+		</miInstalledPrograms>
+		<miList>
+			<Caption>Listele</Caption>
+		</miList>
+		<miListLargeIcons>
+			<Caption>Büyük simgeler</Caption>
+		</miListLargeIcons>
+		<miListSmallIcons>
+			<Caption>Küçük simgeler</Caption>
+		</miListSmallIcons>
+		<miModules>
+			<Caption>&amp;Modüller</Caption>
+		</miModules>
+		<miMonAppsGroupAddChild>
+			<Caption>Alt Grup Oluştur...</Caption>
+		</miMonAppsGroupAddChild>
+		<miMonAppsGroupAddRoot>
+			<Caption>Kök Grup Oluştur...</Caption>
+		</miMonAppsGroupAddRoot>
+		<miMonAppsGroupEdit>
+			<Caption>Grubu Düzenle...</Caption>
+		</miMonAppsGroupEdit>
+		<miMonAppsGroupMoveToRoot>
+			<Caption>Köke Taşı</Caption>
+		</miMonAppsGroupMoveToRoot>
+		<miMonAppsGroupRemove>
+			<Caption>Grubu Taşı</Caption>
+		</miMonAppsGroupRemove>
+		<miMonitoredPrograms>
+			<Caption>İzlenen programlar</Caption>
+			<Hint>İzlenen programlar|İzlenen programları göster</Hint>
+		</miMonitoredPrograms>
+		<miOpen>
+			<Caption>Aç</Caption>
+			<Hint>Dosya, klasör aç, veya Kayıt Defteri anahtarına atla</Hint>
+		</miOpen>
+		<miPendingFileRenameOp>
+			<Caption>Bekleyen Dosya Yeniden Adlandırma İşlemleri...</Caption>
+			<Hint>Bekleyen dosya yeniden adlandırma işlemlerini göster ve uygula</Hint>
+		</miPendingFileRenameOp>
+		<miPrgAddInstalledPrg>
+			<Caption>Programı listeye ekle...</Caption>
+		</miPrgAddInstalledPrg>
+		<miPrgAnalyze>
+			<Caption>İ&amp;ncele</Caption>
+			<Hint>İncele|Geçerli program için sistem değişiklikleri izle</Hint>
+		</miPrgAnalyze>
+		<miPrgChangeIcon>
+			<Caption>Simge değiştir...</Caption>
+		</miPrgChangeIcon>
+		<miPrgDelete>
+			<Caption>Sil</Caption>
+			<Hint>Geçerli kurulum günlüğünü sil</Hint>
+		</miPrgDelete>
+		<miPrgNotes>
+			<Caption>Notlar:</Caption>
+			<Hint>Geçerli kurulum günlüğüne not ekle</Hint>
+		</miPrgNotes>
+		<miPrgRemoveInstalledPrg>
+			<Caption>Programı listeden kaldır</Caption>
+		</miPrgRemoveInstalledPrg>
+		<miPrgRename>
+			<Caption>Ad değiştir...</Caption>
+			<Hint>Geçerli günlük dosyası adını değiştir</Hint>
+		</miPrgRename>
+		<miProperties>
+			<Caption>Tercihler</Caption>
+			<Hint>Seçili dosya veya klasörün özelliklerini göster</Hint>
+		</miProperties>
+		<miRemovefromLog>
+			<Caption>Günlükten Kaldır</Caption>
+			<Hint>Seçili öğeleri günlükten kaldır</Hint>
+		</miRemovefromLog>
+		<miSummary>
+			<Caption>Özet</Caption>
+			<Hint>Özet|Geçerli program hakkındaki bilgileri göster</Hint>
+		</miSummary>
+		<miTextView>
+			<Caption>Metin Görünümü</Caption>
+			<Hint>Dosyayı metin düzenleyicisi ile aç</Hint>
+		</miTextView>
+		<miToolbarLarge>
+			<Caption>Geniş</Caption>
+		</miToolbarLarge>
+		<miToolbarMedium>
+			<Caption>Normal</Caption>
+		</miToolbarMedium>
+		<miToolbarSmall>
+			<Caption>Küçük</Caption>
+		</miToolbarSmall>
+		<miTools>
+			<Caption>&amp;Araçlar</Caption>
+		</miTools>
+		<miToolsCompareSnapshots>
+			<Caption>Anlık Görüntüleri Karşılaştır...</Caption>
+		</miToolsCompareSnapshots>
+		<miToolsFind>
+			<Caption>&amp;Ara</Caption>
+			<Hint>Ara|Algılalan değişikliklerde metin ara</Hint>
+		</miToolsFind>
+		<miToolsMergeLogs>
+			<Caption>Günlük Birleştir...</Caption>
+		</miToolsMergeLogs>
+		<miToolsOptions>
+			<Caption>&amp;Seçenekler...</Caption>
+			<Hint>Yazılım seçeneklerini yapılandır</Hint>
+		</miToolsOptions>
+		<miToolsSystemRestore>
+			<Caption>Sistem Geri Yükleme</Caption>
+		</miToolsSystemRestore>
+		<miULogSuccessful>
+			<Caption>Başarılı eylemler</Caption>
+			<Hint>Kaldır günlüğündeki başarılı eylemleri göster veya gizle</Hint>
+		</miULogSuccessful>
+		<miULogWarnings>
+			<Caption>Uyarılar</Caption>
+			<Hint>Kaldırma günlüğündeki uyarıları göster veya gizle</Hint>
+		</miULogWarnings>
+		<miUninstallLog>
+			<Caption>Kaldırma Günlüğü</Caption>
+			<Hint>Kaldırma günlüğü|Program kaldırma günlüğünü göster</Hint>
+		</miUninstallLog>
+		<miUninstallLogDet>
+			<Caption>&amp;Günlük Ayrıntılarını Kaldır</Caption>
+		</miUninstallLogDet>
+		<miView>
+			<Caption>&amp;Görünüm</Caption>
+		</miView>
+		<miViewDetails>
+			<Caption>Ayrıntılar</Caption>
+			<Hint>Program ayrıntılar|Program ayrıntılarını göster veya gizle</Hint>
+		</miViewDetails>
+		<miViewItemCurrentView>
+			<Caption>Geçerli &amp;Görünüm</Caption>
+		</miViewItemCurrentView>
+		<miViewItemDetails>
+			<Caption>Öğe &amp;Ayrıntıları</Caption>
+			<Hint>Seçili düğümün değişiklikler ağacındaki ayrıntılarını göster veya gizle</Hint>
+		</miViewItemDetails>
+		<miViewNavigator>
+			<Caption>Programlar</Caption>
+			<Hint>Program listesi|Program listesini göster veya gizle</Hint>
+		</miViewNavigator>
+		<miViewRefresh>
+			<Caption>Yenile</Caption>
+		</miViewRefresh>
+		<miViewStatusBar>
+			<Caption>&amp;Durum Çubuğu</Caption>
+			<Hint>Durum çubuğunu göster veya gizle</Hint>
+		</miViewStatusBar>
+		<miViewToolbars>
+			<Caption>Araç Çubukları</Caption>
+		</miViewToolbars>
+		<miViewToolbarsBtnCaption>
+			<Caption>Düğme Başlığı</Caption>
+			<Hint>Araç çubuğu başlıklarını göster veya gizle</Hint>
+		</miViewToolbarsBtnCaption>
+		<miViewToolbarsBtnSize>
+			<Caption>Düğme Boyutu</Caption>
+		</miViewToolbarsBtnSize>
+		<miViewToolbarsTbrCaption>
+			<Caption>Araç çubuğu Başlığı</Caption>
+		</miViewToolbarsTbrCaption>
+		<miViewToolbarsVisible>
+			<Caption>Göster</Caption>
+			<Hint>Araç çubuğunu göster veya gizle</Hint>
+		</miViewToolbarsVisible>
+		<pmiChgTreeCompareExcl>
+			<Caption>Karşılaştırma Yoksay Listesine Ekle</Caption>
+			<Hint>Seçili öğeleri tüm karşılaştırma profillerinin yoksayılanlar listesine ekle</Hint>
+		</pmiChgTreeCompareExcl>
+		<pmiChgTreeDelete>
+			<Caption>Tamamen Sil</Caption>
+			<Hint>Seçili öğeyi günlükten ve bilgisayardan kaldır</Hint>
+		</pmiChgTreeDelete>
+		<pmiChgTreeDelSys>
+			<Caption>Sadece Bilgisayardan Kaldır</Caption>
+			<Hint>Seçili öğeyi sadece bilgisayardan kaldır</Hint>
+		</pmiChgTreeDelSys>
+		<pmiChgTreeHexView>
+			<Caption>Onaltılık Görünüm</Caption>
+			<Hint>Dosyayı onaltılık düzenleyicisi ile aç</Hint>
+		</pmiChgTreeHexView>
+		<pmiChgTreeOpen>
+			<Caption>Aç</Caption>
+			<Hint>Dosya, klasör aç veya Kayıt Defteri&apos;ndeki anahtara atla</Hint>
+		</pmiChgTreeOpen>
+		<pmiChgTreeProperties>
+			<Caption>Özellikler</Caption>
+			<Hint>Seçili dosya veya klasörün özelliklerini göster</Hint>
+		</pmiChgTreeProperties>
+		<pmiChgTreeRemove>
+			<Caption>Günlükten Kaldır</Caption>
+			<Hint>Seçili öğeleri günlükten kaldır</Hint>
+		</pmiChgTreeRemove>
+		<pmiChgTreeScanExcl>
+			<Caption>Hariç Tutulanlar Listesine Ekle</Caption>
+			<Hint>Seçili öğeleri tüm taranan profillerin hariç tutulanlar listesine ekle</Hint>
+		</pmiChgTreeScanExcl>
+		<pmiChgTreeTextView>
+			<Caption>Metin Görünümü</Caption>
+			<Hint>Dosyayı metin düzenleyicisi ile aç</Hint>
+		</pmiChgTreeTextView>
+		<pmiChgTreeUndo>
+			<Caption>Geri Al</Caption>
+			<Hint>Seçili değişiklikleri geri al</Hint>
+		</pmiChgTreeUndo>
+		<pmiCopySummary>
+			<Caption>Kopyala</Caption>
+		</pmiCopySummary>
+		<pmiInstAppsHeaderAutoResize>
+			<Caption>Otomatik Yeniden Boyutlandır</Caption>
+		</pmiInstAppsHeaderAutoResize>
+		<pmiLocate>
+			<Caption>Konum</Caption>
+		</pmiLocate>
+		<pmiMonAppsHeaderAutoResize>
+			<Caption>Otomatik Yeniden Boyutlandır</Caption>
+		</pmiMonAppsHeaderAutoResize>
+		<pmiShowSuccessful>
+			<Caption>Başarılı eylemler</Caption>
+			<Hint>Kaldırma günlüğündeki başarılı eylemleri göster veya gizle</Hint>
+		</pmiShowSuccessful>
+		<pmiShowWarnings>
+			<Caption>Uyarılar</Caption>
+			<Hint>Kaldırma günlüğündeki uyarıları göster veya gizle</Hint>
+		</pmiShowWarnings>
+		<pmiTrayRestore>
+			<Caption>Geri Yükle</Caption>
+		</pmiTrayRestore>
+		<rbAll>
+			<Caption>Tüm programlar</Caption>
+		</rbAll>
+		<rbSelection>
+			<Caption>Seçim</Caption>
+		</rbSelection>
+		<sbAppClose>
+			<Hint>Kapat|Kapat</Hint>
+		</sbAppClose>
+		<sbDetailsClose>
+			<Hint>Kapat|Kapat</Hint>
+		</sbDetailsClose>
+		<sbSearchClose>
+			<Hint>Kapat|Kapat</Hint>
+		</sbSearchClose>
+		<tabOptions>
+			<Caption>Seçenekler</Caption>
+		</tabOptions>
+		<tabResults>
+			<Caption>Sonuçlar</Caption>
+		</tabResults>
+		<tbrActions>
+			<Caption>Eylemler</Caption>
+		</tbrActions>
+		<tbrDetails>
+			<Caption>Ayrıntılar</Caption>
+		</tbrDetails>
+		<tbrLayout>
+			<Caption>Görünüm</Caption>
+		</tbrLayout>
+		<tbrModules>
+			<Caption>Modüller</Caption>
+		</tbrModules>
+		<tbrView>
+			<Caption>Görünüm</Caption>
+		</tbrView>
+		<tbtnAnalyze>
+			<Caption>İncele</Caption>
+			<Hint>İncele|Geçerli program için sistem değişiklikleri izle</Hint>
+		</tbtnAnalyze>
+		<tbtnChanges>
+			<Caption>Değişiklikler</Caption>
+			<Hint>Algılanan değişiklikler|Geçerli program tarafından oluşturulan sistem değişikliklerini göster</Hint>
+		</tbtnChanges>
+		<tbtnChgView>
+			<Caption>Görünüm</Caption>
+			<Hint>Görünüm|Belirtilen görünümü uygula</Hint>
+		</tbtnChgView>
+		<tbtnCollapse>
+			<Caption>Daralt</Caption>
+			<Hint>Daralt|Etkin ağacı tamamen daralt</Hint>
+		</tbtnCollapse>
+		<tbtnDetails>
+			<Caption>Ayrıntılar</Caption>
+			<Hint>Program ayrıntılar|Program ayrıntılarını göster veya gizle</Hint>
+		</tbtnDetails>
+		<tbtnExpand>
+			<Caption>Genişlet</Caption>
+			<Hint>Genişlet|Etkin ağacı tamamen genişlet</Hint>
+		</tbtnExpand>
+		<tbtnInstallModify>
+			<Caption>Değiştir</Caption>
+			<Hint>Onar, değiştir veya kaldır</Hint>
+		</tbtnInstallModify>
+		<tbtnInstallNew>
+			<Caption>Kur</Caption>
+			<Hint>Yeni Kurulum|Yeni bir uygulamanın kurulumunu izle</Hint>
+		</tbtnInstallNew>
+		<tbtnInstallUpdate>
+			<Caption>Güncelle</Caption>
+			<Hint>Kur Güncelle|Monitor the installation of the update for current program</Hint>
+		</tbtnInstallUpdate>
+		<tbtnInstPrograms>
+			<Caption>Yüklü programlar</Caption>
+			<Hint>Yüklü programlar|Yüklü programları göster</Hint>
+		</tbtnInstPrograms>
+		<tbtnMonPrograms>
+			<Caption>İzlenen programlar</Caption>
+			<Hint>İzlenen programlar|İzlenen programları göster</Hint>
+		</tbtnMonPrograms>
+		<tbtnPrograms>
+			<Caption>Programlar</Caption>
+			<Hint>Program listesi|Program listesini göster veya gizle</Hint>
+		</tbtnPrograms>
+		<tbtnSave>
+			<Caption>Kaydet</Caption>
+			<Hint>Değişiklikleri geçerli günlük dosyasından kaydet</Hint>
+		</tbtnSave>
+		<tbtnSearch>
+			<Caption>Ara</Caption>
+			<Hint>Ara|Algılalan değişikliklerde metin ara</Hint>
+		</tbtnSearch>
+		<tbtnSummary>
+			<Caption>Özet</Caption>
+			<Hint>Özet|Geçerli program hakkındaki bilgileri göster</Hint>
+		</tbtnSummary>
+		<tbtnUninstall>
+			<Caption>Kaldır</Caption>
+		</tbtnUninstall>
+		<tbtnUninstallLog>
+			<Caption>Kaldırma günlüğü</Caption>
+			<Hint>Kaldırma günlüğü|Program kaldırma günlüğünü göster</Hint>
+		</tbtnUninstallLog>
+		<tpnlSearch>
+			<Caption>Ara</Caption>
+		</tpnlSearch>
+		<tvChanges>
+			<Columns_0>Algılanan Değişiklikler</Columns_0>
+			<Columns_1>Önce</Columns_1>
+			<Columns_2>Sonra</Columns_2>
+			<Columns_3>Geçerli</Columns_3>
+		</tvChanges>
+		<tvResults>
+			<Columns_0>Adı</Columns_0>
+			<Columns_1>Konum</Columns_1>
+			<Columns_2>Program</Columns_2>
+		</tvResults>
+	</frmTUMain>
+	<RESOURCESTRING>
+		<ACT_CRE_KEY>Kayıt defteri anahtarı oluştur: %s</ACT_CRE_KEY>
+		<ACT_CRE_VAL>Kayıt defteri değeri oluştur: %s</ACT_CRE_VAL>
+		<ACT_DEC_CNT>Paylaşımlı dosya sayaçı kayıt defterinden azalt: %s</ACT_DEC_CNT>
+		<ACT_DEL_FILE>Dosya sil: %s</ACT_DEL_FILE>
+		<ACT_DEL_FOLDER>Klasör sil: %s</ACT_DEL_FOLDER>
+		<ACT_DEL_KEY>Kayıt defteri anahtarı sil: %s</ACT_DEL_KEY>
+		<ACT_DEL_VAL>Kayıt defteri değeri sil: %s</ACT_DEL_VAL>
+		<ACT_RST_FILE>Dosya özelliklerini geri yükle: %s</ACT_RST_FILE>
+		<ACT_RST_VAL>Kayıt defteri değeri geri yükle: %s</ACT_RST_VAL>
+		<ACT_STOP_SERVICE>Hizmet veya Aygıt Durdur: %s</ACT_STOP_SERVICE>
+		<ADD>Ekle</ADD>
+		<ADVANCED>Gelişmiş</ADVANCED>
+		<AGENT>Ajan</AGENT>
+		<ALL_BRA>(Tümü)</ALL_BRA>
+		<ALL_DETAILS>Tüm ayrıntılar</ALL_DETAILS>
+		<ALWAYS>Her Zaman</ALWAYS>
+		<ANALYSIS_PROFILES>İnceleme Profilleri</ANALYSIS_PROFILES>
+		<ANALYZING>İnceleniyor...</ANALYZING>
+		<ASK>Sor</ASK>
+		<ASK_COMPLETE_LATER>İzleme işlemleri daha sonra tamamlansın mı?</ASK_COMPLETE_LATER>
+		<ASK_IF_NO_ERROR>Hata yoksa sor</ASK_IF_NO_ERROR>
+		<ASK_SAVE_CHG>&quot;%s&quot; yapılan değişikleri kaydetmek istiyor musunuz ?</ASK_SAVE_CHG>
+		<ASK_USER>Sor</ASK_USER>
+		<BEGIN_UNINSTALL>Kaldırma işlemini başlatmak için Kaldır&apos;ı tıklatın.</BEGIN_UNINSTALL>
+		<BEGIN_UNINSTALL_LAUNCH>Kaldırma işlemini başlatmak için Başlat&apos;ı tıklatın.</BEGIN_UNINSTALL_LAUNCH>
+		<BROWSE_FOR_VALUE>Değer için Gözat</BROWSE_FOR_VALUE>
+		<CANCEL>&amp;Vazgeç</CANCEL>
+		<CANNOT_BROWSE>Varsayılan tarayıcı başlatılmaya çalışılırken hata oluştu.\nBağlantı Pano&apos;ya kopyalandı.</CANNOT_BROWSE>
+		<CANT_EXECUTE>&quot;%s&quot; programı başlatılamadı.</CANT_EXECUTE>
+		<CANT_OPEN_KEY>Anahtar açılamadı</CANT_OPEN_KEY>
+		<CHANGED_ITEMS>Değiştirilen öğeler</CHANGED_ITEMS>
+		<CHANGES>&quot;%s&quot; değişiklik</CHANGES>
+		<CHECK_UPD_NEW>Yeni güncellemeler veya haber var.</CHECK_UPD_NEW>
+		<CHECK_UPD_REMINDER>Güncelleme hatırlatıcısını denetle</CHECK_UPD_REMINDER>
+		<CHG_VIEWS>Görünümleri Değiştir</CHG_VIEWS>
+		<CLEAN_UP>Temizle</CLEAN_UP>
+		<CLEAN_UP_DESC>Kaldırılan izlenmiş programın izlerini kaldır</CLEAN_UP_DESC>
+		<CLOSE>Kapat</CLOSE>
+		<CLOSE_PROCESSES>Çalışan işlemler kapatılıyor</CLOSE_PROCESSES>
+		<CMP_PROFILE>Profil Adını Karşılaştır</CMP_PROFILE>
+		<CNT_DEL_MON>Kayıt defteri paylaşımlı dosya sayaçı izleme sırasında silindi</CNT_DEL_MON>
+		<COMMENTS>Açıklamalar</COMMENTS>
+		<COMP_PROFILES>Karşılaştırma Profilleri</COMP_PROFILES>
+		<COMPARE>Karşılaştır</COMPARE>
+		<COMPARING_SNS>Sistem anlık görüntüleri karşılaştırılıyor...</COMPARING_SNS>
+		<COMPUTER>Bilgisayar</COMPUTER>
+		<CONTACT>İletişim</CONTACT>
+		<CONTINUE>Devam etmek istiyor musunuz?</CONTINUE>
+		<CORRUPT_CNT>Kayıt defteri paylaşımlı dosya sayaçı geçersiz değişiklik algıladı: eksik değer veya geçersiz girdi.</CORRUPT_CNT>
+		<CREATE_REG_KEYS>Kayıt defeteri anahtarı oluştur</CREATE_REG_KEYS>
+		<CREATE_REG_VALS>Kayıt defteri değeri oluştur</CREATE_REG_VALS>
+		<CREATED_ITEMS>Oluşturulan öğeler</CREATED_ITEMS>
+		<CREATED_X>Oluşturulan: %s</CREATED_X>
+		<DEC_CNT>Kayıt defteri paylaşımlı dosya sayacını azalt</DEC_CNT>
+		<DEFAULT>Varsayılan</DEFAULT>
+		<DEFAULT_PAR>(Varsayılan)</DEFAULT_PAR>
+		<DEL_AT_STARTUP>Sıradaki, bir sonraki başlatılmada silinebilir</DEL_AT_STARTUP>
+		<DEL_CNT>Kayıt defteri paylaşımlı dosya sayacını sil</DEL_CNT>
+		<DEL_FILES>Dosyaları sil</DEL_FILES>
+		<DEL_FOLDERS>Klasörleri sil</DEL_FOLDERS>
+		<DEL_REG_KEYS>Kayıt defteri anahtarlarını sil</DEL_REG_KEYS>
+		<DEL_REG_VALS>Kayıt defteri değerlerini sil</DEL_REG_VALS>
+		<DEL_SH_FILE>Paylaşımlı dosyayı Geri Dönüşüm Kutusu&apos;na gönder</DEL_SH_FILE>
+		<DELETED_ITEMS>Silinen öğe</DELETED_ITEMS>
+		<DETECTED_CHG>Algılanan Değişiklikler</DETECTED_CHG>
+		<DONT_DEL_SH_FILE>Paylaşımlı dosyayı korumak için kullanıcı seçimi...</DONT_DEL_SH_FILE>
+		<ELAPSED>Geçen süre: %d:%2.2d</ELAPSED>
+		<ENTER_IDENTIFIER>Yüklü programın adını girin.</ENTER_IDENTIFIER>
+		<ERR>Hata</ERR>
+		<ERR_BRA>(HATA)</ERR_BRA>
+		<ERR_DEL_FLD_FILES>Bir veya daha fazla klasör veya dosya silinemedi.</ERR_DEL_FLD_FILES>
+		<ERR_DEL_REG_KEYS_VALS>Bir veya daha fazla anahtar veya değer silinemedi.</ERR_DEL_REG_KEYS_VALS>
+		<ERR_UNDO_REG_KEYS_VALS>Bir veya daha fazla anahtar veya değer geri alınamadı.</ERR_UNDO_REG_KEYS_VALS>
+		<ERR_WRN_OK_STAT>Hata: %d  Uyarı: %d  Başarılı eylem: %d</ERR_WRN_OK_STAT>
+		<EXIT>Çıkış</EXIT>
+		<EXPERT>Ver</EXPERT>
+		<EXPORT_ERROR>Aktarma hatası !</EXPORT_ERROR>
+		<EXTENSION>Uzantı</EXTENSION>
+		<FILE>(DOSYA)</FILE>
+		<FILE_MASK>Dosya maskesi</FILE_MASK>
+		<FILE_SYSTEM>Dosya sistemi</FILE_SYSTEM>
+		<FILES_CHG_STAT>Değiştirilen dosya            :%6.1d</FILES_CHG_STAT>
+		<FILES_CREATED_STAT>Oluşturulan dosya           :%6.1d</FILES_CREATED_STAT>
+		<FILES_DEL_STAT>Silinen dosya                   :%6.1d</FILES_DEL_STAT>
+		<FINISH>Son</FINISH>
+		<FLDS_CREATED_STAT>Oluşturulan klasör            :%6.1d</FLDS_CREATED_STAT>
+		<FLDS_DEL_STAT>Silinen klasör                    :%6.1d</FLDS_DEL_STAT>
+		<FOLDER>(KLASÖR)</FOLDER>
+		<FOLDER_MASK>Klasör maskesi</FOLDER_MASK>
+		<FS_DET_VIEW_PRF>Dosya sistemi ayrıntıları [Görünüm: %s]</FS_DET_VIEW_PRF>
+		<GENERAL>Genel</GENERAL>
+		<GENERATED_BY_TU>Total Uninstall ile oluşturuldu</GENERATED_BY_TU>
+		<HIDDEN_NODE>Düğüm gizli.</HIDDEN_NODE>
+		<HIDDEN_NODE_IN_VIEW>Geçerli görünümdeki düğüm gizli.</HIDDEN_NODE_IN_VIEW>
+		<HIDE_OPTIONS>Seçenekleri &amp;Gizle</HIDE_OPTIONS>
+		<IF_NO_ERROR>Hata yoksa</IF_NO_ERROR>
+		<INCLUDE_FOLDER_IN_LOG>Günlükteki Klasörü Kapsa</INCLUDE_FOLDER_IN_LOG>
+		<INF_VOLATILE_KEY>İstikrarsız anahtar oluşturulamadı</INF_VOLATILE_KEY>
+		<INF_VOLATILE_VAL>İstikrarsız değer oluşturulamadı</INF_VOLATILE_VAL>
+		<INST_ON>Kurulum Tarihi</INST_ON>
+		<INST_PRG>Yüklü Program Adı</INST_PRG>
+		<INST_PRGS>Yüklü Programlar</INST_PRGS>
+		<INST_SERV_AND_DEV>Yüklü Hizmetler ve Aygıtlar</INST_SERV_AND_DEV>
+		<INSTALL>Kur</INSTALL>
+		<INSTALLER_ERR>Kaldır hata algıladı: Paylaşımlı dosya sayaçı varolan bir dosya için oluşturdu</INSTALLER_ERR>
+		<INTERFACE>Arayüz</INTERFACE>
+		<INVALID_AFTER_CNT>Geçersiz SONRAKİ sayaçı</INVALID_AFTER_CNT>
+		<INVALID_BEFORE_CNT>Geçersiz ÖNCEKİ sayaçı</INVALID_BEFORE_CNT>
+		<INVALID_CURRENT_CNT>Kayıt defterinde geçersiz GEÇERLİ sayaçı bulundu</INVALID_CURRENT_CNT>
+		<KEYS_CREATED_STAT>Oluşturulan anahtar        :%6.1d</KEYS_CREATED_STAT>
+		<KEYS_DEL_STAT>Silinen anahtar                :%6.1d</KEYS_DEL_STAT>
+		<LAST_CHECK>Son Denetim: %s</LAST_CHECK>
+		<LAUNCH>Başlat</LAUNCH>
+		<LAUNCH_SUPPLIED_UNINST>Kendi Ekle/Kaldır programı var ve çalıştırılabilir.</LAUNCH_SUPPLIED_UNINST>
+		<LAUNCH_TU>Total Uninstall programını çalıştır</LAUNCH_TU>
+		<LIC_FAMILY>Lisans Ailesi</LIC_FAMILY>
+		<LIC_MULTIPLE>Çoklu Bilgisayar Lisansı</LIC_MULTIPLE>
+		<LIC_SINGLE_COMPUTER>Tek Bilgisayar Lisansı</LIC_SINGLE_COMPUTER>
+		<LIC_SMALL_OFFICE>Küçük Şirket Lisansı</LIC_SMALL_OFFICE>
+		<LIC_TEMPORARY>Geçici Lisans</LIC_TEMPORARY>
+		<LICENSED_TO>Lisanslı kullanıcı: &quot;%s&quot;</LICENSED_TO>
+		<LNK_EXE_FILTER>Kısayollar ve yürütülebir dosyalar (*.lnk, *.exe)|*.lnk;*.exe</LNK_EXE_FILTER>
+		<LOADING_INST_PRGS>Yüklü programlar listeleniyor...</LOADING_INST_PRGS>
+		<LOADING_MON_PRGS>İzlenen programlar listeleniyor...</LOADING_MON_PRGS>
+		<LOCATE_PRG_LNK_EXE>Program kısayolu veya yürütülebilir program seç</LOCATE_PRG_LNK_EXE>
+		<LOG_FILE_NAME>Günlük Dosyası Adı</LOG_FILE_NAME>
+		<MISSING_ITEMS>Eksik öğeler</MISSING_ITEMS>
+		<MON_ON>İzlemede</MON_ON>
+		<MON_PRG>İzlenen program</MON_PRG>
+		<MON_PRG_PATH>İzlenen program yolu</MON_PRG_PATH>
+		<MON_PRG_RUNNING>\n</MON_PRG_RUNNING>
+		<MONITOR_WITH_TU>Total Uninstall ile İzle</MONITOR_WITH_TU>
+		<MONITORED_PRGS>Şu anda izlenen programlar: %d</MONITORED_PRGS>
+		<NAME>Adı</NAME>
+		<NEVER>Hiçbir zaman</NEVER>
+		<NEW_NAME>Yeni ad</NEW_NAME>
+		<NO_GROUPS>Grup Yok</NO_GROUPS>
+		<NO_RIGHTS>Yetersiz haklar</NO_RIGHTS>
+		<NORMAL>Normal</NORMAL>
+		<NOT_A_VALID_UNINST>Bir geçerli veya kayıtlı kaldırıcı bulunamadı.</NOT_A_VALID_UNINST>
+		<NOT_AVAILABLE>Bilinmeyen</NOT_AVAILABLE>
+		<NOT_DELETED_FILES>Silinmiş klasör veya dosya yok</NOT_DELETED_FILES>
+		<NOT_DELETED_FILES_DET>Kaldırma işlemi sırasında silinen klasör veya dosya yok</NOT_DELETED_FILES_DET>
+		<NOT_DELETED_REG>Silinen kayıt defteri anahtarı veya değeri yok</NOT_DELETED_REG>
+		<NOT_DELETED_REG_DET>Kaldırma işlemi sırasında silinen kayıt defteri anahatrı ve değeri yok</NOT_DELETED_REG_DET>
+		<NOT_EMPTY>Boş yok</NOT_EMPTY>
+		<NOT_FOUND>Bulunan yok</NOT_FOUND>
+		<NOTES>Yok</NOTES>
+		<OK>Tamam</OK>
+		<OK_BRA>(TAMAM)</OK_BRA>
+		<ON_PRG_CLOSE>Program kapatmada</ON_PRG_CLOSE>
+		<ON_REFRESH>Yenilendiğinde</ON_REFRESH>
+		<ONLY_FILES_TO_KEEP>Silinmiş Değil. Sadece, saklanacak dosya ve klasörleri içerir.</ONLY_FILES_TO_KEEP>
+		<ONLY_KEYS_TO_KEEP>Silinmiş Değil. Sadece, saklanacak kayıt defteri anahtarlarını içerir.</ONLY_KEYS_TO_KEEP>
+		<OTHER>Diğer</OTHER>
+		<PAGE>Sayfa:</PAGE>
+		<PAINT_ITEM_STYLES>Normal göster\nGizli\nMetni Vurgula\nSimge \nSimge ve Vurgulanmış Metin</PAINT_ITEM_STYLES>
+		<PENDING_FILE_REN>Bekleyen dosya yeniden adlandırma işlemleri.</PENDING_FILE_REN>
+		<PRE_INST_SNS_NAME>Ön-kurulum sistem anlık görüntüsü adı</PRE_INST_SNS_NAME>
+		<PRE_INSTALL>Ön-kurulum sistem anlık görüntüsü</PRE_INSTALL>
+		<PREFERENCES>Tercihler</PREFERENCES>
+		<PRG_DETECTED>Algılanan program:</PRG_DETECTED>
+		<PRG_NAME>Program adı</PRG_NAME>
+		<PRG_PART_UNINSTALLED>Program kısmen kaldırıldı</PRG_PART_UNINSTALLED>
+		<PRG_UNINSTALLED>Program başarıyla kaldırıldı</PRG_UNINSTALLED>
+		<PRINT_ERROR>Yazdırma hatası !</PRINT_ERROR>
+		<PRODUCT_UPDATES>Ürün Güncellemeleri</PRODUCT_UPDATES>
+		<PST_INST_SNS_NAME>Son-Kurulum Anlık Görüntüsü Adı</PST_INST_SNS_NAME>
+		<PUBLISHER>Sağlayan</PUBLISHER>
+		<QST_DEL_FLD_FILES>Seçili klasör ve dosyaları gerçekten silmek istediğinizden emin misiniz ?</QST_DEL_FLD_FILES>
+		<QST_DEL_REG_KEYS_VALS>Seçili anahtar ve değerleri gerçekten silmek istediğinizden emin misiniz ?</QST_DEL_REG_KEYS_VALS>
+		<QST_REMOVE_INST_PRG_LST>Seçili programı listeden kaldırmak istediğinizden emin misiniz?</QST_REMOVE_INST_PRG_LST>
+		<QUEST_REMOVE_GROUP>Grup kaldırılsın mı?</QUEST_REMOVE_GROUP>
+		<README>Benioku</README>
+		<READY>Hazır</READY>
+		<REG_DET_VIEW_PRF>KAYIT DEFTERİ AYRINTILARI [Görünüm: %s]</REG_DET_VIEW_PRF>
+		<REG_KEY>(REG KEY)</REG_KEY>
+		<REG_VAL>(REG VAL)</REG_VAL>
+		<REGISTER_INVALID>Geçersiz kayıt bilgisi</REGISTER_INVALID>
+		<REGISTER_THANK_YOU>%s kaydı için teşekürler.</REGISTER_THANK_YOU>
+		<REGISTERED_COMPANY>Kayıtlı Şirket</REGISTERED_COMPANY>
+		<REGISTERED_OWNER>Kayıtlı Kişi</REGISTERED_OWNER>
+		<REGISTRY>Kayıt Defteri</REGISTRY>
+		<REMOVE_LEFT_BEHIND>Algılan klasör, dosya, kayıt defteri anahtar ve değeri kalıntılarını silmek için Kaldır&apos;ı tıklatın.</REMOVE_LEFT_BEHIND>
+		<REMOVE_LOG>Değişiklikler günlüğü silinsin mi?</REMOVE_LOG>
+		<REMOVE_LOG_DET>Seçili program tarafından yapılan değişikler geri yüklenemiyor</REMOVE_LOG_DET>
+		<REMOVE_PRG_DATA>Ayarlar ve program verisi kaldırılsın mı?</REMOVE_PRG_DATA>
+		<REMOVE_PRG_DATA_INFO/>
+		<RENAME>Ad Değiştir</RENAME>
+		<RESTORE_REG_VALS>Kayıt defteri değerlerini geri yükle</RESTORE_REG_VALS>
+		<RST_FILE_PROP>Dosya özelliklerini geri yükle</RST_FILE_PROP>
+		<SAFE>Güvenli</SAFE>
+		<SAVE_AS>Farklı Kaydet</SAVE_AS>
+		<SCAN_PROFILES>Taranan Profiller</SCAN_PROFILES>
+		<SCANNING>Tarama...</SCANNING>
+		<SCANNING_REGISTRY_AND_FS>Kayıt defteri ve dosya sistemi taranıyor...</SCANNING_REGISTRY_AND_FS>
+		<SEARCH>Ara</SEARCH>
+		<SEARCH_IN_X>&quot;%s&quot; konumunda ara</SEARCH_IN_X>
+		<SEL_BRA>(Seçim)</SEL_BRA>
+		<SEL_HAS_HD_NODES>Seçim, en azından bir gizli düğüm içerir.</SEL_HAS_HD_NODES>
+		<SEL_PRG_UNINSTALLED>Seçili program zaten yüklü.</SEL_PRG_UNINSTALLED>
+		<SEL_UNINSTALL_PROFILE>Bir kaldırma profili seçin</SEL_UNINSTALL_PROFILE>
+		<SELECT>Seç</SELECT>
+		<SHARED_FILE>Paylaştırılmış Dosya. Bu aşamalar silinemez.</SHARED_FILE>
+		<SHARED_FILE_NOT_FOUND>Diskte paylaştırılmış dosya yok</SHARED_FILE_NOT_FOUND>
+		<SHOW_OPTIONS>Seçenekleri &amp;Göster</SHOW_OPTIONS>
+		<SIZE>Boyut</SIZE>
+		<SIZE_STAT>Boyut                                    : %s</SIZE_STAT>
+		<SMALL_CNT>Kayıt defterinde çok küçük boyutlu paylaştırılmış dosya bulundu.</SMALL_CNT>
+		<START>Başlat</START>
+		<START_UNINSTALL_PROCESS>ve kaldırma işlemi için Başlat&apos;a tıklatın.</START_UNINSTALL_PROCESS>
+		<STOP>Durdur</STOP>
+		<STOP_SERVICES>Hizmetleri durdur</STOP_SERVICES>
+		<SUPPORT_INFO>Bilgi Desteği</SUPPORT_INFO>
+		<SUPPORT_PHONE>Telefon Desteği</SUPPORT_PHONE>
+		<SW_VERSION>Sürüm %s</SW_VERSION>
+		<TITLE_MON_INSTALL>Yeni Kurulum İzle</TITLE_MON_INSTALL>
+		<TITLE_MON_UPDATE_X>Monitor Program Güncelle &quot;%s&quot;</TITLE_MON_UPDATE_X>
+		<TOTAL_LIC_COMPUTERS>Toplam lisans sayısı: %s</TOTAL_LIC_COMPUTERS>
+		<TOTAL_UNINSTALL>Toplam Kaldır</TOTAL_UNINSTALL>
+		<TRACES_AFTER_UNINSTALL>Kaldırdıktan sonraki izler</TRACES_AFTER_UNINSTALL>
+		<TU_AGENT>Total Uninstall Ajanı</TU_AGENT>
+		<TU_MON_PRG_TITLE>İzlenen Programlar</TU_MON_PRG_TITLE>
+		<TU_PRO_EDITION>Total Uninstall Professional Sürüm</TU_PRO_EDITION>
+		<TU_STD_EDITION>Total Uninstall Standard Sürüm</TU_STD_EDITION>
+		<UNINST_ANALYZED>İzlenen program kaldır</UNINST_ANALYZED>
+		<UNINST_PROFILES>Kaldır Profilleri</UNINST_PROFILES>
+		<UNINSTALL>Kaldır</UNINSTALL>
+		<UNINSTALL_INST_HINT>Kaldır|Seçili incelenmiş programı kaldır</UNINSTALL_INST_HINT>
+		<UNINSTALL_MON_HINT>Kaldır|Seçili izlenen programı kaldır</UNINSTALL_MON_HINT>
+		<UNINSTALL_PROGRAM_X>Kaldırılacak Program: &quot;%s&quot;</UNINSTALL_PROGRAM_X>
+		<UNINSTALLED_WITH_TU>&quot;%s&quot; Total Uninstall ile kaldırıldı</UNINSTALLED_WITH_TU>
+		<UNREGISTERED>Kayıtsız</UNREGISTERED>
+		<USE_LAST_SNS>Son Anlık Görüntüyü Kullan</USE_LAST_SNS>
+		<USE_LAST_SNS_AGO_D>Son Anlık Görüntüyü Kullan (%d gün, %d saat, %d dakika önce)</USE_LAST_SNS_AGO_D>
+		<USE_LAST_SNS_AGO_H>Son Anlık Görüntüyü Kullan (%d saat, %d dakika önce)</USE_LAST_SNS_AGO_H>
+		<USE_LAST_SNS_AGO_M>Son Anlık Görüntüyü Kullan (%d dakika önce)</USE_LAST_SNS_AGO_M>
+		<USE_ONLY_PRG_UNINST>Sadece programın kendi kaldırıcısını kullan</USE_ONLY_PRG_UNINST>
+		<USE_OR_BUILD_SNS>Üret veya önceki ilk kurulumun anlık görüntüsünü kullan.</USE_OR_BUILD_SNS>
+		<USR_ABORT>Kullanıcı tarafından iptal edildi</USR_ABORT>
+		<VALS_CHG_STAT>Değiştirilen değer            :%6.1d</VALS_CHG_STAT>
+		<VALS_CREATED_STAT>Oluşturulan değer           :%6.1d</VALS_CREATED_STAT>
+		<VALS_DEL_STAT>Silinen değer                   :%6.1d</VALS_DEL_STAT>
+		<VERSION>Sürüm</VERSION>
+		<WAIT_UNINST_REMOVE_LEFT>Programın kendi Ekle/Kaldır programı ile kaldırma işlemi tamamlandığında geri kalan klasör, dosya, kayıt defteri anahtarı ve değerlerini kaldırmak için Kaldır&apos;ı tıklatın.</WAIT_UNINST_REMOVE_LEFT>
+		<WRN_BRA>(WRN)</WRN_BRA>
+		<X_BYTE>%s B</X_BYTE>
+		<X_BYTES>%d bayt</X_BYTES>
+		<X_CHANGES>%s - Değişiklikler</X_CHANGES>
+		<X_GIGABYTE>%s GB</X_GIGABYTE>
+		<X_KILOBYTE>%s KB</X_KILOBYTE>
+		<X_MEGABYTE>%s MB</X_MEGABYTE>
+		<X_RESULTS>%d sonuç</X_RESULTS>
+		<X_UNINSTALL_LOG>&quot;%s&quot; - Günlük dosyası</X_UNINSTALL_LOG>
+		<X_UNINSTALL_LOG_FILE>&quot;%s&quot; - KaldırmaGünlüğü.txt</X_UNINSTALL_LOG_FILE>
+		<ZERO_LENGTH_DATA>(sıfır boyutlu veri)</ZERO_LENGTH_DATA>
+	</RESOURCESTRING>
+</TotalUninstall>

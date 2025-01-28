@@ -1,0 +1,2619 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TotalUninstall>
+	<_System_>
+		<Flag>
+			<Size>2998</Size>
+			<Data>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</Data>
+		</Flag>
+		<LanguageCode>en</LanguageCode>
+		<LocalizedName>Svenska</LocalizedName>
+		<Version>62601</Version>
+	</_System_>
+	<Cleaner>
+		<CF-BROWSER-CACHE>Webbläsare</CF-BROWSER-CACHE>
+		<CF-BROWSER-CACHE-CHROME>Chrome</CF-BROWSER-CACHE-CHROME>
+		<CF-BROWSER-CACHE-FIREFOX>Firefox</CF-BROWSER-CACHE-FIREFOX>
+		<CF-BROWSER-CACHE-IE>Internet Explorer</CF-BROWSER-CACHE-IE>
+		<CF-BROWSER-CACHE-MAXTHON>Maxthon</CF-BROWSER-CACHE-MAXTHON>
+		<CF-BROWSER-CACHE-OPERA>Opera</CF-BROWSER-CACHE-OPERA>
+		<CF-PROGRAMS>Program</CF-PROGRAMS>
+		<CF-PROGRAMS-ADOBE-FLASH-PLAYER>Adobe Flash Player</CF-PROGRAMS-ADOBE-FLASH-PLAYER>
+		<CF-PROGRAMS-MSOFFICE-RECENT>Microsoft Office senast använda filer</CF-PROGRAMS-MSOFFICE-RECENT>
+		<CF-PROGRAMS-SUN-JAVA-CACHE>Cache för Sun Java</CF-PROGRAMS-SUN-JAVA-CACHE>
+		<CF-SYSTEM>System</CF-SYSTEM>
+		<CF-SYSTEM-JUNK-FILES>Skräpfiler</CF-SYSTEM-JUNK-FILES>
+		<CF-SYSTEM-RECYCLE-BIN>Forcerad tömmning av papperskorgen</CF-SYSTEM-RECYCLE-BIN>
+		<CF-SYSTEM-TEMP-FILES>Temporära filer</CF-SYSTEM-TEMP-FILES>
+		<CF-SYSTEM-THUMBNAILS-CACHE>Cache för miniatyrbilder</CF-SYSTEM-THUMBNAILS-CACHE>
+		<CF-WINDOWS>Windows</CF-WINDOWS>
+		<CF-WINDOWS-ERROR-REPORTING>Felrapporter</CF-WINDOWS-ERROR-REPORTING>
+		<CF-WINDOWS-ETL-FILES>Händelsespårning loggfiler</CF-WINDOWS-ETL-FILES>
+		<CF-WINDOWS-EVL-FILES>Händelsevisare loggfiler</CF-WINDOWS-EVL-FILES>
+		<CF-WINDOWS-EXPLORER>Windows Explorer</CF-WINDOWS-EXPLORER>
+		<CF-WINDOWS-EXPLORER-RECENT-FILES>Senaste dokument</CF-WINDOWS-EXPLORER-RECENT-FILES>
+		<CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>Tomma mappar</CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>
+		<CF-WINDOWS-LOG-FILES>Loggfiler</CF-WINDOWS-LOG-FILES>
+		<CF-WINDOWS-MEMORY-DUMP-FILES>Minnesdumpar</CF-WINDOWS-MEMORY-DUMP-FILES>
+		<CF-WINDOWS-TEMP-FOLDERS>Temporära mappar</CF-WINDOWS-TEMP-FOLDERS>
+		<CR-INVALID-ENTRIES>Ogiltiga poster</CR-INVALID-ENTRIES>
+		<CR-INVALID-ENTRIES-FILE-REFERENCES>Filreferenser</CR-INVALID-ENTRIES-FILE-REFERENCES>
+		<CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>Tomma nycklar</CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>
+		<CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>Saknade delade DLL-filer</CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>
+		<CR-INVALID-ENTRIES-MSI-PATHS>MSI sökvägar</CR-INVALID-ENTRIES-MSI-PATHS>
+		<CR-INVALID-ENTRIES-MUI-REFERENCES>MUI referenser</CR-INVALID-ENTRIES-MUI-REFERENCES>
+		<CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>Filformat utan referenser</CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>
+		<CR-MUI-REFERENCES>MUI referenser</CR-MUI-REFERENCES>
+	</Cleaner>
+	<dlgAddInstalledPrg>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Lägg till program i listan</Caption>
+		<lblBuiltInUninstaller>
+			<Caption>Inbyggd avinstallation</Caption>
+		</lblBuiltInUninstaller>
+		<lblInstallationFolder>
+			<Caption>Installerad i mapp</Caption>
+		</lblInstallationFolder>
+		<lblPrgName>
+			<Caption>Programnamn</Caption>
+		</lblPrgName>
+	</dlgAddInstalledPrg>
+	<dlgAskDelItem>
+		<btnOK>
+			<Caption>&amp;OK</Caption>
+		</btnOK>
+		<btnSelectAll>
+			<Caption>&amp;Markera alla</Caption>
+		</btnSelectAll>
+		<btnUnselectAll>
+			<Caption>&amp;Avmarkera alla</Caption>
+		</btnUnselectAll>
+		<Caption>Ta bort objekt?</Caption>
+		<cbAutoSelectAll>
+			<Caption>Välj alla automatiskt</Caption>
+		</cbAutoSelectAll>
+		<lblDelSel>
+			<Caption>Valda objekt kommer att raderas</Caption>
+		</lblDelSel>
+	</dlgAskDelItem>
+	<dlgAutorunItem>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Autostart objekt</Caption>
+		<gbStartLocation>
+			<Caption>Startplats</Caption>
+		</gbStartLocation>
+		<gbUser>
+			<Caption>Starta automatiskt vid inloggning för</Caption>
+		</gbUser>
+		<lblCommand>
+			<Caption>Kommando</Caption>
+		</lblCommand>
+		<lblName>
+			<Caption>Namn</Caption>
+		</lblName>
+		<rbLogonAnyUser>
+			<Caption>Alla användare</Caption>
+		</rbLogonAnyUser>
+		<rbLogonCurentUser>
+			<Caption>Nuvarande användare</Caption>
+		</rbLogonCurentUser>
+		<rbRegRun>
+			<Caption>Registret, kör vid varje inloggning</Caption>
+		</rbRegRun>
+		<rbRegRunOnce>
+			<Caption>Registret, kör endast en gång vid nästa inloggning</Caption>
+		</rbRegRunOnce>
+		<rbStartMenu>
+			<Caption>Autostart mappen, kör vid varje inloggning</Caption>
+		</rbStartMenu>
+	</dlgAutorunItem>
+	<dlgChangeIcon>
+		<btnBrowse>
+			<Caption>Öppna...</Caption>
+		</btnBrowse>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnClear>
+			<Caption>Rensa</Caption>
+		</btnClear>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Byt ikon</Caption>
+		<gbIcons>
+			<Caption>Ikoner</Caption>
+		</gbIcons>
+	</dlgChangeIcon>
+	<dlgCheckUpdates>
+		<btnClose>
+			<Caption>Stäng</Caption>
+		</btnClose>
+		<btnRefresh>
+			<Caption>Uppdatera</Caption>
+		</btnRefresh>
+		<Caption>Sök efter uppdateringar</Caption>
+	</dlgCheckUpdates>
+	<dlgCompareSns>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Jämför ögonblicksbild</Caption>
+		<lblCompareProfile>
+			<Caption>Jämförelseprofil</Caption>
+		</lblCompareProfile>
+		<lblResultLog>
+			<Caption>Resultat</Caption>
+		</lblResultLog>
+		<lblSnapshotA>
+			<Caption>Ögonblicksbild av system  A</Caption>
+		</lblSnapshotA>
+		<lblSnapshotB>
+			<Caption>Ögonblicksbild av system  B</Caption>
+		</lblSnapshotB>
+	</dlgCompareSns>
+	<dlgExportRegistry>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Exportera registerändringar</Caption>
+		<cbCreatedKeys>
+			<Caption>Skapade nycklar</Caption>
+		</cbCreatedKeys>
+		<cbCreatedValues>
+			<Caption>Skapade värden</Caption>
+		</cbCreatedValues>
+		<cbDeletedKeys>
+			<Caption>Raderade nycklar</Caption>
+		</cbDeletedKeys>
+		<cbDeletedValues>
+			<Caption>Raderade värden</Caption>
+		</cbDeletedValues>
+		<cbModifiedValues>
+			<Caption>Ändrade värden</Caption>
+		</cbModifiedValues>
+		<gbDetails>
+			<Caption>Registerändringar</Caption>
+		</gbDetails>
+		<gbExportType>
+			<Caption>Exportera</Caption>
+		</gbExportType>
+		<gbRange>
+			<Caption>Omfång</Caption>
+		</gbRange>
+		<rbExpAll>
+			<Caption>Alla</Caption>
+		</rbExpAll>
+		<rbExpBranch>
+			<Caption>Vald gren</Caption>
+		</rbExpBranch>
+		<rbInstall>
+			<Caption>Installationsfil</Caption>
+		</rbInstall>
+		<rbUninstall>
+			<Caption>Avinstallationsfil</Caption>
+		</rbUninstall>
+	</dlgExportRegistry>
+	<dlgGroupProp>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Grupp</Caption>
+		<lblIcon>
+			<Caption>Ikon</Caption>
+		</lblIcon>
+		<lblName>
+			<Caption>Namn</Caption>
+		</lblName>
+	</dlgGroupProp>
+	<dlgMergeLogs>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Sammanfoga loggfiler</Caption>
+		<cbDeleteUpdate>
+			<Caption>Ta bort uppdateringslogg efter sammanfogning</Caption>
+		</cbDeleteUpdate>
+		<gbDestination>
+			<Caption>Destination</Caption>
+		</gbDestination>
+		<gbSources>
+			<Caption>Källa</Caption>
+		</gbSources>
+		<lblInstallLog>
+			<Caption>Installationslogg</Caption>
+		</lblInstallLog>
+		<lblNewName>
+			<Caption>Nytt namn</Caption>
+		</lblNewName>
+		<lblUpdateLog>
+			<Caption>Uppdateringslogg</Caption>
+		</lblUpdateLog>
+		<rbCreateANewLog>
+			<Caption>Skapa en ny logg</Caption>
+		</rbCreateANewLog>
+		<rbSaveInInstallLog>
+			<Caption>Spara i installationslogg</Caption>
+		</rbSaveInInstallLog>
+	</dlgMergeLogs>
+	<dlgPendingFileRename>
+		<btnApply>
+			<Caption>Tillämpa</Caption>
+		</btnApply>
+		<btnClose>
+			<Caption>Stäng</Caption>
+		</btnClose>
+		<Caption>Väntande filnamnsändringar</Caption>
+		<tvPendingFiles>
+			<Columns_0>Källa</Columns_0>
+			<Columns_1>Destination</Columns_1>
+		</tvPendingFiles>
+	</dlgPendingFileRename>
+	<dlgRegister>
+		<btnBuy>
+			<Caption>Köp</Caption>
+		</btnBuy>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnRegister>
+			<Caption>Registrera</Caption>
+		</btnRegister>
+		<Caption>Registrera Total Uninstall</Caption>
+		<lblKey>
+			<Caption>Registreringsnyckel</Caption>
+		</lblKey>
+		<lblName>
+			<Caption>Registreringsnamn</Caption>
+		</lblName>
+		<ulblLostRegistrationInfo>
+			<Caption>Jag har förlorat min registreringsinformation.</Caption>
+		</ulblLostRegistrationInfo>
+	</dlgRegister>
+	<dlgRestrictedFeature>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<Caption>Begränsad funktion</Caption>
+		<clinkPurchase>
+			<Caption>Köp</Caption>
+			<Note>Öppna beställningsformulär</Note>
+		</clinkPurchase>
+		<lblInstruction>
+			<Caption>Denna funktion är tillgänglig i den registrerade versionen</Caption>
+		</lblInstruction>
+		<lblProfessionalEdition>
+			<Caption>- Professionell version</Caption>
+		</lblProfessionalEdition>
+	</dlgRestrictedFeature>
+	<dlgRmvShared>
+		<btnNo>
+			<Caption>Nej</Caption>
+		</btnNo>
+		<btnNoToAll>
+			<Caption>Nej till alla</Caption>
+		</btnNoToAll>
+		<btnYes>
+			<Caption>Ja</Caption>
+		</btnYes>
+		<btnYesToAll>
+			<Caption>Ja till alla</Caption>
+		</btnYesToAll>
+		<Caption>Ta bort delad fil?</Caption>
+		<lblFileName>
+			<Caption>Filnamn:</Caption>
+		</lblFileName>
+		<lblLocated>
+			<Caption>Plats:</Caption>
+		</lblLocated>
+		<lblOne>
+			<Caption>Systemet indikerar att följande delade fil inte längre används av något program. Om något program fortfarande använder denna fil och den tas bort, kan dessa program kanske inte fungera. Är du säker på att du vill ta bort den delade filen?</Caption>
+		</lblOne>
+		<lblTwo>
+			<Caption>Lämnas den här filen kommer inte ditt system att skadas. Om du är osäker på vad du ska göra, föreslås det att du väljer att inte ta bort denna delade komponent.</Caption>
+		</lblTwo>
+	</dlgRmvShared>
+	<dlgSelect>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Välj</Caption>
+	</dlgSelect>
+	<dlgSelectLibIcon>
+		<btnAdd>
+			<Caption>Lägg till</Caption>
+		</btnAdd>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnDelete>
+			<Caption>Radera</Caption>
+		</btnDelete>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Välj ikon</Caption>
+		<gbIcons>
+			<Caption>Ikoner</Caption>
+		</gbIcons>
+	</dlgSelectLibIcon>
+	<dlgSysBrowser>
+		<btnCancel>
+			<Caption>&amp;Avbryt</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>&amp;OK</Caption>
+		</btnOk>
+		<lblExpanded>
+			<Caption>Utökad</Caption>
+		</lblExpanded>
+	</dlgSysBrowser>
+	<dlgTUAbout>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Om</Caption>
+		<lblCopyright>
+			<Caption>Copyright © 2001-2019, Gavrila Martau</Caption>
+		</lblCopyright>
+		<lblEmail>
+			<Caption>E-post</Caption>
+		</lblEmail>
+		<lblHomePage>
+			<Caption>Hemsida</Caption>
+		</lblHomePage>
+		<ulblBuyUpgrade>
+			<Caption>Köp uppgradering</Caption>
+		</ulblBuyUpgrade>
+		<ulblDownload>
+			<Caption>Hämta senaste fri uppdatering</Caption>
+		</ulblDownload>
+	</dlgTUAbout>
+	<dlgTunBackup>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnCopy>
+			<Caption>Kopiera till...</Caption>
+		</btnCopy>
+		<btnCreate>
+			<Caption>Skapa</Caption>
+		</btnCreate>
+		<lblArchiving>
+			<Caption>Arkiverar filer och registerposter...</Caption>
+		</lblArchiving>
+		<lblCreateBackup>
+			<Caption>Skapa en säkerhetskopia av programmet</Caption>
+		</lblCreateBackup>
+		<lblFilesNotIncluded>
+			<Caption>Filer som inte ingår i säkerhetskopia</Caption>
+		</lblFilesNotIncluded>
+	</dlgTunBackup>
+	<dlgTunRestore>
+		<btnImport>
+			<Caption>Importera</Caption>
+		</btnImport>
+		<cbRestoreOnlyLog>
+			<Caption>Återställ endast installationslogg</Caption>
+		</cbRestoreOnlyLog>
+		<lblFilesNotIncluded>
+			<Caption>Ej utförda åtgärder</Caption>
+		</lblFilesNotIncluded>
+		<lblRestoreProfile>
+			<Caption>Återställ profil</Caption>
+		</lblRestoreProfile>
+		<lblRestoreProgram>
+			<Caption>Välj ett program för återställning</Caption>
+		</lblRestoreProgram>
+		<lblUndoRestoration>
+			<Caption>Välj en återställning att ångra</Caption>
+		</lblUndoRestoration>
+		<pmiCopyTo>
+			<Caption>Kopiera till...</Caption>
+		</pmiCopyTo>
+		<pmiDelete>
+			<Caption>Ta bort</Caption>
+		</pmiDelete>
+	</dlgTunRestore>
+	<dlgTUOptions>
+		<btnAddAnalysisProfile>
+			<Caption>Lägg till...</Caption>
+		</btnAddAnalysisProfile>
+		<btnAddAutorunView>
+			<Caption>Lägg till...</Caption>
+		</btnAddAutorunView>
+		<btnAddChgView>
+			<Caption>Lägg till...</Caption>
+		</btnAddChgView>
+		<btnAddCleaner>
+			<Caption>Lägg till...</Caption>
+		</btnAddCleaner>
+		<btnAddCompareProfile>
+			<Caption>Lägg till...</Caption>
+		</btnAddCompareProfile>
+		<btnAddExclFlds>
+			<Caption>Lägg till...</Caption>
+		</btnAddExclFlds>
+		<btnAddExclKey>
+			<Caption>Lägg till...</Caption>
+		</btnAddExclKey>
+		<btnAddExcludeProduct>
+			<Caption>Lägg till...</Caption>
+		</btnAddExcludeProduct>
+		<btnAddExcludePublisher>
+			<Caption>Lägg till...</Caption>
+		</btnAddExcludePublisher>
+		<btnAddIgnChgFs>
+			<Caption>Lägg till...</Caption>
+		</btnAddIgnChgFs>
+		<btnAddIgnChgReg>
+			<Caption>Lägg till...</Caption>
+		</btnAddIgnChgReg>
+		<btnAddIgnFile>
+			<Caption>Lägg till...</Caption>
+		</btnAddIgnFile>
+		<btnAddInclFlds>
+			<Caption>Lägg till...</Caption>
+		</btnAddInclFlds>
+		<btnAddInclKeys>
+			<Caption>Lägg till...</Caption>
+		</btnAddInclKeys>
+		<btnAddIncludeProduct>
+			<Caption>Lägg till...</Caption>
+		</btnAddIncludeProduct>
+		<btnAddIncludePublisher>
+			<Caption>Lägg till...</Caption>
+		</btnAddIncludePublisher>
+		<btnAddInstallLoc>
+			<Caption>Lägg till...</Caption>
+		</btnAddInstallLoc>
+		<btnAddProtectedFld>
+			<Caption>Lägg till...</Caption>
+		</btnAddProtectedFld>
+		<btnAddProtectedKey>
+			<Caption>Lägg till...</Caption>
+		</btnAddProtectedKey>
+		<btnAddRedo>
+			<Caption>Lägg till...</Caption>
+		</btnAddRedo>
+		<btnAddScanProfile>
+			<Caption>Lägg till...</Caption>
+		</btnAddScanProfile>
+		<btnAddUninst>
+			<Caption>Lägg till...</Caption>
+		</btnAddUninst>
+		<btnAddUninstInst>
+			<Caption>Lägg till...</Caption>
+		</btnAddUninstInst>
+		<btnAddValue>
+			<Caption>Lägg till...</Caption>
+		</btnAddValue>
+		<btnAddVer>
+			<Caption>Lägg till...</Caption>
+		</btnAddVer>
+		<btnAgentAddExcMask>
+			<Caption>Lägg till...</Caption>
+		</btnAgentAddExcMask>
+		<btnAgentAddIncMask>
+			<Caption>Lägg till...</Caption>
+		</btnAgentAddIncMask>
+		<btnAgentRemExcMask>
+			<Caption>Ta bort</Caption>
+		</btnAgentRemExcMask>
+		<btnAgentRemIncMask>
+			<Caption>Ta bort</Caption>
+		</btnAgentRemIncMask>
+		<btnAnlSaveAs>
+			<Caption>Spara som...</Caption>
+		</btnAnlSaveAs>
+		<btnAutorunViewSaveAs>
+			<Caption>Spara som...</Caption>
+		</btnAutorunViewSaveAs>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnChgViewSaveAs>
+			<Caption>Spara som...</Caption>
+		</btnChgViewSaveAs>
+		<btnCleanerSaveAs>
+			<Caption>Spara som...</Caption>
+		</btnCleanerSaveAs>
+		<btnClnAddExclFs>
+			<Caption>Lägg till...</Caption>
+		</btnClnAddExclFs>
+		<btnClnAddExclRegistry>
+			<Caption>Lägg till...</Caption>
+		</btnClnAddExclRegistry>
+		<btnClnEditExclFs>
+			<Caption>Redigera...</Caption>
+		</btnClnEditExclFs>
+		<btnClnEditExclRegistry>
+			<Caption>Redigera...</Caption>
+		</btnClnEditExclRegistry>
+		<btnClnRemExclFs>
+			<Caption>Ta bort</Caption>
+		</btnClnRemExclFs>
+		<btnClnRemExclRegistry>
+			<Caption>Ta bort</Caption>
+		</btnClnRemExclRegistry>
+		<btnCompPlaySound>
+			<Caption>Test</Caption>
+		</btnCompPlaySound>
+		<btnCompSaveAs>
+			<Caption>Spara som...</Caption>
+		</btnCompSaveAs>
+		<btnEditExclFlds>
+			<Caption>Redigera...</Caption>
+		</btnEditExclFlds>
+		<btnEditExclKeys>
+			<Caption>Redigera...</Caption>
+		</btnEditExclKeys>
+		<btnEditIgnChgFs>
+			<Caption>Redigera...</Caption>
+		</btnEditIgnChgFs>
+		<btnEditIgnChgReg>
+			<Caption>Redigera...</Caption>
+		</btnEditIgnChgReg>
+		<btnEditIgnFile>
+			<Caption>Redigera...</Caption>
+		</btnEditIgnFile>
+		<btnEditIgnValues>
+			<Caption>Redigera...</Caption>
+		</btnEditIgnValues>
+		<btnEditProtectedFld>
+			<Caption>Redigera...</Caption>
+		</btnEditProtectedFld>
+		<btnEditProtectedKey>
+			<Caption>Redigera...</Caption>
+		</btnEditProtectedKey>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<btnRedoSaveAs>
+			<Caption>Spara som...</Caption>
+		</btnRedoSaveAs>
+		<btnRemAnalysisProfile>
+			<Caption>Ta bort...</Caption>
+		</btnRemAnalysisProfile>
+		<btnRemAutorunView>
+			<Caption>Ta bort...</Caption>
+		</btnRemAutorunView>
+		<btnRemChgView>
+			<Caption>Ta bort...</Caption>
+		</btnRemChgView>
+		<btnRemCleaner>
+			<Caption>Ta bort...</Caption>
+		</btnRemCleaner>
+		<btnRemCompareProfile>
+			<Caption>Ta bort...</Caption>
+		</btnRemCompareProfile>
+		<btnRemExclFlds>
+			<Caption>Ta bort</Caption>
+		</btnRemExclFlds>
+		<btnRemExclKeys>
+			<Caption>Ta bort</Caption>
+		</btnRemExclKeys>
+		<btnRemExcludeProduct>
+			<Caption>Ta bort</Caption>
+		</btnRemExcludeProduct>
+		<btnRemExcludePublisher>
+			<Caption>Ta bort</Caption>
+		</btnRemExcludePublisher>
+		<btnRemIgnChgFs>
+			<Caption>Ta bort</Caption>
+		</btnRemIgnChgFs>
+		<btnRemIgnChgReg>
+			<Caption>Ta bort</Caption>
+		</btnRemIgnChgReg>
+		<btnRemIgnFile>
+			<Caption>Ta bort</Caption>
+		</btnRemIgnFile>
+		<btnRemInclFlds>
+			<Caption>Ta bort</Caption>
+		</btnRemInclFlds>
+		<btnRemInclKeys>
+			<Caption>Ta bort</Caption>
+		</btnRemInclKeys>
+		<btnRemIncludeProduct>
+			<Caption>Ta bort</Caption>
+		</btnRemIncludeProduct>
+		<btnRemIncludePublisher>
+			<Caption>Ta bort</Caption>
+		</btnRemIncludePublisher>
+		<btnRemoveInstallLoc>
+			<Caption>Ta bort</Caption>
+		</btnRemoveInstallLoc>
+		<btnRemoveRedo>
+			<Caption>Ta bort...</Caption>
+		</btnRemoveRedo>
+		<btnRemProtectedFld>
+			<Caption>Ta bort</Caption>
+		</btnRemProtectedFld>
+		<btnRemProtectedKey>
+			<Caption>Ta bort</Caption>
+		</btnRemProtectedKey>
+		<btnRemScanProfile>
+			<Caption>Ta bort...</Caption>
+		</btnRemScanProfile>
+		<btnRemUninst>
+			<Caption>Ta bort...</Caption>
+		</btnRemUninst>
+		<btnRemUninstInst>
+			<Caption>Ta bort...</Caption>
+		</btnRemUninstInst>
+		<btnRemValues>
+			<Caption>Ta bort</Caption>
+		</btnRemValues>
+		<btnRemVer>
+			<Caption>Ta bort</Caption>
+		</btnRemVer>
+		<btnResetAll>
+			<Caption>Återställ alla</Caption>
+		</btnResetAll>
+		<btnScanPlaySound>
+			<Caption>Test</Caption>
+		</btnScanPlaySound>
+		<btnScanSaveAs>
+			<Caption>Spara som...</Caption>
+		</btnScanSaveAs>
+		<btnUninstSaveAs>
+			<Caption>Spara som...</Caption>
+		</btnUninstSaveAs>
+		<Caption>Inställningar</Caption>
+		<cbAnlProfileDefault>
+			<Caption>Standard</Caption>
+		</cbAnlProfileDefault>
+		<cbAutorunDefault>
+			<Caption>Standard</Caption>
+		</cbAutorunDefault>
+		<cbAutoStart>
+			<Caption>Autostarta med Windows för att fortsätta övervakningsprocessen</Caption>
+		</cbAutoStart>
+		<cbBackup>
+			<Caption>Säkerhetskopiera avinstallerat program</Caption>
+		</cbBackup>
+		<cbChgViewDefault>
+			<Caption>Standard</Caption>
+		</cbChgViewDefault>
+		<cbCleanerDefault>
+			<Caption>Standard</Caption>
+		</cbCleanerDefault>
+		<cbCleanerEnable>
+			<Caption>Aktivera modul för rengöring</Caption>
+		</cbCleanerEnable>
+		<cbClickRestore>
+			<Caption>Återställ med ett klick</Caption>
+		</cbClickRestore>
+		<cbCompareRegistry>
+			<Caption>Jämför register</Caption>
+		</cbCompareRegistry>
+		<cbCompFiles>
+			<Caption>Jämför filer</Caption>
+		</cbCompFiles>
+		<cbCompPlaySound>
+			<Caption>Spela upp ljud vid avslut</Caption>
+		</cbCompPlaySound>
+		<cbCompProfileDefault>
+			<Caption>Standard</Caption>
+		</cbCompProfileDefault>
+		<cbCompProfileFrozen>
+			<Caption>Lås</Caption>
+		</cbCompProfileFrozen>
+		<cbComputeMD5>
+			<Caption>Beräkna MD5 för nya filer</Caption>
+		</cbComputeMD5>
+		<cbCreateKeys>
+			<Caption>Skapa borttagna nycklar</Caption>
+		</cbCreateKeys>
+		<cbCreateValues>
+			<Caption>Skapa borttagna värden</Caption>
+		</cbCreateValues>
+		<cbCustomSnsName>
+			<Caption>Tillåt anpassat namn av ögonblicksbild</Caption>
+		</cbCustomSnsName>
+		<cbDecrement>
+			<Caption>Minska räkning av delad fil</Caption>
+		</cbDecrement>
+		<cbDelFiles>
+			<Caption>Ta bort skapade filer (delade filer endast om räknare når 0)</Caption>
+		</cbDelFiles>
+		<cbDelFolders>
+			<Caption>Radera skapade mappar</Caption>
+		</cbDelFolders>
+		<cbDelKeys>
+			<Caption>Radera skapade nycklar</Caption>
+		</cbDelKeys>
+		<cbDelUseRecycle>
+			<Caption>Använd papperskorgen</Caption>
+		</cbDelUseRecycle>
+		<cbDelValues>
+			<Caption>Radera skapade värden</Caption>
+		</cbDelValues>
+		<cbDontUseLog>
+			<Caption>Använd inte logg för upptäckta ändringar</Caption>
+		</cbDontUseLog>
+		<cbEnableAgent>
+			<Caption>Aktivera Total Uninstall Agent</Caption>
+		</cbEnableAgent>
+		<cbExtractFileVersion>
+			<Caption>Extrahera filversionsinformation</Caption>
+		</cbExtractFileVersion>
+		<cbExtractLastWriteTime>
+			<Caption>Extrahera senaste skrivtid i aktuell kolumn</Caption>
+		</cbExtractLastWriteTime>
+		<cbHexViewerNot64Bit>
+			<Caption>Ej 64-bitars kompatibel</Caption>
+		</cbHexViewerNot64Bit>
+		<cbIgnoreMissingItems>
+			<Caption>Ignorera saknade objekt</Caption>
+		</cbIgnoreMissingItems>
+		<cbInstPrgsEnable>
+			<Caption>Aktivera modul för installerade program</Caption>
+		</cbInstPrgsEnable>
+		<cbMinToTray>
+			<Caption>Minimera till aktivitetsfält</Caption>
+		</cbMinToTray>
+		<cbMonPrgsEnable>
+			<Caption>Aktivera modul för övervakade program</Caption>
+		</cbMonPrgsEnable>
+		<cbRedoCreateFiles>
+			<Caption>Återställ skapade filer</Caption>
+		</cbRedoCreateFiles>
+		<cbRedoCreateFilesOvr>
+			<Caption>Skriv över filer</Caption>
+		</cbRedoCreateFilesOvr>
+		<cbRedoCreateFilesOvrLck>
+			<Caption>Skriv över låsta filer</Caption>
+		</cbRedoCreateFilesOvrLck>
+		<cbRedoCreateFolders>
+			<Caption>Återställ skapade mappar</Caption>
+		</cbRedoCreateFolders>
+		<cbRedoCreateKeys>
+			<Caption>Återställ skapade nycklar</Caption>
+		</cbRedoCreateKeys>
+		<cbRedoCreateUndo>
+			<Caption>Skapa återställningsinformation</Caption>
+		</cbRedoCreateUndo>
+		<cbRedoCreateValues>
+			<Caption>Återställ skapade värden</Caption>
+		</cbRedoCreateValues>
+		<cbRedoDefault>
+			<Caption>Standard</Caption>
+		</cbRedoDefault>
+		<cbRedoDeleteFiles>
+			<Caption>Ta bort filer</Caption>
+		</cbRedoDeleteFiles>
+		<cbRedoDeleteFolders>
+			<Caption>Ta bort mappar</Caption>
+		</cbRedoDeleteFolders>
+		<cbRedoDeleteKeys>
+			<Caption>Ta bort nycklar</Caption>
+		</cbRedoDeleteKeys>
+		<cbRedoDeleteValues>
+			<Caption>Ta bort värden</Caption>
+		</cbRedoDeleteValues>
+		<cbRedoEnabled>
+			<Caption>Aktiverad</Caption>
+		</cbRedoEnabled>
+		<cbRedoModifyFiles>
+			<Caption>Återställ ändrade filer</Caption>
+		</cbRedoModifyFiles>
+		<cbRedoModifyFilesLck>
+			<Caption>Skriv över låsta filer</Caption>
+		</cbRedoModifyFilesLck>
+		<cbRedoModifyValues>
+			<Caption>Återställ ändrade värden</Caption>
+		</cbRedoModifyValues>
+		<cbRedoSysRestore>
+			<Caption>Skapa systemåterställningspunkt före återställning</Caption>
+		</cbRedoSysRestore>
+		<cbRestoreValues>
+			<Caption>Återställ ändrade värden</Caption>
+		</cbRestoreValues>
+		<cbRstFileCreated>
+			<Caption>Återställ filens skapad datum</Caption>
+		</cbRstFileCreated>
+		<cbScanForAds>
+			<Caption>Sök efter alternativa dataströmmar (ADS)</Caption>
+		</cbScanForAds>
+		<cbScanPlaySound>
+			<Caption>Spela upp ljud vid avslut</Caption>
+		</cbScanPlaySound>
+		<cbScanProfileDefault>
+			<Caption>Standard</Caption>
+		</cbScanProfileDefault>
+		<cbScanProfileFrozen>
+			<Caption>Lås</Caption>
+		</cbScanProfileFrozen>
+		<cbShell>
+			<Caption>Integrera Total Uninstall med Windows</Caption>
+		</cbShell>
+		<cbShowAfter>
+			<Caption>Efter kolumn</Caption>
+		</cbShowAfter>
+		<cbShowBefore>
+			<Caption>Före kolumn</Caption>
+		</cbShowBefore>
+		<cbShowBinAsText>
+			<Caption>Visa binär data som text</Caption>
+		</cbShowBinAsText>
+		<cbShowChanged>
+			<Caption>Ändrade objekt</Caption>
+		</cbShowChanged>
+		<cbShowCreated>
+			<Caption>Skapade objekt</Caption>
+		</cbShowCreated>
+		<cbShowCurrent>
+			<Caption>Aktuell kolumn</Caption>
+		</cbShowCurrent>
+		<cbShowDataSize>
+			<Caption>Datastorlek</Caption>
+		</cbShowDataSize>
+		<cbShowDataType>
+			<Caption>Datatyp</Caption>
+		</cbShowDataType>
+		<cbShowDateCreated>
+			<Caption>Skapad datum</Caption>
+		</cbShowDateCreated>
+		<cbShowDateModified>
+			<Caption>Ändrad datum</Caption>
+		</cbShowDateModified>
+		<cbShowDeleted>
+			<Caption>Raderade objekt</Caption>
+		</cbShowDeleted>
+		<cbShowFileAttrib>
+			<Caption>Filattribut</Caption>
+		</cbShowFileAttrib>
+		<cbShowFileSize>
+			<Caption>Filstorlek</Caption>
+		</cbShowFileSize>
+		<cbShowFileVersion>
+			<Caption>Filversion</Caption>
+		</cbShowFileVersion>
+		<cbShowMD5>
+			<Caption>Ny fil MD5 summa</Caption>
+		</cbShowMD5>
+		<cbSmartAdjustAnalysisLevel>
+			<Caption>Smart anpassning av analyseringsnivå</Caption>
+		</cbSmartAdjustAnalysisLevel>
+		<cbSysRestore>
+			<Caption>Skapa systemåterställningspunkt före avinstallation</Caption>
+		</cbSysRestore>
+		<cbSystemFilesAdditional>
+			<Caption>Kompletterande analysering</Caption>
+		</cbSystemFilesAdditional>
+		<cbTxtViewerNot64Bit>
+			<Caption>Ej 64-bitars kompatibel</Caption>
+		</cbTxtViewerNot64Bit>
+		<cbUninstDefault>
+			<Caption>Standard</Caption>
+		</cbUninstDefault>
+		<cbUninstEnabled>
+			<Caption>Aktiverad</Caption>
+		</cbUninstEnabled>
+		<cbUseUninstaller>
+			<Caption>Använd programmets avinstallation först</Caption>
+		</cbUseUninstaller>
+		<cbWinAppsEnable>
+			<Caption>Aktivera Windows Appar modulen</Caption>
+		</cbWinAppsEnable>
+		<cmbUpdateFrequency>
+			<Items>Dagligen\nVeckovis\nMånadsvis</Items>
+		</cmbUpdateFrequency>
+		<cmbUpdateMethod>
+			<Items>Manuell\nPåminnelse\nAutomatiskt</Items>
+		</cmbUpdateMethod>
+		<gbAgentMasks>
+			<Caption>Mask för installationsprogram</Caption>
+		</gbAgentMasks>
+		<gbClnExcludeFs>
+			<Caption>Exkludera mappar och filer</Caption>
+		</gbClnExcludeFs>
+		<gbClnExcludeRegistry>
+			<Caption>Exkludera registernycklar och värden</Caption>
+		</gbClnExcludeRegistry>
+		<gbCompareIgnChgReg>
+			<Caption>Ignorera ändrade poster</Caption>
+		</gbCompareIgnChgReg>
+		<gbCompareIgnKeys>
+			<Caption>Ignorera nycklar och värden</Caption>
+		</gbCompareIgnKeys>
+		<gbCompIgnChgFs>
+			<Caption>Ignorera ändrade poster</Caption>
+		</gbCompIgnChgFs>
+		<gbCompIgnoreFld>
+			<Caption>Ignorera mappar och filer</Caption>
+		</gbCompIgnoreFld>
+		<gbExcludeProducts>
+			<Caption>Uteslut produkter</Caption>
+		</gbExcludeProducts>
+		<gbExcludePublishers>
+			<Caption>Uteslut utgivare</Caption>
+		</gbExcludePublishers>
+		<gbFileExtensions>
+			<Caption>Filtillägg med versionsinformation</Caption>
+		</gbFileExtensions>
+		<gbIncludeProducts>
+			<Caption>Inkludera produkter</Caption>
+		</gbIncludeProducts>
+		<gbIncludePublishers>
+			<Caption>Inkludera utgivare</Caption>
+		</gbIncludePublishers>
+		<gbInstallLoc>
+			<Caption>Installationsplats</Caption>
+		</gbInstallLoc>
+		<gbInstallLocation>
+			<Caption>Identifiering av installationsplats</Caption>
+		</gbInstallLocation>
+		<gbLimits>
+			<Caption>Begränsning av ögonblicksbilder</Caption>
+		</gbLimits>
+		<gbPrgData>
+			<Caption>Identifiering av programdata</Caption>
+		</gbPrgData>
+		<gbPrgSettings>
+			<Caption>Identifiering av programinställningar</Caption>
+		</gbPrgSettings>
+		<gbPrgShortcuts>
+			<Caption>Identifiering av programgenvägar</Caption>
+		</gbPrgShortcuts>
+		<gbProtectedFolders>
+			<Caption>Skyddade mappar</Caption>
+		</gbProtectedFolders>
+		<gbProtectedKeys>
+			<Caption>Skyddade nycklar</Caption>
+		</gbProtectedKeys>
+		<gbRegEditor>
+			<Caption>Register editor</Caption>
+		</gbRegEditor>
+		<gbRegScanner>
+			<Caption>Registersökning</Caption>
+		</gbRegScanner>
+		<gbScanExclFolders>
+			<Caption>Exkludera mappar</Caption>
+		</gbScanExclFolders>
+		<gbScanExclKeys>
+			<Caption>Exkludera nycklar</Caption>
+		</gbScanExclKeys>
+		<gbScanInclFolders>
+			<Caption>Inkludera mappar</Caption>
+		</gbScanInclFolders>
+		<gbScanInclKeys>
+			<Caption>Inkludera nycklar</Caption>
+		</gbScanInclKeys>
+		<gbShellIntegration>
+			<Caption>Identifiering av skalintegrering</Caption>
+		</gbShellIntegration>
+		<gbSystemFiles>
+			<Caption>Identifiering av systemfiler</Caption>
+		</gbSystemFiles>
+		<gbTranslation>
+			<Caption>Översättning</Caption>
+		</gbTranslation>
+		<grpAlteredViewStyle>
+			<Caption>Poster ändrade i systemet</Caption>
+		</grpAlteredViewStyle>
+		<grpExistingViewStyle>
+			<Caption>Befintliga systemobjekt</Caption>
+		</grpExistingViewStyle>
+		<grpMissingViewStyle>
+			<Caption>Saknade systemobjekt</Caption>
+		</grpMissingViewStyle>
+		<lblAdvanced1>
+			<Caption>Avancerat</Caption>
+		</lblAdvanced1>
+		<lblAdvanced2>
+			<Caption>Avancerat</Caption>
+		</lblAdvanced2>
+		<lblAdvanced3>
+			<Caption>Avancerat</Caption>
+		</lblAdvanced3>
+		<lblAdvanced4>
+			<Caption>Avancerat</Caption>
+		</lblAdvanced4>
+		<lblAdvanced5>
+			<Caption>Avancerat</Caption>
+		</lblAdvanced5>
+		<lblAdvanced6>
+			<Caption>Avancerat</Caption>
+		</lblAdvanced6>
+		<lblAgentExcludeMask>
+			<Caption>Exkludera</Caption>
+		</lblAgentExcludeMask>
+		<lblAgentIncludeMask>
+			<Caption>Inkludera</Caption>
+		</lblAgentIncludeMask>
+		<lblAnalysisProfiles>
+			<Caption>Analyseringsprofiler</Caption>
+		</lblAnalysisProfiles>
+		<lblAnlProfileDesc>
+			<Caption>Beskrivning</Caption>
+		</lblAnlProfileDesc>
+		<lblAnlProfileName>
+			<Caption>Namn</Caption>
+		</lblAnlProfileName>
+		<lblAutorunViewName>
+			<Caption>Namn</Caption>
+		</lblAutorunViewName>
+		<lblAutorunViews>
+			<Caption>Autostart visning</Caption>
+		</lblAutorunViews>
+		<lblBackupLimiFolderSize>
+			<Caption>Begränsa mappstorlek (MB)</Caption>
+		</lblBackupLimiFolderSize>
+		<lblChageViewName>
+			<Caption>Namn</Caption>
+		</lblChageViewName>
+		<lblChangeViews>
+			<Caption>Ändra visning</Caption>
+		</lblChangeViews>
+		<lblCheckUpdateMethod>
+			<Caption>Kontrollera uppdateringar</Caption>
+		</lblCheckUpdateMethod>
+		<lblCheckUpdatesFrequency>
+			<Caption>Frekvens</Caption>
+		</lblCheckUpdatesFrequency>
+		<lblCleanerDescription>
+			<Caption>Beskrivning</Caption>
+		</lblCleanerDescription>
+		<lblCleanerName>
+			<Caption>Namn</Caption>
+		</lblCleanerName>
+		<lblCleaners>
+			<Caption>Rensningsprofiler</Caption>
+		</lblCleaners>
+		<lblCompareProfileDesc>
+			<Caption>Beskrivning</Caption>
+		</lblCompareProfileDesc>
+		<lblCompareProfileName>
+			<Caption>Namn</Caption>
+		</lblCompareProfileName>
+		<lblFolderSize>
+			<Caption>Mappstorlek (MB)</Caption>
+		</lblFolderSize>
+		<lblHexViewer>
+			<Caption>Hexvisning</Caption>
+		</lblHexViewer>
+		<lblLanguage>
+			<Caption>Språk</Caption>
+		</lblLanguage>
+		<lblNone1>
+			<Caption>Ingen</Caption>
+		</lblNone1>
+		<lblNone2>
+			<Caption>Ingen</Caption>
+		</lblNone2>
+		<lblNone3>
+			<Caption>Ingen</Caption>
+		</lblNone3>
+		<lblNone4>
+			<Caption>Ingen</Caption>
+		</lblNone4>
+		<lblNone5>
+			<Caption>Ingen</Caption>
+		</lblNone5>
+		<lblNone6>
+			<Caption>Ingen</Caption>
+		</lblNone6>
+		<lblProgramDataPath>
+			<Caption>Programsökväg</Caption>
+		</lblProgramDataPath>
+		<lblRedoDescription>
+			<Caption>Beskrivning</Caption>
+		</lblRedoDescription>
+		<lblRedoName>
+			<Caption>Namn</Caption>
+		</lblRedoName>
+		<lblRedoProfiles>
+			<Caption>Återställ profiler</Caption>
+		</lblRedoProfiles>
+		<lblScanningProfiles>
+			<Caption>Sökningsprofiler</Caption>
+		</lblScanningProfiles>
+		<lblScanProfileDesc>
+			<Caption>Beskrivning</Caption>
+		</lblScanProfileDesc>
+		<lblScanProfileName>
+			<Caption>Namn</Caption>
+		</lblScanProfileName>
+		<lblSimultaneousTasks>
+			<Caption>Parallella sökningar</Caption>
+		</lblSimultaneousTasks>
+		<lblSnsCompareProfiles>
+			<Caption>Jämförelseprofiler</Caption>
+		</lblSnsCompareProfiles>
+		<lblSnsCount>
+			<Caption>Antal ögonblicksbilder</Caption>
+		</lblSnsCount>
+		<lblTranslatedBy1>
+			<Caption>Översatt av Patrick Nielsen</Caption>
+		</lblTranslatedBy1>
+		<lblTranslatedBy2>
+			<Caption>Hemsida: www.martau.com</Caption>
+		</lblTranslatedBy2>
+		<lblTranslatedBy3>
+			<Caption>E-post: support@martau.com</Caption>
+		</lblTranslatedBy3>
+		<lblTxtViewer>
+			<Caption>Textvisning</Caption>
+		</lblTxtViewer>
+		<lblUninstallProfiles>
+			<Caption>Avinstallationsprofiler</Caption>
+		</lblUninstallProfiles>
+		<lblUninstallProfilesInst>
+			<Caption>Avinstallationsprofiler</Caption>
+		</lblUninstallProfilesInst>
+		<lblUninstDesc>
+			<Caption>Beskrivning</Caption>
+		</lblUninstDesc>
+		<lblUninstName>
+			<Caption>Namn</Caption>
+		</lblUninstName>
+		<lblUninstRemoveLog>
+			<Caption>Ta bort avinstallerat program från listan</Caption>
+		</lblUninstRemoveLog>
+		<lblUserInteraction>
+			<Caption>Använd första tillgängliga avinstallationsprogram</Caption>
+		</lblUserInteraction>
+		<rbDialog>
+			<Caption>Dialog</Caption>
+		</rbDialog>
+		<rbOtherRegEdit>
+			<Caption>Annat</Caption>
+		</rbOtherRegEdit>
+		<rbTrayBaloon>
+			<Caption>Aktivitetsfält</Caption>
+		</rbTrayBaloon>
+		<rbWinRegEdit>
+			<Caption>Windows register editor</Caption>
+		</rbWinRegEdit>
+		<rgAgentNotif>
+			<Caption>Notifiering vid start av installationsprogram</Caption>
+		</rgAgentNotif>
+		<tabAnlFileSystem>
+			<Caption>Filsystem</Caption>
+		</tabAnlFileSystem>
+		<tabAnlGeneral>
+			<Caption>Allmänt</Caption>
+		</tabAnlGeneral>
+		<tabAutorunViewGeneral>
+			<Caption>Allmänt</Caption>
+		</tabAutorunViewGeneral>
+		<tabAutorunViewView>
+			<Caption>Visa</Caption>
+		</tabAutorunViewView>
+		<tabChageViewFileSystem>
+			<Caption>Filsystem</Caption>
+		</tabChageViewFileSystem>
+		<tabChageViewGeneral>
+			<Caption>Allmänt</Caption>
+		</tabChageViewGeneral>
+		<tabChageViewRegistry>
+			<Caption>Register</Caption>
+		</tabChageViewRegistry>
+		<tabChageViewView>
+			<Caption>Visa</Caption>
+		</tabChageViewView>
+		<tabCleanerFileSystem>
+			<Caption>Filsystem</Caption>
+		</tabCleanerFileSystem>
+		<tabCleanerGen>
+			<Caption>Allmänt</Caption>
+		</tabCleanerGen>
+		<tabCleanerReg>
+			<Caption>Register</Caption>
+		</tabCleanerReg>
+		<tabCmpProfileFileSys>
+			<Caption>Filsystem</Caption>
+		</tabCmpProfileFileSys>
+		<tabCompareProfileGen>
+			<Caption>Allmänt</Caption>
+		</tabCompareProfileGen>
+		<tabCompareProfileReg>
+			<Caption>Register</Caption>
+		</tabCompareProfileReg>
+		<tabRedoAdvanced>
+			<Caption>Avancerad</Caption>
+		</tabRedoAdvanced>
+		<tabRedoFileSystem>
+			<Caption>Filsystem</Caption>
+		</tabRedoFileSystem>
+		<tabRedoGeneral>
+			<Caption>Allmänt</Caption>
+		</tabRedoGeneral>
+		<tabRedoRegistry>
+			<Caption>Register</Caption>
+		</tabRedoRegistry>
+		<tabScanProfileFolders>
+			<Caption>Filsystem</Caption>
+		</tabScanProfileFolders>
+		<tabScanProfileGeneral>
+			<Caption>Allmänt</Caption>
+		</tabScanProfileGeneral>
+		<tabScanProfileRegistry>
+			<Caption>Register</Caption>
+		</tabScanProfileRegistry>
+		<tabUninstAdv>
+			<Caption>Avancerat</Caption>
+		</tabUninstAdv>
+		<tabUninstFS>
+			<Caption>Filsystem</Caption>
+		</tabUninstFS>
+		<tabUninstGeneral>
+			<Caption>Allmänt</Caption>
+		</tabUninstGeneral>
+		<tabUninstRegistry>
+			<Caption>Register</Caption>
+		</tabUninstRegistry>
+		<tblAnlRegistry>
+			<Caption>Register</Caption>
+		</tblAnlRegistry>
+	</dlgTUOptions>
+	<dlgUninstall>
+		<btnBringToFront>
+			<Caption>Flytta längst fram</Caption>
+		</btnBringToFront>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnUninstall>
+			<Caption>Avinstallation</Caption>
+		</btnUninstall>
+		<lblCreatingRestorePnt>
+			<Caption>Skapar systemåterställningspunkt...</Caption>
+		</lblCreatingRestorePnt>
+		<lblProfile>
+			<Caption>Välj profil för avinstallation</Caption>
+		</lblProfile>
+		<lblUninstalling>
+			<Caption>Avinstallation...</Caption>
+		</lblUninstalling>
+		<lblWaitTitle>
+			<Caption>Vänta och låt medföljande Lägg till/Ta bort program avsluta</Caption>
+		</lblWaitTitle>
+	</dlgUninstall>
+	<frmInstall>
+		<btnBrowseSetup>
+			<Caption>&amp;Öppna...</Caption>
+		</btnBrowseSetup>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnCompleteLater>
+			<Caption>&amp;Färdigställ övervakningsprocessen senare</Caption>
+		</btnCompleteLater>
+		<btnLaunchSetup>
+			<Caption>&amp;Starta installationsprogrammet</Caption>
+		</btnLaunchSetup>
+		<btnNext>
+			<Caption>Nästa</Caption>
+		</btnNext>
+		<btnProgramIsInstalled>
+			<Caption>Programmet är installerat</Caption>
+		</btnProgramIsInstalled>
+		<btnSuggest>
+			<Caption>Förslag</Caption>
+		</btnSuggest>
+		<lblCreateLog>
+			<Caption>Skapa installationslogg</Caption>
+		</lblCreateLog>
+		<lblCreateOrSelectSns>
+			<Caption>Före installation skapa ny eller välj tidigare ögonblicksbild av systemet.</Caption>
+		</lblCreateOrSelectSns>
+		<lblCreatePreInstallSns>
+			<Caption>Skapa ögonblicksbild av systemet</Caption>
+		</lblCreatePreInstallSns>
+		<lblCreatingLog>
+			<Caption>Skapar installationslogg</Caption>
+		</lblCreatingLog>
+		<lblCreatingSystemSns>
+			<Caption>Skapar ögonblicksbild av systemet</Caption>
+		</lblCreatingSystemSns>
+		<lblFinish>
+			<Caption>Installationslogg skapades framgångsrikt</Caption>
+		</lblFinish>
+		<lblInstallMonProgram>
+			<Caption>Installera övervakat program</Caption>
+		</lblInstallMonProgram>
+		<lblProfiles>
+			<Caption>&amp;Sökningsprofil</Caption>
+		</lblProfiles>
+		<lblProgramName>
+			<Caption>&amp;Programnamn</Caption>
+		</lblProgramName>
+		<lblProgramSetupPath>
+			<Caption>&amp;Installationens sökväg</Caption>
+		</lblProgramSetupPath>
+		<lblSnsName>
+			<Caption>Ögonblicksbilds namn</Caption>
+		</lblSnsName>
+		<lblSpecifySnsName>
+			<Caption>&amp;Ange namn för installationens ögonblicksbild</Caption>
+		</lblSpecifySnsName>
+		<rbNewSnapshot>
+			<Caption>&amp;Skapa en ny ögonblicksbild av systemet (rekommenderas)</Caption>
+		</rbNewSnapshot>
+		<rbUseLastSnapshot>
+			<Caption>&amp;Använd senaste ögonblicksbild</Caption>
+		</rbUseLastSnapshot>
+	</frmInstall>
+	<frmTUMain>
+		<btnAddProgramToList>
+			<Caption>Lägg till ett program i listan...</Caption>
+			<Notes>Dra och släpp en genväg eller tryck på knappen och ge åtminstone ett namn för att starta den tvingade avinstallationen\n</Notes>
+		</btnAddProgramToList>
+		<btnClear>
+			<Caption>Rensa</Caption>
+		</btnClear>
+		<btnGroupAddChild>
+			<Caption>Lägg till undergrupp...</Caption>
+		</btnGroupAddChild>
+		<btnGroupAddRoot>
+			<Caption>Lägg till huvudgrupp...</Caption>
+		</btnGroupAddRoot>
+		<btnGroupEdit>
+			<Caption>Redigera grupp...</Caption>
+		</btnGroupEdit>
+		<btnGroupMoveToRoot>
+			<Caption>Flytta till huvudgrupp</Caption>
+		</btnGroupMoveToRoot>
+		<btnGroupRemove>
+			<Caption>Ta bort grupp</Caption>
+		</btnGroupRemove>
+		<btnSearch>
+			<Caption>Start</Caption>
+		</btnSearch>
+		<cbBundle>
+			<Caption>Flera</Caption>
+		</cbBundle>
+		<cbCaseSensitive>
+			<Caption>Skiftlägeskänslig</Caption>
+		</cbCaseSensitive>
+		<cbChanged>
+			<Caption>Ändrad</Caption>
+		</cbChanged>
+		<cbCreated>
+			<Caption>Skapad</Caption>
+		</cbCreated>
+		<cbData>
+			<Caption>Data</Caption>
+		</cbData>
+		<cbDeleted>
+			<Caption>Raderad</Caption>
+		</cbDeleted>
+		<cbFiles>
+			<Caption>Filer</Caption>
+		</cbFiles>
+		<cbFolders>
+			<Caption>Mappar</Caption>
+		</cbFolders>
+		<cbKeys>
+			<Caption>Nycklar</Caption>
+		</cbKeys>
+		<cbSearchMask>
+			<Caption>Sökmask</Caption>
+		</cbSearchMask>
+		<cbUnchanged>
+			<Caption>Oförändrad</Caption>
+		</cbUnchanged>
+		<cbValues>
+			<Caption>Värden</Caption>
+		</cbValues>
+		<Copy1>
+			<Caption>Kopiera</Caption>
+			<Hint>Kopiera valda filer till Urklipp</Hint>
+		</Copy1>
+		<Copy2>
+			<Caption>Kopiera</Caption>
+			<Hint>Kopiera valda filer till Urklipp</Hint>
+		</Copy2>
+		<gbAdvanced>
+			<Caption>Avancerat</Caption>
+		</gbAdvanced>
+		<gbChanges>
+			<Caption>Objekt</Caption>
+		</gbChanges>
+		<gbFileSystem>
+			<Caption>Filsystem</Caption>
+		</gbFileSystem>
+		<gbRegistry>
+			<Caption>Register</Caption>
+		</gbRegistry>
+		<gbScope>
+			<Caption>Sök i</Caption>
+		</gbScope>
+		<miAddtoCompareIgnoreList>
+			<Caption>Uteslut från jämförelseprofil</Caption>
+			<Hint>Lägg till valt objekt i ignoreralista i alla jämförelseprofiler</Hint>
+		</miAddtoCompareIgnoreList>
+		<miAddtoScanExcludeList>
+			<Caption>Uteslut från sökningsprofil</Caption>
+			<Hint>Lägg till valt objekt i ignoreralista i alla sökningsprofiler</Hint>
+		</miAddtoScanExcludeList>
+		<miAppSendTo>
+			<Caption>Skicka till grupp</Caption>
+		</miAppSendTo>
+		<miAutorunManager>
+			<Caption>Autostart hanterare</Caption>
+		</miAutorunManager>
+		<miChanges>
+			<Caption>Ändringar</Caption>
+			<Hint>Upptäckta ändringar|Visa upptäckta systemändringar som gjorts av aktuellt program</Hint>
+		</miChanges>
+		<miCleaner>
+			<Caption>Rensning</Caption>
+			<Hint>Rensning</Hint>
+		</miCleaner>
+		<miClnItems>
+			<Caption>Objekt</Caption>
+		</miClnItems>
+		<miClnSummary>
+			<Caption>Översikt</Caption>
+			<Hint>Översikt|Visa en kortfattad information av aktuellt program</Hint>
+		</miClnSummary>
+		<miCollapse>
+			<Caption>Komprimera</Caption>
+			<Hint>Komprimera aktiv trädnod</Hint>
+		</miCollapse>
+		<miCopyDetail>
+			<Caption>Kopiera</Caption>
+		</miCopyDetail>
+		<miDeleteCompletely>
+			<Caption>Ta bort helt</Caption>
+			<Hint>Ta bort valda objekt från logg och system</Hint>
+		</miDeleteCompletely>
+		<miDeletefromSystemOnly>
+			<Caption>Ta endast bort från system</Caption>
+			<Hint>Ta endast bort valda objekt från system</Hint>
+		</miDeletefromSystemOnly>
+		<miEdit>
+			<Caption>&amp;Redigera</Caption>
+		</miEdit>
+		<miEditAutorunLocateEntry>
+			<Caption>Lokalisera autostart plats</Caption>
+		</miEditAutorunLocateEntry>
+		<miEditAutorunLocateTarget>
+			<Caption>Lokalisera mål</Caption>
+		</miEditAutorunLocateTarget>
+		<miEditAutorunRun>
+			<Caption>Kör</Caption>
+		</miEditAutorunRun>
+		<miEditAutorunStop>
+			<Caption>Stopp</Caption>
+		</miEditAutorunStop>
+		<miEditAutorunTargetProperties>
+			<Caption>Målegenskaper</Caption>
+		</miEditAutorunTargetProperties>
+		<miEditRedo>
+			<Caption>Återskapa</Caption>
+			<Hint>Återskapa valda ändringar till system</Hint>
+		</miEditRedo>
+		<miEditRedoDepth>
+			<Caption>Återskapa djup</Caption>
+			<Hint>Återskapa djup av valda ändringar till system</Hint>
+		</miEditRedoDepth>
+		<miEditRestoreFromBackup>
+			<Caption>Återställ från säkerhetskopia</Caption>
+			<Hint>Återställ valda filer, mappar och undermappar från säkerhetskopia</Hint>
+		</miEditRestoreFromBackup>
+		<miEditUndo>
+			<Caption>Ångra</Caption>
+			<Hint>Ångra valda ändringar från system</Hint>
+		</miEditUndo>
+		<miEditUndoDepth>
+			<Caption>Ångra djup</Caption>
+			<Hint>Ångra djup i valda ändringar från system</Hint>
+		</miEditUndoDepth>
+		<miExpand>
+			<Caption>Expandera</Caption>
+			<Hint>Expandera aktiv trädnod</Hint>
+		</miExpand>
+		<miExpChanges>
+			<Caption>Förändringar...</Caption>
+			<Hint>Exportera förändringar</Hint>
+		</miExpChanges>
+		<miExpInstalledApps>
+			<Caption>Installerade program...</Caption>
+			<Hint>Exportera lista av installerade program</Hint>
+		</miExpInstalledApps>
+		<miExpMonitoredApps>
+			<Caption>Övervakade program...</Caption>
+			<Hint>Exportera lista av övervakade program</Hint>
+		</miExpMonitoredApps>
+		<miExport>
+			<Caption>Exportera</Caption>
+		</miExport>
+		<miExpRegistry>
+			<Caption>Registerändringar...</Caption>
+			<Hint>Exportera registerändringar för installation eller avinstallation</Hint>
+		</miExpRegistry>
+		<miExpUninstallLog>
+			<Caption>Avinstallationslogg...</Caption>
+			<Hint>Exportera avinstallationslogg</Hint>
+		</miExpUninstallLog>
+		<miFile>
+			<Caption>&amp;Arkiv</Caption>
+		</miFile>
+		<miFileAddInstalledPrg>
+			<Caption>Lägg till program i listan...</Caption>
+		</miFileAddInstalledPrg>
+		<miFileAnalyze>
+			<Caption>Analysera</Caption>
+			<Hint>Analysera|Analysera systemändringar av det aktuella programmet</Hint>
+		</miFileAnalyze>
+		<miFileAutorunAdd>
+			<Caption>Lägg till</Caption>
+		</miFileAutorunAdd>
+		<miFileAutorunDelete>
+			<Caption>Ta bort</Caption>
+		</miFileAutorunDelete>
+		<miFileChange>
+			<Caption>Ändra</Caption>
+			<Hint>Reparera, ändra eller avinstallera</Hint>
+		</miFileChange>
+		<miFileChangeIcon>
+			<Caption>Byt ikon...</Caption>
+		</miFileChangeIcon>
+		<miFileClnClean>
+			<Caption>Rensning</Caption>
+			<Hint>Rensning</Hint>
+		</miFileClnClean>
+		<miFileClnScan>
+			<Caption>Sök</Caption>
+			<Hint>Sök|Sök efter objekt</Hint>
+		</miFileClnScan>
+		<miFileCreateBackup>
+			<Caption>Skapa en säkerhetskopia av programmet...</Caption>
+		</miFileCreateBackup>
+		<miFileDelete>
+			<Caption>Radera</Caption>
+			<Hint>Ta bort aktuell installationslogg</Hint>
+		</miFileDelete>
+		<miFileEditProgram>
+			<Caption>Redigera program...</Caption>
+		</miFileEditProgram>
+		<miFileExit>
+			<Caption>Avsluta</Caption>
+			<Hint>Avsluta programmet</Hint>
+		</miFileExit>
+		<miFileGroupAddChild>
+			<Caption>Lägg till undergrupp...</Caption>
+		</miFileGroupAddChild>
+		<miFileGroupAddRoot>
+			<Caption>Lägg till huvudgrupp...</Caption>
+		</miFileGroupAddRoot>
+		<miFileGroupEdit>
+			<Caption>Redigera grupp...</Caption>
+		</miFileGroupEdit>
+		<miFileGroupMoveToRoot>
+			<Caption>Flytta till huvudgrupp</Caption>
+		</miFileGroupMoveToRoot>
+		<miFileGroupRemove>
+			<Caption>Ta bort grupp</Caption>
+		</miFileGroupRemove>
+		<miFileInstall>
+			<Caption>Installera nytt...</Caption>
+			<Hint>Övervaka installation av nytt program</Hint>
+		</miFileInstall>
+		<miFileInstallUpdate>
+			<Caption>Installera uppdatering...</Caption>
+			<Hint>Installera uppdatering|Övervaka installation av uppdatering för aktuellt program</Hint>
+		</miFileInstallUpdate>
+		<miFileNotes>
+			<Caption>Anteckningar...</Caption>
+			<Hint>Lägg till anteckningar i aktuell installationslogg</Hint>
+		</miFileNotes>
+		<miFilePrint>
+			<Caption>Skriv ut</Caption>
+		</miFilePrint>
+		<miFileReload>
+			<Caption>Uppdatera</Caption>
+		</miFileReload>
+		<miFileRemoveInstalledPrg>
+			<Caption>Ta bort programmet från listan</Caption>
+		</miFileRemoveInstalledPrg>
+		<miFileRename>
+			<Caption>Byt namn...</Caption>
+			<Hint>Byt namn på aktuell installationslogg</Hint>
+		</miFileRename>
+		<miFileRestoreBackup>
+			<Caption>Återställ program från säkerhetskopia...</Caption>
+		</miFileRestoreBackup>
+		<miFileSave>
+			<Caption>&amp;Spara</Caption>
+			<Hint>Spara ändringar från aktuell installationslogg</Hint>
+		</miFileSave>
+		<miFileSaveAs>
+			<Caption>Spara som...</Caption>
+		</miFileSaveAs>
+		<miFileSendTo>
+			<Caption>Skicka till grupp</Caption>
+		</miFileSendTo>
+		<miFileUndoRestoration>
+			<Caption>Ångra återställning...</Caption>
+		</miFileUndoRestoration>
+		<miFileUninstall>
+			<Caption>Avinstallera...</Caption>
+		</miFileUninstall>
+		<miHelp>
+			<Caption>&amp;Hjälp</Caption>
+		</miHelp>
+		<miHelpAbout>
+			<Caption>Om...</Caption>
+			<Hint>Visar programinformation, versionsnummer och copyright</Hint>
+		</miHelpAbout>
+		<miHelpCheckForUpdates>
+			<Caption>Sök efter uppdateringar...</Caption>
+			<Hint>Kontrollera upphovsmans webbplats för produktuppdateringar</Hint>
+		</miHelpCheckForUpdates>
+		<miHelpContents>
+			<Caption>Innehåll</Caption>
+			<Hint>Visa hjälpinnehåll</Hint>
+		</miHelpContents>
+		<miHelpHomePage>
+			<Caption>Hemsida</Caption>
+		</miHelpHomePage>
+		<miHelpPurchase>
+			<Caption>Köp</Caption>
+		</miHelpPurchase>
+		<miHelpRegister>
+			<Caption>Registrera...</Caption>
+			<Hint>Registrera programmet Total Uninstall</Hint>
+		</miHelpRegister>
+		<miHexView>
+			<Caption>Hexvisning</Caption>
+			<Hint>Öppna fil i Hex Editor</Hint>
+		</miHexView>
+		<miImport>
+			<Caption>Importera</Caption>
+		</miImport>
+		<miInstalledPrograms>
+			<Caption>Installerade program</Caption>
+			<Hint>Installerade program|Byt till Installerade program</Hint>
+		</miInstalledPrograms>
+		<miList>
+			<Caption>Lista</Caption>
+		</miList>
+		<miListGroupNotes>
+			<Caption>Anteckningar grupp</Caption>
+		</miListGroupNotes>
+		<miListLargeIcons>
+			<Caption>Stora ikoner</Caption>
+		</miListLargeIcons>
+		<miListProgramNotes>
+			<Caption>Anteckningar program</Caption>
+		</miListProgramNotes>
+		<miListSmallIcons>
+			<Caption>Små ikoner</Caption>
+		</miListSmallIcons>
+		<miModules>
+			<Caption>&amp;Moduler</Caption>
+		</miModules>
+		<miMonAppsGroupAddChild>
+			<Caption>Lägg till undergrupp...</Caption>
+		</miMonAppsGroupAddChild>
+		<miMonAppsGroupAddRoot>
+			<Caption>Lägg till huvudgrupp...</Caption>
+		</miMonAppsGroupAddRoot>
+		<miMonAppsGroupEdit>
+			<Caption>Redigera grupp...</Caption>
+		</miMonAppsGroupEdit>
+		<miMonAppsGroupMoveToRoot>
+			<Caption>Flytta till huvudgrupp</Caption>
+		</miMonAppsGroupMoveToRoot>
+		<miMonAppsGroupRemove>
+			<Caption>Ta bort grupp</Caption>
+		</miMonAppsGroupRemove>
+		<miMonitoredPrograms>
+			<Caption>Övervakade program</Caption>
+			<Hint>Övervakade program|Byt till Övervakade program</Hint>
+		</miMonitoredPrograms>
+		<miOpen>
+			<Caption>Öppna</Caption>
+			<Hint>Öppna fil, mapp eller gå till nyckel i Register Editor</Hint>
+		</miOpen>
+		<miPendingFileRenameOp>
+			<Caption>Väntande filnamnsändringar...</Caption>
+			<Hint>Visa och tillämpa väntande filnamnsändringar</Hint>
+		</miPendingFileRenameOp>
+		<miPrgAddInstalledPrg>
+			<Caption>Lägg till program i lista...</Caption>
+		</miPrgAddInstalledPrg>
+		<miPrgAnalyze>
+			<Caption>&amp;Analysera</Caption>
+			<Hint>Analysera|Analysera systemändringar av det aktuella programmet</Hint>
+		</miPrgAnalyze>
+		<miPrgChangeIcon>
+			<Caption>Byt ikon...</Caption>
+		</miPrgChangeIcon>
+		<miPrgDelete>
+			<Caption>Radera</Caption>
+			<Hint>Ta bort aktuell installationslogg</Hint>
+		</miPrgDelete>
+		<miPrgEditInstalledPrg>
+			<Caption>Redigera program...</Caption>
+		</miPrgEditInstalledPrg>
+		<miPrgNotes>
+			<Caption>Anteckningar...</Caption>
+			<Hint>Lägg till anteckningar i aktuell installationslogg</Hint>
+		</miPrgNotes>
+		<miPrgRemoveInstalledPrg>
+			<Caption>Ta bort programmet från listan</Caption>
+		</miPrgRemoveInstalledPrg>
+		<miPrgRename>
+			<Caption>Byt namn...</Caption>
+			<Hint>Byt namn på aktuell installationslogg</Hint>
+		</miPrgRename>
+		<miPrintChanges>
+			<Caption>Förändringar...</Caption>
+			<Hint>Skriv ut förändringar</Hint>
+		</miPrintChanges>
+		<miPrintInstalledPrograms>
+			<Caption>Installerade program...</Caption>
+		</miPrintInstalledPrograms>
+		<miPrintMonitoredPrograms>
+			<Caption>Övervakade program...</Caption>
+		</miPrintMonitoredPrograms>
+		<miProperties>
+			<Caption>Egenskaper</Caption>
+			<Hint>Visa egenskaper för vald fil eller mapp</Hint>
+		</miProperties>
+		<miRemovefromLog>
+			<Caption>Ta bort från logg</Caption>
+			<Hint>Ta bort valda objekt från logg</Hint>
+		</miRemovefromLog>
+		<miSnsTreeOpen>
+			<Caption>Öppna</Caption>
+		</miSnsTreeOpen>
+		<miSummary>
+			<Caption>Översikt</Caption>
+			<Hint>Översikt|Visa en kortfattad information av aktuellt program</Hint>
+		</miSummary>
+		<miTextView>
+			<Caption>Textvisning</Caption>
+			<Hint>Öppna fil i Text Editor</Hint>
+		</miTextView>
+		<miToolbarLarge>
+			<Caption>Stor</Caption>
+		</miToolbarLarge>
+		<miToolbarMedium>
+			<Caption>Medium</Caption>
+		</miToolbarMedium>
+		<miToolbarSmall>
+			<Caption>Liten</Caption>
+		</miToolbarSmall>
+		<miTools>
+			<Caption>&amp;Verktyg</Caption>
+		</miTools>
+		<miToolsCompareSnapshots>
+			<Caption>Jämför ögonblicksbilder av systemet...</Caption>
+		</miToolsCompareSnapshots>
+		<miToolsFind>
+			<Caption>Sök</Caption>
+			<Hint>Sök|Sök efter text i upptäckta förändringar</Hint>
+		</miToolsFind>
+		<miToolsMergeLogs>
+			<Caption>Sammanfoga loggfiler...</Caption>
+		</miToolsMergeLogs>
+		<miToolsOptions>
+			<Caption>Inställningar...</Caption>
+			<Hint>Konfigurera inställningar av program</Hint>
+		</miToolsOptions>
+		<miToolsSystemRestore>
+			<Caption>Systemåterställning</Caption>
+		</miToolsSystemRestore>
+		<miULogSuccessful>
+			<Caption>Åtgärd lyckades</Caption>
+			<Hint>Visa eller dölj lyckade åtgärder från avinstallationslogg</Hint>
+		</miULogSuccessful>
+		<miULogWarnings>
+			<Caption>Varning</Caption>
+			<Hint>Visa eller dölj varning från avinstallationslogg</Hint>
+		</miULogWarnings>
+		<miUninstallLog>
+			<Caption>Avinstallationslogg</Caption>
+			<Hint>Avinstallationslogg|Visa programmets avinstallationslogg</Hint>
+		</miUninstallLog>
+		<miUninstallLogDet>
+			<Caption>Detaljer avinstallationslogg</Caption>
+		</miUninstallLogDet>
+		<miView>
+			<Caption>&amp;Visa</Caption>
+		</miView>
+		<miViewAutoGroupPrograms>
+			<Caption>Autogruppera program</Caption>
+		</miViewAutoGroupPrograms>
+		<miViewBundle>
+			<Caption>Flera</Caption>
+		</miViewBundle>
+		<miViewColorScheme>
+			<Caption>Färgschema</Caption>
+		</miViewColorScheme>
+		<miViewDetails>
+			<Caption>Detaljer</Caption>
+			<Hint>Detaljer av program|Visa eller dölj detaljer av program</Hint>
+		</miViewDetails>
+		<miViewItemCurrentView>
+			<Caption>Aktuell visning</Caption>
+		</miViewItemCurrentView>
+		<miViewItemDetails>
+			<Caption>Detaljer objekt</Caption>
+			<Hint>Visa eller dölj detaljer i vald nod</Hint>
+		</miViewItemDetails>
+		<miViewNavigator>
+			<Caption>Program</Caption>
+			<Hint>Programlista|Visa eller dölj programlista</Hint>
+		</miViewNavigator>
+		<miViewRefresh>
+			<Caption>Uppdatera</Caption>
+		</miViewRefresh>
+		<miViewStatusBar>
+			<Caption>Statusfält</Caption>
+			<Hint>Visa eller dölj statusfält</Hint>
+		</miViewStatusBar>
+		<miViewSystemComponents>
+			<Caption>Systemkomponenter</Caption>
+		</miViewSystemComponents>
+		<miViewToolbars>
+			<Caption>Verktygsfält</Caption>
+		</miViewToolbars>
+		<miViewToolbarsBtnCaption>
+			<Caption>Knapp bildtext</Caption>
+			<Hint>Visa eller dölj verktygsfältets bildtexter</Hint>
+		</miViewToolbarsBtnCaption>
+		<miViewToolbarsBtnSize>
+			<Caption>Knappstorlek</Caption>
+		</miViewToolbarsBtnSize>
+		<miViewToolbarsBtnWordWrap>
+			<Caption>Radbrytning för rubrik</Caption>
+		</miViewToolbarsBtnWordWrap>
+		<miViewToolbarsTbrCaption>
+			<Caption>Verktygsfält bildtext</Caption>
+			<Hint>Visa eller dölj verktygsfältets bildtexter</Hint>
+		</miViewToolbarsTbrCaption>
+		<miViewToolbarsVisible>
+			<Caption>Synlig</Caption>
+			<Hint>Visa eller dölj verktygsfält</Hint>
+		</miViewToolbarsVisible>
+		<miWindowsApps>
+			<Caption>Windows Appar</Caption>
+		</miWindowsApps>
+		<pmiAutorunAdd>
+			<Caption>Lägg till</Caption>
+		</pmiAutorunAdd>
+		<pmiAutorunDelete>
+			<Caption>Ta bort</Caption>
+		</pmiAutorunDelete>
+		<pmiAutorunLocateEntry>
+			<Caption>Lokalisera autostart plats</Caption>
+		</pmiAutorunLocateEntry>
+		<pmiAutorunLocateTarget>
+			<Caption>Lokalisera mål</Caption>
+		</pmiAutorunLocateTarget>
+		<pmiAutorunRun>
+			<Caption>Kör</Caption>
+		</pmiAutorunRun>
+		<pmiAutorunStop>
+			<Caption>Stopp</Caption>
+		</pmiAutorunStop>
+		<pmiAutorunTargetProperties>
+			<Caption>Målegenskaper</Caption>
+		</pmiAutorunTargetProperties>
+		<pmiChgTreeCompareExcl>
+			<Caption>Uteslut från jämförelseprofil</Caption>
+			<Hint>Lägg till valt objekt i ignoreringslista till alla jämförelseprofiler</Hint>
+		</pmiChgTreeCompareExcl>
+		<pmiChgTreeDelete>
+			<Caption>Ta bort helt</Caption>
+			<Hint>Ta bort valda objekt från logg och från system</Hint>
+		</pmiChgTreeDelete>
+		<pmiChgTreeDelSys>
+			<Caption>Ta endast bort från system</Caption>
+			<Hint>Ta endast bort valda objekt från system</Hint>
+		</pmiChgTreeDelSys>
+		<pmiChgTreeExportRegistryChanges>
+			<Caption>Exportera registerändringar...</Caption>
+			<Hint>Exportera registerändringar för ominstallation eller avinstallation</Hint>
+		</pmiChgTreeExportRegistryChanges>
+		<pmiChgTreeHexView>
+			<Caption>Hexvisning</Caption>
+			<Hint>Öppna fil i Hex Editor</Hint>
+		</pmiChgTreeHexView>
+		<pmiChgTreeOpen>
+			<Caption>Öppna</Caption>
+			<Hint>Öppna fil, mapp eller gå till nyckel i Register Editor</Hint>
+		</pmiChgTreeOpen>
+		<pmiChgTreeProperties>
+			<Caption>Egenskaper</Caption>
+			<Hint>Visa egenskaper för vald fil eller mapp</Hint>
+		</pmiChgTreeProperties>
+		<pmiChgTreeRedo>
+			<Caption>Återställ</Caption>
+			<Hint>Återställ valda ändringar</Hint>
+		</pmiChgTreeRedo>
+		<pmiChgTreeRedoDepth>
+			<Caption>Återställ djup</Caption>
+			<Hint>Återställ valt djup</Hint>
+		</pmiChgTreeRedoDepth>
+		<pmiChgTreeRemove>
+			<Caption>Ta bort från logg</Caption>
+			<Hint>Ta bort valda objekt från logg</Hint>
+		</pmiChgTreeRemove>
+		<pmiChgTreeRestoreFromBackup>
+			<Caption>Återställ från säkerhetskopia</Caption>
+			<Hint>Återställ valda filer, mappar och undermappar från säkerhetskopia</Hint>
+		</pmiChgTreeRestoreFromBackup>
+		<pmiChgTreeScanExcl>
+			<Caption>Uteslut från sökningsprofil</Caption>
+			<Hint>Uteslut valt objekt i alla sökningsprofiler</Hint>
+		</pmiChgTreeScanExcl>
+		<pmiChgTreeTextView>
+			<Caption>Textvisning</Caption>
+			<Hint>Öppna fil i Text Editor</Hint>
+		</pmiChgTreeTextView>
+		<pmiChgTreeUndo>
+			<Caption>Ångra</Caption>
+			<Hint>Ångra valda ändringar</Hint>
+		</pmiChgTreeUndo>
+		<pmiChgTreeUndoDepth>
+			<Caption>Ångra djup</Caption>
+			<Hint>Ångra valt djup</Hint>
+		</pmiChgTreeUndoDepth>
+		<pmiClnExclude>
+			<Caption>Exkludera</Caption>
+		</pmiClnExclude>
+		<pmiClnSelectBranch>
+			<Caption>Välj gren</Caption>
+		</pmiClnSelectBranch>
+		<pmiClnUnselectBranch>
+			<Caption>Avmarkera gren</Caption>
+		</pmiClnUnselectBranch>
+		<pmiCopySummary>
+			<Caption>Kopiera</Caption>
+		</pmiCopySummary>
+		<pmiInstAppsHeaderAutoResize>
+			<Caption>Ändra storlek automatiskt</Caption>
+		</pmiInstAppsHeaderAutoResize>
+		<pmiLocate>
+			<Caption>Ange plats</Caption>
+		</pmiLocate>
+		<pmiMonAppsHeaderAutoResize>
+			<Caption>Ändra storlek automatiskt</Caption>
+		</pmiMonAppsHeaderAutoResize>
+		<pmiShowSuccessful>
+			<Caption>Lyckade åtgärder</Caption>
+			<Hint>Visa eller dölj lyckade åtgärder från avinstallationslogg</Hint>
+		</pmiShowSuccessful>
+		<pmiShowWarnings>
+			<Caption>Varning</Caption>
+			<Hint>Visa eller dölj varning från avinstallationslogg</Hint>
+		</pmiShowWarnings>
+		<pmiTrayRestore>
+			<Caption>Återställ</Caption>
+		</pmiTrayRestore>
+		<rbAll>
+			<Caption>Alla program</Caption>
+		</rbAll>
+		<rbSelection>
+			<Caption>Valt objekt</Caption>
+		</rbSelection>
+		<sbAppClose>
+			<Hint>Stäng|Stäng</Hint>
+		</sbAppClose>
+		<sbDetailsClose>
+			<Hint>Stäng|Stäng</Hint>
+		</sbDetailsClose>
+		<sbSearchClose>
+			<Hint>Stäng|Stäng</Hint>
+		</sbSearchClose>
+		<tabOptions>
+			<Caption>Inställningar</Caption>
+		</tabOptions>
+		<tabResults>
+			<Caption>Resultat</Caption>
+		</tabResults>
+		<tbrActions>
+			<Caption>Åtgärder</Caption>
+		</tbrActions>
+		<tbrDetails>
+			<Caption>Detaljer</Caption>
+		</tbrDetails>
+		<tbrLayout>
+			<Caption>Layout</Caption>
+		</tbrLayout>
+		<tbrModules>
+			<Caption>Moduler</Caption>
+		</tbrModules>
+		<tbrView>
+			<Caption>Visa</Caption>
+		</tbrView>
+		<tbtnAnalyze>
+			<Caption>Analysera</Caption>
+			<Hint>Analysera|Analysera systemändringar av det aktuella programmet</Hint>
+		</tbtnAnalyze>
+		<tbtnArAdd>
+			<Caption>Lägg till</Caption>
+		</tbtnArAdd>
+		<tbtnArDelete>
+			<Caption>Ta bort</Caption>
+		</tbtnArDelete>
+		<tbtnArRun>
+			<Caption>Kör</Caption>
+		</tbtnArRun>
+		<tbtnArStop>
+			<Caption>Stopp</Caption>
+		</tbtnArStop>
+		<tbtnAutorunMgr>
+			<Caption>Autostart hanterare</Caption>
+		</tbtnAutorunMgr>
+		<tbtnChanges>
+			<Caption>Ändringar</Caption>
+			<Hint>Upptäckta ändringar|Visa upptäckta systemändringar som gjorts av aktuellt program</Hint>
+		</tbtnChanges>
+		<tbtnChgView>
+			<Caption>Visa</Caption>
+			<Hint>Visa|Tillämpa ändrad visning</Hint>
+		</tbtnChgView>
+		<tbtnCleaner>
+			<Caption>Rensning</Caption>
+			<Hint>Rensning</Hint>
+		</tbtnCleaner>
+		<tbtnClnClean>
+			<Caption>Rensa</Caption>
+			<Hint>Rensa</Hint>
+		</tbtnClnClean>
+		<tbtnClnItems>
+			<Caption>Objekt</Caption>
+		</tbtnClnItems>
+		<tbtnClnScan>
+			<Caption>Sök</Caption>
+			<Hint>Sök|Sök efter objekt</Hint>
+		</tbtnClnScan>
+		<tbtnClnSummary>
+			<Caption>Översikt</Caption>
+			<Hint>Översikt|Visa en kortfattad översikt av aktuellt program</Hint>
+		</tbtnClnSummary>
+		<tbtnCollapse>
+			<Caption>Komprimera</Caption>
+			<Hint>Komprimera|Full komprimering av aktiv trädnod</Hint>
+		</tbtnCollapse>
+		<tbtnDetails>
+			<Caption>Detaljer</Caption>
+			<Hint>Detaljer program|Visa eller dölj detaljer av program</Hint>
+		</tbtnDetails>
+		<tbtnExpand>
+			<Caption>Expandera</Caption>
+			<Hint>Expandera|Full expandering av aktiv trädnod</Hint>
+		</tbtnExpand>
+		<tbtnInstallModify>
+			<Caption>Ändra</Caption>
+			<Hint>Reparera, ändra eller avinstallera</Hint>
+		</tbtnInstallModify>
+		<tbtnInstallNew>
+			<Caption>Installera</Caption>
+			<Hint>Installera ny|Övervaka installation av ett nytt program</Hint>
+		</tbtnInstallNew>
+		<tbtnInstallUpdate>
+			<Caption>Uppdatera</Caption>
+			<Hint>Installera uppdatering|Övervaka installation av uppdatering för aktuellt program</Hint>
+		</tbtnInstallUpdate>
+		<tbtnInstPrograms>
+			<Caption>Installerade program</Caption>
+			<Hint>Installerade program|Byt till Installerade program</Hint>
+		</tbtnInstPrograms>
+		<tbtnMonPrograms>
+			<Caption>Övervakade program</Caption>
+			<Hint>Övervakade program|Byt till Övervakade program</Hint>
+		</tbtnMonPrograms>
+		<tbtnPrograms>
+			<Caption>Program</Caption>
+			<Hint>Programlista|Visa eller dölj programlista</Hint>
+		</tbtnPrograms>
+		<tbtnSave>
+			<Caption>Spara</Caption>
+			<Hint>Spara ändringar från aktuell installationslogg</Hint>
+		</tbtnSave>
+		<tbtnSearch>
+			<Caption>Sök</Caption>
+			<Hint>Sök|Sök efter text i upptäckta förändringar</Hint>
+		</tbtnSearch>
+		<tbtnShowSnapshot>
+			<Caption>Visa ögonblicksbild</Caption>
+		</tbtnShowSnapshot>
+		<tbtnSummary>
+			<Caption>Översikt</Caption>
+			<Hint>Översikt|Visa kortfattad information av aktuellt program</Hint>
+		</tbtnSummary>
+		<tbtnUninstall>
+			<Caption>Avinstallera</Caption>
+		</tbtnUninstall>
+		<tbtnUninstallLog>
+			<Caption>Avinstallationslogg</Caption>
+			<Hint>Avinstallationslogg|Visa programmets avinstallationslogg</Hint>
+		</tbtnUninstallLog>
+		<tbtnWinApps>
+			<Caption>Windows Appar</Caption>
+		</tbtnWinApps>
+		<tpnlSearch>
+			<Caption>Sök</Caption>
+		</tpnlSearch>
+		<tvAutorunItems>
+			<Columns_0>Namn</Columns_0>
+			<Columns_1>Sektion</Columns_1>
+			<Columns_2>Status</Columns_2>
+			<Columns_3>Beskrivning</Columns_3>
+			<Columns_4>Utgivare</Columns_4>
+			<Columns_5>Kommando</Columns_5>
+		</tvAutorunItems>
+		<tvChanges>
+			<Columns_0>Upptäckta förändringar</Columns_0>
+			<Columns_1>Före</Columns_1>
+			<Columns_2>Efter</Columns_2>
+			<Columns_3>Aktuell</Columns_3>
+		</tvChanges>
+		<tvClnItems>
+			<Columns_0>Objekt</Columns_0>
+			<Columns_1>Egenskaper</Columns_1>
+		</tvClnItems>
+		<tvResults>
+			<Columns_0>Namn</Columns_0>
+			<Columns_1>Sökväg</Columns_1>
+			<Columns_2>Program</Columns_2>
+		</tvResults>
+	</frmTUMain>
+	<RESOURCESTRING>
+		<ACCESS_DENIED_X>Åtkomst nekad: %s</ACCESS_DENIED_X>
+		<ACT_CRE_KEY>Skapa registernyckel: %s</ACT_CRE_KEY>
+		<ACT_CRE_VAL>Skapa registervärde: %s</ACT_CRE_VAL>
+		<ACT_DEC_CNT>Minska delad filräknare från register: %s</ACT_DEC_CNT>
+		<ACT_DEL_ADS>Ta bort alternativ dataström: %s</ACT_DEL_ADS>
+		<ACT_DEL_FILE>Radera fil: %s</ACT_DEL_FILE>
+		<ACT_DEL_FOLDER>Ta bort mapp: %s</ACT_DEL_FOLDER>
+		<ACT_DEL_KEY>Ta bort registernyckel: %s</ACT_DEL_KEY>
+		<ACT_DEL_SERVICE>Ta bort tjänst eller enhet: %s</ACT_DEL_SERVICE>
+		<ACT_DEL_VAL>Ta bort registervärde: %s</ACT_DEL_VAL>
+		<ACT_RST_FILE>Återställ filegenskaper: %s</ACT_RST_FILE>
+		<ACT_RST_VAL>Återställ registervärde: %s</ACT_RST_VAL>
+		<ACT_STOP_SERVICE>Stoppa tjänst eller enhet: %s</ACT_STOP_SERVICE>
+		<ADD>Lägg till</ADD>
+		<ADVANCED>Avancerat</ADVANCED>
+		<AGENT>Agent</AGENT>
+		<ALL>Alla</ALL>
+		<ALL_BRA>(Alla)</ALL_BRA>
+		<ALL_DETAILS>Alla detaljer</ALL_DETAILS>
+		<ALWAYS>Alltid</ALWAYS>
+		<ANALYSIS_PROFILE>Analyseringsprofil</ANALYSIS_PROFILE>
+		<ANALYSIS_PROFILES>Analyseringsprofiler</ANALYSIS_PROFILES>
+		<ANALYZING>Analyserar...</ANALYZING>
+		<ASK>Fråga</ASK>
+		<ASK_COMPLETE_LATER>Fortsätt övervakningsprocessen senare?</ASK_COMPLETE_LATER>
+		<ASK_IF_NO_ERROR>Fråga vid inga fel</ASK_IF_NO_ERROR>
+		<ASK_SAVE_CHG>Vill du spara ändringar från &quot;%s&quot;?</ASK_SAVE_CHG>
+		<ASK_USER>Fråga användare</ASK_USER>
+		<AUTOMATIC>Automatisk</AUTOMATIC>
+		<AUTORUN_ITEMS>Autostart objekt</AUTORUN_ITEMS>
+		<AUTORUN_MGR>Autostart hanterare</AUTORUN_MGR>
+		<BACKUP>Säkerhetskopia</BACKUP>
+		<BACKUP_CREATED>Säkerhetskopia skapad.</BACKUP_CREATED>
+		<BACKUP_CREATED_OK>Säkerhetskopiering lyckades.</BACKUP_CREATED_OK>
+		<BACKUP_PROGRAM>Skapar säkerhetskopia av programmet...</BACKUP_PROGRAM>
+		<BACKUP_PROGRAM_X>Skapa säkerhetskopia av programmet &quot;%s&quot;</BACKUP_PROGRAM_X>
+		<BEGIN_UNINSTALL>Tryck Avinstallera för att starta avinstallation.</BEGIN_UNINSTALL>
+		<BEGIN_UNINSTALL_LAUNCH>Tryck Starta för att starta avinstallation.</BEGIN_UNINSTALL_LAUNCH>
+		<BROWSE_FOR_FILE>Öppna fil</BROWSE_FOR_FILE>
+		<BROWSE_FOR_FOLDER>Öppna mapp</BROWSE_FOR_FOLDER>
+		<BROWSE_FOR_FOLDER_OR_FILE>Öppna mapp eller fil</BROWSE_FOR_FOLDER_OR_FILE>
+		<BROWSE_FOR_KEY>Öppna nyckel</BROWSE_FOR_KEY>
+		<BROWSE_FOR_KEY_OR_VALUE>Öppna nyckel eller värde</BROWSE_FOR_KEY_OR_VALUE>
+		<BROWSE_FOR_VALUE>Öppna värde</BROWSE_FOR_VALUE>
+		<BTN_CONTINUE>Fortsätt</BTN_CONTINUE>
+		<BUILT_IN_CANCELLED>Inbyggt avinstallationsprogram avbröts utan att slutföra avinstallation eller åtgärd.</BUILT_IN_CANCELLED>
+		<BUILT_IN_UNINSTALLER_RUNNING>Det inbyggda avinstallationsprogrammet körs.</BUILT_IN_UNINSTALLER_RUNNING>
+		<CANCEL>Avbryt</CANCEL>
+		<CANNOT_BROWSE>Det uppstod ett fel vid försök att starta förvald webbläsare.\nLänken kopierades till Urklipp.</CANNOT_BROWSE>
+		<CANT_EXECUTE>Kan inte starta programmet &quot;%s&quot;.</CANT_EXECUTE>
+		<CANT_OPEN_KEY>Kan inte öppna nyckel</CANT_OPEN_KEY>
+		<CHANGED_ITEMS>Ändrade objekt</CHANGED_ITEMS>
+		<CHANGES>&quot;%s&quot; förändringar</CHANGES>
+		<CHECK_UPD_NEW>Nya uppdateringar eller nyheter tillgängliga</CHECK_UPD_NEW>
+		<CHECK_UPD_REMINDER>Påminnelse för kontroll av uppdateringar</CHECK_UPD_REMINDER>
+		<CHG_VIEWS>Ändra visning</CHG_VIEWS>
+		<CLEAN_UP>Ta bort rester</CLEAN_UP>
+		<CLEAN_UP_DESC>Ta bort rester från övervakat avinstallerat program</CLEAN_UP_DESC>
+		<CLEANED>Borttaget</CLEANED>
+		<CLEANER>Rensning</CLEANER>
+		<CLEANING>Tar bort...</CLEANING>
+		<CLOSE>Stäng</CLOSE>
+		<CLOSE_PROCESSES>Avsluta processer</CLOSE_PROCESSES>
+		<CMP_ERROR>Fel vid jämförelse av ögonblicksbild.</CMP_ERROR>
+		<CMP_PROFILE>Jämförelseprofil</CMP_PROFILE>
+		<CNT_DEL_MON>Registerdelad filräknare borttagen under övervakning</CNT_DEL_MON>
+		<COMMENTS>Kommentarer</COMMENTS>
+		<COMMON>Allmänt</COMMON>
+		<COMP_PROFILES>Jämförelseprofiler</COMP_PROFILES>
+		<COMPARE>Jämför</COMPARE>
+		<COMPARING_SNS>Jämför ögonblicksbilder...</COMPARING_SNS>
+		<COMPLETE>Klar</COMPLETE>
+		<COMPUTER>Dator</COMPUTER>
+		<COMPUTER_X>Dator (%s)</COMPUTER_X>
+		<CONTACT>Kontakt</CONTACT>
+		<CONTINUE>Vill du fortsätta?</CONTINUE>
+		<CONTINUE_UNINSTALL>Fortsätt avinstallation</CONTINUE_UNINSTALL>
+		<CONTINUE_UNINSTALL_Q>Fortsätt avinstallation?</CONTINUE_UNINSTALL_Q>
+		<CORRUPT_CNT>Ogiltig förändring upptäckt av registerdelad filräknare: värdeminskning eller ogiltig data</CORRUPT_CNT>
+		<CREATE_REG_KEYS>Skapa registernycklar</CREATE_REG_KEYS>
+		<CREATE_REG_VALS>Skapa registervärden</CREATE_REG_VALS>
+		<CREATED>Skapad</CREATED>
+		<CREATED_ITEMS>Skapade objekt</CREATED_ITEMS>
+		<CREATED_ON>Skapad den</CREATED_ON>
+		<CREATED_X>Skapad: %s</CREATED_X>
+		<DEC_CNT>Minskning registerdelad filräknare</DEC_CNT>
+		<DEEP_AUDIT>Djuprevision</DEEP_AUDIT>
+		<DEFAULT>Standard</DEFAULT>
+		<DEFAULT_PAR>(Standard)</DEFAULT_PAR>
+		<DEL_AT_STARTUP>Väntar på att raderas vid nästa uppstart</DEL_AT_STARTUP>
+		<DEL_CNT>Ta bort registerdelad filräknare</DEL_CNT>
+		<DEL_FILES>Ta bort filer</DEL_FILES>
+		<DEL_FOLDERS>Ta bort mappar</DEL_FOLDERS>
+		<DEL_REG_KEYS>Ta bort registernycklar</DEL_REG_KEYS>
+		<DEL_REG_VALS>Ta bort registervärden</DEL_REG_VALS>
+		<DEL_SH_FILE>Ta bort delad fil från disk till papperskorgen</DEL_SH_FILE>
+		<DELETE_SEL_BACKUPS>Ta bort vald säkerhetskopia?</DELETE_SEL_BACKUPS>
+		<DELETE_SEL_UNDO>Ta bort markerade ångrade poster?</DELETE_SEL_UNDO>
+		<DELETE_SYS_SEL_ITEM>Ta bort markerade poster från systemet?</DELETE_SYS_SEL_ITEM>
+		<DELETED>Borttagen</DELETED>
+		<DELETED_ITEMS>Raderade objekt</DELETED_ITEMS>
+		<DEPENDS_ON_PACKAGES>Beror på paket</DEPENDS_ON_PACKAGES>
+		<DETECTED_CHG>Upptäckta förändringar</DETECTED_CHG>
+		<DISABLED>Inaktiverad</DISABLED>
+		<DISPOSABLE_ITEMS>Rensningsbara objekt</DISPOSABLE_ITEMS>
+		<DLG_ABORT>Avbryt</DLG_ABORT>
+		<DLG_ALL>Alla</DLG_ALL>
+		<DLG_CANCEL>Avbryt</DLG_CANCEL>
+		<DLG_CLOSE>Stäng</DLG_CLOSE>
+		<DLG_CNF>Bekräfta</DLG_CNF>
+		<DLG_ERR>Fel</DLG_ERR>
+		<DLG_IGNORE>Ignorera</DLG_IGNORE>
+		<DLG_INF>Information</DLG_INF>
+		<DLG_NO>Nej</DLG_NO>
+		<DLG_NOTOALL>Nej till alla</DLG_NOTOALL>
+		<DLG_OK>OK</DLG_OK>
+		<DLG_RETRY>Försök igen</DLG_RETRY>
+		<DLG_WRN>Varning</DLG_WRN>
+		<DLG_YES>Ja</DLG_YES>
+		<DLG_YESTOALL>Ja till alla</DLG_YESTOALL>
+		<DONT_DEL_SH_FILE>Användare valde att behålla delad fil</DONT_DEL_SH_FILE>
+		<EDIT_PROGRAM>Redigera program</EDIT_PROGRAM>
+		<ELAPSED>Förfluten %d:%2.2d</ELAPSED>
+		<ENTER_IDENTIFIER>Skriv in namn för installerat program.</ENTER_IDENTIFIER>
+		<ERR>Fel</ERR>
+		<ERR_BRA>(FEL)</ERR_BRA>
+		<ERR_DEL_FLD_FILES>Kan inte ta bort en eller flera mappar eller filer.</ERR_DEL_FLD_FILES>
+		<ERR_DEL_REG_KEYS_VALS>Kan inte ta bort en eller flera nycklar eller värden.</ERR_DEL_REG_KEYS_VALS>
+		<ERR_REDO_REG_KEYS_VALS>Kan inte återskapa en eller flera nycklar eller värden.</ERR_REDO_REG_KEYS_VALS>
+		<ERR_UNDO_REG_KEYS_VALS>Kan inte ångra en eller flera nycklar eller värden.</ERR_UNDO_REG_KEYS_VALS>
+		<ERR_WRN_OK_STAT>Fel: %d   Varningar: %d  Lyckade åtgärder: %d</ERR_WRN_OK_STAT>
+		<ERROR_UNINST_X_APPS>Misslyckades avinstallera %d applikation(er).</ERROR_UNINST_X_APPS>
+		<EXIT>Avsluta</EXIT>
+		<EXPERT>Expert</EXPERT>
+		<EXPIRE_DAYS>Upphör om %d dagar.</EXPIRE_DAYS>
+		<EXPORT_ERROR>Exporterar fel !</EXPORT_ERROR>
+		<EXTENSION>Filtillägg</EXTENSION>
+		<FAMILY_NOT_ACCEPTED>Familjelicens accepterades inte.</FAMILY_NOT_ACCEPTED>
+		<FFILTER_ALL>Alla filer (*.*)|*.*</FFILTER_ALL>
+		<FFILTER_DLL>Filtillägg (*.dll)|*.dll</FFILTER_DLL>
+		<FFILTER_EXE>Körbara filer (*.exe)|*.exe</FFILTER_EXE>
+		<FFILTER_EXE_MSI>Körbara, Windows Installer paket</FFILTER_EXE_MSI>
+		<FFILTER_HTM>HTML-dokument (*.htm, *.html)|*.htm;*html</FFILTER_HTM>
+		<FFILTER_ICL>Ikonfiler (*.icl)|*.icl</FFILTER_ICL>
+		<FFILTER_ICO>Ikoner (*.ico)|*.ico</FFILTER_ICO>
+		<FFILTER_MSI>Microsofts installationsfiler (*.msi)|*.msi</FFILTER_MSI>
+		<FFILTER_REG>Registerfiler (*.reg)|*.reg</FFILTER_REG>
+		<FFILTER_TXT>Textfiler (*.txt)|*.txt</FFILTER_TXT>
+		<FFILTER_WAV>Ljudfiler (*.wav)|*.wav</FFILTER_WAV>
+		<FFILTER_XML>XML-dokument (*.xml)|*.xml</FFILTER_XML>
+		<FFILTER_ZIP>Backup filer (*.zip)|*.zip</FFILTER_ZIP>
+		<FILE>(FIL)</FILE>
+		<FILE_>Fil</FILE_>
+		<FILE_MASK>Filmask</FILE_MASK>
+		<FILE_SYSTEM>Filsystem</FILE_SYSTEM>
+		<FILES_CHG_STAT>Filer som ändrats     :%6.1d</FILES_CHG_STAT>
+		<FILES_CREATED_STAT>Filer som skapats      :%6.1d</FILES_CREATED_STAT>
+		<FILES_DEL_STAT>Filer som raderats      :%6.1d</FILES_DEL_STAT>
+		<FILES_NOT_INCLUDED>Filer som inte ingår i säkerhetskopia</FILES_NOT_INCLUDED>
+		<FILES_X>Filer   :%6.1d</FILES_X>
+		<FILTER>Filter</FILTER>
+		<FINISH>Slutför</FINISH>
+		<FLDS_CREATED_STAT>Mappar som skapats  :%6.1d</FLDS_CREATED_STAT>
+		<FLDS_DEL_STAT>Mappar som raderats  :%6.1d</FLDS_DEL_STAT>
+		<FOLDER>(MAPP)</FOLDER>
+		<FOLDER_>Mapp</FOLDER_>
+		<FOLDER_MASK>Mappmask</FOLDER_MASK>
+		<FOLDERS_X>Mappar :%6.1d</FOLDERS_X>
+		<FREE_UPDATES_UNTIL>Fria uppdateringar till %s</FREE_UPDATES_UNTIL>
+		<FS_DET_VIEW_PRF>Filsystem detaljer [Visa: %s]</FS_DET_VIEW_PRF>
+		<GENERAL>Allmänt</GENERAL>
+		<GENERATED_BY_TU>Skapad av Total Uninstall</GENERATED_BY_TU>
+		<HIDDEN_NODE>Noden är dold.</HIDDEN_NODE>
+		<HIDDEN_NODE_IN_VIEW>Objektet är dolt i aktuell visning.</HIDDEN_NODE_IN_VIEW>
+		<HIDE_OPTIONS>Dölj &amp;inställningar</HIDE_OPTIONS>
+		<IF_NO_ERROR>Vid inga fel</IF_NO_ERROR>
+		<IMPORTING_ARCHIVE>Importerar arkiv(en)...</IMPORTING_ARCHIVE>
+		<INCLUDE_FOLDER_IN_LOG>Inkludera mapp i logg</INCLUDE_FOLDER_IN_LOG>
+		<INF_VOLATILE_KEY>Felaktig nyckel skapades ej</INF_VOLATILE_KEY>
+		<INF_VOLATILE_VAL>Felaktigt värde skapades ej</INF_VOLATILE_VAL>
+		<INST_ON>Installerad den</INST_ON>
+		<INST_PRG>Installerade program</INST_PRG>
+		<INST_PRGS>Installerade program</INST_PRGS>
+		<INST_SERV_AND_DEV>Installerade tjänster och enheter</INST_SERV_AND_DEV>
+		<INSTALL>Installera</INSTALL>
+		<INSTALL_HISTORY>Installationshistorik</INSTALL_HISTORY>
+		<INSTALLED_APPS>%d installerade appar</INSTALLED_APPS>
+		<INSTALLED_PRGS_CMPS>%d installerade program, %d systemkomponenter</INSTALLED_PRGS_CMPS>
+		<INSTALLER_ERR>Installationsfel upptäckt: Delad filräknare skapad för en befintlig fil</INSTALLER_ERR>
+		<INTERFACE>Gränssnitt</INTERFACE>
+		<INVALID_AFTER_CNT>Ogiltig EFTER räknare</INVALID_AFTER_CNT>
+		<INVALID_BEFORE_CNT>Ogiltig FÖRE räknare</INVALID_BEFORE_CNT>
+		<INVALID_CURRENT_CNT>Ogiltig NUVARANDE räknare hittad i register</INVALID_CURRENT_CNT>
+		<INVALID_FILE_FORMAT>Ogiltigt filformat</INVALID_FILE_FORMAT>
+		<INVALID_SERVER_RESPONSE>Ogiltigt valideringssvar från servern. Det är troligt att en brandvägg manipulerar kommunikationen.</INVALID_SERVER_RESPONSE>
+		<ITEM_X>Poster: %s</ITEM_X>
+		<ITEMS_AFTER_INST>Följande poster är skapade efter installationen.
+\nAndra program kan behöva dem.</ITEMS_AFTER_INST>
+		<KEY>Nyckel</KEY>
+		<KEYS_CREATED_STAT>Nycklar som skapats      :%6.1d</KEYS_CREATED_STAT>
+		<KEYS_DEL_STAT>Nycklar som raderats      :%6.1d</KEYS_DEL_STAT>
+		<KEYS_X>Nycklar    :%6.1d</KEYS_X>
+		<LAST_CHECK>Senaste kontroll: %s</LAST_CHECK>
+		<LAST_WRITE_X>Senast skriven: %s</LAST_WRITE_X>
+		<LAUNCH>Starta</LAUNCH>
+		<LAUNCH_SUPPLIED_UNINST>Medföljande Lägg till/Ta bort program kommer att startas.</LAUNCH_SUPPLIED_UNINST>
+		<LAUNCH_TU>Starta Total Uninstall</LAUNCH_TU>
+		<LIC_COUNTRY>Regionslicens</LIC_COUNTRY>
+		<LIC_FAMILY>Familjelicens</LIC_FAMILY>
+		<LIC_MULTIPLE>Licens för flera datorer</LIC_MULTIPLE>
+		<LIC_SINGLE_COMPUTER>Licens för en dator</LIC_SINGLE_COMPUTER>
+		<LIC_SITE>Platslicens</LIC_SITE>
+		<LIC_SMALL_OFFICE>Licens för mindre kontor</LIC_SMALL_OFFICE>
+		<LIC_TECHNICIAN>Licens för tekniker</LIC_TECHNICIAN>
+		<LIC_TEMPORARY>Temporär licens</LIC_TEMPORARY>
+		<LIC_WORLDWIDE>Världsomfattande licens</LIC_WORLDWIDE>
+		<LICENSED_TO>Licensierad till &quot;%s&quot;</LICENSED_TO>
+		<LNK_EXE_FILTER>Genvägar och körbara filer (*.lnk, *.exe)|*.lnk;*.exe</LNK_EXE_FILTER>
+		<LOADING>Laddar...</LOADING>
+		<LOADING_INST_PRGS>Hittar installerade program...</LOADING_INST_PRGS>
+		<LOADING_MON_PRGS>Hittar övervakade program...</LOADING_MON_PRGS>
+		<LOADING_WINDOWS_APPS>Laddar Windows Appar...</LOADING_WINDOWS_APPS>
+		<LOCATE_PRG_LNK_EXE>Välj programgenväg eller körbar fil</LOCATE_PRG_LNK_EXE>
+		<LOCATE_UNINSTALLER_EXE>Välj körbar avinstallation</LOCATE_UNINSTALLER_EXE>
+		<LOG_FILE_NAME>Loggfil</LOG_FILE_NAME>
+		<LOGON>Logga in</LOGON>
+		<MAINTENANCE_ENDED>Uppfyllandeperioden för din licens är slut.</MAINTENANCE_ENDED>
+		<MAINTENANCE_ENDED_INFO>Den nyinstallerade programversionen kommer att köras i testläge.</MAINTENANCE_ENDED_INFO>
+		<MANUAL>Manuellt</MANUAL>
+		<MICROSOFT>Microsoft</MICROSOFT>
+		<MISSING_ITEMS>Saknade objekt</MISSING_ITEMS>
+		<MODIFIED>Ändrad</MODIFIED>
+		<MON_ON>Övervakad den</MON_ON>
+		<MON_PRG>Övervakade program</MON_PRG>
+		<MON_PRG_PATH>Sökväg</MON_PRG_PATH>
+		<MON_PRG_RUNNING>Det verkar som om övervakat program fortfarande körs.</MON_PRG_RUNNING>
+		<MONITOR_WITH_TU>Övervaka med Total Uninstall</MONITOR_WITH_TU>
+		<MONITORED_PRGS>%d övervakade program</MONITORED_PRGS>
+		<NAME>Namn</NAME>
+		<NEW_NAME>Nytt namn</NEW_NAME>
+		<NEVER>Aldrig</NEVER>
+		<NO>ingen</NO>
+		<NO_GROUPS>Inga grupper</NO_GROUPS>
+		<NO_MORE_INSTANCES_ALLOWED>Din licens tillåter inte att fler instanser körs av detta program.</NO_MORE_INSTANCES_ALLOWED>
+		<NO_RIGHTS>Otillräckliga rättigheter</NO_RIGHTS>
+		<NO_UPDATES>Skadad version.</NO_UPDATES>
+		<NON_MICROSOFT>Ej Microsoft</NON_MICROSOFT>
+		<NON_WINDOWS>Ej Windows</NON_WINDOWS>
+		<NORMAL>Normal</NORMAL>
+		<NOT_A_VALID_UNINST>Ej giltig eller registrerad avinstallation hittades.</NOT_A_VALID_UNINST>
+		<NOT_AVAILABLE>Ej tillgänglig</NOT_AVAILABLE>
+		<NOT_DELETED_FILES>Ej raderade mappar och filer</NOT_DELETED_FILES>
+		<NOT_DELETED_FILES_DET>Ej raderade mappar och filer under avinstallation</NOT_DELETED_FILES_DET>
+		<NOT_DELETED_REG>Ej raderade registernycklar och värden</NOT_DELETED_REG>
+		<NOT_DELETED_REG_DET>Ej raderade registernycklar och värden under avinstallation</NOT_DELETED_REG_DET>
+		<NOT_EMPTY>Ej tom</NOT_EMPTY>
+		<NOT_FOUND>Hittades ej</NOT_FOUND>
+		<NOT_FOUND_X>Hittades ej: %s</NOT_FOUND_X>
+		<NOTES>Anteckningar</NOTES>
+		<OK>OK</OK>
+		<OK_BRA>(OK)</OK_BRA>
+		<ON_PRG_CLOSE>Vid avslut av program</ON_PRG_CLOSE>
+		<ON_REFRESH>Vid uppdatera</ON_REFRESH>
+		<ONLY_FILES_TO_KEEP>Ej raderad. Innehåller bara filer eller mappar att spara.</ONLY_FILES_TO_KEEP>
+		<ONLY_KEYS_TO_KEEP>Ej raderad. Innehåller bara registernycklar att spara.</ONLY_KEYS_TO_KEEP>
+		<OTHER>Annat</OTHER>
+		<PACKAGES>Paket</PACKAGES>
+		<PAGE>Sida:</PAGE>
+		<PAINT_ITEM_STYLES>Visa normal\nDölj\nMarkerad text\nDämpad ikon\nDämpad ikon och markerad text</PAINT_ITEM_STYLES>
+		<PENDING_FILE_REN>Väntande filnamnsändringar</PENDING_FILE_REN>
+		<PRE_INST_SNS_NAME>Ögonblicksbild</PRE_INST_SNS_NAME>
+		<PRE_INSTALL>Ögonblicksbild system</PRE_INSTALL>
+		<PREFERENCES>Inställningar</PREFERENCES>
+		<PRG_DETECTED>Program upptäckt:</PRG_DETECTED>
+		<PRG_NAME>Programnamn</PRG_NAME>
+		<PRG_PART_UNINSTALLED>Programmet delvis avinstallerat</PRG_PART_UNINSTALLED>
+		<PRG_RESTORED>Programmet återställdes.</PRG_RESTORED>
+		<PRG_UNINSTALLED>Programmet avinstallerades framgångsrikt</PRG_UNINSTALLED>
+		<PRINT_ERROR>Utskriftsfel !</PRINT_ERROR>
+		<PROCESS_CANCELLED>Process avbruten.</PROCESS_CANCELLED>
+		<PROCESSING_INSTALLATIONS>Bearbetar installationer...</PROCESSING_INSTALLATIONS>
+		<PRODUCT_UPDATES>Produktuppdateringar</PRODUCT_UPDATES>
+		<PROGRAM_WILL_RESTART>Programmet kommer att starta om för att slutföra registreringen.</PROGRAM_WILL_RESTART>
+		<PROGRESS_DEFAULT>Process, standard</PROGRESS_DEFAULT>
+		<PST_INST_SNS_NAME>Ögonblicksbild</PST_INST_SNS_NAME>
+		<PUBLISHER>Utgivare</PUBLISHER>
+		<QST_DEL_FLD_FILES>Är du säker på att du vill ta bort valda mappar eller filer?</QST_DEL_FLD_FILES>
+		<QST_DEL_REG_KEYS_VALS>Är du säker på att du vill ta bort valda nycklar eller värden?</QST_DEL_REG_KEYS_VALS>
+		<QST_DEL_SERVICES>Är du säker på att du vill ta bort valda tjänster?</QST_DEL_SERVICES>
+		<QST_REMOVE_INST_PRG_LST>Är du säker på att du vill ta bort valt program från listan?</QST_REMOVE_INST_PRG_LST>
+		<QUEST_REMOVE_GROUP>Ta bort grupp?</QUEST_REMOVE_GROUP>
+		<QUIET_PROGRESS_DEFAULT>Passiv, process, standard</QUIET_PROGRESS_DEFAULT>
+		<README>Information</README>
+		<READY>Klar</READY>
+		<RECORD_CHANGED_X>Ändrade poster: %s</RECORD_CHANGED_X>
+		<REDO_PROFILES>Återställ profiler</REDO_PROFILES>
+		<REG_DET_VIEW_PRF>Registerdetaljer [Visa: %s]</REG_DET_VIEW_PRF>
+		<REG_KEY>(REG NYCKEL)</REG_KEY>
+		<REG_RUN>Kör</REG_RUN>
+		<REG_RUN_ONCE>Kör en gång</REG_RUN_ONCE>
+		<REG_SCAN_ERROR>Fel under registersökning.</REG_SCAN_ERROR>
+		<REG_VAL>(REG VÄRDE)</REG_VAL>
+		<REGISTER_DISABLED_KEY>Du kan vara ett offer för förfalskad programvara.\nVänligen köp en äkta licensnyckel.</REGISTER_DISABLED_KEY>
+		<REGISTER_FAILED>Registrering misslyckades.</REGISTER_FAILED>
+		<REGISTER_FIREWALL>En brandvägg hindrar %s att validera din licens online.</REGISTER_FIREWALL>
+		<REGISTER_HOST>En post i HOSTS-filen förhindrar %s att validera din licens online.</REGISTER_HOST>
+		<REGISTER_INVALID>Ogiltig registreringsinformation</REGISTER_INVALID>
+		<REGISTER_PORTABLE>Technician portable edition måste registreras</REGISTER_PORTABLE>
+		<REGISTER_PRO>Du måste registrera programmet med en nyckel för professionell version.</REGISTER_PRO>
+		<REGISTER_THANK_YOU>Tack för din registrering %s.</REGISTER_THANK_YOU>
+		<REGISTERED_COMPANY>Registrerat företag</REGISTERED_COMPANY>
+		<REGISTERED_OWNER>Registrerad användare</REGISTERED_OWNER>
+		<REGISTRY>Register</REGISTRY>
+		<REMOVE_LEFT_BEHIND>Tryck Avinstallera för att ta bort upptäckta kvarvarande mappar, filer, registernycklar och värden.</REMOVE_LEFT_BEHIND>
+		<REMOVE_LOG>Ta bort installationslogg?</REMOVE_LOG>
+		<REMOVE_LOG_DET>Du kommer inte att kunna återställa de ändringar som gjorts av valt program.</REMOVE_LOG_DET>
+		<REMOVE_PRG_DATA>Ta bort inställningar och programdata?</REMOVE_PRG_DATA>
+		<REMOVE_PRG_DATA_INFO>Välj &quot;Nej&quot; om du planerar att uppdatera eller uppgradera Total Uninstall</REMOVE_PRG_DATA_INFO>
+		<RENAME>Byt namn</RENAME>
+		<REQUEST_INTERNET_ACCESS>Internetåtkomst är obligatoriskt.</REQUEST_INTERNET_ACCESS>
+		<RESTORATION_UNDONE>Återställningen gjordes inte</RESTORATION_UNDONE>
+		<RESTORE>Återställ</RESTORE>
+		<RESTORE_PROGRAM>Återställ program</RESTORE_PROGRAM>
+		<RESTORE_REG_VALS>Återställ registervärden</RESTORE_REG_VALS>
+		<RESTORING_ARCHIVE>Återställer filer och registerposter</RESTORING_ARCHIVE>
+		<RESTORING_FILES_FROM_BKP>Återställer filer från säkerhetskopia...</RESTORING_FILES_FROM_BKP>
+		<RST_FILE_PROP>Återställ filegenskaper</RST_FILE_PROP>
+		<RUN_EVAL_PERIOD>Kör program i utvärderingsperiod?</RUN_EVAL_PERIOD>
+		<RUNNING>Körs</RUNNING>
+		<RUNNING_DOMAIN>Körs i Windows NT domän.</RUNNING_DOMAIN>
+		<RUNNING_SERVER>Körs i Windows Server.</RUNNING_SERVER>
+		<RUNNING_VM>Körs i en virtuell maskin.</RUNNING_VM>
+		<SAFE>Säker</SAFE>
+		<SAVE_AS>Spara som</SAVE_AS>
+		<SCAN_PROFILES>Sökningsprofiler</SCAN_PROFILES>
+		<SCANNING>Sökning...</SCANNING>
+		<SCANNING_REGISTRY_AND_FS>Sökning av register och filsystem...</SCANNING_REGISTRY_AND_FS>
+		<SCHEDULED_TASKS>Schemalagda aktiviteter</SCHEDULED_TASKS>
+		<SEARCH>Sök</SEARCH>
+		<SEARCH_IN_X>Sök i &quot;%s&quot;</SEARCH_IN_X>
+		<SEL_BRA>(Valt objekt)</SEL_BRA>
+		<SEL_HAS_HD_NODES>Valt objekt innehåller minst en dold nod.</SEL_HAS_HD_NODES>
+		<SEL_PRG_UNINSTALLED>Det valda programmet är redan avinstallerat.</SEL_PRG_UNINSTALLED>
+		<SEL_UNINSTALL_PROFILE>Välj en avinstallationsprofil.</SEL_UNINSTALL_PROFILE>
+		<SELECT>Välj</SELECT>
+		<SERVICE>Tjänst</SERVICE>
+		<SERVICES>Tjänster</SERVICES>
+		<SHARED_FILE>Delad fil. Ej borttagen i denna fas</SHARED_FILE>
+		<SHARED_FILE_CNT_DEC>Delad filräknare är redan minskad</SHARED_FILE_CNT_DEC>
+		<SHARED_FILE_NOT_FOUND>Delad fil hittades ej på disk</SHARED_FILE_NOT_FOUND>
+		<SHOW_OPTIONS>Visa &amp;inställningar</SHOW_OPTIONS>
+		<SHOW_SYS_COMP>Visa systemkomponenter: %s</SHOW_SYS_COMP>
+		<SIZE>Storlek</SIZE>
+		<SIZE_STAT>Storlek                    : %s</SIZE_STAT>
+		<SKIP>Hoppa över</SKIP>
+		<SKIP_BUILTIN_UNINSTALLER>Om inbyggt avinstallationsprogram inte svarar, tryck Hoppa över för att fortsätta. Nästa inbyggda avinstallationsprogram kommer då att starta.</SKIP_BUILTIN_UNINSTALLER>
+		<SMALL_CNT>Delad filräknare alltför liten i register</SMALL_CNT>
+		<START>Start</START>
+		<START_MENU>Startmeny</START_MENU>
+		<START_SCANNING>Tryck på Sök för att påbörja sökning.</START_SCANNING>
+		<START_UNINSTALL_PROCESS>Starta avinstallationsprocess.</START_UNINSTALL_PROCESS>
+		<STARTUP_TYPE_X>Uppstartssätt: %s</STARTUP_TYPE_X>
+		<STOP>Stopp</STOP>
+		<STOP_SERVICES>Stoppa tjänster</STOP_SERVICES>
+		<STOPPED>Stoppad</STOPPED>
+		<SUMMARY>Sammanfattning</SUMMARY>
+		<SUPPORT_INFO>Supportinformation</SUPPORT_INFO>
+		<SUPPORT_PHONE>Telefon support</SUPPORT_PHONE>
+		<SW_VERSION>Version %s</SW_VERSION>
+		<SVC_CMD_NOT_ACCEPTED>Tjänsten accepterar inte stoppkommando.</SVC_CMD_NOT_ACCEPTED>
+		<SYSTEM>System</SYSTEM>
+		<TEMPORARY_FILES>Temporära filer</TEMPORARY_FILES>
+		<TITLE_MON_INSTALL>Övervaka ny installation</TITLE_MON_INSTALL>
+		<TITLE_MON_UPDATE_X>Övervaka programuppdatering &quot;%s&quot;</TITLE_MON_UPDATE_X>
+		<TOTAL_LIC_COMPUTERS>Totalt licensierade datorer för ovanstående namn: %s</TOTAL_LIC_COMPUTERS>
+		<TOTAL_UNINSTALL>Fullständig avinstallation</TOTAL_UNINSTALL>
+		<TRACES_AFTER_UNINSTALL>Spår efter avinstallation</TRACES_AFTER_UNINSTALL>
+		<TRIAL_EXPIRED>Prövotiden har löpt ut. Vänligen registrera.</TRIAL_EXPIRED>
+		<TU_AGENT>Total Uninstall Agent</TU_AGENT>
+		<TU_MON_PRG_TITLE>Övervakade program</TU_MON_PRG_TITLE>
+		<TU_PRO_EDITION>Total Uninstall Professionell Version</TU_PRO_EDITION>
+		<TU_STD_EDITION>Total Uninstall Standard Version</TU_STD_EDITION>
+		<TU_ULT_EDITION>Total Uninstall Ultimate Edition</TU_ULT_EDITION>
+		<TU_USE_FIRST_UNINST>Använd medföljande avinstallation först</TU_USE_FIRST_UNINST>
+		<TU_USE_FIRST_UNINST_DESC>Avinstallera Antivirus, Antispionprogram, Brandvägg, Drivrutiner eller program som installerar systemenheter.</TU_USE_FIRST_UNINST_DESC>
+		<UNDO>Ångra</UNDO>
+		<UNDO_RESTORATION>Ångra återställning</UNDO_RESTORATION>
+		<UNINST_ANALYZED>Avinstallera analyserat program</UNINST_ANALYZED>
+		<UNINST_BUNDLE>Avinstallera analyserade program - flera</UNINST_BUNDLE>
+		<UNINST_PROFILES>Avinstallationsprofiler</UNINST_PROFILES>
+		<UNINSTALL>Avinstallera</UNINSTALL>
+		<UNINSTALL_INST_HINT>Avinstallera|Avinstallera valt analyserat program</UNINSTALL_INST_HINT>
+		<UNINSTALL_LOG>Avinstallationslog</UNINSTALL_LOG>
+		<UNINSTALL_MON_HINT>Avinstallera|Avinstallera valt övervakat program</UNINSTALL_MON_HINT>
+		<UNINSTALL_PROGRAM_X>Avinstallera program &quot;%s&quot;</UNINSTALL_PROGRAM_X>
+		<UNINSTALL_USER_WIN_APP_HINT>Avinstallera|Avinstallera de valda Windows Apparna från användarkonto</UNINSTALL_USER_WIN_APP_HINT>
+		<UNINSTALL_WIN_APPS>Avinstallera de valda applikationerna?</UNINSTALL_WIN_APPS>
+		<UNINSTALLED_WITH_TU>Avinstallerad med Total Uninstall &quot;%s&quot;</UNINSTALLED_WITH_TU>
+		<UNREGISTERED>Oregistrerad</UNREGISTERED>
+		<USE_LAST_SNS>Använd senaste ögonblicksbild</USE_LAST_SNS>
+		<USE_LAST_SNS_AGO_D>Använd senaste ögonblicksbild (%d dagar, %d tim, %d min sedan)</USE_LAST_SNS_AGO_D>
+		<USE_LAST_SNS_AGO_H>Använd senaste ögonblicksbild (%d tim och %d min sedan)</USE_LAST_SNS_AGO_H>
+		<USE_LAST_SNS_AGO_M>Använd senaste ögonblicksbild (%d minuter sedan)</USE_LAST_SNS_AGO_M>
+		<USE_OLD_PURCHASE_NEW>Installera en äldre version eller köp uppdatering för användning av denna version.</USE_OLD_PURCHASE_NEW>
+		<USE_ONLY_PRG_UNINST>Använd endast programmets avinstallation</USE_ONLY_PRG_UNINST>
+		<USE_OR_BUILD_SNS>Skapa eller använd en tidigare ögonblicksbild.</USE_OR_BUILD_SNS>
+		<USR_ABORT>Avbröts av användare</USR_ABORT>
+		<WAIT_UNINST_REMOVE_LEFT>När medföljande Lägg till/Ta bort program är avslutat trycker du på Avinstallera för att ta bort kvarvarande mappar, filer, registernycklar och värden.</WAIT_UNINST_REMOVE_LEFT>
+		<VALS_CHG_STAT>Ändrade värden  :%6.1d</VALS_CHG_STAT>
+		<VALS_CREATED_STAT>Skapade värden   :%6.1d</VALS_CREATED_STAT>
+		<VALS_DEL_STAT>Raderade värden   :%6.1d</VALS_DEL_STAT>
+		<VALUE>Värde</VALUE>
+		<VALUES_X>Värden  :%6.1d</VALUES_X>
+		<VERSION>Version</VERSION>
+		<WIN_APP_NAME>Applikationsnamn</WIN_APP_NAME>
+		<WIN_APPS>Windows Appar</WIN_APPS>
+		<WINDOWS>Windows</WINDOWS>
+		<WRN_BRA>(WRN)</WRN_BRA>
+		<X_BYTE>%s B</X_BYTE>
+		<X_BYTES>%d byte</X_BYTES>
+		<X_CHANGES>%s - Ändringar</X_CHANGES>
+		<X_GIGABYTE>%s GB</X_GIGABYTE>
+		<X_KILOBYTE>%s KB</X_KILOBYTE>
+		<X_MEGABYTE>%s MB</X_MEGABYTE>
+		<X_RESULTS>%d resultat</X_RESULTS>
+		<X_UNINSTALL_LOG>&quot;%s&quot; - Avinstallationslogg</X_UNINSTALL_LOG>
+		<X_UNINSTALL_LOG_FILE>&quot;%s&quot; - Avinstallationslogg.txt</X_UNINSTALL_LOG_FILE>
+		<YES>ja</YES>
+		<ZERO_LENGTH_DATA>(Noll-data)</ZERO_LENGTH_DATA>
+	</RESOURCESTRING>
+</TotalUninstall>

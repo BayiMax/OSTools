@@ -1,0 +1,2521 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TotalUninstall>
+	<_System_>
+		<Flag>
+			<Size>1974</Size>
+			<Data>Qk22BwAAAAAAADYAAAAoAAAAIAAAABQAAAABABgAAAAAAIAHAAAAAAAAAAAAAAAAAAAAAAAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA/wAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/</Data>
+		</Flag>
+		<LanguageCode>nl</LanguageCode>
+		<LocalizedName>Nederlands</LocalizedName>
+		<Version>61400</Version>
+	</_System_>
+	<Cleaner>
+		<CF-BROWSER-CACHE>Browser</CF-BROWSER-CACHE>
+		<CF-BROWSER-CACHE-CHROME>Chrome</CF-BROWSER-CACHE-CHROME>
+		<CF-BROWSER-CACHE-FIREFOX>Firefox</CF-BROWSER-CACHE-FIREFOX>
+		<CF-BROWSER-CACHE-IE>Internet Explorer</CF-BROWSER-CACHE-IE>
+		<CF-BROWSER-CACHE-MAXTHON>Maxthon</CF-BROWSER-CACHE-MAXTHON>
+		<CF-BROWSER-CACHE-OPERA>Opera</CF-BROWSER-CACHE-OPERA>
+		<CF-PROGRAMS>Programa's</CF-PROGRAMS>
+		<CF-PROGRAMS-ADOBE-FLASH-PLAYER>Adobe Flash Player</CF-PROGRAMS-ADOBE-FLASH-PLAYER>
+		<CF-PROGRAMS-MSOFFICE-RECENT>Microsoft Office lijst met recente bestanden</CF-PROGRAMS-MSOFFICE-RECENT>
+		<CF-PROGRAMS-SUN-JAVA-CACHE>Sun Java cache</CF-PROGRAMS-SUN-JAVA-CACHE>
+		<CF-SYSTEM>Systeem</CF-SYSTEM>
+		<CF-SYSTEM-JUNK-FILES>Ongewenste bestanden</CF-SYSTEM-JUNK-FILES>
+		<CF-SYSTEM-RECYCLE-BIN>Prullenbak legen</CF-SYSTEM-RECYCLE-BIN>
+		<CF-SYSTEM-TEMP-FILES>Tijdelijke bestanden</CF-SYSTEM-TEMP-FILES>
+		<CF-SYSTEM-THUMBNAILS-CACHE>Miniaturen cachegeheugen</CF-SYSTEM-THUMBNAILS-CACHE>
+		<CF-WINDOWS>Windows</CF-WINDOWS>
+		<CF-WINDOWS-ERROR-REPORTING>Foutrapportage</CF-WINDOWS-ERROR-REPORTING>
+		<CF-WINDOWS-EXPLORER>Windows Verkenner</CF-WINDOWS-EXPLORER>
+		<CF-WINDOWS-EXPLORER-RECENT-FILES>Recente documenten</CF-WINDOWS-EXPLORER-RECENT-FILES>
+		<CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>Lege Mappen uitgesloten</CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>
+		<CF-WINDOWS-LOG-FILES>Log bestanden</CF-WINDOWS-LOG-FILES>
+		<CF-WINDOWS-MEMORY-DUMP-FILES>Geheugen dumps</CF-WINDOWS-MEMORY-DUMP-FILES>
+		<CF-WINDOWS-TEMP-FOLDERS>Tijdelijke mappen</CF-WINDOWS-TEMP-FOLDERS>
+		<CR-INVALID-ENTRIES>Ongeldige vermeldingen</CR-INVALID-ENTRIES>
+		<CR-INVALID-ENTRIES-FILE-REFERENCES>Bestand verwijzingen</CR-INVALID-ENTRIES-FILE-REFERENCES>
+		<CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>Lege sleutels uitgesloten</CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>
+		<CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>Ontbrekende gedeelde DLL's</CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>
+		<CR-INVALID-ENTRIES-MSI-PATHS>MSI paden</CR-INVALID-ENTRIES-MSI-PATHS>
+		<CR-INVALID-ENTRIES-MUI-REFERENCES>MUI verwijzingen</CR-INVALID-ENTRIES-MUI-REFERENCES>
+		<CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>Bestandsindelingen zonder info</CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>
+	</Cleaner>
+	<dlgAddInstalledPrg>
+		<btnCancel>
+			<Caption>Annuleren</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Voeg programma toe aan lijst</Caption>
+		<lblBuiltInUninstaller>
+			<Caption>Interne de-installeer programma</Caption>
+		</lblBuiltInUninstaller>
+		<lblInstallationFolder>
+			<Caption>Ge-Installeerd in de map</Caption>
+		</lblInstallationFolder>
+		<lblPrgName>
+			<Caption>Programma naam</Caption>
+		</lblPrgName>
+	</dlgAddInstalledPrg>
+	<dlgAskDelItem>
+		<btnOK>
+			<Caption>&amp;OK</Caption>
+		</btnOK>
+		<btnSelectAll>
+			<Caption>&amp;Alles selecteren</Caption>
+		</btnSelectAll>
+		<btnUnselectAll>
+			<Caption>&amp;Alles de-selecteren</Caption>
+		</btnUnselectAll>
+		<Caption>Verwijder items?</Caption>
+		<cbAutoSelectAll>
+			<Caption>Automatisch alles selecteren</Caption>
+		</cbAutoSelectAll>
+		<lblDelSel>
+			<Caption>Geselecteerde  &amp; items zullen worden verwijderd</Caption>
+		</lblDelSel>
+	</dlgAskDelItem>
+	<dlgAutorunItem>
+		<btnCancel>
+			<Caption>Annuleren</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Item automatisch starten</Caption>
+		<gbStartLocation>
+			<Caption>Start locatie</Caption>
+		</gbStartLocation>
+		<gbUser>
+			<Caption>Automatisch uitvoeren bij aanmelden</Caption>
+		</gbUser>
+		<lblCommand>
+			<Caption>Commando</Caption>
+		</lblCommand>
+		<lblName>
+			<Caption>Naam</Caption>
+		</lblName>
+		<rbLogonAnyUser>
+			<Caption>Iedere gebruiker</Caption>
+		</rbLogonAnyUser>
+		<rbLogonCurentUser>
+			<Caption>Huidige gebruiker</Caption>
+		</rbLogonCurentUser>
+		<rbRegRun>
+			<Caption>Register, uitgevoerd bij elke aanmelding</Caption>
+		</rbRegRun>
+		<rbRegRunOnce>
+			<Caption>Register, bij de volgende aanmelding slechts een keer uitvoeren</Caption>
+		</rbRegRunOnce>
+		<rbStartMenu>
+			<Caption>Opstart map, uitgevoerd bij elke aanmelding</Caption>
+		</rbStartMenu>
+	</dlgAutorunItem>
+	<dlgChangeIcon>
+		<btnBrowse>
+			<Caption>Bladeren...</Caption>
+		</btnBrowse>
+		<btnCancel>
+			<Caption>Sluiten</Caption>
+		</btnCancel>
+		<btnClear>
+			<Caption>Wissen</Caption>
+		</btnClear>
+		<btnOk>
+			<Caption>Ok</Caption>
+		</btnOk>
+		<Caption>Wijzig Pictograma</Caption>
+		<gbIcons>
+			<Caption>Pictogrammen</Caption>
+		</gbIcons>
+	</dlgChangeIcon>
+	<dlgCheckUpdates>
+		<btnClose>
+			<Caption>Sluiten</Caption>
+		</btnClose>
+		<btnRefresh>
+			<Caption>Vernieuwen</Caption>
+		</btnRefresh>
+		<Caption>Controleren op updates</Caption>
+	</dlgCheckUpdates>
+	<dlgCompareSns>
+		<btnCancel>
+			<Caption>Annuleren</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Vergelijk systeem herstelpunt</Caption>
+		<lblCompareProfile>
+			<Caption>Vergelijk profiel</Caption>
+		</lblCompareProfile>
+		<lblResultLog>
+			<Caption>Resultatenlijst</Caption>
+		</lblResultLog>
+		<lblSnapshotA>
+			<Caption>Systeem herstelpunt A</Caption>
+		</lblSnapshotA>
+		<lblSnapshotB>
+			<Caption>Systeem herstelpunt B</Caption>
+		</lblSnapshotB>
+	</dlgCompareSns>
+	<dlgExportRegistry>
+		<btnCancel>
+			<Caption>Annuleren</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Exporteer registerwijzigingen</Caption>
+		<cbCreatedKeys>
+			<Caption>Aangemaakte sleutels</Caption>
+		</cbCreatedKeys>
+		<cbCreatedValues>
+			<Caption>Aangemaakte waarden</Caption>
+		</cbCreatedValues>
+		<cbDeletedKeys>
+			<Caption>Verwijderde sleutels</Caption>
+		</cbDeletedKeys>
+		<cbDeletedValues>
+			<Caption>Verwijderde waarden</Caption>
+		</cbDeletedValues>
+		<cbModifiedValues>
+			<Caption>Gewijzigde waarden</Caption>
+		</cbModifiedValues>
+		<gbDetails>
+			<Caption>Registerwijzigingen</Caption>
+		</gbDetails>
+		<gbExportType>
+			<Caption>Exporttype</Caption>
+		</gbExportType>
+		<gbRange>
+			<Caption>Exporteer reeks</Caption>
+		</gbRange>
+		<rbExpAll>
+			<Caption>Alles</Caption>
+		</rbExpAll>
+		<rbExpBranch>
+			<Caption>Geselecteerde tak</Caption>
+		</rbExpBranch>
+		<rbInstall>
+			<Caption>Installeer bestand</Caption>
+		</rbInstall>
+		<rbUninstall>
+			<Caption>De-Installeer bestand</Caption>
+		</rbUninstall>
+	</dlgExportRegistry>
+	<dlgGroupProp>
+		<btnCancel>
+			<Caption>Annuleren</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Groep</Caption>
+		<lblIcon>
+			<Caption>Pictogram</Caption>
+		</lblIcon>
+		<lblName>
+			<Caption>Naam</Caption>
+		</lblName>
+	</dlgGroupProp>
+	<dlgMergeLogs>
+		<btnCancel>
+			<Caption>Annuleren</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Logbestanden samenvoegen</Caption>
+		<cbDeleteUpdate>
+			<Caption>Verwijder de updatelog na samenvoegen</Caption>
+		</cbDeleteUpdate>
+		<gbDestination>
+			<Caption>Bestemming</Caption>
+		</gbDestination>
+		<gbSources>
+			<Caption>Bronnen</Caption>
+		</gbSources>
+		<lblInstallLog>
+			<Caption>Installatielog</Caption>
+		</lblInstallLog>
+		<lblNewName>
+			<Caption>Nieuwe naam</Caption>
+		</lblNewName>
+		<lblUpdateLog>
+			<Caption>Log bijwerken</Caption>
+		</lblUpdateLog>
+		<rbCreateANewLog>
+			<Caption>Een nieuwe log aanmaken</Caption>
+		</rbCreateANewLog>
+		<rbSaveInInstallLog>
+			<Caption>Opslaan in installatielog</Caption>
+		</rbSaveInInstallLog>
+	</dlgMergeLogs>
+	<dlgPendingFileRename>
+		<btnApply>
+			<Caption>Toepassen</Caption>
+		</btnApply>
+		<btnClose>
+			<Caption>Sluiten</Caption>
+		</btnClose>
+		<Caption>Lopende bestandshernoeming verwerkingen</Caption>
+		<tvPendingFiles>
+			<Columns_0>Bron</Columns_0>
+			<Columns_1>Bestemming</Columns_1>
+		</tvPendingFiles>
+	</dlgPendingFileRename>
+	<dlgRegister>
+		<btnBuy>
+			<Caption>Kopen</Caption>
+		</btnBuy>
+		<btnCancel>
+			<Caption>Annuleren</Caption>
+		</btnCancel>
+		<btnRegister>
+			<Caption>Registreren</Caption>
+		</btnRegister>
+		<Caption>Total Uninstall registreren</Caption>
+		<lblKey>
+			<Caption>Registratie sleutel</Caption>
+		</lblKey>
+		<lblName>
+			<Caption>Registratienaam</Caption>
+		</lblName>
+		<ulblLostRegistrationInfo>
+			<Caption>Ik ben mijn registratie gegevens kwijt.</Caption>
+		</ulblLostRegistrationInfo>
+	</dlgRegister>
+	<dlgRestrictedFeature>
+		<btnCancel>
+			<Caption>Annuleren</Caption>
+		</btnCancel>
+		<Caption>Beperkte functies</Caption>
+		<clinkCompareFeatures>
+			<Caption>Professioneel versus Standaard editie</Caption>
+			<Note>Toon vergelijkings grafiek</Note>
+		</clinkCompareFeatures>
+		<clinkContinue>
+			<Caption>Doorgaan</Caption>
+		</clinkContinue>
+		<clinkPurchase>
+			<Caption>Kopen</Caption>
+			<Note>Open bestelformulier</Note>
+		</clinkPurchase>
+		<lblInstruction>
+			<Caption>Deze funtie is alleen beschikbaar in de geregistreerde versie</Caption>
+		</lblInstruction>
+		<lblProfessionalEdition>
+			<Caption>- Professionele editie</Caption>
+		</lblProfessionalEdition>
+		<lblStandardEdition>
+			<Caption>- Standaard editie</Caption>
+		</lblStandardEdition>
+	</dlgRestrictedFeature>
+	<dlgRmvShared>
+		<btnNo>
+			<Caption>Nee</Caption>
+		</btnNo>
+		<btnNoToAll>
+			<Caption>Nee op alles</Caption>
+		</btnNoToAll>
+		<btnYes>
+			<Caption>Ja</Caption>
+		</btnYes>
+		<btnYesToAll>
+			<Caption>Ja op alles</Caption>
+		</btnYesToAll>
+		<Caption>Gedeeld bestand verwijderen?</Caption>
+		<lblFileName>
+			<Caption>Bestandsnaam:</Caption>
+		</lblFileName>
+		<lblLocated>
+			<Caption>Gelocaliseerd in:</Caption>
+		</lblLocated>
+		<lblOne>
+			<Caption>Het systeem geeft aan dat het volgende gedeelde bestand niet langer in gebruik is door een programma. Indien programma's dit bestand gebruiken zullen deze mogelijk niet meer werken na het verwijderen. Weet u zeker dat u het gedeelde bestand wilt verwijderen?</Caption>
+		</lblOne>
+		<lblTwo>
+			<Caption>Dit bestand op het systeem laten staan kan geen kwaad. Als u niet zeker bent wat u moet doen, dan wordt aangeraden om dit gedeelde bestand niet te verwijderen.</Caption>
+		</lblTwo>
+	</dlgRmvShared>
+	<dlgSelect>
+		<btnCancel>
+			<Caption>Annuleren</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Selecteren</Caption>
+	</dlgSelect>
+	<dlgSelectLibIcon>
+		<btnAdd>
+			<Caption>Toevoegen</Caption>
+		</btnAdd>
+		<btnCancel>
+			<Caption>Annuleren</Caption>
+		</btnCancel>
+		<btnDelete>
+			<Caption>Verwijderen</Caption>
+		</btnDelete>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Selecteer een pictogram</Caption>
+		<gbIcons>
+			<Caption>Pictogrammen</Caption>
+		</gbIcons>
+	</dlgSelectLibIcon>
+	<dlgSysBrowser>
+		<btnCancel>
+			<Caption>&amp;Annuleren</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>&amp;OK</Caption>
+		</btnOk>
+		<lblExpanded>
+			<Caption>Uitgebreide</Caption>
+		</lblExpanded>
+	</dlgSysBrowser>
+	<dlgTUAbout>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Informatie</Caption>
+		<lblCopyright>
+			<Caption>Copyright © 2001-2019, Gavrila Martau</Caption>
+		</lblCopyright>
+		<lblEmail>
+			<Caption>E-mail</Caption>
+		</lblEmail>
+		<lblHomePage>
+			<Caption>Startpagina</Caption>
+		</lblHomePage>
+		<ulblBuyUpgrade>
+			<Caption>Upgrade kopen</Caption>
+		</ulblBuyUpgrade>
+		<ulblDownload>
+			<Caption>Download de laaste gratis update</Caption>
+		</ulblDownload>
+	</dlgTUAbout>
+	<dlgTunBackup>
+		<btnCancel>
+			<Caption>Annuleren</Caption>
+		</btnCancel>
+		<btnCopy>
+			<Caption>Kopieren naar...</Caption>
+		</btnCopy>
+		<btnCreate>
+			<Caption>Maken</Caption>
+		</btnCreate>
+		<lblArchiving>
+			<Caption>Archiveren van bestanden en register sleutels...</Caption>
+		</lblArchiving>
+		<lblCreateBackup>
+			<Caption>Maak een back-up van het programma</Caption>
+		</lblCreateBackup>
+		<lblFilesNotIncluded>
+			<Caption>Bestanden worden niet opgenomen in de back-up</Caption>
+		</lblFilesNotIncluded>
+	</dlgTunBackup>
+	<dlgTunRestore>
+		<btnImport>
+			<Caption>Import</Caption>
+		</btnImport>
+		<cbRestoreOnlyLog>
+			<Caption>Zet alleen de installatielog terug</Caption>
+		</cbRestoreOnlyLog>
+		<lblFilesNotIncluded>
+			<Caption>Akties zijn niet uitgevoerd</Caption>
+		</lblFilesNotIncluded>
+		<lblRestoreProfile>
+			<Caption>Herstel het profiel</Caption>
+		</lblRestoreProfile>
+		<lblRestoreProgram>
+			<Caption>Selecteer een programma om het te herstellen</Caption>
+		</lblRestoreProgram>
+		<lblUndoRestoration>
+			<Caption>Kies een herstelling om die ongedaan te maken</Caption>
+		</lblUndoRestoration>
+		<pmiCopyTo>
+			<Caption>Kopieren naar...</Caption>
+		</pmiCopyTo>
+		<pmiDelete>
+			<Caption>Verwijderen</Caption>
+		</pmiDelete>
+	</dlgTunRestore>
+	<dlgTUOptions>
+		<btnAddAnalysisProfile>
+			<Caption>Toevoegen...</Caption>
+		</btnAddAnalysisProfile>
+		<btnAddChgView>
+			<Caption>Toevoegen...</Caption>
+		</btnAddChgView>
+		<btnAddCleaner>
+			<Caption>Toevoegen...</Caption>
+		</btnAddCleaner>
+		<btnAddCompareProfile>
+			<Caption>Toevoegen...</Caption>
+		</btnAddCompareProfile>
+		<btnAddExclFlds>
+			<Caption>Toevoegen...</Caption>
+		</btnAddExclFlds>
+		<btnAddExclKey>
+			<Caption>Toevoegen...</Caption>
+		</btnAddExclKey>
+		<btnAddIgnChgFs>
+			<Caption>Toevoegen...</Caption>
+		</btnAddIgnChgFs>
+		<btnAddIgnChgReg>
+			<Caption>Toevoegen...</Caption>
+		</btnAddIgnChgReg>
+		<btnAddIgnFile>
+			<Caption>Toevoegen...</Caption>
+		</btnAddIgnFile>
+		<btnAddInclFlds>
+			<Caption>Toevoegen...</Caption>
+		</btnAddInclFlds>
+		<btnAddInclKeys>
+			<Caption>Toevoegen...</Caption>
+		</btnAddInclKeys>
+		<btnAddInstallLoc>
+			<Caption>Toevoegen...</Caption>
+		</btnAddInstallLoc>
+		<btnAddProtectedFld>
+			<Caption>Toevoegen...</Caption>
+		</btnAddProtectedFld>
+		<btnAddProtectedKey>
+			<Caption>Toevoegen...</Caption>
+		</btnAddProtectedKey>
+		<btnAddRedo>
+			<Caption>Toevoegen...</Caption>
+		</btnAddRedo>
+		<btnAddScanProfile>
+			<Caption>Toevoegen...</Caption>
+		</btnAddScanProfile>
+		<btnAddUninst>
+			<Caption>Toevoegen...</Caption>
+		</btnAddUninst>
+		<btnAddUninstInst>
+			<Caption>Toevoegen...</Caption>
+		</btnAddUninstInst>
+		<btnAddValue>
+			<Caption>Toevoegen...</Caption>
+		</btnAddValue>
+		<btnAddVer>
+			<Caption>Toevoegen...</Caption>
+		</btnAddVer>
+		<btnAgentAddExcMask>
+			<Caption>Toevoegen...</Caption>
+		</btnAgentAddExcMask>
+		<btnAgentAddIncMask>
+			<Caption>Toevoegen...</Caption>
+		</btnAgentAddIncMask>
+		<btnAgentRemExcMask>
+			<Caption>Verwijderen</Caption>
+		</btnAgentRemExcMask>
+		<btnAgentRemIncMask>
+			<Caption>Verwijderen</Caption>
+		</btnAgentRemIncMask>
+		<btnAnlSaveAs>
+			<Caption>Opslaan als...</Caption>
+		</btnAnlSaveAs>
+		<btnCancel>
+			<Caption>Annuleren</Caption>
+		</btnCancel>
+		<btnChgViewSaveAs>
+			<Caption>Opslaan als...</Caption>
+		</btnChgViewSaveAs>
+		<btnCleanerSaveAs>
+			<Caption>Opslaan als...</Caption>
+		</btnCleanerSaveAs>
+		<btnClnAddExclFs>
+			<Caption>Toevoegen...</Caption>
+		</btnClnAddExclFs>
+		<btnClnAddExclRegistry>
+			<Caption>Toevoegen...</Caption>
+		</btnClnAddExclRegistry>
+		<btnClnEditExclFs>
+			<Caption>Bewerken...</Caption>
+		</btnClnEditExclFs>
+		<btnClnEditExclRegistry>
+			<Caption>Bewerken...</Caption>
+		</btnClnEditExclRegistry>
+		<btnClnRemExclFs>
+			<Caption>Verwijder</Caption>
+		</btnClnRemExclFs>
+		<btnClnRemExclRegistry>
+			<Caption>Verwijder</Caption>
+		</btnClnRemExclRegistry>
+		<btnCompPlaySound>
+			<Caption>Test</Caption>
+		</btnCompPlaySound>
+		<btnCompSaveAs>
+			<Caption>Opslaan als...</Caption>
+		</btnCompSaveAs>
+		<btnEditExclFlds>
+			<Caption>Bewerken...</Caption>
+		</btnEditExclFlds>
+		<btnEditExclKeys>
+			<Caption>Bewerken...</Caption>
+		</btnEditExclKeys>
+		<btnEditIgnChgFs>
+			<Caption>Bewerken...</Caption>
+		</btnEditIgnChgFs>
+		<btnEditIgnChgReg>
+			<Caption>Bewerken...</Caption>
+		</btnEditIgnChgReg>
+		<btnEditIgnFile>
+			<Caption>Bewerken...</Caption>
+		</btnEditIgnFile>
+		<btnEditIgnValues>
+			<Caption>Bewerken...</Caption>
+		</btnEditIgnValues>
+		<btnEditProtectedFld>
+			<Caption>Bewerken...</Caption>
+		</btnEditProtectedFld>
+		<btnEditProtectedKey>
+			<Caption>Bewerken...</Caption>
+		</btnEditProtectedKey>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<btnRedoSaveAs>
+			<Caption>Opslaan als...</Caption>
+		</btnRedoSaveAs>
+		<btnRemAnalysisProfile>
+			<Caption>Verwijderen...</Caption>
+		</btnRemAnalysisProfile>
+		<btnRemChgView>
+			<Caption>Verwijderen...</Caption>
+		</btnRemChgView>
+		<btnRemCleaner>
+			<Caption>Verwijderen...</Caption>
+		</btnRemCleaner>
+		<btnRemCompareProfile>
+			<Caption>Verwijderen...</Caption>
+		</btnRemCompareProfile>
+		<btnRemExclFlds>
+			<Caption>Verwijderen</Caption>
+		</btnRemExclFlds>
+		<btnRemExclKeys>
+			<Caption>Verwijderen</Caption>
+		</btnRemExclKeys>
+		<btnRemIgnChgFs>
+			<Caption>Verwijderen</Caption>
+		</btnRemIgnChgFs>
+		<btnRemIgnChgReg>
+			<Caption>Verwijderen</Caption>
+		</btnRemIgnChgReg>
+		<btnRemIgnFile>
+			<Caption>Verwijderen</Caption>
+		</btnRemIgnFile>
+		<btnRemInclFlds>
+			<Caption>Verwijderen</Caption>
+		</btnRemInclFlds>
+		<btnRemInclKeys>
+			<Caption>Verwijderen</Caption>
+		</btnRemInclKeys>
+		<btnRemoveInstallLoc>
+			<Caption>Verwijderen</Caption>
+		</btnRemoveInstallLoc>
+		<btnRemoveRedo>
+			<Caption>Verwijderen...</Caption>
+		</btnRemoveRedo>
+		<btnRemProtectedFld>
+			<Caption>Verwijderen</Caption>
+		</btnRemProtectedFld>
+		<btnRemProtectedKey>
+			<Caption>Verwijderen</Caption>
+		</btnRemProtectedKey>
+		<btnRemScanProfile>
+			<Caption>Verwijderen...</Caption>
+		</btnRemScanProfile>
+		<btnRemUninst>
+			<Caption>Verwijderen...</Caption>
+		</btnRemUninst>
+		<btnRemUninstInst>
+			<Caption>Verwijderen...</Caption>
+		</btnRemUninstInst>
+		<btnRemValues>
+			<Caption>Verwijderen</Caption>
+		</btnRemValues>
+		<btnRemVer>
+			<Caption>Verwijderen</Caption>
+		</btnRemVer>
+		<btnResetAll>
+			<Caption>Alles Resetten</Caption>
+		</btnResetAll>
+		<btnScanPlaySound>
+			<Caption>Test</Caption>
+		</btnScanPlaySound>
+		<btnScanSaveAs>
+			<Caption>Opslaan als...</Caption>
+		</btnScanSaveAs>
+		<btnUninstSaveAs>
+			<Caption>Opslaan als...</Caption>
+		</btnUninstSaveAs>
+		<Caption>Opties</Caption>
+		<cbAnlProfileDefault>
+			<Caption>Standaard</Caption>
+		</cbAnlProfileDefault>
+		<cbAutoStart>
+			<Caption>Automatisch opstarten met Windows om niet beëindigde gemonitorde processen voort te zetten</Caption>
+		</cbAutoStart>
+		<cbBackup>
+			<Caption>Backup van gedesinstalleerd programma</Caption>
+		</cbBackup>
+		<cbChgViewDefault>
+			<Caption>Standaard</Caption>
+		</cbChgViewDefault>
+		<cbCleanerDefault>
+			<Caption>Standaard</Caption>
+		</cbCleanerDefault>
+		<cbCleanerEnable>
+			<Caption>Schakel reinigings module in</Caption>
+		</cbCleanerEnable>
+		<cbClickRestore>
+			<Caption>Met een enkele klik herstellen</Caption>
+		</cbClickRestore>
+		<cbCompareRegistry>
+			<Caption>Vergelijk register</Caption>
+		</cbCompareRegistry>
+		<cbCompFiles>
+			<Caption>Vergelijk bestanden</Caption>
+		</cbCompFiles>
+		<cbCompPlaySound>
+			<Caption>Speel geluid af na voltooien</Caption>
+		</cbCompPlaySound>
+		<cbCompProfileDefault>
+			<Caption>Standaard</Caption>
+		</cbCompProfileDefault>
+		<cbCompProfileFrozen>
+			<Caption>Vastzetten</Caption>
+		</cbCompProfileFrozen>
+		<cbComputeMD5>
+			<Caption>Bereken MD5 voor nieuwe bestanden</Caption>
+		</cbComputeMD5>
+		<cbCreateKeys>
+			<Caption>Verwijderde sleutels aanmaken</Caption>
+		</cbCreateKeys>
+		<cbCreateValues>
+			<Caption>Verwijderde waarden aanmaken</Caption>
+		</cbCreateValues>
+		<cbCustomSnsName>
+			<Caption>Zelfgemaakte herstelpunten toestaan</Caption>
+		</cbCustomSnsName>
+		<cbDecrement>
+			<Caption>Verminder de gedeelde bestandsteller</Caption>
+		</cbDecrement>
+		<cbDelFiles>
+			<Caption>Verwijder gemaakte bestanden (gedeelde bestanden enkel als de teller 0 bereikt)</Caption>
+		</cbDelFiles>
+		<cbDelFolders>
+			<Caption>Verwijder gemaakte mappen</Caption>
+		</cbDelFolders>
+		<cbDelKeys>
+			<Caption>Verwijder gemaakte sleutels</Caption>
+		</cbDelKeys>
+		<cbDelUseRecycle>
+			<Caption>Gebruik de prullenbak</Caption>
+		</cbDelUseRecycle>
+		<cbDelValues>
+			<Caption>Verwijder gemaakte waarden</Caption>
+		</cbDelValues>
+		<cbDontUseLog>
+			<Caption>Gebruik geen wijziginglog</Caption>
+		</cbDontUseLog>
+		<cbEnableAgent>
+			<Caption>Total Uninstall Agent activeren</Caption>
+		</cbEnableAgent>
+		<cbExtractFileVersion>
+			<Caption>Bestand versie-informatie uitpakken</Caption>
+		</cbExtractFileVersion>
+		<cbHexViewerNot64Bit>
+			<Caption>Geen 64-bit uitvoering</Caption>
+		</cbHexViewerNot64Bit>
+		<cbIgnoreMissingItems>
+			<Caption>Negeer ontbrekende items</Caption>
+		</cbIgnoreMissingItems>
+		<cbInstPrgsEnable>
+			<Caption>Zet ge-installeerde programma's module aan</Caption>
+		</cbInstPrgsEnable>
+		<cbMinToTray>
+			<Caption>Minimaliseren naar systeemvak</Caption>
+		</cbMinToTray>
+		<cbMonPrgsEnable>
+			<Caption>Zet gemonitorde programma module aan</Caption>
+		</cbMonPrgsEnable>
+		<cbRedoCreateFiles>
+			<Caption>Herstel aangemaakte bestanden</Caption>
+		</cbRedoCreateFiles>
+		<cbRedoCreateFilesOvr>
+			<Caption>Overschrijf bestanden</Caption>
+		</cbRedoCreateFilesOvr>
+		<cbRedoCreateFilesOvrLck>
+			<Caption>Overschrijf geblokkeerde bestanden</Caption>
+		</cbRedoCreateFilesOvrLck>
+		<cbRedoCreateFolders>
+			<Caption>Herstel aangemaakte mappen</Caption>
+		</cbRedoCreateFolders>
+		<cbRedoCreateKeys>
+			<Caption>Herstel aangemaakte sleutels</Caption>
+		</cbRedoCreateKeys>
+		<cbRedoCreateValues>
+			<Caption>Herstel aangemaakte waarden</Caption>
+		</cbRedoCreateValues>
+		<cbRedoDefault>
+			<Caption>Standaard</Caption>
+		</cbRedoDefault>
+		<cbRedoDeleteFiles>
+			<Caption>Verwijder bestanden</Caption>
+		</cbRedoDeleteFiles>
+		<cbRedoDeleteFolders>
+			<Caption>Verwijder mappen</Caption>
+		</cbRedoDeleteFolders>
+		<cbRedoDeleteKeys>
+			<Caption>Verwijder sleutels</Caption>
+		</cbRedoDeleteKeys>
+		<cbRedoDeleteValues>
+			<Caption>Verwijder waarden</Caption>
+		</cbRedoDeleteValues>
+		<cbRedoEnabled>
+			<Caption>Ingeschakeld</Caption>
+		</cbRedoEnabled>
+		<cbRedoModifyFiles>
+			<Caption>Herstel gewijzigde bestanden</Caption>
+		</cbRedoModifyFiles>
+		<cbRedoModifyFilesLck>
+			<Caption>Overschrijf geblokkeerde bestanden</Caption>
+		</cbRedoModifyFilesLck>
+		<cbRedoModifyValues>
+			<Caption>Herstel gewijzigde waarden</Caption>
+		</cbRedoModifyValues>
+		<cbRedoSysRestore>
+			<Caption>Maak een systeemherstelpunt voor de restauratie</Caption>
+		</cbRedoSysRestore>
+		<cbRestoreValues>
+			<Caption>Herstel gewijzigde waarden</Caption>
+		</cbRestoreValues>
+		<cbRstFileCreated>
+			<Caption>Herstel bestandsaanmaak datum</Caption>
+		</cbRstFileCreated>
+		<cbScanForAds>
+			<Caption>Scannen op alternatieve gegevensstromen</Caption>
+		</cbScanForAds>
+		<cbScanPlaySound>
+			<Caption>Speel geluid af na voltooien</Caption>
+		</cbScanPlaySound>
+		<cbScanProfileDefault>
+			<Caption>Standaard</Caption>
+		</cbScanProfileDefault>
+		<cbScanProfileFrozen>
+			<Caption>Vastzetten</Caption>
+		</cbScanProfileFrozen>
+		<cbShell>
+			<Caption>Intergreer Total Uninstall in de shell</Caption>
+		</cbShell>
+		<cbShowAfter>
+			<Caption>Na kolom</Caption>
+		</cbShowAfter>
+		<cbShowBefore>
+			<Caption>Voor kolom</Caption>
+		</cbShowBefore>
+		<cbShowBinAsText>
+			<Caption>Binaire data als tekst weergeven</Caption>
+		</cbShowBinAsText>
+		<cbShowChanged>
+			<Caption>Gewijzigde items</Caption>
+		</cbShowChanged>
+		<cbShowCreated>
+			<Caption>Aangemaakte items</Caption>
+		</cbShowCreated>
+		<cbShowCurrent>
+			<Caption>Huidige Kolom</Caption>
+		</cbShowCurrent>
+		<cbShowDataSize>
+			<Caption>Datagrootte</Caption>
+		</cbShowDataSize>
+		<cbShowDataType>
+			<Caption>Datatype</Caption>
+		</cbShowDataType>
+		<cbShowDateCreated>
+			<Caption>Aanmaakdatum</Caption>
+		</cbShowDateCreated>
+		<cbShowDateModified>
+			<Caption>Wijzigingsdatum</Caption>
+		</cbShowDateModified>
+		<cbShowDeleted>
+			<Caption>Verwijderde items</Caption>
+		</cbShowDeleted>
+		<cbShowFileAttrib>
+			<Caption>Bestandsattributen</Caption>
+		</cbShowFileAttrib>
+		<cbShowFileSize>
+			<Caption>Bestandsgrootte</Caption>
+		</cbShowFileSize>
+		<cbShowFileVersion>
+			<Caption>Bestandsversie</Caption>
+		</cbShowFileVersion>
+		<cbShowMD5>
+			<Caption>Nieuw bestands MD5 som</Caption>
+		</cbShowMD5>
+		<cbSmartAdjustAnalysisLevel>
+			<Caption>Slimme analyse niveau instellen</Caption>
+		</cbSmartAdjustAnalysisLevel>
+		<cbSysRestore>
+			<Caption>Creëer een herstelpunt voor de de-installatie</Caption>
+		</cbSysRestore>
+		<cbSystemFilesAdditional>
+			<Caption>Aanvullende analyse</Caption>
+		</cbSystemFilesAdditional>
+		<cbTxtViewerNot64Bit>
+			<Caption>Geen 64-bit besturing</Caption>
+		</cbTxtViewerNot64Bit>
+		<cbUninstDefault>
+			<Caption>Standaard</Caption>
+		</cbUninstDefault>
+		<cbUninstEnabled>
+			<Caption>Geactiveerd</Caption>
+		</cbUninstEnabled>
+		<cbUseUninstaller>
+			<Caption>Gebruik eerst het interne de-installatieprogramma</Caption>
+		</cbUseUninstaller>
+		<cmbUpdateFrequency>
+			<Items>Dagelijks\nWekelijks\nMaandelijks</Items>
+		</cmbUpdateFrequency>
+		<cmbUpdateMethod>
+			<Items>Handmatig\nMet herinnering\nAutomatisch</Items>
+		</cmbUpdateMethod>
+		<gbAgentMasks>
+			<Caption>Filters voor setupprogramma bestandsnaam</Caption>
+		</gbAgentMasks>
+		<gbClnExcludeFs>
+			<Caption>Mappen en bestanden uitsluiten</Caption>
+		</gbClnExcludeFs>
+		<gbClnExcludeRegistry>
+			<Caption>Register sleutels en waarden uitsluiten</Caption>
+		</gbClnExcludeRegistry>
+		<gbCompareIgnChgReg>
+			<Caption>Negeer gewijzigde items</Caption>
+		</gbCompareIgnChgReg>
+		<gbCompareIgnKeys>
+			<Caption>Negeer sleutels en waarden</Caption>
+		</gbCompareIgnKeys>
+		<gbCompIgnChgFs>
+			<Caption>Negeer gewijzigde items</Caption>
+		</gbCompIgnChgFs>
+		<gbCompIgnoreFld>
+			<Caption>Negeer mappen en bestanden</Caption>
+		</gbCompIgnoreFld>
+		<gbFileExtensions>
+			<Caption>Bestandsextenties met versie informatie</Caption>
+		</gbFileExtensions>
+		<gbInstallLoc>
+			<Caption>Installatie locaties</Caption>
+		</gbInstallLoc>
+		<gbInstallLocation>
+			<Caption>Installatie locatie detectie</Caption>
+		</gbInstallLocation>
+		<gbLimits>
+			<Caption>Limieten voor herstelpunt mappen</Caption>
+		</gbLimits>
+		<gbPrgData>
+			<Caption>Programma data detectie</Caption>
+		</gbPrgData>
+		<gbPrgSettings>
+			<Caption>Programma instellingen detectie</Caption>
+		</gbPrgSettings>
+		<gbPrgShortcuts>
+			<Caption>Programma snelkoppeling detectie</Caption>
+		</gbPrgShortcuts>
+		<gbProtectedFolders>
+			<Caption>Beveiligde mappen</Caption>
+		</gbProtectedFolders>
+		<gbProtectedKeys>
+			<Caption>Beveiligde sleutels</Caption>
+		</gbProtectedKeys>
+		<gbRegEditor>
+			<Caption>Register-editor</Caption>
+		</gbRegEditor>
+		<gbRegScanner>
+			<Caption>Register scanner</Caption>
+		</gbRegScanner>
+		<gbScanExclFolders>
+			<Caption>Mappen uitsluiten</Caption>
+		</gbScanExclFolders>
+		<gbScanExclKeys>
+			<Caption>Sleutels uitsluiten</Caption>
+		</gbScanExclKeys>
+		<gbScanInclFolders>
+			<Caption>Mappen toevoegen</Caption>
+		</gbScanInclFolders>
+		<gbScanInclKeys>
+			<Caption>Sleutels toevoegen</Caption>
+		</gbScanInclKeys>
+		<gbShellIntegration>
+			<Caption>Shell integratie detectie</Caption>
+		</gbShellIntegration>
+		<gbSystemFiles>
+			<Caption>Systeem bestanden detectie</Caption>
+		</gbSystemFiles>
+		<gbTranslation>
+			<Caption>Vertaling</Caption>
+		</gbTranslation>
+		<grpExistingViewStyle>
+			<Caption>Bestaande Items in het Systeem</Caption>
+		</grpExistingViewStyle>
+		<grpMissingViewStyle>
+			<Caption>Ontbrekende Items in het Systeem</Caption>
+		</grpMissingViewStyle>
+		<lblAdvanced1>
+			<Caption>Geavanceerd</Caption>
+		</lblAdvanced1>
+		<lblAdvanced2>
+			<Caption>Geavanceerd</Caption>
+		</lblAdvanced2>
+		<lblAdvanced3>
+			<Caption>Geavanceerd</Caption>
+		</lblAdvanced3>
+		<lblAdvanced4>
+			<Caption>Geavanceerd</Caption>
+		</lblAdvanced4>
+		<lblAdvanced5>
+			<Caption>Geavanceerd</Caption>
+		</lblAdvanced5>
+		<lblAdvanced6>
+			<Caption>Geavanceerd</Caption>
+		</lblAdvanced6>
+		<lblAgentExcludeMask>
+			<Caption>Uitsluiten</Caption>
+		</lblAgentExcludeMask>
+		<lblAgentIncludeMask>
+			<Caption>Toevoegen</Caption>
+		</lblAgentIncludeMask>
+		<lblAnalysisProfiles>
+			<Caption>Analyseert profielen</Caption>
+		</lblAnalysisProfiles>
+		<lblAnlProfileDesc>
+			<Caption>Omschrijving</Caption>
+		</lblAnlProfileDesc>
+		<lblAnlProfileName>
+			<Caption>Naam</Caption>
+		</lblAnlProfileName>
+		<lblBackupLimiFolderSize>
+			<Caption>Backup map limiet (MB)</Caption>
+		</lblBackupLimiFolderSize>
+		<lblChageViewName>
+			<Caption>Naam</Caption>
+		</lblChageViewName>
+		<lblChangeViews>
+			<Caption>Wijzig weergaven</Caption>
+		</lblChangeViews>
+		<lblCheckUpdateMethod>
+			<Caption>Updates controle methode</Caption>
+		</lblCheckUpdateMethod>
+		<lblCheckUpdatesFrequency>
+			<Caption>Frequentie</Caption>
+		</lblCheckUpdatesFrequency>
+		<lblCleanerDescription>
+			<Caption>Beschrijving</Caption>
+		</lblCleanerDescription>
+		<lblCleanerName>
+			<Caption>Naam</Caption>
+		</lblCleanerName>
+		<lblCleaners>
+			<Caption>Reinigers</Caption>
+		</lblCleaners>
+		<lblCompareProfileDesc>
+			<Caption>Omschrijving</Caption>
+		</lblCompareProfileDesc>
+		<lblCompareProfileName>
+			<Caption>Naam</Caption>
+		</lblCompareProfileName>
+		<lblFolderSize>
+			<Caption>Mapgrootte (MBytes)</Caption>
+		</lblFolderSize>
+		<lblHexViewer>
+			<Caption>Hexviewer</Caption>
+		</lblHexViewer>
+		<lblLanguage>
+			<Caption>Taal</Caption>
+		</lblLanguage>
+		<lblNone1>
+			<Caption>Geen</Caption>
+		</lblNone1>
+		<lblNone2>
+			<Caption>Geen</Caption>
+		</lblNone2>
+		<lblNone3>
+			<Caption>Geen</Caption>
+		</lblNone3>
+		<lblNone4>
+			<Caption>Geen</Caption>
+		</lblNone4>
+		<lblNone5>
+			<Caption>Geen</Caption>
+		</lblNone5>
+		<lblNone6>
+			<Caption>Geen</Caption>
+		</lblNone6>
+		<lblProgramDataPath>
+			<Caption>Programma datapad</Caption>
+		</lblProgramDataPath>
+		<lblRedoDescription>
+			<Caption>Omschrijving</Caption>
+		</lblRedoDescription>
+		<lblRedoName>
+			<Caption>Naam</Caption>
+		</lblRedoName>
+		<lblRedoProfiles>
+			<Caption>Profielen herstellen</Caption>
+		</lblRedoProfiles>
+		<lblScanningProfiles>
+			<Caption>Profielen scannen</Caption>
+		</lblScanningProfiles>
+		<lblScanProfileDesc>
+			<Caption>Omschrijving</Caption>
+		</lblScanProfileDesc>
+		<lblScanProfileName>
+			<Caption>Naam</Caption>
+		</lblScanProfileName>
+		<lblSimultaneousTasks>
+			<Caption>Gelijktijdige taken</Caption>
+		</lblSimultaneousTasks>
+		<lblSnsCompareProfiles>
+			<Caption>Herstelpunten van profielen vergelijken</Caption>
+		</lblSnsCompareProfiles>
+		<lblSnsCount>
+			<Caption>Aantal herstelpunten</Caption>
+		</lblSnsCount>
+		<lblTranslatedBy1>
+			<Caption>Vertaald door P. Wellinga</Caption>
+		</lblTranslatedBy1>
+		<lblTranslatedBy2>
+			<Caption>Home page: www.martau.com</Caption>
+		</lblTranslatedBy2>
+		<lblTranslatedBy3>
+			<Caption>E-mail: support@martau.com</Caption>
+		</lblTranslatedBy3>
+		<lblTxtViewer>
+			<Caption>Tekst viewer</Caption>
+		</lblTxtViewer>
+		<lblUninstallProfiles>
+			<Caption>De-installatie profielen</Caption>
+		</lblUninstallProfiles>
+		<lblUninstallProfilesInst>
+			<Caption>De-installatie profielen</Caption>
+		</lblUninstallProfilesInst>
+		<lblUninstDesc>
+			<Caption>Omschrijving</Caption>
+		</lblUninstDesc>
+		<lblUninstName>
+			<Caption>Naam</Caption>
+		</lblUninstName>
+		<lblUninstRemoveLog>
+			<Caption>Verwijder de gede-installeerde programma's van de lijst</Caption>
+		</lblUninstRemoveLog>
+		<lblUserInteraction>
+			<Caption>Gebruik eerst het beschikbare interne De-installatieprogramma van het programma</Caption>
+		</lblUserInteraction>
+		<rbDialog>
+			<Caption>Dialoog</Caption>
+		</rbDialog>
+		<rbOtherRegEdit>
+			<Caption>Andere</Caption>
+		</rbOtherRegEdit>
+		<rbTrayBaloon>
+			<Caption>Systeemvakballon</Caption>
+		</rbTrayBaloon>
+		<rbWinRegEdit>
+			<Caption>Windows register-editor</Caption>
+		</rbWinRegEdit>
+		<rgAgentNotif>
+			<Caption>Melding van het setup programma</Caption>
+		</rgAgentNotif>
+		<tabAnlFileSystem>
+			<Caption>Bestandssysteem</Caption>
+		</tabAnlFileSystem>
+		<tabAnlGeneral>
+			<Caption>Algemeen</Caption>
+		</tabAnlGeneral>
+		<tabChageViewFileSystem>
+			<Caption>Bestandssysteem</Caption>
+		</tabChageViewFileSystem>
+		<tabChageViewGeneral>
+			<Caption>Algemeen</Caption>
+		</tabChageViewGeneral>
+		<tabChageViewRegistry>
+			<Caption>Register</Caption>
+		</tabChageViewRegistry>
+		<tabChageViewView>
+			<Caption>Weergave</Caption>
+		</tabChageViewView>
+		<tabCleanerFileSystem>
+			<Caption>Bestandssysteem</Caption>
+		</tabCleanerFileSystem>
+		<tabCleanerGen>
+			<Caption>Algemeen</Caption>
+		</tabCleanerGen>
+		<tabCleanerReg>
+			<Caption>Register</Caption>
+		</tabCleanerReg>
+		<tabCmpProfileFileSys>
+			<Caption>Bestandssysteem</Caption>
+		</tabCmpProfileFileSys>
+		<tabCompareProfileGen>
+			<Caption>Algemeen</Caption>
+		</tabCompareProfileGen>
+		<tabCompareProfileReg>
+			<Caption>Register</Caption>
+		</tabCompareProfileReg>
+		<tabRedoAdvanced>
+			<Caption>Geavanceerd</Caption>
+		</tabRedoAdvanced>
+		<tabRedoFileSystem>
+			<Caption>Bestandssysteem</Caption>
+		</tabRedoFileSystem>
+		<tabRedoGeneral>
+			<Caption>Algemeen</Caption>
+		</tabRedoGeneral>
+		<tabRedoRegistry>
+			<Caption>Register</Caption>
+		</tabRedoRegistry>
+		<tabScanProfileFolders>
+			<Caption>Mappen</Caption>
+		</tabScanProfileFolders>
+		<tabScanProfileGeneral>
+			<Caption>Algemeen</Caption>
+		</tabScanProfileGeneral>
+		<tabScanProfileRegistry>
+			<Caption>Register</Caption>
+		</tabScanProfileRegistry>
+		<tabUninstAdv>
+			<Caption>Geavanceerd</Caption>
+		</tabUninstAdv>
+		<tabUninstFS>
+			<Caption>Bestandssysteem</Caption>
+		</tabUninstFS>
+		<tabUninstGeneral>
+			<Caption>Algemeen</Caption>
+		</tabUninstGeneral>
+		<tabUninstRegistry>
+			<Caption>Register</Caption>
+		</tabUninstRegistry>
+		<tblAnlRegistry>
+			<Caption>Register</Caption>
+		</tblAnlRegistry>
+	</dlgTUOptions>
+	<dlgUninstall>
+		<btnBringToFront>
+			<Caption>Naar voren verplaatsen</Caption>
+		</btnBringToFront>
+		<btnCancel>
+			<Caption>Annuleren</Caption>
+		</btnCancel>
+		<btnUninstall>
+			<Caption>De-installeer</Caption>
+		</btnUninstall>
+		<lblCreatingRestorePnt>
+			<Caption>Bezig om een systeem herstelpunt te creëeren...</Caption>
+		</lblCreatingRestorePnt>
+		<lblProfile>
+			<Caption>Selecteer een de-installatieprofiel</Caption>
+		</lblProfile>
+		<lblUninstalling>
+			<Caption>De-installeren...</Caption>
+		</lblUninstalling>
+		<lblWaitTitle>
+			<Caption>Wacht tot het interne De-installatieprogramma van het programma is beëindigd</Caption>
+		</lblWaitTitle>
+	</dlgUninstall>
+	<frmInstall>
+		<btnBrowseSetup>
+			<Caption>&amp;Bladeren...</Caption>
+		</btnBrowseSetup>
+		<btnCancel>
+			<Caption>Annuleren</Caption>
+		</btnCancel>
+		<btnCompleteLater>
+			<Caption>&amp;Voltooi het controleproces later</Caption>
+		</btnCompleteLater>
+		<btnLaunchSetup>
+			<Caption>&amp;Start het setup programma</Caption>
+		</btnLaunchSetup>
+		<btnNext>
+			<Caption>Volgende</Caption>
+		</btnNext>
+		<btnProgramIsInstalled>
+			<Caption>P&amp;rogramma is ge-installeerd</Caption>
+		</btnProgramIsInstalled>
+		<btnSuggest>
+			<Caption>Stel &amp;voor</Caption>
+		</btnSuggest>
+		<lblCreateLog>
+			<Caption>Maak een installatielog</Caption>
+		</lblCreateLog>
+		<lblCreateOrSelectSns>
+			<Caption>Creëer voor de installatie een nieuw of selecteer een bestaand systeem herstelpunt.</Caption>
+		</lblCreateOrSelectSns>
+		<lblCreatePreInstallSns>
+			<Caption>Maak een voor-installatie systeem herstelpunt</Caption>
+		</lblCreatePreInstallSns>
+		<lblCreatingLog>
+			<Caption>Bezig om een installatielog te maken</Caption>
+		</lblCreatingLog>
+		<lblCreatingSystemSns>
+			<Caption>Bezig om een systeem herstelpunt te maken</Caption>
+		</lblCreatingSystemSns>
+		<lblFinish>
+			<Caption>Installatielog is succesvol aangemaakt</Caption>
+		</lblFinish>
+		<lblInstallMonProgram>
+			<Caption>Installeer gemonitord programma</Caption>
+		</lblInstallMonProgram>
+		<lblProfiles>
+			<Caption>&amp;Scan profiel</Caption>
+		</lblProfiles>
+		<lblProgramName>
+			<Caption>&amp;Programma naam</Caption>
+		</lblProgramName>
+		<lblProgramSetupPath>
+			<Caption>&amp;Setup programma locatie</Caption>
+		</lblProgramSetupPath>
+		<lblSnsName>
+			<Caption>H&amp;erstelpuntnaam</Caption>
+		</lblSnsName>
+		<lblSpecifySnsName>
+			<Caption>Geef een naam voor het na-installatie herstelpunt</Caption>
+		</lblSpecifySnsName>
+		<rbNewSnapshot>
+			<Caption>&amp;Maak een nieuw systeem herstelpunt (aanbevolen)</Caption>
+		</rbNewSnapshot>
+		<rbUseLastSnapshot>
+			<Caption>Gebr&amp;uik het laatste herstelpunt</Caption>
+		</rbUseLastSnapshot>
+	</frmInstall>
+	<frmTUMain>
+		<btnClear>
+			<Caption>Wissen</Caption>
+		</btnClear>
+		<btnGroupAddChild>
+			<Caption>Subgroep toevoegen...</Caption>
+		</btnGroupAddChild>
+		<btnGroupAddRoot>
+			<Caption>Hoofdgroep toevoegen...</Caption>
+		</btnGroupAddRoot>
+		<btnGroupEdit>
+			<Caption>Bewerk de groep...</Caption>
+		</btnGroupEdit>
+		<btnGroupMoveToRoot>
+			<Caption>Verplaats naar de hoofdgroep</Caption>
+		</btnGroupMoveToRoot>
+		<btnGroupRemove>
+			<Caption>Verwijder de groep</Caption>
+		</btnGroupRemove>
+		<btnSearch>
+			<Caption>Start zoeken</Caption>
+		</btnSearch>
+		<cbBundle>
+			<Caption>Bundel</Caption>
+		</cbBundle>
+		<cbCaseSensitive>
+			<Caption>Hoofdlettergevoelig</Caption>
+		</cbCaseSensitive>
+		<cbChanged>
+			<Caption>Veranderd</Caption>
+		</cbChanged>
+		<cbCreated>
+			<Caption>Aangemaakt</Caption>
+		</cbCreated>
+		<cbData>
+			<Caption>Gegevens</Caption>
+		</cbData>
+		<cbDeleted>
+			<Caption>Verwijderd</Caption>
+		</cbDeleted>
+		<cbFiles>
+			<Caption>Bestanden</Caption>
+		</cbFiles>
+		<cbFolders>
+			<Caption>Mappen</Caption>
+		</cbFolders>
+		<cbKeys>
+			<Caption>Sleutels</Caption>
+		</cbKeys>
+		<cbSearchMask>
+			<Caption>Zoekfilter</Caption>
+		</cbSearchMask>
+		<cbUnchanged>
+			<Caption>Onveranderd</Caption>
+		</cbUnchanged>
+		<cbValues>
+			<Caption>Waarden</Caption>
+		</cbValues>
+		<Copy1>
+			<Caption>Kopiëren</Caption>
+			<Hint>Kopiëer de geselecteerde bestanden naar het klembord</Hint>
+		</Copy1>
+		<Copy2>
+			<Caption>Kopiëren</Caption>
+			<Hint>Kopiëer de geselecteerde bestanden naar het klembord</Hint>
+		</Copy2>
+		<gbAdvanced>
+			<Caption>Geavanceerd</Caption>
+		</gbAdvanced>
+		<gbChanges>
+			<Caption>Items</Caption>
+		</gbChanges>
+		<gbFileSystem>
+			<Caption>Bestandssysteem</Caption>
+		</gbFileSystem>
+		<gbRegistry>
+			<Caption>Register</Caption>
+		</gbRegistry>
+		<gbScope>
+			<Caption>Zoeken in</Caption>
+		</gbScope>
+		<miAddtoCompareIgnoreList>
+			<Caption>Toevoegen aan de lijst van uitsluitingen</Caption>
+			<Hint>Geselecteerde items toevoegen aan de uitsluitlijsten van alle vergelijkingsprofielen</Hint>
+		</miAddtoCompareIgnoreList>
+		<miAddtoScanExcludeList>
+			<Caption>Toevoegen aan scan uitsluitlijst</Caption>
+			<Hint>Geselecteerde items toevoegen aan de uitsluitlijsten van alle scanprofielen</Hint>
+		</miAddtoScanExcludeList>
+		<miAppSendTo>
+			<Caption>Stuur Naar Groep</Caption>
+		</miAppSendTo>
+		<miAutorunManager>
+			<Caption>AutoStart Manager</Caption>
+		</miAutorunManager>
+		<miChanges>
+			<Caption>&amp;Wijzigingen</Caption>
+			<Hint>Gedetecteerde wijzigingen | Bekijk de  gedetecteerde systeem wijzigingen die door het huidige programma zijn gemaakt</Hint>
+		</miChanges>
+		<miCleaner>
+			<Caption>Reiniger</Caption>
+			<Hint>Opschonen</Hint>
+		</miCleaner>
+		<miClnItems>
+			<Caption>Items</Caption>
+		</miClnItems>
+		<miClnSummary>
+			<Caption>Samenvatting</Caption>
+			<Hint>Samenvatting|Toon een samenvatting van informatie over de weg te werpen items</Hint>
+		</miClnSummary>
+		<miCollapse>
+			<Caption>Samenvouwen</Caption>
+			<Hint>Vouw de actieve boomstructuur samen</Hint>
+		</miCollapse>
+		<miCopyDetail>
+			<Caption>Kopiëren</Caption>
+		</miCopyDetail>
+		<miDeleteCompletely>
+			<Caption>Volledig verwijderen</Caption>
+			<Hint>Verwijder het geselecteerde item van de log en het systeem</Hint>
+		</miDeleteCompletely>
+		<miDeletefromSystemOnly>
+			<Caption>Verwijder alleen van het systeem</Caption>
+			<Hint>Verwijder het geselecteerde item enkel van het systeem</Hint>
+		</miDeletefromSystemOnly>
+		<miEdit>
+			<Caption>&amp;Bewerken</Caption>
+		</miEdit>
+		<miEditAutorunLocateEntry>
+			<Caption>Zoek autostart invoer</Caption>
+		</miEditAutorunLocateEntry>
+		<miEditAutorunLocateTarget>
+			<Caption>Zoek de doel locatie</Caption>
+		</miEditAutorunLocateTarget>
+		<miEditAutorunRun>
+			<Caption>Starten</Caption>
+		</miEditAutorunRun>
+		<miEditAutorunStop>
+			<Caption>Stoppen</Caption>
+		</miEditAutorunStop>
+		<miEditAutorunTargetProperties>
+			<Caption>Doel eigenschappen</Caption>
+		</miEditAutorunTargetProperties>
+		<miEditRedo>
+			<Caption>Opnieuw uitvoeren</Caption>
+			<Hint>De geselecteerde wijzigingen in het systeemm opnieuw uitvoeren</Hint>
+		</miEditRedo>
+		<miEditRedoDepth>
+			<Caption>Opnieuw diepgaand uitvoeren</Caption>
+			<Hint>Opnieuw de geselecteerde wijzigingen in het systeem diepgaand uitvoeren</Hint>
+		</miEditRedoDepth>
+		<miEditRestoreFromBackup>
+			<Caption>Terugzetten van een backup</Caption>
+			<Hint>Zet de geselecteerde bestanden, mappen en submappen van uit een  backup terug</Hint>
+		</miEditRestoreFromBackup>
+		<miEditUndo>
+			<Caption>Ongedaan maken</Caption>
+			<Hint>Maak de geselecteerde wijzigingen van het systeem ongedaan</Hint>
+		</miEditUndo>
+		<miEditUndoDepth>
+			<Caption>Diepgaand ongedaan maken</Caption>
+			<Hint>Maak diepgaand de geselecteerde veranderingen ongedaan</Hint>
+		</miEditUndoDepth>
+		<miExpand>
+			<Caption>Uitvouwen</Caption>
+			<Hint>Vouw de actieve boomstructuur uit</Hint>
+		</miExpand>
+		<miExpChanges>
+			<Caption>Wijzigingen...</Caption>
+			<Hint>Exporteer wijzigingsboom</Hint>
+		</miExpChanges>
+		<miExpInstalledApps>
+			<Caption>Ge-installeerde programma's...</Caption>
+			<Hint>Exporteer de lijst van de ge-installeerde progamma's</Hint>
+		</miExpInstalledApps>
+		<miExpMonitoredApps>
+			<Caption>Gemonitorde programma's</Caption>
+			<Hint>Exporteer de lijst van de gemonitorde programma's</Hint>
+		</miExpMonitoredApps>
+		<miExport>
+			<Caption>Exporteren</Caption>
+		</miExport>
+		<miExpRegistry>
+			<Caption>Registerwijzigingen...</Caption>
+			<Hint>Exporteer registerwijzigingen voor installatie of de-installatie</Hint>
+		</miExpRegistry>
+		<miExpUninstallLog>
+			<Caption>De-installatielog...</Caption>
+			<Hint>Exporteer de de-installatielog</Hint>
+		</miExpUninstallLog>
+		<miFile>
+			<Caption>&amp;Bestand</Caption>
+		</miFile>
+		<miFileAddInstalledPrg>
+			<Caption>Voeg een programma toe aan de lijst...</Caption>
+		</miFileAddInstalledPrg>
+		<miFileAnalyze>
+			<Caption>Analyseren</Caption>
+			<Hint>Analyseer|Analyseert systeem veranderingen van het huidige programma</Hint>
+		</miFileAnalyze>
+		<miFileAutorunAdd>
+			<Caption>Toevoegen</Caption>
+		</miFileAutorunAdd>
+		<miFileAutorunDelete>
+			<Caption>Verwijderen</Caption>
+		</miFileAutorunDelete>
+		<miFileChange>
+			<Caption>Wijzigen</Caption>
+			<Hint>Herstel, wijzig of de-installeer</Hint>
+		</miFileChange>
+		<miFileChangeIcon>
+			<Caption>Wijzig Pictogram...</Caption>
+		</miFileChangeIcon>
+		<miFileClnClean>
+			<Caption>Reinigen</Caption>
+			<Hint>Reinigen</Hint>
+		</miFileClnClean>
+		<miFileClnScan>
+			<Caption>Scannen</Caption>
+			<Hint>Scan|Scannen naar items die weg kunnen</Hint>
+		</miFileClnScan>
+		<miFileCreateBackup>
+			<Caption>Maak een backup van het programma...</Caption>
+		</miFileCreateBackup>
+		<miFileDelete>
+			<Caption>Verwijderen</Caption>
+			<Hint>Verwijder het huidige installatielog</Hint>
+		</miFileDelete>
+		<miFileEditProgram>
+			<Caption>Bewerk het programma...</Caption>
+		</miFileEditProgram>
+		<miFileExit>
+			<Caption>Afsluiten</Caption>
+			<Hint>Sluit het programma af</Hint>
+		</miFileExit>
+		<miFileGroupAddChild>
+			<Caption>Subgroep toevoegen...</Caption>
+		</miFileGroupAddChild>
+		<miFileGroupAddRoot>
+			<Caption>Hoofdgroep toevoegen...</Caption>
+		</miFileGroupAddRoot>
+		<miFileGroupEdit>
+			<Caption>Wijzig groep...</Caption>
+		</miFileGroupEdit>
+		<miFileGroupMoveToRoot>
+			<Caption>Verplaats naar hoofdgroep</Caption>
+		</miFileGroupMoveToRoot>
+		<miFileGroupRemove>
+			<Caption>Verwijder groep</Caption>
+		</miFileGroupRemove>
+		<miFileInstall>
+			<Caption>&amp;Nieuwe installatie...</Caption>
+			<Hint>Monitor de installatie van een nieuwe programma</Hint>
+		</miFileInstall>
+		<miFileInstallUpdate>
+			<Caption>Installeer een update...</Caption>
+			<Hint>Installeer update|Monitor de installatie van een update van het huidige programma</Hint>
+		</miFileInstallUpdate>
+		<miFileNotes>
+			<Caption>Notities...</Caption>
+			<Hint>Notities toevoegen aan het huidige installatielog</Hint>
+		</miFileNotes>
+		<miFilePrint>
+			<Caption>Af&amp;drukken...</Caption>
+			<Hint>Print de wijzigingsboom</Hint>
+		</miFilePrint>
+		<miFileReload>
+			<Caption>Opnieuw laden</Caption>
+		</miFileReload>
+		<miFileRemoveInstalledPrg>
+			<Caption>Verwijder programma van de lijst</Caption>
+		</miFileRemoveInstalledPrg>
+		<miFileRename>
+			<Caption>Naam wijzigen...</Caption>
+			<Hint>Wijzig de naam van het huidige installatielog</Hint>
+		</miFileRename>
+		<miFileRestoreBackup>
+			<Caption>Herstel een programma van uit een backup...</Caption>
+		</miFileRestoreBackup>
+		<miFileSave>
+			<Caption>O&amp;pslaan</Caption>
+			<Hint>Veranderingen opslaan van de huidige installatielog</Hint>
+		</miFileSave>
+		<miFileSaveAs>
+			<Caption>Opslaan als...</Caption>
+		</miFileSaveAs>
+		<miFileSendTo>
+			<Caption>Stuur naar groep</Caption>
+		</miFileSendTo>
+		<miFileUndoRestoration>
+			<Caption>Maak restauratie ongedaan...</Caption>
+		</miFileUndoRestoration>
+		<miFileUninstall>
+			<Caption>De-installeer...</Caption>
+		</miFileUninstall>
+		<miHelp>
+			<Caption>&amp;Help</Caption>
+		</miHelp>
+		<miHelpAbout>
+			<Caption>Over...</Caption>
+			<Hint>Geeft informatie over het programma, versienummer en copyright</Hint>
+			<Caption>&amp;Informatie</Caption>
+			<Hint>Toont programmainformatie, versienummer en copyright</Hint>
+		</miHelpAbout>
+		<miHelpCheckForUpdates>
+			<Caption>Controleer op &amp;updates...</Caption>
+			<Hint>Controleer de auteur's website voor product updates</Hint>
+		</miHelpCheckForUpdates>
+		<miHelpContents>
+			<Caption>&amp;Inhoud</Caption>
+			<Hint>Toont de inhoud van de help pagina</Hint>
+		</miHelpContents>
+		<miHelpHomePage>
+			<Caption>Startpagina</Caption>
+		</miHelpHomePage>
+		<miHelpPurchase>
+			<Caption>Kopen</Caption>
+		</miHelpPurchase>
+		<miHelpRegister>
+			<Caption>&amp;Registreren...</Caption>
+			<Hint>Registreer Total Uninstall programma</Hint>
+		</miHelpRegister>
+		<miHexView>
+			<Caption>Hexweergave</Caption>
+			<Hint>Open bestand in hexeditor</Hint>
+		</miHexView>
+		<miImport>
+			<Caption>Importeren</Caption>
+		</miImport>
+		<miInstalledPrograms>
+			<Caption>Ge-installeerde programma's</Caption>
+			<Hint>Ge-installeerde programma's|Schakel over naar ge-installeerde programma's</Hint>
+		</miInstalledPrograms>
+		<miList>
+			<Caption>Lijst</Caption>
+		</miList>
+		<miListGroupNotes>
+			<Caption>Groep  notities</Caption>
+		</miListGroupNotes>
+		<miListLargeIcons>
+			<Caption>Grote pictogrammen</Caption>
+		</miListLargeIcons>
+		<miListProgramNotes>
+			<Caption>Programa notities</Caption>
+		</miListProgramNotes>
+		<miListSmallIcons>
+			<Caption>Kleine pictogrammen</Caption>
+		</miListSmallIcons>
+		<miModules>
+			<Caption>&amp;Modules</Caption>
+		</miModules>
+		<miMonAppsGroupAddChild>
+			<Caption>Subgroep toevoegen...</Caption>
+		</miMonAppsGroupAddChild>
+		<miMonAppsGroupAddRoot>
+			<Caption>Hoofdgroep toevoegen...</Caption>
+		</miMonAppsGroupAddRoot>
+		<miMonAppsGroupEdit>
+			<Caption>Groep bewerken...</Caption>
+		</miMonAppsGroupEdit>
+		<miMonAppsGroupMoveToRoot>
+			<Caption>Verplaatsen naar hoofdgroep</Caption>
+		</miMonAppsGroupMoveToRoot>
+		<miMonAppsGroupRemove>
+			<Caption>Verwijder groep</Caption>
+		</miMonAppsGroupRemove>
+		<miMonitoredPrograms>
+			<Caption>Gemonitorde programma's</Caption>
+			<Hint>Gemonitorde programma's|Schakel over naar gemonitorde programma's</Hint>
+		</miMonitoredPrograms>
+		<miOpen>
+			<Caption>Openen</Caption>
+			<Hint>Open een bestand, map of ga naar een sleutel in de register-editor</Hint>
+		</miOpen>
+		<miPendingFileRenameOp>
+			<Caption>Verwerken van de lopende bestandshernoeming...</Caption>
+			<Hint>Bekijk het toepassen van de lopende bestandshernoeming</Hint>
+		</miPendingFileRenameOp>
+		<miPrgAddInstalledPrg>
+			<Caption>Voeg programma toe aan de lijst...</Caption>
+		</miPrgAddInstalledPrg>
+		<miPrgAnalyze>
+			<Caption>&amp;Analyseren</Caption>
+			<Hint>Analyseer|Analyseert de systeem wijzigingen van het huidige programma's</Hint>
+		</miPrgAnalyze>
+		<miPrgChangeIcon>
+			<Caption>Wijzig pictogram...</Caption>
+		</miPrgChangeIcon>
+		<miPrgDelete>
+			<Caption>Verwijderen</Caption>
+			<Hint>Verwijder huidige installatielog</Hint>
+		</miPrgDelete>
+		<miPrgEditInstalledPrg>
+			<Caption>Bewerk het programa...</Caption>
+		</miPrgEditInstalledPrg>
+		<miPrgNotes>
+			<Caption>Aantekeningen...</Caption>
+			<Hint>Voeg aantekeningen toe de aan huidige installatielog</Hint>
+		</miPrgNotes>
+		<miPrgRemoveInstalledPrg>
+			<Caption>Verwijder programma van de lijst</Caption>
+		</miPrgRemoveInstalledPrg>
+		<miPrgRename>
+			<Caption>Hernoemen...</Caption>
+			<Hint>Hernoem de huidige installatielog</Hint>
+		</miPrgRename>
+		<miPrintChanges>
+			<Caption>Wijzigingen...</Caption>
+			<Hint>Print de wijzigingen boom</Hint>
+		</miPrintChanges>
+		<miPrintInstalledPrograms>
+			<Caption>Ge-installeerde programma's...</Caption>
+		</miPrintInstalledPrograms>
+		<miPrintMonitoredPrograms>
+			<Caption>Gemonitorde programma's</Caption>
+		</miPrintMonitoredPrograms>
+		<miProperties>
+			<Caption>Eigenschappen</Caption>
+			<Hint>Bekijk de eigenschappen van het geselecteerde bestand of de map</Hint>
+		</miProperties>
+		<miRemovefromLog>
+			<Caption>Verwijderen van de log</Caption>
+			<Hint>Verwijder geselecteerde items van de log</Hint>
+		</miRemovefromLog>
+		<miSnsTreeOpen>
+			<Caption>Open</Caption>
+		</miSnsTreeOpen>
+		<miSummary>
+			<Caption>Sa&amp;menvatting</Caption>
+			<Hint>Samenvatting|Bekijk de gemonitorde programma samenvatting van het huidige programma</Hint>
+		</miSummary>
+		<miTextView>
+			<Caption>Tekstweergave</Caption>
+			<Hint>Open het bestand in teksteditor</Hint>
+		</miTextView>
+		<miToolbarLarge>
+			<Caption>Groot</Caption>
+		</miToolbarLarge>
+		<miToolbarMedium>
+			<Caption>Middel</Caption>
+		</miToolbarMedium>
+		<miToolbarSmall>
+			<Caption>Klein</Caption>
+		</miToolbarSmall>
+		<miTools>
+			<Caption>E&amp;xtra</Caption>
+		</miTools>
+		<miToolsCompareSnapshots>
+			<Caption>Vergelijk de herstelpunten...</Caption>
+		</miToolsCompareSnapshots>
+		<miToolsFind>
+			<Caption>&amp;Zoek</Caption>
+			<Hint>Zoeken|Zoek voor text in de opgemerkte wijzigingen</Hint>
+		</miToolsFind>
+		<miToolsMergeLogs>
+			<Caption>Logs samenvoegen...</Caption>
+		</miToolsMergeLogs>
+		<miToolsOptions>
+			<Caption>&amp;Opties...</Caption>
+			<Hint>Configureer software opties</Hint>
+		</miToolsOptions>
+		<miToolsSystemRestore>
+			<Caption>Systeem Herstel</Caption>
+		</miToolsSystemRestore>
+		<miULogSuccessful>
+			<Caption>Geslaagde acties</Caption>
+			<Hint>Bekijk of verberg de geslaagde acties van de de-installatielog</Hint>
+		</miULogSuccessful>
+		<miULogWarnings>
+			<Caption>Waarschuwingen</Caption>
+			<Hint>Bekijken of verbergen van waarschuwingen in de de-installatielog</Hint>
+		</miULogWarnings>
+		<miUninstallLog>
+			<Caption>De-installatie&amp;log</Caption>
+			<Hint>De-installatie log|Bekijk de gemonitorde applicatie de-installatielog</Hint>
+		</miUninstallLog>
+		<miUninstallLogDet>
+			<Caption>Details van de de-installatielog</Caption>
+		</miUninstallLogDet>
+		<miView>
+			<Caption>&amp;Beeld</Caption>
+		</miView>
+		<miViewAutoGroupPrograms>
+			<Caption>Auto-groepsprogramma's</Caption>
+		</miViewAutoGroupPrograms>
+		<miViewBundle>
+			<Caption>Bundel</Caption>
+		</miViewBundle>
+		<miViewColorScheme>
+			<Caption>Kleuren schema's</Caption>
+		</miViewColorScheme>
+		<miViewDetails>
+			<Caption>&amp;Details</Caption>
+			<Hint>Programma details|Bekijken of verbergen van gemonitorde applicatiedetails</Hint>
+		</miViewDetails>
+		<miViewItemCurrentView>
+			<Caption>Huidige weergave</Caption>
+		</miViewItemCurrentView>
+		<miViewItemDetails>
+			<Caption>&amp;Itemdetails</Caption>
+			<Hint>Bekijken of verbergen van de details van de geselecteerde wijzigingsboom</Hint>
+		</miViewItemDetails>
+		<miViewNavigator>
+			<Caption>Programma's</Caption>
+			<Hint>Programma lijst|Bekijken of verbergen van de gemonitorde applicatielijst</Hint>
+		</miViewNavigator>
+		<miViewRefresh>
+			<Caption>Verversen</Caption>
+		</miViewRefresh>
+		<miViewStatusBar>
+			<Caption>&amp;Statusbalk</Caption>
+			<Hint>Bekijk of verberg de statusbalk</Hint>
+		</miViewStatusBar>
+		<miViewSystemComponents>
+			<Caption>Systeem componenten</Caption>
+		</miViewSystemComponents>
+		<miViewToolbars>
+			<Caption>Werkbalken</Caption>
+		</miViewToolbars>
+		<miViewToolbarsBtnCaption>
+			<Caption>Knop titel</Caption>
+			<Hint>Toon of verberg de werkbalk knop titels</Hint>
+		</miViewToolbarsBtnCaption>
+		<miViewToolbarsBtnSize>
+			<Caption>Knop grootte</Caption>
+		</miViewToolbarsBtnSize>
+		<miViewToolbarsBtnWordWrap>
+			<Caption>Titelwoord van knop inpakken</Caption>
+		</miViewToolbarsBtnWordWrap>
+		<miViewToolbarsTbrCaption>
+			<Caption>Titel werkbalk</Caption>
+		</miViewToolbarsTbrCaption>
+		<miViewToolbarsVisible>
+			<Caption>Zichtbaar</Caption>
+			<Hint>Toon of verberg de werkbalk</Hint>
+		</miViewToolbarsVisible>
+		<pmiAutorunAdd>
+			<Caption>Toevoegen</Caption>
+		</pmiAutorunAdd>
+		<pmiAutorunDelete>
+			<Caption>Verwijderen</Caption>
+		</pmiAutorunDelete>
+		<pmiAutorunLocateEntry>
+			<Caption>Zoeken in autostart invoer</Caption>
+		</pmiAutorunLocateEntry>
+		<pmiAutorunLocateTarget>
+			<Caption>Doel zoeken</Caption>
+		</pmiAutorunLocateTarget>
+		<pmiAutorunRun>
+			<Caption>Starten</Caption>
+		</pmiAutorunRun>
+		<pmiAutorunStop>
+			<Caption>Stoppen</Caption>
+		</pmiAutorunStop>
+		<pmiAutorunTargetProperties>
+			<Caption>Doel eigenschappen</Caption>
+		</pmiAutorunTargetProperties>
+		<pmiChgTreeCompareExcl>
+			<Caption>Toevoegen aan de te negeren vergelijkingslijst</Caption>
+			<Hint>Geselecteerde items toevoegen aan de uitsluitlijsten van alle vergelijkingsprofielen</Hint>
+		</pmiChgTreeCompareExcl>
+		<pmiChgTreeDelete>
+			<Caption>Volledig verwijderen</Caption>
+			<Hint>Verwijder het geselecteerde item van de log en het systeem</Hint>
+		</pmiChgTreeDelete>
+		<pmiChgTreeDelSys>
+			<Caption>Alleen uit het systeem verwijderen</Caption>
+			<Hint>Verwijder het geselecteerde item alleen uit het systeem</Hint>
+		</pmiChgTreeDelSys>
+		<pmiChgTreeHexView>
+			<Caption>Hexweergave</Caption>
+			<Hint>Open bestand in hexeditor</Hint>
+		</pmiChgTreeHexView>
+		<pmiChgTreeOpen>
+			<Caption>Openen</Caption>
+			<Hint>Open bestand, map of ga naar een sleutel in register-editor</Hint>
+		</pmiChgTreeOpen>
+		<pmiChgTreeProperties>
+			<Caption>Eigenschappen</Caption>
+			<Hint>Bekijk eigenschappen van het geselecteerde bestand of map</Hint>
+		</pmiChgTreeProperties>
+		<pmiChgTreeRedo>
+			<Caption>Opnieuw uitvoeren</Caption>
+			<Hint>De geselecteerde wijzigingen in het systeemm opnieuw uitvoeren</Hint>
+		</pmiChgTreeRedo>
+		<pmiChgTreeRedoDepth>
+			<Caption>Opnieuw diepgaand uitvoeren</Caption>
+			<Hint>Opnieuw de geselecteerde wijzigingen in het systeem diepgaand uitvoeren</Hint>
+		</pmiChgTreeRedoDepth>
+		<pmiChgTreeRemove>
+			<Caption>Uit het logbestand verwijderen</Caption>
+			<Hint>Verwijder geselecteerde items van de log</Hint>
+		</pmiChgTreeRemove>
+		<pmiChgTreeRestoreFromBackup>
+			<Caption>Een backup terugzetten</Caption>
+			<Hint>Zet de geselecteerde bestanden, mappen en submappen van uit een  backup</Hint>
+		</pmiChgTreeRestoreFromBackup>
+		<pmiChgTreeScanExcl>
+			<Caption>Toevoegen aan scan uitsluitlijst</Caption>
+			<Hint>Geselecteerde items toevoegen aan de uitsluitlijsten van alle scanprofielen</Hint>
+		</pmiChgTreeScanExcl>
+		<pmiChgTreeTextView>
+			<Caption>Tekstweergave</Caption>
+			<Hint>Open bestand in teksteditor</Hint>
+		</pmiChgTreeTextView>
+		<pmiChgTreeUndo>
+			<Caption>Ongedaan maken</Caption>
+			<Hint>Maak the geselecteerde wijzigingen van het systeem ongedaan</Hint>
+		</pmiChgTreeUndo>
+		<pmiChgTreeUndoDepth>
+			<Caption>Diepgaand ongedaan maken</Caption>
+			<Hint>Maak diepgaand de geselecteerde veranderingen ongedaan</Hint>
+		</pmiChgTreeUndoDepth>
+		<pmiClnExclude>
+			<Caption>Uitsluiten</Caption>
+		</pmiClnExclude>
+		<pmiClnSelectBranch>
+			<Caption>Selecteer een tak</Caption>
+		</pmiClnSelectBranch>
+		<pmiClnUnselectBranch>
+			<Caption>Selectie van een tak ongedaan maken</Caption>
+		</pmiClnUnselectBranch>
+		<pmiCopySummary>
+			<Caption>Kopiëren</Caption>
+		</pmiCopySummary>
+		<pmiInstAppsHeaderAutoResize>
+			<Caption>rootte aanpassen</Caption>
+		</pmiInstAppsHeaderAutoResize>
+		<pmiLocate>
+			<Caption>Lokaliseren</Caption>
+		</pmiLocate>
+		<pmiMonAppsHeaderAutoResize>
+			<Caption>Formaat automatisch aanpassen</Caption>
+		</pmiMonAppsHeaderAutoResize>
+		<pmiShowSuccessful>
+			<Caption>Geslaagde acties</Caption>
+			<Hint>Bekijk of verstop de geslaagde acties van de de-installatielog</Hint>
+		</pmiShowSuccessful>
+		<pmiShowWarnings>
+			<Caption>Waarschuwingen</Caption>
+			<Hint>Bekijken of verstoppen van waarschuwingen in de de-installatielog</Hint>
+		</pmiShowWarnings>
+		<pmiTrayRestore>
+			<Caption>Herstellen</Caption>
+		</pmiTrayRestore>
+		<rbAll>
+			<Caption>Alle programma's</Caption>
+		</rbAll>
+		<rbSelection>
+			<Caption>Selectie</Caption>
+		</rbSelection>
+		<sbAppClose>
+			<Hint>Sluiten|Sluiten</Hint>
+		</sbAppClose>
+		<sbDetailsClose>
+			<Hint>Sluiten|Sluiten</Hint>
+		</sbDetailsClose>
+		<sbSearchClose>
+			<Hint>Sluiten|Sluiten</Hint>
+		</sbSearchClose>
+		<tabOptions>
+			<Caption>Opties</Caption>
+		</tabOptions>
+		<tabResults>
+			<Caption>Resultaten</Caption>
+		</tabResults>
+		<tbrActions>
+			<Caption>Acties</Caption>
+		</tbrActions>
+		<tbrDetails>
+			<Caption>Details</Caption>
+		</tbrDetails>
+		<tbrLayout>
+			<Caption>Opmaak</Caption>
+		</tbrLayout>
+		<tbrModules>
+			<Caption>Modules</Caption>
+		</tbrModules>
+		<tbrView>
+			<Caption>Weergave</Caption>
+		</tbrView>
+		<tbtnAnalyze>
+			<Caption>Analyseren</Caption>
+			<Hint>Analyseer|Analyseert de systeem wijzigingen van het huidige programma</Hint>
+		</tbtnAnalyze>
+		<tbtnArAdd>
+			<Caption>Toevoegen</Caption>
+		</tbtnArAdd>
+		<tbtnArDelete>
+			<Caption>Verwijderen</Caption>
+		</tbtnArDelete>
+		<tbtnArRun>
+			<Caption>Starten</Caption>
+		</tbtnArRun>
+		<tbtnArStop>
+			<Caption>Stoppen</Caption>
+		</tbtnArStop>
+		<tbtnAutorunMgr>
+			<Caption>AutoStart Manager</Caption>
+		</tbtnAutorunMgr>
+		<tbtnChanges>
+			<Caption>Wijzigingen</Caption>
+			<Hint>Opgemerkte wijzigingen|Toon de opgemerkte systeem wijzigingen gemaakt door het huidige programma</Hint>
+		</tbtnChanges>
+		<tbtnChgView>
+			<Caption>Weergave</Caption>
+			<Hint>Bekijken|Toepassen van een gedefinieerde wijzigingsweergave</Hint>
+		</tbtnChgView>
+		<tbtnCleaner>
+			<Caption>Reinigingsmachine</Caption>
+			<Hint>Opschonen van...</Hint>
+		</tbtnCleaner>
+		<tbtnClnClean>
+			<Caption>Gereinigd</Caption>
+			<Hint>Opgeschoond</Hint>
+		</tbtnClnClean>
+		<tbtnClnItems>
+			<Caption>Items</Caption>
+		</tbtnClnItems>
+		<tbtnClnScan>
+			<Caption>Scannen</Caption>
+			<Hint>Scan|Scannen op verwijderbare items</Hint>
+		</tbtnClnScan>
+		<tbtnClnSummary>
+			<Caption>Samenvatting</Caption>
+			<Hint>Samenvatten|Toont een samenvatting van de informatie over de weg te werpen items</Hint>
+		</tbtnClnSummary>
+		<tbtnCollapse>
+			<Caption>Samenvouwen</Caption>
+			<Hint>Samenvouwen|Volledig samenvouwen van de actieve knoop</Hint>
+		</tbtnCollapse>
+		<tbtnDetails>
+			<Caption>Details</Caption>
+			<Hint>Programma details|Toont of verbergt de programa details</Hint>
+		</tbtnDetails>
+		<tbtnExpand>
+			<Caption>Uitvouwen</Caption>
+			<Hint>Uitvouwen|Volledig uitvouwen van de actieve boomstructuur</Hint>
+		</tbtnExpand>
+		<tbtnInstallModify>
+			<Caption>Wijzigen</Caption>
+			<Hint>Repareer, wijzig of de-installeer</Hint>
+		</tbtnInstallModify>
+		<tbtnInstallNew>
+			<Caption>Installeren</Caption>
+			<Hint>Nieuwe installatie|Monitor de installatie van een nieuw programma</Hint>
+		</tbtnInstallNew>
+		<tbtnInstallUpdate>
+			<Caption>Bijwerken</Caption>
+			<Hint>Installeer een update|Monitor de installatie van een update van het huidige programma</Hint>
+		</tbtnInstallUpdate>
+		<tbtnInstPrograms>
+			<Caption>Ge-Installeerde programma's</Caption>
+			<Hint>Ge-Installeerde programma's|Schakel over naar ge-installeerde programma's</Hint>
+		</tbtnInstPrograms>
+		<tbtnMonPrograms>
+			<Caption>Gemonitorde programma's</Caption>
+			<Hint>Gemonitorde programma's|Schakel over naar gemonitorde programma's</Hint>
+		</tbtnMonPrograms>
+		<tbtnPrograms>
+			<Caption>Programma's</Caption>
+			<Hint>Programma lijst|Toont of verbergt de programma lijst</Hint>
+		</tbtnPrograms>
+		<tbtnSave>
+			<Caption>Opslaan</Caption>
+			<Hint>Sla de gegevens van de huidige installatielog op</Hint>
+		</tbtnSave>
+		<tbtnSearch>
+			<Caption>Zoeken</Caption>
+			<Hint>Zoeken|Zoekt naar tekst in de opgemerkte wijzigingen</Hint>
+		</tbtnSearch>
+		<tbtnShowSnapshot>
+			<Caption>Toon herstelpunt</Caption>
+		</tbtnShowSnapshot>
+		<tbtnSummary>
+			<Caption>Samenvatting</Caption>
+			<Hint>Samenvatting|Toont een samenvatting van het huidige programma</Hint>
+		</tbtnSummary>
+		<tbtnUninstall>
+			<Caption>De-installeren</Caption>
+		</tbtnUninstall>
+		<tbtnUninstallLog>
+			<Caption>De-installatielog</Caption>
+			<Hint>De-installatielog|Toont de-installatielog van het programma</Hint>
+		</tbtnUninstallLog>
+		<tpnlSearch>
+			<Caption>Zoeken</Caption>
+		</tpnlSearch>
+		<tvAutorunItems>
+			<Columns_0>Naam</Columns_0>
+			<Columns_1>Gedeelte</Columns_1>
+			<Columns_2>Status</Columns_2>
+			<Columns_3>Omschrijving</Columns_3>
+			<Columns_4>Uitgever</Columns_4>
+			<Columns_5>Commando</Columns_5>
+		</tvAutorunItems>
+		<tvChanges>
+			<Columns_0>Gedetecteerde wijzigingen</Columns_0>
+			<Columns_1>Voor</Columns_1>
+			<Columns_2>Na</Columns_2>
+			<Columns_3>Huidige</Columns_3>
+		</tvChanges>
+		<tvClnItems>
+			<Columns_0>Items</Columns_0>
+			<Columns_1>Eigenschappen</Columns_1>
+		</tvClnItems>
+		<tvResults>
+			<Columns_0>Naam</Columns_0>
+			<Columns_1>Locatie</Columns_1>
+			<Columns_2>Programma</Columns_2>
+		</tvResults>
+	</frmTUMain>
+	<RESOURCESTRING>
+		<ACCESS_DENIED_X>Toegang geweigerd: %s</ACCESS_DENIED_X>
+		<ACT_CRE_KEY>Maak registersleutel: %s</ACT_CRE_KEY>
+		<ACT_CRE_VAL>Maak registerwaarde: %s</ACT_CRE_VAL>
+		<ACT_DEC_CNT>Verminder gedeelde bestandsteller van het register: %s</ACT_DEC_CNT>
+		<ACT_DEL_FILE>Verwijder bestand: %s</ACT_DEL_FILE>
+		<ACT_DEL_FOLDER>Verwijder map: %s</ACT_DEL_FOLDER>
+		<ACT_DEL_KEY>Verwijder registersleutel: %s</ACT_DEL_KEY>
+		<ACT_DEL_VAL>Verwijder registerwaarde: %s</ACT_DEL_VAL>
+		<ACT_RST_FILE>Herstel bestandseigenschappen: %s</ACT_RST_FILE>
+		<ACT_RST_VAL>Herstel registerwaarde: %s</ACT_RST_VAL>
+		<ACT_STOP_SERVICE>Stop service van apparaat: %s</ACT_STOP_SERVICE>
+		<ADD>Toevoegen</ADD>
+		<ADVANCED>Geavanceerd</ADVANCED>
+		<AGENT>Agent</AGENT>
+		<ALL>Alles</ALL>
+		<ALL_BRA>(Alles)</ALL_BRA>
+		<ALL_DETAILS>Alle details</ALL_DETAILS>
+		<ALWAYS>Atijd</ALWAYS>
+		<ANALYSIS_PROFILE>Analyseer het profiel</ANALYSIS_PROFILE>
+		<ANALYSIS_PROFILES>Analyseer de profielen</ANALYSIS_PROFILES>
+		<ANALYZING>Analyseert...</ANALYZING>
+		<ASK>Vraag</ASK>
+		<ASK_COMPLETE_LATER>De monitoring later voltooien?</ASK_COMPLETE_LATER>
+		<ASK_IF_NO_ERROR>Vraag of er geen fouten zijn</ASK_IF_NO_ERROR>
+		<ASK_SAVE_CHG>Wilt u de wijzigingen van "%s" opslaan?</ASK_SAVE_CHG>
+		<ASK_USER>Vraag de gebruiker</ASK_USER>
+		<AUTOMATIC>Automaticch</AUTOMATIC>
+		<AUTORUN_ITEMS>Autostart items</AUTORUN_ITEMS>
+		<AUTORUN_MGR>Autostart manager</AUTORUN_MGR>
+		<BACKUP>Backup</BACKUP>
+		<BACKUP_CREATED>Backup aangemaakt.</BACKUP_CREATED>
+		<BACKUP_CREATED_OK>Backup met succes gemaakt.</BACKUP_CREATED_OK>
+		<BACKUP_PROGRAM>Maakt een back-up van het programma...</BACKUP_PROGRAM>
+		<BACKUP_PROGRAM_X>Maak een back-up van het programm "%s"</BACKUP_PROGRAM_X>
+		<BEGIN_UNINSTALL>Druk op Verwijderen om het verwijderingsproces te starten.</BEGIN_UNINSTALL>
+		<BEGIN_UNINSTALL_LAUNCH>Druk op Start om het verwijderingsproces te starten.</BEGIN_UNINSTALL_LAUNCH>
+		<BROWSE_FOR_FILE>Blader naar het bestand</BROWSE_FOR_FILE>
+		<BROWSE_FOR_FOLDER>Blader naar de map</BROWSE_FOR_FOLDER>
+		<BROWSE_FOR_FOLDER_OR_FILE>Blader naar de map of het bestand</BROWSE_FOR_FOLDER_OR_FILE>
+		<BROWSE_FOR_KEY>Blader naar de sleutel</BROWSE_FOR_KEY>
+		<BROWSE_FOR_KEY_OR_VALUE>Blader naar de sleutel of de waarde</BROWSE_FOR_KEY_OR_VALUE>
+		<BROWSE_FOR_VALUE>Blader naar naar de waarde</BROWSE_FOR_VALUE>
+		<BTN_CONTINUE>Ga door</BTN_CONTINUE>
+		<BUILT_IN_CANCELLED>Het interne de-installatieprogramma van het progamma werd beëinigd of geannuleerd zonder het de-installatie-procesde voltooid te hebben.</BUILT_IN_CANCELLED>
+		<BUILT_IN_UNINSTALLER_RUNNING>De interne de-installatieprogramma van het programma wordt uitgevoerd.</BUILT_IN_UNINSTALLER_RUNNING>
+		<CANCEL>Annuleren</CANCEL>
+		<CANNOT_BROWSE>Er is een fout opgetreden bij het starten van de standaard browser.\n De link werd naar het klembord gekopieerd.</CANNOT_BROWSE>
+		<CANT_EXECUTE>Het programma kan niet gestart worden "%s".</CANT_EXECUTE>
+		<CANT_OPEN_KEY>De sleutel kan niet geopend worden</CANT_OPEN_KEY>
+		<CHANGED_ITEMS>Gewijzigde items</CHANGED_ITEMS>
+		<CHANGES>"%s" wijzigingen</CHANGES>
+		<CHECK_UPD_NEW>Er zijn updates of er is nieuws beschikbaar</CHECK_UPD_NEW>
+		<CHECK_UPD_REMINDER>Controleer op updates</CHECK_UPD_REMINDER>
+		<CHG_VIEWS>Verander de manier van bekijken</CHG_VIEWS>
+		<CLEAN_UP>Opruimen</CLEAN_UP>
+		<CLEAN_UP_DESC>Verwijder sporen van een verwijderd gemonitord programma</CLEAN_UP_DESC>
+		<CLEANED>Gereinigd</CLEANED>
+		<CLEANER>Reiniger</CLEANER>
+		<CLEANING>Reinigen...</CLEANING>
+		<CLOSE>Sluiten</CLOSE>
+		<CLOSE_PROCESSES>Sluit processen</CLOSE_PROCESSES>
+		<CMP_ERROR>Er is een fout opgetreden tijdens het vergelijken van de herstelpunt.</CMP_ERROR>
+		<CMP_PROFILE>Vergelijk de profielnaam</CMP_PROFILE>
+		<CNT_DEL_MON>De teller van het gedeelde registerbestand is tijdens het monitoren verwijderd</CNT_DEL_MON>
+		<COMMENTS>Opmerkingen</COMMENTS>
+		<COMMON>Gemeenschappelijk</COMMON>
+		<COMP_PROFILES>Profielen vergelijken</COMP_PROFILES>
+		<COMPARE>Vergelijk</COMPARE>
+		<COMPARING_SNS>Vergelijken van systeem herstelpunten...</COMPARING_SNS>
+		<COMPUTER>Computer</COMPUTER>
+		<COMPUTER_X>Computer (%s)</COMPUTER_X>
+		<CONTACT>Contact</CONTACT>
+		<CONTINUE>Wilt u doorgaan?</CONTINUE>
+		<CONTINUE_UNINSTALL>Ga door met het de-installatie proces</CONTINUE_UNINSTALL>
+		<CONTINUE_UNINSTALL_Q>Doorgaan met het de-installatie proces?</CONTINUE_UNINSTALL_Q>
+		<CORRUPT_CNT>Ongeldige verandering gedetecteerd in de gedeelde register bestand teller: De waarde is verhoogd of met een ongeldige data</CORRUPT_CNT>
+		<CREATE_REG_KEYS>Maak register sleutels</CREATE_REG_KEYS>
+		<CREATE_REG_VALS>Maak register waarden</CREATE_REG_VALS>
+		<CREATED>Gemaakt</CREATED>
+		<CREATED_ITEMS>Gemaakte items</CREATED_ITEMS>
+		<CREATED_ON>Gemaakt op</CREATED_ON>
+		<CREATED_X>Gemaakt: %s</CREATED_X>
+		<DEC_CNT>Verlaag de teller van het gedeelde register bestand</DEC_CNT>
+		<DEFAULT>Standaard</DEFAULT>
+		<DEFAULT_PAR>(Standaard)</DEFAULT_PAR>
+		<DEL_AT_STARTUP>In de wachtrij om te worden verwijderd bij het volgende opstarten</DEL_AT_STARTUP>
+		<DEL_CNT>Wis de gedeelde register bestand teller</DEL_CNT>
+		<DEL_FILES>Verwijder bestanden</DEL_FILES>
+		<DEL_FOLDERS>Verwijder mappen</DEL_FOLDERS>
+		<DEL_REG_KEYS>Verwijder register sleutels</DEL_REG_KEYS>
+		<DEL_REG_VALS>Verwijder register waarden</DEL_REG_VALS>
+		<DEL_SH_FILE>Verwijder gedeelde bestanden van de schijf naar de prullenbak</DEL_SH_FILE>
+		<DELETE_SEL_BACKUPS>De geselecteerde back-up(s) verwijderen?</DELETE_SEL_BACKUPS>
+		<DELETE_SEL_UNDO>De geselecteerde ongedaan te maken invoeren verwijderen?</DELETE_SEL_UNDO>
+		<DELETE_SYS_SEL_ITEM>Het geselecteerde item van het systeem verwijderen?</DELETE_SYS_SEL_ITEM>
+		<DELETED>Verwijdert</DELETED>
+		<DELETED_ITEMS>Verwijderde items</DELETED_ITEMS>
+		<DETECTED_CHG>Gedetecteerde wijzigingen</DETECTED_CHG>
+		<DISABLED>Uitgeschakeld</DISABLED>
+		<DISPOSABLE_ITEMS>Weg te werpen items</DISPOSABLE_ITEMS>
+		<DLG_ABORT>Afbreken</DLG_ABORT>
+		<DLG_ALL>Alles</DLG_ALL>
+		<DLG_CANCEL>Annuleren</DLG_CANCEL>
+		<DLG_CLOSE>Sluiten</DLG_CLOSE>
+		<DLG_CNF>Bevestigen</DLG_CNF>
+		<DLG_ERR>Fout</DLG_ERR>
+		<DLG_IGNORE>Negeren</DLG_IGNORE>
+		<DLG_INF>Informatie</DLG_INF>
+		<DLG_NO>Nee</DLG_NO>
+		<DLG_NOTOALL>Nee op alles</DLG_NOTOALL>
+		<DLG_OK>OK</DLG_OK>
+		<DLG_RETRY>Opnieuw proberen</DLG_RETRY>
+		<DLG_WRN>Waarschuwning</DLG_WRN>
+		<DLG_YES>Ja</DLG_YES>
+		<DLG_YESTOALL>Ja op alles</DLG_YESTOALL>
+		<DONT_DEL_SH_FILE>Gebruiker heeft voor het gedeelde bestand te behouden gekozen</DONT_DEL_SH_FILE>
+		<EDIT_PROGRAM>Programma bewerken</EDIT_PROGRAM>
+		<ELAPSED>Verstreken %d:%2.2d</ELAPSED>
+		<ENTER_IDENTIFIER>Geef de naam op van het ge-installeerde programma</ENTER_IDENTIFIER>
+		<ERR>Fout</ERR>
+		<ERR_BRA>(ERR)</ERR_BRA>
+		<ERR_DEL_FLD_FILES>Één of meerdere mappen of bestanden kunnen niet verwijdert worden.</ERR_DEL_FLD_FILES>
+		<ERR_DEL_REG_KEYS_VALS>Één of meerdere sleutels kunnen niet verwijdert worden.</ERR_DEL_REG_KEYS_VALS>
+		<ERR_REDO_REG_KEYS_VALS>Één of meer sleutels of waarden kunnen niet meer opnieuw uitgevoerd worden.</ERR_REDO_REG_KEYS_VALS>
+		<ERR_UNDO_REG_KEYS_VALS>Één of meer sleutels of waarden kunnen niet ongedaan gemaakt worden.</ERR_UNDO_REG_KEYS_VALS>
+		<ERR_WRN_OK_STAT>Fout(en): %d Waarschuwing(en): %d Geslaagde actie(s): %d</ERR_WRN_OK_STAT>
+		<EXIT>Afsluiten</EXIT>
+		<EXPERT>Expert</EXPERT>
+		<EXPIRE_DAYS>Verloopt over %d dagen.</EXPIRE_DAYS>
+		<EXPORT_ERROR>Fout wordt geexporteerd !</EXPORT_ERROR>
+		<EXTENSION>Uitbreiding</EXTENSION>
+		<FAMILY_NOT_ACCEPTED>Uw Familie licentie is niet geldig.</FAMILY_NOT_ACCEPTED>
+		<FFILTER_ALL>Alle bestanden (*.*)|*.*</FFILTER_ALL>
+		<FFILTER_DLL>Toepassing extensiebestanden (*.dll)|*.dll</FFILTER_DLL>
+		<FFILTER_EXE>Uitvoerbare (*.exe)|*.exe</FFILTER_EXE>
+		<FFILTER_HTM>HTML Documenten (*.htm, *.html)|*.htm;*html</FFILTER_HTM>
+		<FFILTER_ICL>Pictogram collecties (*.icl)|*.icl</FFILTER_ICL>
+		<FFILTER_ICO>Pictogram bestanden (*.ico)|*.ico</FFILTER_ICO>
+		<FFILTER_MSI>Microsoft installeer programma's (*.msi)|*.msi</FFILTER_MSI>
+		<FFILTER_REG>Register bestanden (*.reg)|*.reg</FFILTER_REG>
+		<FFILTER_TXT>Tekst Documenten (*.txt)|*.txt</FFILTER_TXT>
+		<FFILTER_WAV>Geluid bestanden (*.wav)|*.wav</FFILTER_WAV>
+		<FFILTER_XML>XML documenten - (*.xml)|*.xml</FFILTER_XML>
+		<FFILTER_ZIP>Backup bestanden (*.zip)|*.zip</FFILTER_ZIP>
+		<FILE>(BESTAND)</FILE>
+		<FILE_>Bestand</FILE_>
+		<FILE_MASK>Bestandsmasker</FILE_MASK>
+		<FILE_SYSTEM>Bestandssysteem</FILE_SYSTEM>
+		<FILES_CHG_STAT>Gewijzigde bestanden     :%6.1d</FILES_CHG_STAT>
+		<FILES_CREATED_STAT>Aangemaakte bestanden      :%6.1d</FILES_CREATED_STAT>
+		<FILES_DEL_STAT>Verwijderde bestanden      :%6.1d</FILES_DEL_STAT>
+		<FILES_NOT_INCLUDED>Bestanden die niet opgenomen zijn in de back-up</FILES_NOT_INCLUDED>
+		<FILES_X>Bestanden   :%6.1d</FILES_X>
+		<FILTER>Filter</FILTER>
+		<FINISH>Beëinigen</FINISH>
+		<FLDS_CREATED_STAT>Aangemaakte mappen  :%6.1d</FLDS_CREATED_STAT>
+		<FLDS_DEL_STAT>Verwijderde mappen  :%6.1d</FLDS_DEL_STAT>
+		<FOLDER>(MAP)</FOLDER>
+		<FOLDER_>Map</FOLDER_>
+		<FOLDER_MASK>Masker map</FOLDER_MASK>
+		<FOLDERS_X>Mappen :%6.1d</FOLDERS_X>
+		<FREE_UPDATES_UNTIL>Gratis updates tot %s</FREE_UPDATES_UNTIL>
+		<FS_DET_VIEW_PRF>Bestandssysteem details [Bekijk: %s]</FS_DET_VIEW_PRF>
+		<GENERAL>Algemeen</GENERAL>
+		<GENERATED_BY_TU>Gegenereerd door Total Uninstall</GENERATED_BY_TU>
+		<HIDDEN_NODE>De node is verborgen.</HIDDEN_NODE>
+		<HIDDEN_NODE_IN_VIEW>Het item is verborgen in de huidige weergave.</HIDDEN_NODE_IN_VIEW>
+		<HIDE_OPTIONS>Verberg &amp;opties</HIDE_OPTIONS>
+		<IF_NO_ERROR>Als er geen fouten zijn</IF_NO_ERROR>
+		<IMPORTING_ARCHIVE>Archief(ven) worden geimporteerd...</IMPORTING_ARCHIVE>
+		<INCLUDE_FOLDER_IN_LOG>Inclusief map in het logbestand</INCLUDE_FOLDER_IN_LOG>
+		<INF_VOLATILE_KEY>Vluchtige sleutel is niet gemaakt</INF_VOLATILE_KEY>
+		<INF_VOLATILE_VAL>Vluchtige waarde is niet gemaakt</INF_VOLATILE_VAL>
+		<INST_ON>Ge-Installeerd op</INST_ON>
+		<INST_PRG>Ge-Installeerd programma</INST_PRG>
+		<INST_PRGS>Ge-installeerde programma's</INST_PRGS>
+		<INST_SERV_AND_DEV>Ge-installeerde services en apparaten</INST_SERV_AND_DEV>
+		<INSTALL>Installeren</INSTALL>
+		<INSTALL_HISTORY>Installeer historie</INSTALL_HISTORY>
+		<INSTALLED_PRGS_CMPS>%d ge-installeerde programma's, %d systeem componenten</INSTALLED_PRGS_CMPS>
+		<INSTALLER_ERR>Er is een Installatie fout ontdekt: De gedeelde bestand teller is aangemaakt voor een bestaand bestand.</INSTALLER_ERR>
+		<INTERFACE>Interface</INTERFACE>
+		<INVALID_AFTER_CNT>Ongeldige NA teller</INVALID_AFTER_CNT>
+		<INVALID_BEFORE_CNT>Ongeldige VOOR teller</INVALID_BEFORE_CNT>
+		<INVALID_CURRENT_CNT>Ongeldige HUIDIGE teller gevonden in het register</INVALID_CURRENT_CNT>
+		<INVALID_FILE_FORMAT>Ongeldig bestandsformaat</INVALID_FILE_FORMAT>
+		<ITEM_X>Item : %s</ITEM_X>
+		<KEY>Sleutel</KEY>
+		<KEYS_CREATED_STAT>Sleutels aangemaakt      :%6.1d</KEYS_CREATED_STAT>
+		<KEYS_DEL_STAT>Sleutels verwijderd         :%6.1d</KEYS_DEL_STAT>
+		<KEYS_X>Sleutels    :%6.1d</KEYS_X>
+		<LAST_CHECK>Laatste controle: %s</LAST_CHECK>
+		<LAST_WRITE_X>Laatst geschreven: %s</LAST_WRITE_X>
+		<LAUNCH>Starten</LAUNCH>
+		<LAUNCH_SUPPLIED_UNINST>Het interne de-inlstalleer programma zal worden gestart.</LAUNCH_SUPPLIED_UNINST>
+		<LAUNCH_TU>Total Uninstall uitvoeren</LAUNCH_TU>
+		<LIC_COUNTRY>Land licentie</LIC_COUNTRY>
+		<LIC_FAMILY>Familie licentie</LIC_FAMILY>
+		<LIC_MULTIPLE>Meerdere computers licentie</LIC_MULTIPLE>
+		<LIC_SINGLE_COMPUTER>Enkele computer licentie</LIC_SINGLE_COMPUTER>
+		<LIC_SITE>Bedrijfs licentie</LIC_SITE>
+		<LIC_SMALL_OFFICE>Klein bedrijf licentie</LIC_SMALL_OFFICE>
+		<LIC_TECHNICIAN>Technicus licentie</LIC_TECHNICIAN>
+		<LIC_TEMPORARY>Tijdelijke licentie</LIC_TEMPORARY>
+		<LIC_WORLDWIDE>Wereldwijde licentie</LIC_WORLDWIDE>
+		<LICENSED_TO>Gelicenseerd aan "%s"</LICENSED_TO>
+		<LNK_EXE_FILTER>Snelkoppelingen en uitvoerbare bestanden (*.lnk,*.exe)|*.lnk;*.exe</LNK_EXE_FILTER>
+		<LOADING>Bezig met laden...</LOADING>
+		<LOADING_INST_PRGS>De ge-installeerde programma's worden geladen...</LOADING_INST_PRGS>
+		<LOADING_MON_PRGS>De gemonitorde programma's worden geladen...</LOADING_MON_PRGS>
+		<LOCATE_PRG_LNK_EXE>Selecteer een programa snelkoppeling of een uitvoerbaar bestand</LOCATE_PRG_LNK_EXE>
+		<LOCATE_UNINSTALLER_EXE>Selecteer het uitvoerbare de-installatie bestand</LOCATE_UNINSTALLER_EXE>
+		<LOG_FILE_NAME>Log bestandsnaam</LOG_FILE_NAME>
+		<LOGON>Inloggen</LOGON>
+		<MAINTENANCE_ENDED>De onderhoud termijn voor uw licentie is verlopen.</MAINTENANCE_ENDED>
+		<MAINTENANCE_ENDED_INFO>De nieuw ge-installeerde versie van het programma wordt uitgevoerd als proefversie.</MAINTENANCE_ENDED_INFO>
+		<MANUAL>Handleiding</MANUAL>
+		<MISSING_ITEMS>Ontbrekende items</MISSING_ITEMS>
+		<MODIFIED>Gewijzigd</MODIFIED>
+		<MON_ON>Monitoren aan</MON_ON>
+		<MON_PRG>Gemonitord programma</MON_PRG>
+		<MON_PRG_PATH>De locatie van het gemonitorde programma</MON_PRG_PATH>
+		<MON_PRG_RUNNING>Het lijkt erop dat het gemonitorde programma nog steeds loopt.</MON_PRG_RUNNING>
+		<MONITOR_WITH_TU>Monitoren met Total Uninstall</MONITOR_WITH_TU>
+		<MONITORED_PRGS>%d gemonitorde programma's</MONITORED_PRGS>
+		<NAME>Naam</NAME>
+		<NEVER>Nooit</NEVER>
+		<NEW_NAME>Nieuwe naam</NEW_NAME>
+		<NO>nee</NO>
+		<NO_GROUPS>Geen Groepen</NO_GROUPS>
+		<NO_MORE_INSTANCES_ALLOWED>Uw licentie is niet geldig voor het uitvoeren van meerdere exemplaren van dit programma.</NO_MORE_INSTANCES_ALLOWED>
+		<NO_RIGHTS>Onvoldoende rechten</NO_RIGHTS>
+		<NO_UPDATES>Beschadigde versie.</NO_UPDATES>
+		<NORMAL>Normaal</NORMAL>
+		<NOT_A_VALID_UNINST>Geen geldig of geregistreerd de-installatieprogramma gevonden.</NOT_A_VALID_UNINST>
+		<NOT_AVAILABLE>Niet Beschikbaar</NOT_AVAILABLE>
+		<NOT_DELETED_FILES>Niet verwijderde mappen en bestanden</NOT_DELETED_FILES>
+		<NOT_DELETED_FILES_DET>Niet verwijderde mappen en bestanden tijdens de-installatie</NOT_DELETED_FILES_DET>
+		<NOT_DELETED_REG>Niet verwijderde register sleutels en waarden</NOT_DELETED_REG>
+		<NOT_DELETED_REG_DET>Niet verwijderde register leutels en waarden tijdens de-installatie</NOT_DELETED_REG_DET>
+		<NOT_EMPTY>Niet leeg</NOT_EMPTY>
+		<NOT_FOUND>Niet gevonden</NOT_FOUND>
+		<NOT_FOUND>Niet gevonden: %s</NOT_FOUND>
+		<NOTES>Notities</NOTES>
+		<OK>OK</OK>
+		<OK_BRA>(OK)</OK_BRA>
+		<ON_PRG_CLOSE>Bij afsluiten van het programma</ON_PRG_CLOSE>
+		<ON_REFRESH>Als er ververst wordt</ON_REFRESH>
+		<ONLY_FILES_TO_KEEP>Niet verwijderd. Bevat alleen nog te behouden bestanden of mappen.</ONLY_FILES_TO_KEEP>
+		<ONLY_KEYS_TO_KEEP>Niet verwijderd. Bevat alleen nog te behouden register sleutels.</ONLY_KEYS_TO_KEEP>
+		<OTHER>Andere</OTHER>
+		<PAGE>Pagina:</PAGE>
+		<PAINT_ITEM_STYLES>Toon Normaal\nVerberg\nMarkeer Text\nDim Pictogram\nDim Pictogram en Markeer Text</PAINT_ITEM_STYLES>
+		<PENDING_FILE_REN>Verwerken van lopende bestandshernoeming.</PENDING_FILE_REN>
+		<PRE_INST_SNS_NAME>Voor-Installatie herstelpunt Naam</PRE_INST_SNS_NAME>
+		<PRE_INSTALL>Voor-installatie systeem herstelpunt</PRE_INSTALL>
+		<PREFERENCES>Voorkeuren</PREFERENCES>
+		<PRG_DETECTED>Programma gedetecteerd:</PRG_DETECTED>
+		<PRG_NAME>Programma naam</PRG_NAME>
+		<PRG_PART_UNINSTALLED>Programma was gedeeltelijk gede-installeerd</PRG_PART_UNINSTALLED>
+		<PRG_RESTORED>Het programma was hersteld.</PRG_RESTORED>
+		<PRG_UNINSTALLED>Programma succesvol gede-installeerd</PRG_UNINSTALLED>
+		<PRINT_ERROR>Print Fout!</PRINT_ERROR>
+		<PROCESS_CANCELLED>Het proces is geannuleerd.</PROCESS_CANCELLED>
+		<PROCESSING_INSTALLATIONS>De installaties worden verwerkt...</PROCESSING_INSTALLATIONS>
+		<PRODUCT_UPDATES>Product updates</PRODUCT_UPDATES>
+		<PROGRAM_WILL_RESTART>Het programma zal opnieuw opstarten om de registratie te voltooien.</PROGRAM_WILL_RESTART>
+		<PROGRESS_DEFAULT>Standaard proces</PROGRESS_DEFAULT>
+		<PST_INST_SNS_NAME>Na-installatie herstelpunt naam</PST_INST_SNS_NAME>
+		<PUBLISHER>Uitgever</PUBLISHER>
+		<QST_DEL_FLD_FILES>Weet u zeker dat u de geselecteerde bestanden of mappen wilt verwijderen?</QST_DEL_FLD_FILES>
+		<QST_DEL_REG_KEYS_VALS>Weet u zeker dat u de geselecteerde sleutels of waarden wilt verwijderen?</QST_DEL_REG_KEYS_VALS>
+		<QST_DEL_SERVICES>Weet u zeker dat u de geselecteerde services wilt verwijderen?</QST_DEL_SERVICES>
+		<QST_REMOVE_INST_PRG_LST>Weet u zeker dat u het geselecteerde programma wilt verwijderen van de lijst?</QST_REMOVE_INST_PRG_LST>
+		<QUEST_REMOVE_GROUP>De groep verwijderen?</QUEST_REMOVE_GROUP>
+		<QUIET_PROGRESS_DEFAULT>Rustig, vooruitgang, standaard</QUIET_PROGRESS_DEFAULT>
+		<README>Leesmij</README>
+		<READY>Klaar</READY>
+		<RECORD_CHANGED_X>Opname is gewijzigd: %s</RECORD_CHANGED_X>
+		<REDO_PROFILES>Profielen terugzetten</REDO_PROFILES>
+		<REG_DET_VIEW_PRF>Register details [Bekijken: %s]</REG_DET_VIEW_PRF>
+		<REG_KEY>(Regiter Sleutel)</REG_KEY>
+		<REG_RUN>Uitvoeren</REG_RUN>
+		<REG_RUN_ONCE>Eenmalig uitvoeren</REG_RUN_ONCE>
+		<REG_SCAN_ERROR>Fout tijdens het scannen van het register.</REG_SCAN_ERROR>
+		<REG_VAL>(Register Validatie)</REG_VAL>
+		<REGISTER_DISABLED_KEY>U bent mogelijk het slachtoffer van software vervalsing. Schaf een echte licentiesleutel aan.</REGISTER_DISABLED_KEY>
+		<REGISTER_FAILED>Registratie is mislukt.</REGISTER_FAILED>
+		<REGISTER_FIREWALL>Een firewall verhindert online validatie van uw licentie.</REGISTER_FIREWALL>
+		<REGISTER_HOST>Een vermelding binnen het HOSTS-bestand verhindert online validatie van uw licentie.</REGISTER_HOST>
+		<REGISTER_INVALID>Ongeldige registratieinformatie</REGISTER_INVALID>
+		<REGISTER_PRO>U moet het programma voor de professionele editie met een sleutel registreren.</REGISTER_PRO>
+		<REGISTER_THANK_YOU>Dank u voor het registreren %s.</REGISTER_THANK_YOU>
+		<REGISTERED_COMPANY>Geregistreerd Bedrijf</REGISTERED_COMPANY>
+		<REGISTERED_OWNER>Geregistreerde Eigenaar</REGISTERED_OWNER>
+		<REGISTRY>Registeer</REGISTRY>
+		<REMOVE_LEFT_BEHIND>Druk op De-installatie om de bestanden, mappen, registersleutels en waarden die ontdekt zijn te verwijderen.</REMOVE_LEFT_BEHIND>
+		<REMOVE_LOG>De log van de wijzigingen verwijderen?</REMOVE_LOG>
+		<REMOVE_LOG_DET>Het zal niet mogelijk zijn om de wijzigingen die door het huidige programma gemaakt zijn te herstellen.</REMOVE_LOG_DET>
+		<REMOVE_PRG_DATA>Instellingen en programma data verwijderen?</REMOVE_PRG_DATA>
+		<REMOVE_PRG_DATA_INFO>Kies "Nee" als u van plan bent Total Uninstall te updaten of upgraden</REMOVE_PRG_DATA_INFO>
+		<RENAME>Hernoemen</RENAME>
+		<REQUEST_INTERNET_ACCESS>Internettoegang is vereist.</REQUEST_INTERNET_ACCESS>
+		<RESTORATION_UNDONE>Het herstel werd ongedaan gemaakt.</RESTORATION_UNDONE>
+		<RESTORE>Herstellen</RESTORE>
+		<RESTORE_PROGRAM>Herstel het programa</RESTORE_PROGRAM>
+		<RESTORE_REG_VALS>Herstel de register waarden</RESTORE_REG_VALS>
+		<RESTORING_ARCHIVE>De bestanden en registersleutel items worden hersteld...</RESTORING_ARCHIVE>
+		<RESTORING_FILES_FROM_BKP>De bestanden worden vanuit de backup hersteld...</RESTORING_FILES_FROM_BKP>
+		<RST_FILE_PROP>Herstel de bestandseigenschappen</RST_FILE_PROP>
+		<RUN_EVAL_PERIOD>Het programma uitvoeren in de evaluatieperiode?</RUN_EVAL_PERIOD>
+		<RUNNING>Uitvoeren</RUNNING>
+		<RUNNING_DOMAIN>Uitgevoerd in een Windows NT-domein.</RUNNING_DOMAIN>
+		<RUNNING_SERVER>Uitgevoerd in een Windows Server.</RUNNING_SERVER>
+		<RUNNING_VM>Uitgevoerd in een virtuele computer.</RUNNING_VM>
+		<SAFE>Veilig</SAFE>
+		<SAFE>Opslaan</SAFE>
+		<SAVE_AS>Opslaan als</SAVE_AS>
+		<SCAN_PROFILES>Profielen scannen</SCAN_PROFILES>
+		<SCANNING>Wordt gescand...</SCANNING>
+		<SCANNING_REGISTRY_AND_FS>Scannen van het register en bestandssysteem...</SCANNING_REGISTRY_AND_FS>
+		<SCHEDULED_TASKS>Geplande taken</SCHEDULED_TASKS>
+		<SEARCH>Zoeken</SEARCH>
+		<SEARCH_IN_X>Zoeken in "%s"</SEARCH_IN_X>
+		<SEL_BRA>(Selectie)</SEL_BRA>
+		<SEL_HAS_HD_NODES>De selectie bevat minstens één verborgen item.</SEL_HAS_HD_NODES>
+		<SEL_PRG_UNINSTALLED>Het geselecteerde programma is gede-installeerd.</SEL_PRG_UNINSTALLED>
+		<SEL_UNINSTALL_PROFILE>Selecteer een de-installatie profiel.</SEL_UNINSTALL_PROFILE>
+		<SELECT>Selecteer</SELECT>
+		<SERVICE>Service</SERVICE>
+		<SERVICES>Services</SERVICES>
+		<SHARED_FILE>Gedeeld bestand. niet verwijderd in deze fase.</SHARED_FILE>
+		<SHARED_FILE_CNT_DEC>Gedeelde bestanden teller is reeds verlaagd.</SHARED_FILE_CNT_DEC>
+		<SHARED_FILE_NOT_FOUND>Gedeeld bestand niet gevonden op de schijf</SHARED_FILE_NOT_FOUND>
+		<SHOW_OPTIONS>Toon &amp;opties</SHOW_OPTIONS>
+		<SHOW_SYS_COMP>Toon systeem componenten: %s</SHOW_SYS_COMP>
+		<SIZE>Grootte</SIZE>
+		<SIZE_STAT>Grootte                           : %s</SIZE_STAT>
+		<SKIP>Overslaan</SKIP>
+		<SKIP_BUILTIN_UNINSTALLER>Als het lopende interne De-installatieprogramma niet reageert, druk op Overslaan om door te gaan. Het volgende De-istallatieprogramma zal worden gestart.</SKIP_BUILTIN_UNINSTALLER>
+		<SMALL_CNT>Gedeelde bestandsteller blijkt te klein te zijn in het register</SMALL_CNT>
+		<START>Start</START>
+		<START_MENU>Start menu</START_MENU>
+		<START_SCANNING>Druk op de knop Scannen om het scannen te starten.</START_SCANNING>
+		<START_UNINSTALL_PROCESS>Start het de-installatieproces.</START_UNINSTALL_PROCESS>
+		<STARTUP_TYPE_X>Opstarttype : %s</STARTUP_TYPE_X>
+		<STOP>Stop</STOP>
+		<STOP_SERVICES>Stop services</STOP_SERVICES>
+		<STOPPED>Gestopt</STOPPED>
+		<SUMMARY>Samenvatting</SUMMARY>
+		<SUPPORT_INFO>Ondersteunende Informatie</SUPPORT_INFO>
+		<SUPPORT_PHONE>Ondersteunend Telefoonnummer</SUPPORT_PHONE>
+		<SVC_CMD_NOT_ACCEPTED>Service accepteert geen stop commando.</SVC_CMD_NOT_ACCEPTED>
+		<SW_VERSION>Versie %s</SW_VERSION>
+		<SYSTEM>Systeem</SYSTEM>
+		<TEMPORARY_FILES>Tijdelijke bestanden</TEMPORARY_FILES>
+		<TITLE_MON_INSTALL>Monitor een nieuwe installatie</TITLE_MON_INSTALL>
+		<TITLE_MON_UPDATE_X>Monitor programma update "%s"</TITLE_MON_UPDATE_X>
+		<TOTAL_LIC_COMPUTERS>Totaal gelicentieerde computers op bovenstaande naam: %s</TOTAL_LIC_COMPUTERS>
+		<TOTAL_UNINSTALL>Total Uninstall</TOTAL_UNINSTALL>
+		<TRACES_AFTER_UNINSTALL>Sporen na de-installatie</TRACES_AFTER_UNINSTALL>
+		<TRIAL_EXPIRED>Proefperiode is afgelopen. U dient zich te registreren.</TRIAL_EXPIRED>
+		<TU_AGENT>Total Uninstall Agent</TU_AGENT>
+		<TU_MON_PRG_TITLE>Gemonitorde programma's</TU_MON_PRG_TITLE>
+		<TU_PRO_EDITION>Total Uninstall Professionele Editie</TU_PRO_EDITION>
+		<TU_STD_EDITION>Total Uninstall Standaard Editie</TU_STD_EDITION>
+		<TU_ULT_EDITION>Total Uninstall Ultime Editie</TU_ULT_EDITION>
+		<TU_USE_FIRST_UNINST>Total Uninstall gebruikt eerst het interne De-installatie programma</TU_USE_FIRST_UNINST>
+		<TU_USE_FIRST_UNINST_DESC>De-installeer anti-virus, anti-spyware, firewall, driver of andere programma dat systeem devices installeert.</TU_USE_FIRST_UNINST_DESC>
+		<UNDO>Ongedaan maken</UNDO>
+		<UNDO_RESTORATION>Maak de reparatie ongedaan</UNDO_RESTORATION>
+		<UNINST_ANALYZED>De-installeer geanalyseerde programma's</UNINST_ANALYZED>
+		<UNINST_BUNDLE>Door Uninstall geanalyseerde programma-bundel</UNINST_BUNDLE>
+		<UNINST_PROFILES>De-installatieprofielen</UNINST_PROFILES>
+		<UNINSTALL>De-installeer</UNINSTALL>
+		<UNINSTALL_INST_HINT>De-installeer|De-installeer het geselecteerde geanalyseerde programma</UNINSTALL_INST_HINT>
+		<UNINSTALL_LOG>De-installatielog</UNINSTALL_LOG>
+		<UNINSTALL_MON_HINT>De-installeer|De-installeer het geselecteerde gemonitorde programma</UNINSTALL_MON_HINT>
+		<UNINSTALL_PROGRAM_X>De-installeer programma "%s"</UNINSTALL_PROGRAM_X>
+		<UNINSTALLED_WITH_TU>Gede-installeerd met Total Uninstall "%s"</UNINSTALLED_WITH_TU>
+		<UNREGISTERED>Niet geregistreerd</UNREGISTERED>
+		<USE_LAST_SNS>Gebruik laatste herstelpunt</USE_LAST_SNS>
+		<USE_LAST_SNS_AGO_D>Gebruik laatste herstelpunt (%d dagen, %d uren en %d minuten geleden)</USE_LAST_SNS_AGO_D>
+		<USE_LAST_SNS_AGO_H>Gebruik laatste herstelpunt (%d uren en %d minuten geleden)</USE_LAST_SNS_AGO_H>
+		<USE_LAST_SNS_AGO_M>Gebruik laatste herstelpunt (%d minuten geleden)</USE_LAST_SNS_AGO_M>
+		<USE_OLD_PURCHASE_NEW>Installeer een oudere versie, of koop de update naar deze versie</USE_OLD_PURCHASE_NEW>
+		<USE_ONLY_PRG_UNINST>Gebruik alleen het De-Installatie programma van het programma</USE_ONLY_PRG_UNINST>
+		<USE_OR_BUILD_SNS>Maak of gebruik een vorige voor-installatie herstelpunt</USE_OR_BUILD_SNS>
+		<USR_ABORT>Afgebroken door de gebruiker</USR_ABORT>
+		<VALS_CHG_STAT>Waarden aangepast       :%6.1d</VALS_CHG_STAT>
+		<VALS_CREATED_STAT>Waarden aangemaakt    :%6.1d</VALS_CREATED_STAT>
+		<VALS_DEL_STAT>Waarden verwijderd       :%6.1d</VALS_DEL_STAT>
+		<VALUE>Waarde</VALUE>
+		<VALUES_X>Waarden  :%6.1d</VALUES_X>
+		<VERSION>Versie</VERSION>
+		<WAIT_UNINST_REMOVE_LEFT>Als het interne de-installatie programma klaar is druk dan op De-installaleren om de bestanden, mappen, registersleutels en waardes die zijn achtergebleven te verwijderen.</WAIT_UNINST_REMOVE_LEFT>
+		<WRN_BRA>(WRN)</WRN_BRA>
+		<X_BYTE>%s B</X_BYTE>
+		<X_BYTES>%d bytes</X_BYTES>
+		<X_CHANGES>%s - Wijzigingen</X_CHANGES>
+		<X_GIGABYTE>%s Gb</X_GIGABYTE>
+		<X_KILOBYTE>%s Kb</X_KILOBYTE>
+		<X_MEGABYTE>%s Mb</X_MEGABYTE>
+		<X_RESULTS>%d resultaat(en)</X_RESULTS>
+		<X_UNINSTALL_LOG>"%s" - de-installatielog</X_UNINSTALL_LOG>
+		<X_UNINSTALL_LOG_FILE>"%s" - de-installatielog.txt</X_UNINSTALL_LOG_FILE>
+		<YES>ja</YES>
+		<ZERO_LENGTH_DATA>(nul lengte gegeven)</ZERO_LENGTH_DATA>
+	</RESOURCESTRING>
+</TotalUninstall>

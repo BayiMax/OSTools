@@ -1,0 +1,2511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TotalUninstall>
+	<_System_>
+		<Flag>
+			<Size>1974</Size>
+			<Data>Qk22BwAAAAAAADYAAAAoAAAAIAAAABQAAAABABgAAAAAAIAHAADEDgAAxA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAAAAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAAAAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAAAAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAAAAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAAAAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAAAAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAAAAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAAAAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAAAAAAAJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOAAAAAAAAJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOAAAAAAAAJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOAAAAAAAAJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOAAAAAAAAJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOAAAAAAAAJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOAAAAAAAAJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOAAAAAAAAJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOAAAAAAAAJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOJhHOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Data>
+		</Flag>
+		<LanguageCode>en</LanguageCode>
+		<LocalizedName>Indonesia</LocalizedName>
+		<Version>61400</Version>
+	</_System_>
+	<Cleaner>
+		<CF-BROWSER-CACHE>Penjelajah Internet</CF-BROWSER-CACHE>
+		<CF-BROWSER-CACHE-CHROME>Chrome</CF-BROWSER-CACHE-CHROME>
+		<CF-BROWSER-CACHE-FIREFOX>Firefox</CF-BROWSER-CACHE-FIREFOX>
+		<CF-BROWSER-CACHE-IE>Internet Explorer</CF-BROWSER-CACHE-IE>
+		<CF-BROWSER-CACHE-MAXTHON>Maxthon</CF-BROWSER-CACHE-MAXTHON>
+		<CF-BROWSER-CACHE-OPERA>Opera</CF-BROWSER-CACHE-OPERA>
+		<CF-PROGRAMS>Program-program</CF-PROGRAMS>
+		<CF-PROGRAMS-ADOBE-FLASH-PLAYER>Adobe Flash Player</CF-PROGRAMS-ADOBE-FLASH-PLAYER>
+		<CF-PROGRAMS-MSOFFICE-RECENT>Daftar berkas Microsoft Office baru-baru ini</CF-PROGRAMS-MSOFFICE-RECENT>
+		<CF-PROGRAMS-SUN-JAVA-CACHE>Simpanan Sun Java</CF-PROGRAMS-SUN-JAVA-CACHE>
+		<CF-SYSTEM>Sistem</CF-SYSTEM>
+		<CF-SYSTEM-JUNK-FILES>Berkas sampah</CF-SYSTEM-JUNK-FILES>
+		<CF-SYSTEM-RECYCLE-BIN>Recycle bin untuk pembersihan paksa</CF-SYSTEM-RECYCLE-BIN>
+		<CF-SYSTEM-TEMP-FILES>Berkas sementara</CF-SYSTEM-TEMP-FILES>
+		<CF-SYSTEM-THUMBNAILS-CACHE>Simpanan thumbnail</CF-SYSTEM-THUMBNAILS-CACHE>
+		<CF-WINDOWS>Windows</CF-WINDOWS>
+		<CF-WINDOWS-ERROR-REPORTING>Laporan masalah</CF-WINDOWS-ERROR-REPORTING>
+		<CF-WINDOWS-EXPLORER>Penjelajah Windows</CF-WINDOWS-EXPLORER>
+		<CF-WINDOWS-EXPLORER-RECENT-FILES>Berkas baru-baru ini</CF-WINDOWS-EXPLORER-RECENT-FILES>
+		<CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>Folder tertinggal yang kosong</CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>
+		<CF-WINDOWS-LOG-FILES>Berkas catatan</CF-WINDOWS-LOG-FILES>
+		<CF-WINDOWS-MEMORY-DUMP-FILES>Timbunan Memori</CF-WINDOWS-MEMORY-DUMP-FILES>
+		<CF-WINDOWS-TEMP-FOLDERS>Folder sementara</CF-WINDOWS-TEMP-FOLDERS>
+		<CR-INVALID-ENTRIES>Entri tidak valid</CR-INVALID-ENTRIES>
+		<CR-INVALID-ENTRIES-FILE-REFERENCES>Referensi berkas</CR-INVALID-ENTRIES-FILE-REFERENCES>
+		<CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>Kunci kosong yang tertinggal</CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>
+		<CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>Berkas DLL berbagi yang hilang</CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>
+		<CR-INVALID-ENTRIES-MSI-PATHS>Lokasi MSI</CR-INVALID-ENTRIES-MSI-PATHS>
+		<CR-INVALID-ENTRIES-MUI-REFERENCES>Referensi MUI</CR-INVALID-ENTRIES-MUI-REFERENCES>
+		<CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>Tidak ada info format berkas</CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>
+	</Cleaner>
+	<dlgAddInstalledPrg>
+		<btnCancel>
+			<Caption>Batal</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>Baik</Caption>
+		</btnOK>
+		<Caption>Tambahkan program ke daftar</Caption>
+		<lblBuiltInUninstaller>
+			<Caption>Pelepas internal</Caption>
+		</lblBuiltInUninstaller>
+		<lblInstallationFolder>
+			<Caption>Terpasang di folder</Caption>
+		</lblInstallationFolder>
+		<lblPrgName>
+			<Caption>Nama program</Caption>
+		</lblPrgName>
+	</dlgAddInstalledPrg>
+	<dlgAskDelItem>
+		<btnOK>
+			<Caption>&amp;Baik</Caption>
+		</btnOK>
+		<btnSelectAll>
+			<Caption>&amp;Pilih Semua</Caption>
+		</btnSelectAll>
+		<btnUnselectAll>
+			<Caption>&amp;Tak pilih semua</Caption>
+		</btnUnselectAll>
+		<Caption>Hapus item-item?</Caption>
+		<cbAutoSelectAll>
+			<Caption>Otomatis pilih semua</Caption>
+		</cbAutoSelectAll>
+		<lblDelSel>
+			<Caption>Yang terpilih akan dihapus</Caption>
+		</lblDelSel>
+	</dlgAskDelItem>
+	<dlgAutorunItem>
+		<btnCancel>
+			<Caption>Batal</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Item Auto-run</Caption>
+		<gbStartLocation>
+			<Caption>Lokasi mulai</Caption>
+		</gbStartLocation>
+		<gbUser>
+			<Caption>Auto-run saat logon untuk</Caption>
+		</gbUser>
+		<lblCommand>
+			<Caption>Perintah</Caption>
+		</lblCommand>
+		<lblName>
+			<Caption>Nama</Caption>
+		</lblName>
+		<rbLogonAnyUser>
+			<Caption>Siapapun</Caption>
+		</rbLogonAnyUser>
+		<rbLogonCurentUser>
+			<Caption>Pengguna saat ini</Caption>
+		</rbLogonCurentUser>
+		<rbRegRun>
+			<Caption>Registri, jalankan setiap logon</Caption>
+		</rbRegRun>
+		<rbRegRunOnce>
+			<Caption>Registri, jalankan sekali pada logon selanjutnya</Caption>
+		</rbRegRunOnce>
+		<rbStartMenu>
+			<Caption>Folder startup, jalankan setiap logon</Caption>
+		</rbStartMenu>
+	</dlgAutorunItem>
+	<dlgChangeIcon>
+		<btnBrowse>
+			<Caption>Jelajah...</Caption>
+		</btnBrowse>
+		<btnCancel>
+			<Caption>Batal</Caption>
+		</btnCancel>
+		<btnClear>
+			<Caption>Bersihkan</Caption>
+		</btnClear>
+		<btnOk>
+			<Caption>Baik</Caption>
+		</btnOk>
+		<Caption>Ganti ikon</Caption>
+		<gbIcons>
+			<Caption>Ikon-ikon</Caption>
+		</gbIcons>
+	</dlgChangeIcon>
+	<dlgCheckUpdates>
+		<btnClose>
+			<Caption>Tutup</Caption>
+		</btnClose>
+		<btnRefresh>
+			<Caption>Perbarui</Caption>
+		</btnRefresh>
+		<Caption>Periksa untuk pembaruan</Caption>
+	</dlgCheckUpdates>
+	<dlgCompareSns>
+		<btnCancel>
+			<Caption>Batal</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>Baik</Caption>
+		</btnOK>
+		<Caption>Bandingan rekaman sistem</Caption>
+		<lblCompareProfile>
+			<Caption>Profil pembandingan</Caption>
+		</lblCompareProfile>
+		<lblResultLog>
+			<Caption>Catatan hasil</Caption>
+		</lblResultLog>
+		<lblSnapshotA>
+			<Caption>Rekaman sistem A</Caption>
+		</lblSnapshotA>
+		<lblSnapshotB>
+			<Caption>Rekaman sistem B</Caption>
+		</lblSnapshotB>
+	</dlgCompareSns>
+	<dlgExportRegistry>
+		<btnCancel>
+			<Caption>Batal</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>Baik</Caption>
+		</btnOk>
+		<Caption>Ekspor perubahan registri</Caption>
+		<cbCreatedKeys>
+			<Caption>Kunci dibuat</Caption>
+		</cbCreatedKeys>
+		<cbCreatedValues>
+			<Caption>Nilai dibuat</Caption>
+		</cbCreatedValues>
+		<cbDeletedKeys>
+			<Caption>Kunci dihapus</Caption>
+		</cbDeletedKeys>
+		<cbDeletedValues>
+			<Caption>Nilai dihapus</Caption>
+		</cbDeletedValues>
+		<cbModifiedValues>
+			<Caption>Nilai diubah</Caption>
+		</cbModifiedValues>
+		<gbDetails>
+			<Caption>Perubahan registri</Caption>
+		</gbDetails>
+		<gbExportType>
+			<Caption>Tipe ekspor</Caption>
+		</gbExportType>
+		<gbRange>
+			<Caption>Batasan ekspor</Caption>
+		</gbRange>
+		<rbExpAll>
+			<Caption>Semua</Caption>
+		</rbExpAll>
+		<rbExpBranch>
+			<Caption>Cabang terpilih</Caption>
+		</rbExpBranch>
+		<rbInstall>
+			<Caption>Berkas pemasang</Caption>
+		</rbInstall>
+		<rbUninstall>
+			<Caption>Berkas pelepas</Caption>
+		</rbUninstall>
+	</dlgExportRegistry>
+	<dlgGroupProp>
+		<btnCancel>
+			<Caption>Batal</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>Baik</Caption>
+		</btnOk>
+		<Caption>Kelompok</Caption>
+		<lblIcon>
+			<Caption>Ikon</Caption>
+		</lblIcon>
+		<lblName>
+			<Caption>Nama</Caption>
+		</lblName>
+	</dlgGroupProp>
+	<dlgMergeLogs>
+		<btnCancel>
+			<Caption>Batal</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>Baik</Caption>
+		</btnOK>
+		<Caption>Gabungankan catatan</Caption>
+		<cbDeleteUpdate>
+			<Caption>Hapus catatan pembaruan setelah penggabungan</Caption>
+		</cbDeleteUpdate>
+		<gbDestination>
+			<Caption>Tujuan</Caption>
+		</gbDestination>
+		<gbSources>
+			<Caption>Sumber</Caption>
+		</gbSources>
+		<lblInstallLog>
+			<Caption>Catatan pemasangan</Caption>
+		</lblInstallLog>
+		<lblNewName>
+			<Caption>Nama baru</Caption>
+		</lblNewName>
+		<lblUpdateLog>
+			<Caption>Catatan pembaruan</Caption>
+		</lblUpdateLog>
+		<rbCreateANewLog>
+			<Caption>Buat catatan baru</Caption>
+		</rbCreateANewLog>
+		<rbSaveInInstallLog>
+			<Caption>Simpan di catatan pemasangan</Caption>
+		</rbSaveInInstallLog>
+	</dlgMergeLogs>
+	<dlgPendingFileRename>
+		<btnApply>
+			<Caption>Lakukan</Caption>
+		</btnApply>
+		<btnClose>
+			<Caption>Tutup</Caption>
+		</btnClose>
+		<Caption>Operasi ganti-nama berkas tertunda</Caption>
+		<tvPendingFiles>
+			<Columns_0>Sumber</Columns_0>
+			<Columns_1>Tujuan</Columns_1>
+		</tvPendingFiles>
+	</dlgPendingFileRename>
+	<dlgRegister>
+		<btnBuy>
+			<Caption>Beli</Caption>
+		</btnBuy>
+		<btnCancel>
+			<Caption>Batal</Caption>
+		</btnCancel>
+		<btnRegister>
+			<Caption>Daftar</Caption>
+		</btnRegister>
+		<Caption>Daftar Total Uninstall</Caption>
+		<lblKey>
+			<Caption>Kunci pendaftaran</Caption>
+		</lblKey>
+		<lblName>
+			<Caption>Nama pendaftaran</Caption>
+		</lblName>
+		<ulblLostRegistrationInfo>
+			<Caption>Saya kehilangan informasi registrasi saya</Caption>
+		</ulblLostRegistrationInfo>
+	</dlgRegister>
+	<dlgRestrictedFeature>
+		<btnCancel>
+			<Caption>Batal</Caption>
+		</btnCancel>
+		<Caption>Fitur yang dibatasi</Caption>
+		<clinkPurchase>
+			<Caption>Pembelian</Caption>
+			<Note>Buka formulir pemesanan</Note>
+		</clinkPurchase>
+		<lblInstruction>
+			<Caption>Fitur ini hanya tersedia pada versi yang terdaftar</Caption>
+		</lblInstruction>
+		<lblProfessionalEdition>
+			<Caption>- Edisi Profesional</Caption>
+		</lblProfessionalEdition>
+	</dlgRestrictedFeature>
+	<dlgRmvShared>
+		<btnNo>
+			<Caption>Tidak</Caption>
+		</btnNo>
+		<btnNoToAll>
+			<Caption>Tidak Untuk Semua</Caption>
+		</btnNoToAll>
+		<btnYes>
+			<Caption>Ya</Caption>
+		</btnYes>
+		<btnYesToAll>
+			<Caption>Ya Untuk Semua</Caption>
+		</btnYesToAll>
+		<Caption>Hapus berkas berbagi?</Caption>
+		<lblFileName>
+			<Caption>Nama file:</Caption>
+		</lblFileName>
+		<lblLocated>
+			<Caption>Terletak di:</Caption>
+		</lblLocated>
+		<lblOne>
+			<Caption>Sistem menunjukkan bahwa berkas yang dibagi ini tidak lagi digunakan oleh program apapun. Jika dihapus dan masih ada program yang menggunakan berkas ini, program tersebut mungkin tidak akan berfungsi lagi. Apakah anda yakin ingin menghapus berkas berbagi?</Caption>
+		</lblOne>
+		<lblTwo>
+			<Caption>Meninggalkan berkas ini dalam sistem anda tidak akan membahayakan. Jika anda tidak yakin, kami sarankan anda memilih untuk tidak menghapus komponen berbagi ini.</Caption>
+		</lblTwo>
+	</dlgRmvShared>
+	<dlgSelect>
+		<btnCancel>
+			<Caption>Batal</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>Baik</Caption>
+		</btnOk>
+		<Caption>Pilih</Caption>
+	</dlgSelect>
+	<dlgSelectLibIcon>
+		<btnAdd>
+			<Caption>Tambah</Caption>
+		</btnAdd>
+		<btnCancel>
+			<Caption>Batal</Caption>
+		</btnCancel>
+		<btnDelete>
+			<Caption>Hapus</Caption>
+		</btnDelete>
+		<btnOk>
+			<Caption>Baik</Caption>
+		</btnOk>
+		<Caption>Pilih ikon</Caption>
+		<gbIcons>
+			<Caption>Ikon-ikon</Caption>
+		</gbIcons>
+	</dlgSelectLibIcon>
+	<dlgSysBrowser>
+		<btnCancel>
+			<Caption>&amp;Batal</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>&amp;Baik</Caption>
+		</btnOk>
+		<lblExpanded>
+			<Caption>Diperluas</Caption>
+		</lblExpanded>
+	</dlgSysBrowser>
+	<dlgTUAbout>
+		<btnOK>
+			<Caption>Baik</Caption>
+		</btnOK>
+		<Caption>Tentang</Caption>
+		<lblCopyright>
+			<Caption>Hak Cipta © 2001-2019, Gavrila Martau</Caption>
+		</lblCopyright>
+		<lblEmail>
+			<Caption>Surat elektronik</Caption>
+		</lblEmail>
+		<lblHomePage>
+			<Caption>Laman</Caption>
+		</lblHomePage>
+		<ulblBuyUpgrade>
+			<Caption>Beli pembaruan</Caption>
+		</ulblBuyUpgrade>
+		<ulblDownload>
+			<Caption>Unduh pembaruan gratis terakhir</Caption>
+		</ulblDownload>
+	</dlgTUAbout>
+	<dlgTunBackup>
+		<btnCancel>
+			<Caption>Batal</Caption>
+		</btnCancel>
+		<btnCopy>
+			<Caption>Salin</Caption>
+		</btnCopy>
+		<btnCreate>
+			<Caption>Buat</Caption>
+		</btnCreate>
+		<lblArchiving>
+			<Caption>Mengarsip item berkas dan registri</Caption>
+		</lblArchiving>
+		<lblCreateBackup>
+			<Caption>Buat cadangan untuk program</Caption>
+		</lblCreateBackup>
+		<lblFilesNotIncluded>
+			<Caption>Berkas-berkas yang tidak termasuk dalam cadangan</Caption>
+		</lblFilesNotIncluded>
+	</dlgTunBackup>
+	<dlgTunRestore>
+		<btnImport>
+			<Caption>Impor</Caption>
+		</btnImport>
+		<cbRestoreOnlyLog>
+			<Caption>Kembalikan hanya catatan pemasangan</Caption>
+		</cbRestoreOnlyLog>
+		<lblFilesNotIncluded>
+			<Caption>Aksi tidak dieksekusi</Caption>
+		</lblFilesNotIncluded>
+		<lblRestoreProfile>
+			<Caption>Kembalikan profil</Caption>
+		</lblRestoreProfile>
+		<lblRestoreProgram>
+			<Caption>Pilih program untuk dikembalikan</Caption>
+		</lblRestoreProgram>
+		<lblUndoRestoration>
+			<Caption>Pilih pengembalian untuk dibatalkan</Caption>
+		</lblUndoRestoration>
+		<pmiCopyTo>
+			<Caption>Salin ke...</Caption>
+		</pmiCopyTo>
+		<pmiDelete>
+			<Caption>Hapus</Caption>
+		</pmiDelete>
+	</dlgTunRestore>
+	<dlgTUOptions>
+		<btnAddAnalysisProfile>
+			<Caption>Tambah...</Caption>
+		</btnAddAnalysisProfile>
+		<btnAddChgView>
+			<Caption>Tambah...</Caption>
+		</btnAddChgView>
+		<btnAddCleaner>
+			<Caption>Tambah...</Caption>
+		</btnAddCleaner>
+		<btnAddCompareProfile>
+			<Caption>Tambah...</Caption>
+		</btnAddCompareProfile>
+		<btnAddExclFlds>
+			<Caption>Tambah...</Caption>
+		</btnAddExclFlds>
+		<btnAddExclKey>
+			<Caption>Tambah...</Caption>
+		</btnAddExclKey>
+		<btnAddIgnChgFs>
+			<Caption>Tambah...</Caption>
+		</btnAddIgnChgFs>
+		<btnAddIgnChgReg>
+			<Caption>Tambah...</Caption>
+		</btnAddIgnChgReg>
+		<btnAddIgnFile>
+			<Caption>Tambah...</Caption>
+		</btnAddIgnFile>
+		<btnAddInclFlds>
+			<Caption>Tambah...</Caption>
+		</btnAddInclFlds>
+		<btnAddInclKeys>
+			<Caption>Tambah...</Caption>
+		</btnAddInclKeys>
+		<btnAddInstallLoc>
+			<Caption>Tambah...</Caption>
+		</btnAddInstallLoc>
+		<btnAddProtectedFld>
+			<Caption>Tambah...</Caption>
+		</btnAddProtectedFld>
+		<btnAddProtectedKey>
+			<Caption>Tambah...</Caption>
+		</btnAddProtectedKey>
+		<btnAddRedo>
+			<Caption>Tambah...</Caption>
+		</btnAddRedo>
+		<btnAddScanProfile>
+			<Caption>Tambah...</Caption>
+		</btnAddScanProfile>
+		<btnAddUninst>
+			<Caption>Tambah...</Caption>
+		</btnAddUninst>
+		<btnAddUninstInst>
+			<Caption>Tambah...</Caption>
+		</btnAddUninstInst>
+		<btnAddValue>
+			<Caption>Tambah...</Caption>
+		</btnAddValue>
+		<btnAddVer>
+			<Caption>Tambah...</Caption>
+		</btnAddVer>
+		<btnAgentAddExcMask>
+			<Caption>Tambah...</Caption>
+		</btnAgentAddExcMask>
+		<btnAgentAddIncMask>
+			<Caption>Tambah...</Caption>
+		</btnAgentAddIncMask>
+		<btnAgentRemExcMask>
+			<Caption>Hapus</Caption>
+		</btnAgentRemExcMask>
+		<btnAgentRemIncMask>
+			<Caption>Hapus</Caption>
+		</btnAgentRemIncMask>
+		<btnAnlSaveAs>
+			<Caption>Simpan sebagai...</Caption>
+		</btnAnlSaveAs>
+		<btnCancel>
+			<Caption>Batal</Caption>
+		</btnCancel>
+		<btnChgViewSaveAs>
+			<Caption>Simpan sebagai...</Caption>
+		</btnChgViewSaveAs>
+		<btnCleanerSaveAs>
+			<Caption>Simpan sebagai...</Caption>
+		</btnCleanerSaveAs>
+		<btnClnAddExclFs>
+			<Caption>Tambah...</Caption>
+		</btnClnAddExclFs>
+		<btnClnAddExclRegistry>
+			<Caption>Tambah...</Caption>
+		</btnClnAddExclRegistry>
+		<btnClnEditExclFs>
+			<Caption>Ubah...</Caption>
+		</btnClnEditExclFs>
+		<btnClnEditExclRegistry>
+			<Caption>Ubah...</Caption>
+		</btnClnEditExclRegistry>
+		<btnClnRemExclFs>
+			<Caption>Hapus</Caption>
+		</btnClnRemExclFs>
+		<btnClnRemExclRegistry>
+			<Caption>Hapus</Caption>
+		</btnClnRemExclRegistry>
+		<btnCompPlaySound>
+			<Caption>Coba</Caption>
+		</btnCompPlaySound>
+		<btnCompSaveAs>
+			<Caption>Simpan sebagai...</Caption>
+		</btnCompSaveAs>
+		<btnEditExclFlds>
+			<Caption>Ubah...</Caption>
+		</btnEditExclFlds>
+		<btnEditExclKeys>
+			<Caption>Ubah...</Caption>
+		</btnEditExclKeys>
+		<btnEditIgnChgFs>
+			<Caption>Ubah...</Caption>
+		</btnEditIgnChgFs>
+		<btnEditIgnChgReg>
+			<Caption>Ubah...</Caption>
+		</btnEditIgnChgReg>
+		<btnEditIgnFile>
+			<Caption>Ubah...</Caption>
+		</btnEditIgnFile>
+		<btnEditIgnValues>
+			<Caption>Ubah...</Caption>
+		</btnEditIgnValues>
+		<btnEditProtectedFld>
+			<Caption>Ubah...</Caption>
+		</btnEditProtectedFld>
+		<btnEditProtectedKey>
+			<Caption>Ubah...</Caption>
+		</btnEditProtectedKey>
+		<btnOK>
+			<Caption>Baik</Caption>
+		</btnOK>
+		<btnRedoSaveAs>
+			<Caption>Simpan sebagai...</Caption>
+		</btnRedoSaveAs>
+		<btnRemAnalysisProfile>
+			<Caption>Hapus...</Caption>
+		</btnRemAnalysisProfile>
+		<btnRemChgView>
+			<Caption>Hapus...</Caption>
+		</btnRemChgView>
+		<btnRemCleaner>
+			<Caption>Hapus...</Caption>
+		</btnRemCleaner>
+		<btnRemCompareProfile>
+			<Caption>Hapus...</Caption>
+		</btnRemCompareProfile>
+		<btnRemExclFlds>
+			<Caption>Hapus</Caption>
+		</btnRemExclFlds>
+		<btnRemExclKeys>
+			<Caption>Hapus</Caption>
+		</btnRemExclKeys>
+		<btnRemIgnChgFs>
+			<Caption>Hapus</Caption>
+		</btnRemIgnChgFs>
+		<btnRemIgnChgReg>
+			<Caption>Hapus</Caption>
+		</btnRemIgnChgReg>
+		<btnRemIgnFile>
+			<Caption>Hapus</Caption>
+		</btnRemIgnFile>
+		<btnRemInclFlds>
+			<Caption>Hapus</Caption>
+		</btnRemInclFlds>
+		<btnRemInclKeys>
+			<Caption>Hapus</Caption>
+		</btnRemInclKeys>
+		<btnRemoveInstallLoc>
+			<Caption>Hapus</Caption>
+		</btnRemoveInstallLoc>
+		<btnRemoveRedo>
+			<Caption>Hapus...</Caption>
+		</btnRemoveRedo>
+		<btnRemProtectedFld>
+			<Caption>Hapus</Caption>
+		</btnRemProtectedFld>
+		<btnRemProtectedKey>
+			<Caption>Hapus</Caption>
+		</btnRemProtectedKey>
+		<btnRemScanProfile>
+			<Caption>Hapus...</Caption>
+		</btnRemScanProfile>
+		<btnRemUninst>
+			<Caption>Hapus...</Caption>
+		</btnRemUninst>
+		<btnRemUninstInst>
+			<Caption>Hapus...</Caption>
+		</btnRemUninstInst>
+		<btnRemValues>
+			<Caption>Hapus</Caption>
+		</btnRemValues>
+		<btnRemVer>
+			<Caption>Hapus</Caption>
+		</btnRemVer>
+		<btnResetAll>
+			<Caption>Kembalikan semua</Caption>
+		</btnResetAll>
+		<btnScanPlaySound>
+			<Caption>Coba</Caption>
+		</btnScanPlaySound>
+		<btnScanSaveAs>
+			<Caption>Simpan sebagai...</Caption>
+		</btnScanSaveAs>
+		<btnUninstSaveAs>
+			<Caption>Simpan sebagai...</Caption>
+		</btnUninstSaveAs>
+		<Caption>Pengaturan</Caption>
+		<cbAnlProfileDefault>
+			<Caption>Terpilih</Caption>
+		</cbAnlProfileDefault>
+		<cbAutoStart>
+			<Caption>Jalan otomatis dengan Windows untuk melanjutkan proses pemantauan yang belum selesai</Caption>
+		</cbAutoStart>
+		<cbBackup>
+			<Caption>Cadangkan program yang dilepaskan</Caption>
+		</cbBackup>
+		<cbChgViewDefault>
+			<Caption>Terpilih</Caption>
+		</cbChgViewDefault>
+		<cbCleanerDefault>
+			<Caption>Terpilih</Caption>
+		</cbCleanerDefault>
+		<cbCleanerEnable>
+			<Caption>Adakan modul Pembersih</Caption>
+		</cbCleanerEnable>
+		<cbClickRestore>
+			<Caption>Kembalikan dengan satu kali klik</Caption>
+		</cbClickRestore>
+		<cbCompareRegistry>
+			<Caption>Bandingkan registri</Caption>
+		</cbCompareRegistry>
+		<cbCompFiles>
+			<Caption>Bandingkan berkas</Caption>
+		</cbCompFiles>
+		<cbCompPlaySound>
+			<Caption>Putar suara saat selesai</Caption>
+		</cbCompPlaySound>
+		<cbCompProfileDefault>
+			<Caption>Terpilih</Caption>
+		</cbCompProfileDefault>
+		<cbCompProfileFrozen>
+			<Caption>Kunci</Caption>
+		</cbCompProfileFrozen>
+		<cbComputeMD5>
+			<Caption>Hitung MD5 untuk berkas baru</Caption>
+		</cbComputeMD5>
+		<cbCreateKeys>
+			<Caption>Buat kunci yang dihapus</Caption>
+		</cbCreateKeys>
+		<cbCreateValues>
+			<Caption>Buat nilai yang dihapus</Caption>
+		</cbCreateValues>
+		<cbCustomSnsName>
+			<Caption>Bolehkan nama rekaman berbeda</Caption>
+		</cbCustomSnsName>
+		<cbDecrement>
+			<Caption>Kurangi penghitung untuk berkas berbagi</Caption>
+		</cbDecrement>
+		<cbDelFiles>
+			<Caption>Hapus berkas yang dibuat (berkas berbagi hanya jika penghitung mencapai 0)</Caption>
+		</cbDelFiles>
+		<cbDelFolders>
+			<Caption>Hapus folder yang dibuat</Caption>
+		</cbDelFolders>
+		<cbDelKeys>
+			<Caption>Hapus kunci yang dibuat</Caption>
+		</cbDelKeys>
+		<cbDelUseRecycle>
+			<Caption>Gunakan Recycle Bin</Caption>
+		</cbDelUseRecycle>
+		<cbDelValues>
+			<Caption>Hapus nilai yang dibuat</Caption>
+		</cbDelValues>
+		<cbDontUseLog>
+			<Caption>Jangan gunakan catatan perubahan terdeteksi</Caption>
+		</cbDontUseLog>
+		<cbEnableAgent>
+			<Caption>Adakan Agen Total Uninstall</Caption>
+		</cbEnableAgent>
+		<cbExtractFileVersion>
+			<Caption>Ekstrak informasi versi berkas</Caption>
+		</cbExtractFileVersion>
+		<cbHexViewerNot64Bit>
+			<Caption>Tidak mengenali 64-bit</Caption>
+		</cbHexViewerNot64Bit>
+		<cbIgnoreMissingItems>
+			<Caption>Abaikan item-item yang hilang</Caption>
+		</cbIgnoreMissingItems>
+		<cbInstPrgsEnable>
+			<Caption>Adakan modul Program terpasang</Caption>
+		</cbInstPrgsEnable>
+		<cbMinToTray>
+			<Caption>Kecilkan ke tray</Caption>
+		</cbMinToTray>
+		<cbMonPrgsEnable>
+			<Caption>Adakan modul Program terpantau</Caption>
+		</cbMonPrgsEnable>
+		<cbRedoCreateFiles>
+			<Caption>Kembalikan berkas yang dibuat</Caption>
+		</cbRedoCreateFiles>
+		<cbRedoCreateFilesOvr>
+			<Caption>Timpa berkas</Caption>
+		</cbRedoCreateFilesOvr>
+		<cbRedoCreateFilesOvrLck>
+			<Caption>Timpa berkas terkunci</Caption>
+		</cbRedoCreateFilesOvrLck>
+		<cbRedoCreateFolders>
+			<Caption>Kembalikan folder yang dibuat</Caption>
+		</cbRedoCreateFolders>
+		<cbRedoCreateKeys>
+			<Caption>Kembalikan kunci yang dibuat</Caption>
+		</cbRedoCreateKeys>
+		<cbRedoCreateValues>
+			<Caption>Kembalikan nilai yang dibuat</Caption>
+		</cbRedoCreateValues>
+		<cbRedoDefault>
+			<Caption>Terpilih</Caption>
+		</cbRedoDefault>
+		<cbRedoDeleteFiles>
+			<Caption>Hapus berkas</Caption>
+		</cbRedoDeleteFiles>
+		<cbRedoDeleteFolders>
+			<Caption>Hapus folder</Caption>
+		</cbRedoDeleteFolders>
+		<cbRedoDeleteKeys>
+			<Caption>Hapus kunci</Caption>
+		</cbRedoDeleteKeys>
+		<cbRedoDeleteValues>
+			<Caption>Hapus nilai</Caption>
+		</cbRedoDeleteValues>
+		<cbRedoEnabled>
+			<Caption>Adakan</Caption>
+		</cbRedoEnabled>
+		<cbRedoModifyFiles>
+			<Caption>Kembalikan berkas yang berubah</Caption>
+		</cbRedoModifyFiles>
+		<cbRedoModifyFilesLck>
+			<Caption>Timpa berkas terkunci</Caption>
+		</cbRedoModifyFilesLck>
+		<cbRedoModifyValues>
+			<Caption>Kembalikan nilai yang berubah</Caption>
+		</cbRedoModifyValues>
+		<cbRedoSysRestore>
+			<Caption>Buat Titik Restorasi Sistem sebelum pengembalian</Caption>
+		</cbRedoSysRestore>
+		<cbRestoreValues>
+			<Caption>Kembalikan nilai yang diubah</Caption>
+		</cbRestoreValues>
+		<cbRstFileCreated>
+			<Caption>Kembalikan tanggal berkas dibuat</Caption>
+		</cbRstFileCreated>
+		<cbScanForAds>
+			<Caption>Pindai untuk Alternate Data Streams</Caption>
+		</cbScanForAds>
+		<cbScanPlaySound>
+			<Caption>Putar suara saat selesai</Caption>
+		</cbScanPlaySound>
+		<cbScanProfileDefault>
+			<Caption>Terpilih</Caption>
+		</cbScanProfileDefault>
+		<cbScanProfileFrozen>
+			<Caption>Kunci</Caption>
+		</cbScanProfileFrozen>
+		<cbShell>
+			<Caption>Integrasikan Total Uninstall ke shell</Caption>
+		</cbShell>
+		<cbShowAfter>
+			<Caption>Kolom sesudah</Caption>
+		</cbShowAfter>
+		<cbShowBefore>
+			<Caption>Kolom sebelum</Caption>
+		</cbShowBefore>
+		<cbShowBinAsText>
+			<Caption>Tampilkan data binari sebagai teks</Caption>
+		</cbShowBinAsText>
+		<cbShowChanged>
+			<Caption>Item diubah</Caption>
+		</cbShowChanged>
+		<cbShowCreated>
+			<Caption>Item dibuat</Caption>
+		</cbShowCreated>
+		<cbShowCurrent>
+			<Caption>Kolom saat ini</Caption>
+		</cbShowCurrent>
+		<cbShowDataSize>
+			<Caption>Ukuran data</Caption>
+		</cbShowDataSize>
+		<cbShowDataType>
+			<Caption>Tipe data</Caption>
+		</cbShowDataType>
+		<cbShowDateCreated>
+			<Caption>Tanggal dibuat</Caption>
+		</cbShowDateCreated>
+		<cbShowDateModified>
+			<Caption>Tanggal diubah</Caption>
+		</cbShowDateModified>
+		<cbShowDeleted>
+			<Caption>Item dihapus</Caption>
+		</cbShowDeleted>
+		<cbShowFileAttrib>
+			<Caption>Atribut berkas</Caption>
+		</cbShowFileAttrib>
+		<cbShowFileSize>
+			<Caption>Ukuran berkas</Caption>
+		</cbShowFileSize>
+		<cbShowFileVersion>
+			<Caption>Versi berkas</Caption>
+		</cbShowFileVersion>
+		<cbShowMD5>
+			<Caption>Hitungan MD5 berkas baru</Caption>
+		</cbShowMD5>
+		<cbSmartAdjustAnalysisLevel>
+			<Caption>Pengatur pintar tingkat analisis</Caption>
+		</cbSmartAdjustAnalysisLevel>
+		<cbSysRestore>
+			<Caption>Buat Titik Restorasi Sistem sebelum pelepasan</Caption>
+		</cbSysRestore>
+		<cbSystemFilesAdditional>
+			<Caption>Analisis tambahan</Caption>
+		</cbSystemFilesAdditional>
+		<cbTxtViewerNot64Bit>
+			<Caption>Tidak mengenali 64-bit</Caption>
+		</cbTxtViewerNot64Bit>
+		<cbUninstDefault>
+			<Caption>Terpilih</Caption>
+		</cbUninstDefault>
+		<cbUninstEnabled>
+			<Caption>Adakan</Caption>
+		</cbUninstEnabled>
+		<cbUseUninstaller>
+			<Caption>Gunakan dahulu pelepas tersedia</Caption>
+		</cbUseUninstaller>
+		<cmbUpdateFrequency>
+			<Items>Harian\nMingguan\nBulanan</Items>
+		</cmbUpdateFrequency>
+		<cmbUpdateMethod>
+			<Items>Manual\nPengingat\nOtomatis</Items>
+		</cmbUpdateMethod>
+		<gbAgentMasks>
+			<Caption>Kostumasi untuk nama berkas program setup</Caption>
+		</gbAgentMasks>
+		<gbClnExcludeFs>
+			<Caption>Abaikan folder dan berkas</Caption>
+		</gbClnExcludeFs>
+		<gbClnExcludeRegistry>
+			<Caption>Abaikan kunci dan nilai registri</Caption>
+		</gbClnExcludeRegistry>
+		<gbCompareIgnChgReg>
+			<Caption>Abaikan item-item yang berubah</Caption>
+		</gbCompareIgnChgReg>
+		<gbCompareIgnKeys>
+			<Caption>Abaikan kunci dan nilai</Caption>
+		</gbCompareIgnKeys>
+		<gbCompIgnChgFs>
+			<Caption>Abaikan item-item yang berubah</Caption>
+		</gbCompIgnChgFs>
+		<gbCompIgnoreFld>
+			<Caption>Abaikan folder dan berkas</Caption>
+		</gbCompIgnoreFld>
+		<gbFileExtensions>
+			<Caption>Ekstensi berkas dengan informasi versi</Caption>
+		</gbFileExtensions>
+		<gbInstallLoc>
+			<Caption>Lokasi pasang</Caption>
+		</gbInstallLoc>
+		<gbInstallLocation>
+			<Caption>Deteksi lokasi pasang</Caption>
+		</gbInstallLocation>
+		<gbLimits>
+			<Caption>Batasan untuk folder rekaman</Caption>
+		</gbLimits>
+		<gbPrgData>
+			<Caption>Deteksi data program</Caption>
+		</gbPrgData>
+		<gbPrgSettings>
+			<Caption>Deteksi pengaturan program</Caption>
+		</gbPrgSettings>
+		<gbPrgShortcuts>
+			<Caption>Deteksi pintasan program</Caption>
+		</gbPrgShortcuts>
+		<gbProtectedFolders>
+			<Caption>Folder dilindungi</Caption>
+		</gbProtectedFolders>
+		<gbProtectedKeys>
+			<Caption>Kunci dilindungi</Caption>
+		</gbProtectedKeys>
+		<gbRegEditor>
+			<Caption>Editor Registri</Caption>
+		</gbRegEditor>
+		<gbRegScanner>
+			<Caption>Pemindai registri</Caption>
+		</gbRegScanner>
+		<gbScanExclFolders>
+			<Caption>Kecualikan folder</Caption>
+		</gbScanExclFolders>
+		<gbScanExclKeys>
+			<Caption>Kecualikan kunci</Caption>
+		</gbScanExclKeys>
+		<gbScanInclFolders>
+			<Caption>Ikutkan folder</Caption>
+		</gbScanInclFolders>
+		<gbScanInclKeys>
+			<Caption>Ikutkan kunci</Caption>
+		</gbScanInclKeys>
+		<gbShellIntegration>
+			<Caption>Deteksi integrasi shell</Caption>
+		</gbShellIntegration>
+		<gbSystemFiles>
+			<Caption>Deteksi berkas sistem</Caption>
+		</gbSystemFiles>
+		<gbTranslation>
+			<Caption>Terjemahan</Caption>
+		</gbTranslation>
+		<grpExistingViewStyle>
+			<Caption>Item yang sudah ada di sistem</Caption>
+		</grpExistingViewStyle>
+		<grpMissingViewStyle>
+			<Caption>Item yang hilang dari sistem</Caption>
+		</grpMissingViewStyle>
+		<lblAdvanced1>
+			<Caption>Lanjutan</Caption>
+		</lblAdvanced1>
+		<lblAdvanced2>
+			<Caption>Lanjutan</Caption>
+		</lblAdvanced2>
+		<lblAdvanced3>
+			<Caption>Lanjutan</Caption>
+		</lblAdvanced3>
+		<lblAdvanced4>
+			<Caption>Lanjutan</Caption>
+		</lblAdvanced4>
+		<lblAdvanced5>
+			<Caption>Lanjutan</Caption>
+		</lblAdvanced5>
+		<lblAdvanced6>
+			<Caption>Lanjutan</Caption>
+		</lblAdvanced6>
+		<lblAgentExcludeMask>
+			<Caption>Kecualikan</Caption>
+		</lblAgentExcludeMask>
+		<lblAgentIncludeMask>
+			<Caption>Ikutkan</Caption>
+		</lblAgentIncludeMask>
+		<lblAnalysisProfiles>
+			<Caption>Profil analisis</Caption>
+		</lblAnalysisProfiles>
+		<lblAnlProfileDesc>
+			<Caption>Deskripsi</Caption>
+		</lblAnlProfileDesc>
+		<lblAnlProfileName>
+			<Caption>Nama</Caption>
+		</lblAnlProfileName>
+		<lblBackupLimiFolderSize>
+			<Caption>Batas folder cadangan (MB)</Caption>
+		</lblBackupLimiFolderSize>
+		<lblChageViewName>
+			<Caption>Nama</Caption>
+		</lblChageViewName>
+		<lblChangeViews>
+			<Caption>Tampilan perubahan</Caption>
+		</lblChangeViews>
+		<lblCheckUpdateMethod>
+			<Caption>Metode periksa pembaruan</Caption>
+		</lblCheckUpdateMethod>
+		<lblCheckUpdatesFrequency>
+			<Caption>Frekuensi</Caption>
+		</lblCheckUpdatesFrequency>
+		<lblCleanerDescription>
+			<Caption>Deskripsi</Caption>
+		</lblCleanerDescription>
+		<lblCleanerName>
+			<Caption>Nama</Caption>
+		</lblCleanerName>
+		<lblCleaners>
+			<Caption>Pembersih</Caption>
+		</lblCleaners>
+		<lblCompareProfileDesc>
+			<Caption>Deskripsi</Caption>
+		</lblCompareProfileDesc>
+		<lblCompareProfileName>
+			<Caption>Nama</Caption>
+		</lblCompareProfileName>
+		<lblFolderSize>
+			<Caption>Ukuran folder (MB)</Caption>
+		</lblFolderSize>
+		<lblHexViewer>
+			<Caption>Penampil Hex</Caption>
+		</lblHexViewer>
+		<lblLanguage>
+			<Caption>Bahasa</Caption>
+		</lblLanguage>
+		<lblNone1>
+			<Caption>Tidak ada</Caption>
+		</lblNone1>
+		<lblNone2>
+			<Caption>Tidak ada</Caption>
+		</lblNone2>
+		<lblNone3>
+			<Caption>Tidak ada</Caption>
+		</lblNone3>
+		<lblNone4>
+			<Caption>Tidak ada</Caption>
+		</lblNone4>
+		<lblNone5>
+			<Caption>Tidak ada</Caption>
+		</lblNone5>
+		<lblNone6>
+			<Caption>Tidak ada</Caption>
+		</lblNone6>
+		<lblProgramDataPath>
+			<Caption>Lokasi data program</Caption>
+		</lblProgramDataPath>
+		<lblRedoDescription>
+			<Caption>Deskripsi</Caption>
+		</lblRedoDescription>
+		<lblRedoName>
+			<Caption>Nama</Caption>
+		</lblRedoName>
+		<lblRedoProfiles>
+			<Caption>Profil pengembalian</Caption>
+		</lblRedoProfiles>
+		<lblScanningProfiles>
+			<Caption>Profil pemindaian</Caption>
+		</lblScanningProfiles>
+		<lblScanProfileDesc>
+			<Caption>Deskripsi</Caption>
+		</lblScanProfileDesc>
+		<lblScanProfileName>
+			<Caption>Nama</Caption>
+		</lblScanProfileName>
+		<lblSimultaneousTasks>
+			<Caption>Tugas bersamaan</Caption>
+		</lblSimultaneousTasks>
+		<lblSnsCompareProfiles>
+			<Caption>Profil pembandingan rekaman</Caption>
+		</lblSnsCompareProfiles>
+		<lblSnsCount>
+			<Caption>Jumlah rekaman</Caption>
+		</lblSnsCount>
+		<lblTranslatedBy1>
+			<Caption>Diterjemahkan oleh Agakhan Asmara</Caption>
+		</lblTranslatedBy1>
+		<lblTranslatedBy2>
+			<Caption>Laman: Tidak ada</Caption>
+		</lblTranslatedBy2>
+		<lblTranslatedBy3>
+			<Caption>Surat elektronik: agakhan_a@yahoo.com</Caption>
+		</lblTranslatedBy3>
+		<lblTxtViewer>
+			<Caption>Penampil teks</Caption>
+		</lblTxtViewer>
+		<lblUninstallProfiles>
+			<Caption>Profil pelepasan</Caption>
+		</lblUninstallProfiles>
+		<lblUninstallProfilesInst>
+			<Caption>Profil pelepasan</Caption>
+		</lblUninstallProfilesInst>
+		<lblUninstDesc>
+			<Caption>Deskripsi</Caption>
+		</lblUninstDesc>
+		<lblUninstName>
+			<Caption>Nama</Caption>
+		</lblUninstName>
+		<lblUninstRemoveLog>
+			<Caption>Hapus program yang telah dilepas dari dari daftar</Caption>
+		</lblUninstRemoveLog>
+		<lblUserInteraction>
+			<Caption>Gunakan dulu interaksi penguna pelepas tersedia</Caption>
+		</lblUserInteraction>
+		<rbDialog>
+			<Caption>Dialog</Caption>
+		</rbDialog>
+		<rbOtherRegEdit>
+			<Caption>Lainnya</Caption>
+		</rbOtherRegEdit>
+		<rbTrayBaloon>
+			<Caption>Balon tray</Caption>
+		</rbTrayBaloon>
+		<rbWinRegEdit>
+			<Caption>Editor registri windows</Caption>
+		</rbWinRegEdit>
+		<rgAgentNotif>
+			<Caption>Pemberitahuan program setup yang sedang berjalan</Caption>
+		</rgAgentNotif>
+		<tabAnlFileSystem>
+			<Caption>Sistem berkas</Caption>
+		</tabAnlFileSystem>
+		<tabAnlGeneral>
+			<Caption>Umum</Caption>
+		</tabAnlGeneral>
+		<tabChageViewFileSystem>
+			<Caption>Sistem berkas</Caption>
+		</tabChageViewFileSystem>
+		<tabChageViewGeneral>
+			<Caption>Umum</Caption>
+		</tabChageViewGeneral>
+		<tabChageViewRegistry>
+			<Caption>Registri</Caption>
+		</tabChageViewRegistry>
+		<tabChageViewView>
+			<Caption>Tampilan</Caption>
+		</tabChageViewView>
+		<tabCleanerFileSystem>
+			<Caption>Sistem berkas</Caption>
+		</tabCleanerFileSystem>
+		<tabCleanerGen>
+			<Caption>Umum</Caption>
+		</tabCleanerGen>
+		<tabCleanerReg>
+			<Caption>Registri</Caption>
+		</tabCleanerReg>
+		<tabCmpProfileFileSys>
+			<Caption>Sistem berkas</Caption>
+		</tabCmpProfileFileSys>
+		<tabCompareProfileGen>
+			<Caption>Umum</Caption>
+		</tabCompareProfileGen>
+		<tabCompareProfileReg>
+			<Caption>Registri</Caption>
+		</tabCompareProfileReg>
+		<tabRedoAdvanced>
+			<Caption>Lanjutan</Caption>
+		</tabRedoAdvanced>
+		<tabRedoFileSystem>
+			<Caption>Sistem berkas</Caption>
+		</tabRedoFileSystem>
+		<tabRedoGeneral>
+			<Caption>Umum</Caption>
+		</tabRedoGeneral>
+		<tabRedoRegistry>
+			<Caption>Registri</Caption>
+		</tabRedoRegistry>
+		<tabScanProfileFolders>
+			<Caption>Sistem berkas</Caption>
+		</tabScanProfileFolders>
+		<tabScanProfileGeneral>
+			<Caption>Umum</Caption>
+		</tabScanProfileGeneral>
+		<tabScanProfileRegistry>
+			<Caption>Registri</Caption>
+		</tabScanProfileRegistry>
+		<tabUninstAdv>
+			<Caption>Lanjutan</Caption>
+		</tabUninstAdv>
+		<tabUninstFS>
+			<Caption>Sistem berkas</Caption>
+		</tabUninstFS>
+		<tabUninstGeneral>
+			<Caption>Umum</Caption>
+		</tabUninstGeneral>
+		<tabUninstRegistry>
+			<Caption>Registri</Caption>
+		</tabUninstRegistry>
+		<tblAnlRegistry>
+			<Caption>Registri</Caption>
+		</tblAnlRegistry>
+	</dlgTUOptions>
+	<dlgUninstall>
+		<btnBringToFront>
+			<Caption>Pindahkan ke depan</Caption>
+		</btnBringToFront>
+		<btnCancel>
+			<Caption>Batal</Caption>
+		</btnCancel>
+		<btnUninstall>
+			<Caption>Lepaskan</Caption>
+		</btnUninstall>
+		<lblCreatingRestorePnt>
+			<Caption>Membuat Titik Restorasi Sistem</Caption>
+		</lblCreatingRestorePnt>
+		<lblProfile>
+			<Caption>Pilih profil pelepasan</Caption>
+		</lblProfile>
+		<lblUninstalling>
+			<Caption>Melepaskan...</Caption>
+		</lblUninstalling>
+		<lblWaitTitle>
+			<Caption>Tunggu program pelepas tersedia selesai</Caption>
+		</lblWaitTitle>
+	</dlgUninstall>
+	<frmInstall>
+		<btnBrowseSetup>
+			<Caption>&amp;Jelajah</Caption>
+		</btnBrowseSetup>
+		<btnCancel>
+			<Caption>Batal</Caption>
+		</btnCancel>
+		<btnCompleteLater>
+			<Caption>&amp;Selesaikan proses pemantauan nanti</Caption>
+		</btnCompleteLater>
+		<btnLaunchSetup>
+			<Caption>&amp;Jalankan program setup</Caption>
+		</btnLaunchSetup>
+		<btnNext>
+			<Caption>Lanjut</Caption>
+		</btnNext>
+		<btnProgramIsInstalled>
+			<Caption>P&amp;rogram telah dipasang</Caption>
+		</btnProgramIsInstalled>
+		<btnSuggest>
+			<Caption>S&amp;arankan</Caption>
+		</btnSuggest>
+		<lblCreateLog>
+			<Caption>Buat catatan pemasangan</Caption>
+		</lblCreateLog>
+		<lblCreateOrSelectSns>
+			<Caption>Sebelum pemasangan buat rekaman baru atau pilih rekaman sistem sebelumnya.</Caption>
+		</lblCreateOrSelectSns>
+		<lblCreatePreInstallSns>
+			<Caption>Buat rekaman sistem pra pemasangan</Caption>
+		</lblCreatePreInstallSns>
+		<lblCreatingLog>
+			<Caption>Membuat catatan pemasangan</Caption>
+		</lblCreatingLog>
+		<lblCreatingSystemSns>
+			<Caption>Membuat rekaman sistem</Caption>
+		</lblCreatingSystemSns>
+		<lblFinish>
+			<Caption>Catatan pemasangan telah dibuat dengan sukses</Caption>
+		</lblFinish>
+		<lblInstallMonProgram>
+			<Caption>Pasang program terpantau</Caption>
+		</lblInstallMonProgram>
+		<lblProfiles>
+			<Caption>&amp;Profil pemantauan</Caption>
+		</lblProfiles>
+		<lblProgramName>
+			<Caption>&amp;Nama program</Caption>
+		</lblProgramName>
+		<lblProgramSetupPath>
+			<Caption>&amp;Lokasi program setup</Caption>
+		</lblProgramSetupPath>
+		<lblSnsName>
+			<Caption>Nama &amp;rekaman</Caption>
+		</lblSnsName>
+		<lblSpecifySnsName>
+			<Caption>&amp;Tentukan nama rekaman pasca pemasangan</Caption>
+		</lblSpecifySnsName>
+		<rbNewSnapshot>
+			<Caption>&amp;Buat rekaman sistem baru (disarankan)</Caption>
+		</rbNewSnapshot>
+		<rbUseLastSnapshot>
+			<Caption>&amp;Gunakan rekaman terakhir</Caption>
+		</rbUseLastSnapshot>
+	</frmInstall>
+	<frmTUMain>
+		<btnClear>
+			<Caption>Bersihkan</Caption>
+		</btnClear>
+		<btnGroupAddChild>
+			<Caption>Tambah kelompok turunan...</Caption>
+		</btnGroupAddChild>
+		<btnGroupAddRoot>
+			<Caption>Tambah kelompok utama...</Caption>
+		</btnGroupAddRoot>
+		<btnGroupEdit>
+			<Caption>Ubah kelompok...</Caption>
+		</btnGroupEdit>
+		<btnGroupMoveToRoot>
+			<Caption>Pindahkan ke depan</Caption>
+		</btnGroupMoveToRoot>
+		<btnGroupRemove>
+			<Caption>Hapus kelompok</Caption>
+		</btnGroupRemove>
+		<btnSearch>
+			<Caption>Mulai</Caption>
+		</btnSearch>
+		<cbBundle>
+			<Caption>Bundel</Caption>
+		</cbBundle>
+		<cbCaseSensitive>
+			<Caption>Perhatikan huruf besar/kecil</Caption>
+		</cbCaseSensitive>
+		<cbChanged>
+			<Caption>Diubah</Caption>
+		</cbChanged>
+		<cbCreated>
+			<Caption>Dibuat</Caption>
+		</cbCreated>
+		<cbData>
+			<Caption>Data</Caption>
+		</cbData>
+		<cbDeleted>
+			<Caption>Dihapus</Caption>
+		</cbDeleted>
+		<cbFiles>
+			<Caption>Berkas</Caption>
+		</cbFiles>
+		<cbFolders>
+			<Caption>Folder</Caption>
+		</cbFolders>
+		<cbKeys>
+			<Caption>Kunci</Caption>
+		</cbKeys>
+		<cbSearchMask>
+			<Caption>Kostumasi pencarian</Caption>
+		</cbSearchMask>
+		<cbUnchanged>
+			<Caption>Tak diubah</Caption>
+		</cbUnchanged>
+		<cbValues>
+			<Caption>Nilai</Caption>
+		</cbValues>
+		<Copy1>
+			<Caption>Salin</Caption>
+			<Hint>Menyalin berkas terpilih ke clipboard</Hint>
+		</Copy1>
+		<Copy2>
+			<Caption>Salin</Caption>
+			<Hint>Menyalin berkas terpilih ke clipboard</Hint>
+		</Copy2>
+		<gbAdvanced>
+			<Caption>Lanjutan</Caption>
+		</gbAdvanced>
+		<gbChanges>
+			<Caption>Item-item</Caption>
+		</gbChanges>
+		<gbFileSystem>
+			<Caption>Sistem berkas</Caption>
+		</gbFileSystem>
+		<gbRegistry>
+			<Caption>Registri</Caption>
+		</gbRegistry>
+		<gbScope>
+			<Caption>Cari di</Caption>
+		</gbScope>
+		<miAddtoCompareIgnoreList>
+			<Caption>Tambahkan ke daftar pengabaian pembandingan</Caption>
+			<Hint>Menambahkan item terpilih ke daftar pengabaian untuk semua profil pembandingan</Hint>
+		</miAddtoCompareIgnoreList>
+		<miAddtoScanExcludeList>
+			<Caption>Tambahkan ke daftar pengecualian pemindaian</Caption>
+			<Hint>Menambahkan item terpilih ke daftar pengecualian untuk semua profil pembandingan</Hint>
+		</miAddtoScanExcludeList>
+		<miAppSendTo>
+			<Caption>Kirim Ke Kelompok</Caption>
+		</miAppSendTo>
+		<miAutorunManager>
+			<Caption>Pengelola Auto-run</Caption>
+		</miAutorunManager>
+		<miChanges>
+			<Caption>Perubahan</Caption>
+			<Hint>Perubahan terdeteksi|Menampilkan perubahan sistem terdeteksi yang dibuat oleh program saat ini</Hint>
+		</miChanges>
+		<miCleaner>
+			<Caption>Pembersih</Caption>
+			<Hint>Pembersih</Hint>
+		</miCleaner>
+		<miClnItems>
+			<Caption>Item-item</Caption>
+		</miClnItems>
+		<miClnSummary>
+			<Caption>Ringkasan</Caption>
+			<Hint>Ringkasan|Menampilkan ringkasan informasi mengenai item-item yang bisa dibuang</Hint>
+		</miClnSummary>
+		<miCollapse>
+			<Caption>Tutup</Caption>
+			<Hint>Tutup noda bagan aktif</Hint>
+		</miCollapse>
+		<miCopyDetail>
+			<Caption>Salin</Caption>
+		</miCopyDetail>
+		<miDeleteCompletely>
+			<Caption>Hapus seutuhnya</Caption>
+			<Hint>Menghapus item terpilih dari catatan dan sistem</Hint>
+		</miDeleteCompletely>
+		<miDeletefromSystemOnly>
+			<Caption>Hapus item hanya dari sistem</Caption>
+			<Hint>Menghapus item terpilih hanya dari sistem</Hint>
+		</miDeletefromSystemOnly>
+		<miEdit>
+			<Caption>&amp;Ubah</Caption>
+		</miEdit>
+		<miEditAutorunLocateEntry>
+			<Caption>Temukan entri Auto-run</Caption>
+		</miEditAutorunLocateEntry>
+		<miEditAutorunLocateTarget>
+			<Caption>Temukan target</Caption>
+		</miEditAutorunLocateTarget>
+		<miEditAutorunRun>
+			<Caption>Jalankan</Caption>
+		</miEditAutorunRun>
+		<miEditAutorunStop>
+			<Caption>Hentikan</Caption>
+		</miEditAutorunStop>
+		<miEditAutorunTargetProperties>
+			<Caption>Properti target</Caption>
+		</miEditAutorunTargetProperties>
+		<miEditRedo>
+			<Caption>Ulangi</Caption>
+			<Hint>Mengulangi perubahan terpilih dalam sistem</Hint>
+		</miEditRedo>
+		<miEditRedoDepth>
+			<Caption>Ulangi mendalam</Caption>
+			<Hint>Mengulangi secara mendalam perubahan terpilih dalam sistem</Hint>
+		</miEditRedoDepth>
+		<miEditRestoreFromBackup>
+			<Caption>Kembalikan dari cadangan</Caption>
+			<Hint>Mengembalikan berkas, folder dan sub-folder terpilih dari cadangan</Hint>
+		</miEditRestoreFromBackup>
+		<miEditUndo>
+			<Caption>Batalkan</Caption>
+			<Hint>Membatalkan perubahan terpilih dari sistem</Hint>
+		</miEditUndo>
+		<miEditUndoDepth>
+			<Caption>Batalkan mendalam</Caption>
+			<Hint>Membatalkan secara mendalam perubahan terpilih dari sistem</Hint>
+		</miEditUndoDepth>
+		<miExpand>
+			<Caption>Buka</Caption>
+			<Hint>Buka noda bagan aktif</Hint>
+		</miExpand>
+		<miExpChanges>
+			<Caption>Perubahan...</Caption>
+			<Hint>Mengekspor bagan perubahan</Hint>
+		</miExpChanges>
+		<miExpInstalledApps>
+			<Caption>Program terpasang...</Caption>
+			<Hint>Mengekspor daftar program terpasang</Hint>
+		</miExpInstalledApps>
+		<miExpMonitoredApps>
+			<Caption>Program terpantau...</Caption>
+			<Hint>Mengekspor daftar program terpantau</Hint>
+		</miExpMonitoredApps>
+		<miExport>
+			<Caption>Ekspor</Caption>
+		</miExport>
+		<miExpRegistry>
+			<Caption>Perubahan registri...</Caption>
+			<Hint>Mengekspor perubahan registri untuk pemasangan atau pelepasan</Hint>
+		</miExpRegistry>
+		<miExpUninstallLog>
+			<Caption>Catatan pelepasan...</Caption>
+			<Hint>Mengekspor catatan pelepasan</Hint>
+		</miExpUninstallLog>
+		<miFile>
+			<Caption>&amp;Berkas</Caption>
+		</miFile>
+		<miFileAddInstalledPrg>
+			<Caption>Tambahkan program ke daftar...</Caption>
+		</miFileAddInstalledPrg>
+		<miFileAnalyze>
+			<Caption>Analisa</Caption>
+			<Hint>Analisa|Menganalisa perubahan sistem yang dibuat oleh program saat ini</Hint>
+		</miFileAnalyze>
+		<miFileAutorunAdd>
+			<Caption>Tambah</Caption>
+		</miFileAutorunAdd>
+		<miFileAutorunDelete>
+			<Caption>Hapus</Caption>
+		</miFileAutorunDelete>
+		<miFileChange>
+			<Caption>Ubah</Caption>
+			<Hint>Memperbaiki, mengubah atau melepas</Hint>
+		</miFileChange>
+		<miFileChangeIcon>
+			<Caption>Ubah ikon...</Caption>
+		</miFileChangeIcon>
+		<miFileClnClean>
+			<Caption>Bersihkan</Caption>
+			<Hint>Bersihkan</Hint>
+		</miFileClnClean>
+		<miFileClnScan>
+			<Caption>Pindai</Caption>
+			<Hint>Pindai|Pindai untuk item yang dapat dibuang</Hint>
+		</miFileClnScan>
+		<miFileCreateBackup>
+			<Caption>Buat cadangan untuk program...</Caption>
+		</miFileCreateBackup>
+		<miFileDelete>
+			<Caption>Hapus</Caption>
+			<Hint>Menghapus catatan pemasangan saat ini</Hint>
+		</miFileDelete>
+		<miFileEditProgram>
+			<Caption>Ubah program...</Caption>
+		</miFileEditProgram>
+		<miFileExit>
+			<Caption>Keluar</Caption>
+			<Hint>Keluar dari program</Hint>
+		</miFileExit>
+		<miFileGroupAddChild>
+			<Caption>Tambah kelompok turunan...</Caption>
+		</miFileGroupAddChild>
+		<miFileGroupAddRoot>
+			<Caption>Tambah kelompok utama...</Caption>
+		</miFileGroupAddRoot>
+		<miFileGroupEdit>
+			<Caption>Ubah kelompok...</Caption>
+		</miFileGroupEdit>
+		<miFileGroupMoveToRoot>
+			<Caption>Pindahkan ke depan</Caption>
+		</miFileGroupMoveToRoot>
+		<miFileGroupRemove>
+			<Caption>Hapus kelompok</Caption>
+		</miFileGroupRemove>
+		<miFileInstall>
+			<Caption>Pasang baru...</Caption>
+			<Hint>Memantau pemasangan dari program baru</Hint>
+		</miFileInstall>
+		<miFileInstallUpdate>
+			<Caption>Pasang pembaruan...</Caption>
+			<Hint>Pasang pembaruan|Memantau pemasangan dari pembaruan untuk program saat ini</Hint>
+		</miFileInstallUpdate>
+		<miFileNotes>
+			<Caption>Keterangan</Caption>
+			<Hint>Menambahkan keterangan ke catatan pemasangan saat ini</Hint>
+		</miFileNotes>
+		<miFilePrint>
+			<Caption>Cetak</Caption>
+		</miFilePrint>
+		<miFileReload>
+			<Caption>Isi kembali</Caption>
+		</miFileReload>
+		<miFileRemoveInstalledPrg>
+			<Caption>Hapus program dari daftar</Caption>
+		</miFileRemoveInstalledPrg>
+		<miFileRename>
+			<Caption>Ganti-nama...</Caption>
+			<Hint>Mengganti-nama catatan pemasangan saat ini</Hint>
+		</miFileRename>
+		<miFileRestoreBackup>
+			<Caption>Kembalikan program dari cadangan...</Caption>
+		</miFileRestoreBackup>
+		<miFileSave>
+			<Caption>Simpan</Caption>
+			<Hint>Menyimpan perubahan dari catatan pemasangan saat ini</Hint>
+		</miFileSave>
+		<miFileSaveAs>
+			<Caption>Simpan sebagai...</Caption>
+		</miFileSaveAs>
+		<miFileSendTo>
+			<Caption>Kirim ke kelompok</Caption>
+		</miFileSendTo>
+		<miFileUndoRestoration>
+			<Caption>Batalkan pengembalian...</Caption>
+		</miFileUndoRestoration>
+		<miFileUninstall>
+			<Caption>Lepaskan...</Caption>
+		</miFileUninstall>
+		<miHelp>
+			<Caption>&amp;Bantuan</Caption>
+		</miHelp>
+		<miHelpAbout>
+			<Caption>Tentang...</Caption>
+			<Hint>Menampilkan informasi program, nomor versi dan hak cipta</Hint>
+		</miHelpAbout>
+		<miHelpCheckForUpdates>
+			<Caption>Periksa untuk pembaruan...</Caption>
+			<Hint>Memeriksa situs web pencipta&apos;s untuk pembaruan produk</Hint>
+		</miHelpCheckForUpdates>
+		<miHelpContents>
+			<Caption>Isi</Caption>
+			<Hint>Menampilkan isi dari halaman bantuan</Hint>
+		</miHelpContents>
+		<miHelpHomePage>
+			<Caption>Laman</Caption>
+		</miHelpHomePage>
+		<miHelpPurchase>
+			<Caption>Pembelian</Caption>
+		</miHelpPurchase>
+		<miHelpRegister>
+			<Caption>Daftar...</Caption>
+			<Hint>Mendaftarkan program Total Uninstall</Hint>
+		</miHelpRegister>
+		<miHexView>
+			<Caption>Tampilan hex</Caption>
+			<Hint>Membuka berkas di pengubah hex</Hint>
+		</miHexView>
+		<miImport>
+			<Caption>Impor</Caption>
+		</miImport>
+		<miInstalledPrograms>
+			<Caption>Program terpasang</Caption>
+			<Hint>Program terpasang|Beralih ke Program terpasang</Hint>
+		</miInstalledPrograms>
+		<miList>
+			<Caption>Daftar</Caption>
+		</miList>
+		<miListGroupNotes>
+			<Caption>Keterangan kelompok</Caption>
+		</miListGroupNotes>
+		<miListLargeIcons>
+			<Caption>Ikon besar</Caption>
+		</miListLargeIcons>
+		<miListProgramNotes>
+			<Caption>Keterangan program</Caption>
+		</miListProgramNotes>
+		<miListSmallIcons>
+			<Caption>Ikon kecil</Caption>
+		</miListSmallIcons>
+		<miModules>
+			<Caption>&amp;Modul</Caption>
+		</miModules>
+		<miMonAppsGroupAddChild>
+			<Caption>Tambah kelompok turunan...</Caption>
+		</miMonAppsGroupAddChild>
+		<miMonAppsGroupAddRoot>
+			<Caption>Tambah kelompok utama...</Caption>
+		</miMonAppsGroupAddRoot>
+		<miMonAppsGroupEdit>
+			<Caption>Ubah kelompok...</Caption>
+		</miMonAppsGroupEdit>
+		<miMonAppsGroupMoveToRoot>
+			<Caption>Pindahkan ke depan</Caption>
+		</miMonAppsGroupMoveToRoot>
+		<miMonAppsGroupRemove>
+			<Caption>Hapus kelompok</Caption>
+		</miMonAppsGroupRemove>
+		<miMonitoredPrograms>
+			<Caption>Program terpantau</Caption>
+			<Hint>Program terpantau|Beralih ke Program terpantau</Hint>
+		</miMonitoredPrograms>
+		<miOpen>
+			<Caption>Buka</Caption>
+			<Hint>Membuka berkas, folder atau melompat ke kunci di Editor Registri</Hint>
+		</miOpen>
+		<miPendingFileRenameOp>
+			<Caption>Operasi ganti-nama berkas tertunda...</Caption>
+			<Hint>Menampilkan dan melakukan operasi ganti-nama berkas tertunda</Hint>
+		</miPendingFileRenameOp>
+		<miPrgAddInstalledPrg>
+			<Caption>Tambahkan program ke daftar...</Caption>
+		</miPrgAddInstalledPrg>
+		<miPrgAnalyze>
+			<Caption>&amp;Analisa</Caption>
+			<Hint>Analisa|Menganalisa perubahan sistem yang dibuat oleh program saat ini</Hint>
+		</miPrgAnalyze>
+		<miPrgChangeIcon>
+			<Caption>Ubah ikon...</Caption>
+		</miPrgChangeIcon>
+		<miPrgDelete>
+			<Caption>Hapus</Caption>
+			<Hint>Menghapus catatan pemasangan saat ini</Hint>
+		</miPrgDelete>
+		<miPrgEditInstalledPrg>
+			<Caption>Ubah program...</Caption>
+		</miPrgEditInstalledPrg>
+		<miPrgNotes>
+			<Caption>Keterangan</Caption>
+			<Hint>Menambahkan keterangan ke catatan pemasangan saat ini</Hint>
+		</miPrgNotes>
+		<miPrgRemoveInstalledPrg>
+			<Caption>Hapus program dari daftar</Caption>
+		</miPrgRemoveInstalledPrg>
+		<miPrgRename>
+			<Caption>Ganti-nama...</Caption>
+			<Hint>Mengganti-nama catatan pemasangan saat ini</Hint>
+		</miPrgRename>
+		<miPrintChanges>
+			<Caption>Perubahan...</Caption>
+			<Hint>Mencetak bagan perubahan</Hint>
+		</miPrintChanges>
+		<miPrintInstalledPrograms>
+			<Caption>Program terpasang...</Caption>
+		</miPrintInstalledPrograms>
+		<miPrintMonitoredPrograms>
+			<Caption>Program terpantau...</Caption>
+		</miPrintMonitoredPrograms>
+		<miProperties>
+			<Caption>Properti</Caption>
+			<Hint>Menampilkan properti dari berkas atau folder terpilih</Hint>
+		</miProperties>
+		<miRemovefromLog>
+			<Caption>Hapus dari catatan</Caption>
+			<Hint>Menghapus item terpilih dari catatan</Hint>
+		</miRemovefromLog>
+		<miSnsTreeOpen>
+			<Caption>Buka</Caption>
+		</miSnsTreeOpen>
+		<miSummary>
+			<Caption>Ringkasan</Caption>
+			<Hint>Ringkasan|Menampilkan ringkasan informasi mengenai program saat ini</Hint>
+		</miSummary>
+		<miTextView>
+			<Caption>Tampilan teks</Caption>
+			<Hint>Membuka berkas di pengubah teks</Hint>
+		</miTextView>
+		<miToolbarLarge>
+			<Caption>Besar</Caption>
+		</miToolbarLarge>
+		<miToolbarMedium>
+			<Caption>Sedang</Caption>
+		</miToolbarMedium>
+		<miToolbarSmall>
+			<Caption>Kecil</Caption>
+		</miToolbarSmall>
+		<miTools>
+			<Caption>&amp;Peralatan</Caption>
+		</miTools>
+		<miToolsCompareSnapshots>
+			<Caption>Bandingkan rekaman sistem</Caption>
+		</miToolsCompareSnapshots>
+		<miToolsFind>
+			<Caption>Cari</Caption>
+			<Hint>Cari|Mencari teks di dalam perubahan terdeteksi</Hint>
+		</miToolsFind>
+		<miToolsMergeLogs>
+			<Caption>Gabungkan catatan...</Caption>
+		</miToolsMergeLogs>
+		<miToolsOptions>
+			<Caption>Pengaturan...</Caption>
+			<Hint>Mengkonfigurasi pengaturan perangkat lunak</Hint>
+		</miToolsOptions>
+		<miToolsSystemRestore>
+			<Caption>Restorasi sistem</Caption>
+		</miToolsSystemRestore>
+		<miULogSuccessful>
+			<Caption>Tindakan yang sukses</Caption>
+			<Hint>Menampilkan atau menyembunyikan tindakan sukses dari catatan pelepasan</Hint>
+		</miULogSuccessful>
+		<miULogWarnings>
+			<Caption>Peringatan</Caption>
+			<Hint>Menampilkan atau menyembunyikan peringatan dari catatan pelepasan</Hint>
+		</miULogWarnings>
+		<miUninstallLog>
+			<Caption>Catatan pelepasan</Caption>
+			<Hint>Catatan pelepasan|Menampilkan catatan pelepasan program</Hint>
+		</miUninstallLog>
+		<miUninstallLogDet>
+			<Caption>Rincian catatan pelepasan</Caption>
+		</miUninstallLogDet>
+		<miView>
+			<Caption>&amp;Tampilan</Caption>
+		</miView>
+		<miViewAutoGroupPrograms>
+			<Caption>Kelompokkan Program</Caption>
+		</miViewAutoGroupPrograms>
+		<miViewBundle>
+			<Caption>Bundel</Caption>
+		</miViewBundle>
+		<miViewColorScheme>
+			<Caption>Skema warna</Caption>
+		</miViewColorScheme>
+		<miViewDetails>
+			<Caption>Rincian</Caption>
+			<Hint>Rincian program|Menampilkan atau menyembunyikan rincian program</Hint>
+		</miViewDetails>
+		<miViewItemCurrentView>
+			<Caption>Tampilan saat ini</Caption>
+		</miViewItemCurrentView>
+		<miViewItemDetails>
+			<Caption>Rincian item</Caption>
+			<Hint>Menampilkan atau menyembunyikan rincian node terpilih dari bagan perubahan</Hint>
+		</miViewItemDetails>
+		<miViewNavigator>
+			<Caption>Program</Caption>
+			<Hint>Daftar program|Menampilkan atau menyembunyikan daftar program</Hint>
+		</miViewNavigator>
+		<miViewRefresh>
+			<Caption>Perbarui</Caption>
+		</miViewRefresh>
+		<miViewStatusBar>
+			<Caption>Batang status</Caption>
+			<Hint>Menampilkan atau menyembunyikan batang status</Hint>
+		</miViewStatusBar>
+		<miViewSystemComponents>
+			<Caption>Tampilkan komponen sistem</Caption>
+		</miViewSystemComponents>
+		<miViewToolbars>
+			<Caption>Toolbar</Caption>
+		</miViewToolbars>
+		<miViewToolbarsBtnCaption>
+			<Caption>Keterangan tombol</Caption>
+			<Hint>Menampilkan atau menyembunyikan keterangan tombol</Hint>
+		</miViewToolbarsBtnCaption>
+		<miViewToolbarsBtnSize>
+			<Caption>Ukuran tombol</Caption>
+		</miViewToolbarsBtnSize>
+		<miViewToolbarsBtnWordWrap>
+			<Caption>Pelipatan kata keterangan tombol</Caption>
+		</miViewToolbarsBtnWordWrap>
+		<miViewToolbarsTbrCaption>
+			<Caption>Keterangan toolbar</Caption>
+			<Hint>Menampilkan atau menyembunyikan keterangan toolbar</Hint>
+		</miViewToolbarsTbrCaption>
+		<miViewToolbarsVisible>
+			<Caption>Terlihat</Caption>
+			<Hint>Menampilkan atau menyembunyikan toolbar</Hint>
+		</miViewToolbarsVisible>
+		<pmiAutorunAdd>
+			<Caption>Tambah</Caption>
+		</pmiAutorunAdd>
+		<pmiAutorunDelete>
+			<Caption>Hapus</Caption>
+		</pmiAutorunDelete>
+		<pmiAutorunLocateEntry>
+			<Caption>Temukan entri Auto-run</Caption>
+		</pmiAutorunLocateEntry>
+		<pmiAutorunLocateTarget>
+			<Caption>Temukan target</Caption>
+		</pmiAutorunLocateTarget>
+		<pmiAutorunRun>
+			<Caption>Jalankan</Caption>
+		</pmiAutorunRun>
+		<pmiAutorunStop>
+			<Caption>Hentikan</Caption>
+		</pmiAutorunStop>
+		<pmiAutorunTargetProperties>
+			<Caption>Properti target</Caption>
+		</pmiAutorunTargetProperties>
+		<pmiChgTreeCompareExcl>
+			<Caption>Tambahkan ke daftar pengabaian pembandingan</Caption>
+			<Hint>Menambahkan item terpilih ke daftar pengabaian untuk semua profil pembandingan</Hint>
+		</pmiChgTreeCompareExcl>
+		<pmiChgTreeDelete>
+			<Caption>Hapus seutuhnya</Caption>
+			<Hint>Menghapus item terpilih dari catatan dan dari sistem</Hint>
+		</pmiChgTreeDelete>
+		<pmiChgTreeDelSys>
+			<Caption>Hapus item hanya dari sistem</Caption>
+			<Hint>Menghapus item terpilih hanya dari sistem</Hint>
+		</pmiChgTreeDelSys>
+		<pmiChgTreeHexView>
+			<Caption>Tampilan hex</Caption>
+			<Hint>Membuka berkas di pengubah hex</Hint>
+		</pmiChgTreeHexView>
+		<pmiChgTreeOpen>
+			<Caption>Buka</Caption>
+			<Hint>Membuka berkas, folder atau melompat ke kunci di Editor Registri</Hint>
+		</pmiChgTreeOpen>
+		<pmiChgTreeProperties>
+			<Caption>Properti</Caption>
+			<Hint>Menampilkan properti dari berkas atau folder terpilih</Hint>
+		</pmiChgTreeProperties>
+		<pmiChgTreeRedo>
+			<Caption>Ulangi</Caption>
+			<Hint>Mengulangi perubahan terpilih dalam sistem</Hint>
+		</pmiChgTreeRedo>
+		<pmiChgTreeRedoDepth>
+			<Caption>Ulangi mendalam</Caption>
+			<Hint>Mengulangi secara mendalam perubahan terpilih dalam sistem</Hint>
+		</pmiChgTreeRedoDepth>
+		<pmiChgTreeRemove>
+			<Caption>Hapus dari catatan</Caption>
+			<Hint>Menghapus item terpilih dari catatan</Hint>
+		</pmiChgTreeRemove>
+		<pmiChgTreeRestoreFromBackup>
+			<Caption>Kembalikan dari cadangan</Caption>
+			<Hint>Mengembalikan berkas, folder dan sub-folder terpilih dari cadangan</Hint>
+		</pmiChgTreeRestoreFromBackup>
+		<pmiChgTreeScanExcl>
+			<Caption>Tambahkan ke daftar pengecualian pemindaian</Caption>
+			<Hint>Menambahkan item terpilih ke daftar pengecualian untuk semua profil pembandingan</Hint>
+		</pmiChgTreeScanExcl>
+		<pmiChgTreeTextView>
+			<Caption>Tampilan teks</Caption>
+			<Hint>Membuka berkas di pengubah teks</Hint>
+		</pmiChgTreeTextView>
+		<pmiChgTreeUndo>
+			<Caption>Batalkan</Caption>
+			<Hint>Membatalkan perubahan terpilih dari sistem</Hint>
+		</pmiChgTreeUndo>
+		<pmiChgTreeUndoDepth>
+			<Caption>Batalkan mendalam</Caption>
+			<Hint>Membatalkan secara mendalam perubahan terpilih dari sistem</Hint>
+		</pmiChgTreeUndoDepth>
+		<pmiClnExclude>
+			<Caption>Abaikan</Caption>
+		</pmiClnExclude>
+		<pmiClnSelectBranch>
+			<Caption>Pilih cabang</Caption>
+		</pmiClnSelectBranch>
+		<pmiClnUnselectBranch>
+			<Caption>Tak pilih cabang</Caption>
+		</pmiClnUnselectBranch>
+		<pmiCopySummary>
+			<Caption>Salin</Caption>
+		</pmiCopySummary>
+		<pmiInstAppsHeaderAutoResize>
+			<Caption>Ubah ukuran otomatis</Caption>
+		</pmiInstAppsHeaderAutoResize>
+		<pmiLocate>
+			<Caption>Temukan</Caption>
+		</pmiLocate>
+		<pmiMonAppsHeaderAutoResize>
+			<Caption>Ubah ukuran otomatis</Caption>
+		</pmiMonAppsHeaderAutoResize>
+		<pmiShowSuccessful>
+			<Caption>Tindakan yang sukses</Caption>
+			<Hint>Menampilkan atau menyembunyikan tindakan sukses dari catatan pelepasan</Hint>
+		</pmiShowSuccessful>
+		<pmiShowWarnings>
+			<Caption>Peringatan</Caption>
+			<Hint>Menampilkan atau menyembunyikan peringatan dari catatan pelepasan</Hint>
+		</pmiShowWarnings>
+		<pmiTrayRestore>
+			<Caption>Kembalikan</Caption>
+		</pmiTrayRestore>
+		<rbAll>
+			<Caption>Semua program</Caption>
+		</rbAll>
+		<rbSelection>
+			<Caption>Pilihan</Caption>
+		</rbSelection>
+		<sbAppClose>
+			<Hint>Tutup|Menutup</Hint>
+		</sbAppClose>
+		<sbDetailsClose>
+			<Hint>Tutup|Menutup</Hint>
+		</sbDetailsClose>
+		<sbSearchClose>
+			<Hint>Tutup|Menutup</Hint>
+		</sbSearchClose>
+		<tabOptions>
+			<Caption>Pengaturan</Caption>
+		</tabOptions>
+		<tabResults>
+			<Caption>Hasil</Caption>
+		</tabResults>
+		<tbrActions>
+			<Caption>Tindakan</Caption>
+		</tbrActions>
+		<tbrDetails>
+			<Caption>Rincian</Caption>
+		</tbrDetails>
+		<tbrLayout>
+			<Caption>Susunan</Caption>
+		</tbrLayout>
+		<tbrModules>
+			<Caption>Modul</Caption>
+		</tbrModules>
+		<tbrView>
+			<Caption>Tampilan</Caption>
+		</tbrView>
+		<tbtnAnalyze>
+			<Caption>Analisa</Caption>
+			<Hint>Analisa|Menganalisa perubahan sistem yang dibuat oleh program saat ini</Hint>
+		</tbtnAnalyze>
+		<tbtnArAdd>
+			<Caption>Tambah</Caption>
+		</tbtnArAdd>
+		<tbtnArDelete>
+			<Caption>Hapus</Caption>
+		</tbtnArDelete>
+		<tbtnArRun>
+			<Caption>Jalankan</Caption>
+		</tbtnArRun>
+		<tbtnArStop>
+			<Caption>Hentikan</Caption>
+		</tbtnArStop>
+		<tbtnAutorunMgr>
+			<Caption>Pengelola Auto-run</Caption>
+		</tbtnAutorunMgr>
+		<tbtnChanges>
+			<Caption>Perubahan</Caption>
+			<Hint>Perubahan terdeteksi|Menampilkan perubahan sistem terdeteksi yang dibuat oleh program saat ini</Hint>
+		</tbtnChanges>
+		<tbtnChgView>
+			<Caption>Tampilkan</Caption>
+			<Hint>Tampilkan|Melakukan perubahan tampilan yang ditentukan</Hint>
+		</tbtnChgView>
+		<tbtnCleaner>
+			<Caption>Pembersih</Caption>
+			<Hint>Pembersih</Hint>
+		</tbtnCleaner>
+		<tbtnClnClean>
+			<Caption>Bersihkan</Caption>
+			<Hint>Bersihkan</Hint>
+		</tbtnClnClean>
+		<tbtnClnItems>
+			<Caption>Item-item</Caption>
+		</tbtnClnItems>
+		<tbtnClnScan>
+			<Caption>Pindai</Caption>
+			<Hint>Pindai|Pindai untuk item yang dapat dibuang</Hint>
+		</tbtnClnScan>
+		<tbtnClnSummary>
+			<Caption>Ringkasan</Caption>
+			<Hint>Ringkasan|Menampilkan ringkasan informasi mengenai item-item yang bisa dibuang</Hint>
+		</tbtnClnSummary>
+		<tbtnCollapse>
+			<Caption>Tutup</Caption>
+			<Hint>Tutup noda bagan aktif</Hint>
+		</tbtnCollapse>
+		<tbtnDetails>
+			<Caption>Rincian</Caption>
+			<Hint>Rincian program|Menampilkan atau menyembunyikan rincian program</Hint>
+		</tbtnDetails>
+		<tbtnExpand>
+			<Caption>Buka</Caption>
+			<Hint>Buka noda bagan aktif</Hint>
+		</tbtnExpand>
+		<tbtnInstallModify>
+			<Caption>Ubah</Caption>
+			<Hint>Memperbaiki, mengubah atau melepas</Hint>
+		</tbtnInstallModify>
+		<tbtnInstallNew>
+			<Caption>Pasang</Caption>
+			<Hint>Pasang baru|Memantau pemasangan dari program baru</Hint>
+		</tbtnInstallNew>
+		<tbtnInstallUpdate>
+			<Caption>Pembaruan</Caption>
+			<Hint>Pasang pembaruan|Memantau pemasangan dari pembaruan untuk program saat ini</Hint>
+		</tbtnInstallUpdate>
+		<tbtnInstPrograms>
+			<Caption>Program terpasang</Caption>
+			<Hint>Program terpasang|Beralih ke Program terpasang</Hint>
+		</tbtnInstPrograms>
+		<tbtnMonPrograms>
+			<Caption>Program terpantau</Caption>
+			<Hint>Program terpantau|Beralih ke Program terpantau</Hint>
+		</tbtnMonPrograms>
+		<tbtnPrograms>
+			<Caption>Program</Caption>
+			<Hint>Daftar program|Menampilkan atau menyembunyikan daftar program</Hint>
+		</tbtnPrograms>
+		<tbtnSave>
+			<Caption>Simpan</Caption>
+			<Hint>Menyimpan perubahan dari catatan pemasangan saat ini</Hint>
+		</tbtnSave>
+		<tbtnSearch>
+			<Caption>Cari</Caption>
+			<Hint>Cari|Mencari teks di dalam perubahan terdeteksi</Hint>
+		</tbtnSearch>
+		<tbtnShowSnapshot>
+			<Caption>Tampilkan rekaman</Caption>
+		</tbtnShowSnapshot>
+		<tbtnSummary>
+			<Caption>Ringkasan</Caption>
+			<Hint>Ringkasan|Menampilkan ringkasan informasi mengenai program saat ini</Hint>
+		</tbtnSummary>
+		<tbtnUninstall>
+			<Caption>Lepaskan</Caption>
+		</tbtnUninstall>
+		<tbtnUninstallLog>
+			<Caption>Catatan pelepasan</Caption>
+			<Hint>Catatan pelepasan|Menampilkan catatan pelepasan program</Hint>
+		</tbtnUninstallLog>
+		<tpnlSearch>
+			<Caption>Cari</Caption>
+		</tpnlSearch>
+		<tvAutorunItems>
+			<Columns_0>Nama</Columns_0>
+			<Columns_1>Seksi</Columns_1>
+			<Columns_2>Status</Columns_2>
+			<Columns_3>Deskripsi</Columns_3>
+			<Columns_4>Penerbit</Columns_4>
+			<Columns_5>Perintah</Columns_5>
+		</tvAutorunItems>
+		<tvChanges>
+			<Columns_0>Perubahan terdeteksi</Columns_0>
+			<Columns_1>Sebelum</Columns_1>
+			<Columns_2>Sesudah</Columns_2>
+			<Columns_3>Saat ini</Columns_3>
+		</tvChanges>
+		<tvClnItems>
+			<Columns_0>Item-item</Columns_0>
+			<Columns_1>Properti</Columns_1>
+		</tvClnItems>
+		<tvResults>
+			<Columns_0>Nama</Columns_0>
+			<Columns_1>Lokasi</Columns_1>
+			<Columns_2>Program</Columns_2>
+		</tvResults>
+	</frmTUMain>
+	<RESOURCESTRING>
+		<ACCESS_DENIED_X>Akses ditolak: %s</ACCESS_DENIED_X>
+		<ACT_CRE_KEY>Buat kunci registri: %s</ACT_CRE_KEY>
+		<ACT_CRE_VAL>Buat nilai registri: %s</ACT_CRE_VAL>
+		<ACT_DEC_CNT>Kurangi penghitung berkas berbagi dari registri: %s</ACT_DEC_CNT>
+		<ACT_DEL_ADS>Hapus alternate data stream: %s</ACT_DEL_ADS>
+		<ACT_DEL_FILE>Hapus berkas: %s</ACT_DEL_FILE>
+		<ACT_DEL_FOLDER>Hapus folder: %s</ACT_DEL_FOLDER>
+		<ACT_DEL_KEY>Hapus kunci registri: %s</ACT_DEL_KEY>
+		<ACT_DEL_SERVICE>Hapus Service atau Device: %s</ACT_DEL_SERVICE>
+		<ACT_DEL_VAL>Hapus nilai registri: %s</ACT_DEL_VAL>
+		<ACT_RST_FILE>Kembalikan properti berkas: %s</ACT_RST_FILE>
+		<ACT_RST_VAL>Kembalikan nilai registri: %s</ACT_RST_VAL>
+		<ACT_STOP_SERVICE>Hentikan Service atau Device: %s</ACT_STOP_SERVICE>
+		<ADD>Tambah</ADD>
+		<ADVANCED>Lanjutan</ADVANCED>
+		<AGENT>Agen</AGENT>
+		<ALL>Semua</ALL>
+		<ALL_BRA>(Semua)</ALL_BRA>
+		<ALL_DETAILS>Semua rincian</ALL_DETAILS>
+		<ALWAYS>Selalu</ALWAYS>
+		<ANALYSIS_PROFILE>Profil analisis</ANALYSIS_PROFILE>
+		<ANALYSIS_PROFILES>Profil-profil analisis</ANALYSIS_PROFILES>
+		<ANALYZING>Menganalisis...</ANALYZING>
+		<ASK>Tanya</ASK>
+		<ASK_COMPLETE_LATER>Lanjutkan proses pemantauan nanti?</ASK_COMPLETE_LATER>
+		<ASK_IF_NO_ERROR>Tanya jika tidak ada kesalahan</ASK_IF_NO_ERROR>
+		<ASK_SAVE_CHG>Apakah anda ingin menyimpan perubahan dari &quot;%s&quot; ?</ASK_SAVE_CHG>
+		<ASK_USER>Tanya pengguna</ASK_USER>
+		<AUTOMATIC>Otomatis</AUTOMATIC>
+		<AUTORUN_ITEMS>Item Auto-run</AUTORUN_ITEMS>
+		<AUTORUN_MGR>Pengelola Auto-run</AUTORUN_MGR>
+		<BACKUP>Cadangan</BACKUP>
+		<BACKUP_CREATED>Cadangan dibuat.</BACKUP_CREATED>
+		<BACKUP_CREATED_OK>Cadangan dibuat dengan sukses.</BACKUP_CREATED_OK>
+		<BACKUP_PROGRAM>Membuat cadangan dari program...</BACKUP_PROGRAM>
+		<BACKUP_PROGRAM_X>Membuat cadangan dari program &quot;%s&quot;</BACKUP_PROGRAM_X>
+		<BEGIN_UNINSTALL>Tekan Lepaskan untuk memulai proses pelepasan.</BEGIN_UNINSTALL>
+		<BEGIN_UNINSTALL_LAUNCH>Tekan Jalankan untuk memulai proses pelepasan</BEGIN_UNINSTALL_LAUNCH>
+		<BROWSE_FOR_FILE>Jelajahi file</BROWSE_FOR_FILE>
+		<BROWSE_FOR_FOLDER>Jelajahi folder</BROWSE_FOR_FOLDER>
+		<BROWSE_FOR_FOLDER_OR_FILE>Jelajahi folder atau file</BROWSE_FOR_FOLDER_OR_FILE>
+		<BROWSE_FOR_KEY>Jelajahi kunci</BROWSE_FOR_KEY>
+		<BROWSE_FOR_KEY_OR_VALUE>Jelajahi kunci atau nilai</BROWSE_FOR_KEY_OR_VALUE>
+		<BROWSE_FOR_VALUE>Jelajahi nilai</BROWSE_FOR_VALUE>
+		<BTN_CONTINUE>Lanjutkan</BTN_CONTINUE>
+		<BUILT_IN_CANCELLED>Pelepas tersedia telah dibatalkan atau dikembalikan tanpa menyelesaikan proses pelepasan</BUILT_IN_CANCELLED>
+		<BUILT_IN_UNINSTALLER_RUNNING>Pelepas tersedia sedang berjalan</BUILT_IN_UNINSTALLER_RUNNING>
+		<CANCEL>Batal</CANCEL>
+		<CANNOT_BROWSE>Terjadi kesalahan saat mencoba menjalankan penjelajah internet terpilih.\nTautan telah disalin ke Clipboard.</CANNOT_BROWSE>
+		<CANT_EXECUTE>Tidak dapat menjalankan program &quot;%s&quot;</CANT_EXECUTE>
+		<CANT_OPEN_KEY>Tidak dapat membuka kunci</CANT_OPEN_KEY>
+		<CHANGED_ITEMS>Item diubah</CHANGED_ITEMS>
+		<CHANGES>&quot;%s&quot; berubah</CHANGES>
+		<CHECK_UPD_NEW>Pembaruan atau berita baru tersedia</CHECK_UPD_NEW>
+		<CHECK_UPD_REMINDER>Periksa peringatan pembaruan</CHECK_UPD_REMINDER>
+		<CHG_VIEWS>Tampilan perubahan</CHG_VIEWS>
+		<CLEAN_UP>Pembersihan</CLEAN_UP>
+		<CLEAN_UP_DESC>Menghapus jejak dari program terpantau yang terlepaskan</CLEAN_UP_DESC>
+		<CLEANED>Dibersihkan</CLEANED>
+		<CLEANER>Pembersih</CLEANER>
+		<CLEANING>Membersihkan...</CLEANING>
+		<CLOSE>Tutup</CLOSE>
+		<CLOSE_PROCESSES>Tutup proses</CLOSE_PROCESSES>
+		<CMP_ERROR>Kesalahan saat pembandingan rekaman</CMP_ERROR>
+		<CMP_PROFILE>Nama profil pembandingan</CMP_PROFILE>
+		<CNT_DEL_MON>Registri penghitung berkas berbagi terhapus saat pemantauan</CNT_DEL_MON>
+		<COMMENTS>Komentar</COMMENTS>
+		<COMMON>Umum</COMMON>
+		<COMP_PROFILES>Profil pembandingan</COMP_PROFILES>
+		<COMPARE>Bandingkan</COMPARE>
+		<COMPARING_SNS>Membandingkan rekaman sistem...</COMPARING_SNS>
+		<COMPLETE>Lengkap</COMPLETE>
+		<COMPUTER>Komputer</COMPUTER>
+		<COMPUTER_X>Komputer (%s)</COMPUTER_X>
+		<CONTACT>Kontak</CONTACT>
+		<CONTINUE>Apakah anda ingin melanjutkan</CONTINUE>
+		<CONTINUE_UNINSTALL>Lanjutkan proses pelepasan</CONTINUE_UNINSTALL>
+		<CONTINUE_UNINSTALL_Q>Lanjutkan proses pelepasan?</CONTINUE_UNINSTALL_Q>
+		<CORRUPT_CNT>Perubahan tidak valid terdeteksi dari registri penghitung berkas berbagi: nilai terkurangi atau dengan data yang salah</CORRUPT_CNT>
+		<CREATE_REG_KEYS>Buat kunci registri</CREATE_REG_KEYS>
+		<CREATE_REG_VALS>Buat nilai registri</CREATE_REG_VALS>
+		<CREATED>Dibuat</CREATED>
+		<CREATED_ITEMS>Item dibuat</CREATED_ITEMS>
+		<CREATED_ON>Dibuat pada</CREATED_ON>
+		<CREATED_X>Dibuat: %s</CREATED_X>
+		<DEC_CNT>Kurangi registri penghitung berkas berbagi</DEC_CNT>
+		<DEFAULT>Terpilih</DEFAULT>
+		<DEFAULT_PAR>(Terpilih)</DEFAULT_PAR>
+		<DEL_AT_STARTUP>Diantrikan untuk dihapus saat jalannya sistem berikutnya</DEL_AT_STARTUP>
+		<DEL_CNT>Hapus registri penghitung berkas berbagi</DEL_CNT>
+		<DEL_FILES>Hapus berkas</DEL_FILES>
+		<DEL_FOLDERS>Hapus folder</DEL_FOLDERS>
+		<DEL_REG_KEYS>Hapus kunci registri</DEL_REG_KEYS>
+		<DEL_REG_VALS>Hapus nilai registri</DEL_REG_VALS>
+		<DEL_SH_FILE>Hapus berkas berbagi dari disk ke Recycle Bin</DEL_SH_FILE>
+		<DELETE_SEL_BACKUPS>Hapus cadangan terpilih?</DELETE_SEL_BACKUPS>
+		<DELETE_SEL_UNDO>Hapus entri pengembalian terpilih?</DELETE_SEL_UNDO>
+		<DELETE_SYS_SEL_ITEM>Hapus item terpilih dari sistem?</DELETE_SYS_SEL_ITEM>
+		<DELETED>Dihapus</DELETED>
+		<DELETED_ITEMS>Item dihapus</DELETED_ITEMS>
+		<DETECTED_CHG>Perubahan terdeteksi</DETECTED_CHG>
+		<DISABLED>Dimatikan</DISABLED>
+		<DISPOSABLE_ITEMS>Item yang dapat dibuang</DISPOSABLE_ITEMS>
+		<DLG_ABORT>Batalkan</DLG_ABORT>
+		<DLG_ALL>Semua</DLG_ALL>
+		<DLG_CANCEL>Batal</DLG_CANCEL>
+		<DLG_CLOSE>Tutup</DLG_CLOSE>
+		<DLG_CNF>Tegaskan</DLG_CNF>
+		<DLG_ERR>Kesalahan</DLG_ERR>
+		<DLG_IGNORE>Abaikan</DLG_IGNORE>
+		<DLG_INF>Informasi</DLG_INF>
+		<DLG_NO>Tidak</DLG_NO>
+		<DLG_NOTOALL>Tidak Untuk Semua</DLG_NOTOALL>
+		<DLG_OK>Baik</DLG_OK>
+		<DLG_RETRY>Coba lagi</DLG_RETRY>
+		<DLG_WRN>Peringatan</DLG_WRN>
+		<DLG_YES>Ya</DLG_YES>
+		<DLG_YESTOALL>Ya Untuk Semua</DLG_YESTOALL>
+		<DONT_DEL_SH_FILE>Pengguna memilih untuk menyimpan berkas berbagi</DONT_DEL_SH_FILE>
+		<EDIT_PROGRAM>Ubah program</EDIT_PROGRAM>
+		<ELAPSED>Berlalu %d:%2.2d</ELAPSED>
+		<ENTER_IDENTIFIER>Masukkan nama dari program terpasang</ENTER_IDENTIFIER>
+		<ERR>Kesalahan</ERR>
+		<ERR_BRA>(ERR)</ERR_BRA>
+		<ERR_DEL_FLD_FILES>Tidak dapat menghapus satu atau lebih folder atau berkas</ERR_DEL_FLD_FILES>
+		<ERR_DEL_REG_KEYS_VALS>Tidak dapat menghapus satu atau lebih kunci atau nilai</ERR_DEL_REG_KEYS_VALS>
+		<ERR_REDO_REG_KEYS_VALS>Tidak dapat mengulangi satu atau lebih kunci atau nilai</ERR_REDO_REG_KEYS_VALS>
+		<ERR_UNDO_REG_KEYS_VALS>Tidak dapat membatalkan satu atau lebih kunci atau nilai</ERR_UNDO_REG_KEYS_VALS>
+		<ERR_WRN_OK_STAT>Kesalahan: %d Peringatan: %d Tindakan sukses: %d</ERR_WRN_OK_STAT>
+		<EXIT>Keluar</EXIT>
+		<EXPERT>Ahli</EXPERT>
+		<EXPIRE_DAYS>Berakhir dalam %d hari.</EXPIRE_DAYS>
+		<EXPORT_ERROR>Pengeksporan gagal !</EXPORT_ERROR>
+		<EXTENSION>Ekstensi</EXTENSION>
+		<FAMILY_NOT_ACCEPTED>Lisensi keluarga tidak valid</FAMILY_NOT_ACCEPTED>
+		<FFILTER_ALL>Semua berkas (*.*)|*.*</FFILTER_ALL>
+		<FFILTER_DLL>Berkas tambahan program (*.dll)|*.dll</FFILTER_DLL>
+		<FFILTER_EXE>Berkas eksekusi (*.exe)|*.exe</FFILTER_EXE>
+		<FFILTER_HTM>Dokumen HTML (*.htm, *.html)|*.htm;*html</FFILTER_HTM>
+		<FFILTER_ICL>Koleksi ikon (*.icl)|*.icl</FFILTER_ICL>
+		<FFILTER_ICO>Berkas ikon (*.ico)|*.ico</FFILTER_ICO>
+		<FFILTER_MSI>Pemasang Microsoft (*.msi)|*.msi</FFILTER_MSI>
+		<FFILTER_REG>Berkasi registri (*.reg)|*.reg</FFILTER_REG>
+		<FFILTER_TXT>Dokumen teks (*.txt)|*.txt</FFILTER_TXT>
+		<FFILTER_WAV>Berkas suara (*.wav)|*.wav</FFILTER_WAV>
+		<FFILTER_XML>Dokumen XML (*.xml)|*.xml</FFILTER_XML>
+		<FFILTER_ZIP>Berkas cadangan (*.zip)|*.zip</FFILTER_ZIP>
+		<FILE>(BERKAS)</FILE>
+		<FILE_>Berkas</FILE_>
+		<FILE_MASK>Kostumasi berkas</FILE_MASK>
+		<FILE_SYSTEM>Sistem berkas</FILE_SYSTEM>
+		<FILES_CHG_STAT>Berkas diubah    :%6.1d</FILES_CHG_STAT>
+		<FILES_CREATED_STAT>Berkas dibuat    :%6.1d</FILES_CREATED_STAT>
+		<FILES_DEL_STAT>Berkas dihapus  :%6.1d</FILES_DEL_STAT>
+		<FILES_NOT_INCLUDED>Berkas-berkas yang tidak termasuk dalam cadangan</FILES_NOT_INCLUDED>
+		<FILES_X>Berkas   :%6.1d</FILES_X>
+		<FILTER>Filter</FILTER>
+		<FINISH>Selesai</FINISH>
+		<FLDS_CREATED_STAT>Folder dibuat    :%6.1d</FLDS_CREATED_STAT>
+		<FLDS_DEL_STAT>Folder dihapus  :%6.1d</FLDS_DEL_STAT>
+		<FOLDER>(FOLDER)</FOLDER>
+		<FOLDER_>Folder</FOLDER_>
+		<FOLDER_MASK>Kostumasi folder</FOLDER_MASK>
+		<FOLDERS_X>Folder :%6.1d</FOLDERS_X>
+		<FREE_UPDATES_UNTIL>Update gratis sampai %s</FREE_UPDATES_UNTIL>
+		<FS_DET_VIEW_PRF>Rincian berkas sistem [Tampilkan: %s]</FS_DET_VIEW_PRF>
+		<GENERAL>Umum</GENERAL>
+		<GENERATED_BY_TU>Dihasilkan oleh Total Uninstall</GENERATED_BY_TU>
+		<HIDDEN_NODE>Node ini tersembunyi.</HIDDEN_NODE>
+		<HIDDEN_NODE_IN_VIEW>Itemnya tersembunyi di tampilan saat ini</HIDDEN_NODE_IN_VIEW>
+		<HIDE_OPTIONS>Sembunyikan &amp;pengaturan</HIDE_OPTIONS>
+		<IF_NO_ERROR>Jika tidak ada kesalahan</IF_NO_ERROR>
+		<IMPORTING_ARCHIVE>Mengimpor berkas...</IMPORTING_ARCHIVE>
+		<INCLUDE_FOLDER_IN_LOG>Ikutkan folder dalam catatan</INCLUDE_FOLDER_IN_LOG>
+		<INF_VOLATILE_KEY>Kunci berubah-rubah tidak dibuat</INF_VOLATILE_KEY>
+		<INF_VOLATILE_VAL>Nilai berubah-ubah tidak dibuat</INF_VOLATILE_VAL>
+		<INST_ON>Dipasang pada</INST_ON>
+		<INST_PRG>Program terpasang</INST_PRG>
+		<INST_PRGS>Program terpasang</INST_PRGS>
+		<INST_SERV_AND_DEV>Service dan device terpasang</INST_SERV_AND_DEV>
+		<INSTALL>Pasang</INSTALL>
+		<INSTALL_HISTORY>Sejarah pasang</INSTALL_HISTORY>
+		<INSTALLED_PRGS_CMPS>%d program terpasang, %d komponen sistem</INSTALLED_PRGS_CMPS>
+		<INSTALLER_ERR>Kesalahan pemasang terdeteksi: Penghitung berkas berbagi dibuat untuk berkas yang sudah ada</INSTALLER_ERR>
+		<INTERFACE>Antarmuka</INTERFACE>
+		<INVALID_AFTER_CNT>Penghitung SESUDAH tidak valid</INVALID_AFTER_CNT>
+		<INVALID_BEFORE_CNT>Penghitung SEBELUM tidak valid</INVALID_BEFORE_CNT>
+		<INVALID_CURRENT_CNT>Penghitung SAAT INI tidak valid ditemukan dalam registri</INVALID_CURRENT_CNT>
+		<INVALID_FILE_FORMAT>Format berkas tidak valid</INVALID_FILE_FORMAT>
+		<ITEM_X>Item : %s</ITEM_X>
+		<KEY>Kunci</KEY>
+		<KEYS_CREATED_STAT>Kunci dibuat      :%6.1d</KEYS_CREATED_STAT>
+		<KEYS_DEL_STAT>Kunci dihapus    :%6.1d</KEYS_DEL_STAT>
+		<KEYS_X>Kunci    :%6.1d</KEYS_X>
+		<LAST_CHECK>Pemeriksaan Terakhir: %s</LAST_CHECK>
+		<LAST_WRITE_X>Penulisan terakhir: %s</LAST_WRITE_X>
+		<LAUNCH>Jalankan</LAUNCH>
+		<LAUNCH_SUPPLIED_UNINST>Program pelepas tersedia akan dijalankan</LAUNCH_SUPPLIED_UNINST>
+		<LAUNCH_TU>Jalankan Total Uninstall</LAUNCH_TU>
+		<LIC_COUNTRY>Lisensi Negara</LIC_COUNTRY>
+		<LIC_FAMILY>Lisensi Keluarga</LIC_FAMILY>
+		<LIC_MULTIPLE>Lisensi Beberapa Komputer</LIC_MULTIPLE>
+		<LIC_SINGLE_COMPUTER>Lisensi Komputer Tunggal</LIC_SINGLE_COMPUTER>
+		<LIC_SITE>Lisensi Tempat</LIC_SITE>
+		<LIC_SMALL_OFFICE>Lisensi Kantor Kecil</LIC_SMALL_OFFICE>
+		<LIC_TECHNICIAN>Lisensi teknisi</LIC_TECHNICIAN>
+		<LIC_TEMPORARY>Lisensi Sementara</LIC_TEMPORARY>
+		<LIC_WORLDWIDE>Lisensi Seluruh Dunia</LIC_WORLDWIDE>
+		<LICENSED_TO>Dilisensikan kepada &apos;%s&quot;</LICENSED_TO>
+		<LNK_EXE_FILTER>Pintasan dan berkas eksekusi (*.lnk, *.exe)|*.lnk;*.exe</LNK_EXE_FILTER>
+		<LOADING>Memuat...</LOADING>
+		<LOADING_INST_PRGS>Memuat program terpasang...</LOADING_INST_PRGS>
+		<LOADING_MON_PRGS>Memuat program terpantau</LOADING_MON_PRGS>
+		<LOCATE_PRG_LNK_EXE>Pilih pintasan atau berkas eksekusi program</LOCATE_PRG_LNK_EXE>
+		<LOCATE_UNINSTALLER_EXE>Pilih berkas eksekusi pelepas</LOCATE_UNINSTALLER_EXE>
+		<LOG_FILE_NAME>Nama berkas catatan</LOG_FILE_NAME>
+		<LOGON>Logon</LOGON>
+		<MAINTENANCE_ENDED>Periode pemeliharaan untuk lisensi anda telah kadaluarsa.</MAINTENANCE_ENDED>
+		<MAINTENANCE_ENDED_INFO>Versi baru program terpasang akan berjalan dalam modus percobaan.</MAINTENANCE_ENDED_INFO>
+		<MANUAL>Manual</MANUAL>
+		<MISSING_ITEMS>Item hilang</MISSING_ITEMS>
+		<MODIFIED>Diubah</MODIFIED>
+		<MON_ON>Dipantau pada</MON_ON>
+		<MON_PRG>Program terpantau</MON_PRG>
+		<MON_PRG_PATH>Lokasi program terpantau</MON_PRG_PATH>
+		<MON_PRG_RUNNING>Sepertinya program yang dipantau masih berjalan.</MON_PRG_RUNNING>
+		<MONITOR_WITH_TU>Pantau dengan Total Uninstall</MONITOR_WITH_TU>
+		<MONITORED_PRGS>%d program terpantau</MONITORED_PRGS>
+		<NAME>Nama</NAME>
+		<NEVER>Jangan pernah</NEVER>
+		<NEW_NAME>Nama baru</NEW_NAME>
+		<NO>tidak</NO>
+		<NO_GROUPS>Tidak ada kelompok</NO_GROUPS>
+		<NO_MORE_INSTANCES_ALLOWED>Lisensi anda tidak valid untuk menjalankan instansi yang lebih banyak lagi dari program ini.</NO_MORE_INSTANCES_ALLOWED>
+		<NO_RIGHTS>Hak tidak mencukupi</NO_RIGHTS>
+		<NO_UPDATES>Versi tidak valid.</NO_UPDATES>
+		<NORMAL>Normal</NORMAL>
+		<NOT_A_VALID_UNINST>Tidak ada pelepas valid atau terdaftar ditemukan.</NOT_A_VALID_UNINST>
+		<NOT_AVAILABLE>N.A.</NOT_AVAILABLE>
+		<NOT_DELETED_FILES>Folder dan berkas yang tidak dihapus</NOT_DELETED_FILES>
+		<NOT_DELETED_FILES_DET>Folder dan berkas yang tidak dihapus selama pelepasan</NOT_DELETED_FILES_DET>
+		<NOT_DELETED_REG>Kunci dan nilai registri tak dihapus</NOT_DELETED_REG>
+		<NOT_DELETED_REG_DET>Kunci dan nilai registri tak dihapus selama pelepasan</NOT_DELETED_REG_DET>
+		<NOT_EMPTY>Tak kosong</NOT_EMPTY>
+		<NOT_FOUND>Tak ditemukan</NOT_FOUND>
+		<NOT_FOUND_X>Tak ditemukan: %s</NOT_FOUND_X>
+		<NOTES>Keterangan</NOTES>
+		<OK>Baik</OK>
+		<OK_BRA>(BAIK)</OK_BRA>
+		<ON_PRG_CLOSE>Saat program ditutup</ON_PRG_CLOSE>
+		<ON_REFRESH>Saat perbarui</ON_REFRESH>
+		<ONLY_FILES_TO_KEEP>Tak dihapus. Hanya mengandung berkas atau folder untuk disimpan.</ONLY_FILES_TO_KEEP>
+		<ONLY_KEYS_TO_KEEP>Tak dihapus. Hanya mengandung kunci registri untuk disimpan.</ONLY_KEYS_TO_KEEP>
+		<OTHER>Lainnya</OTHER>
+		<PAGE>Halaman:</PAGE>
+		<PAINT_ITEM_STYLES>Tampilkan normal\nSembunyikan\nSorot teks\nRedupkan ikon\nRedupkan ikon dan sorot teks</PAINT_ITEM_STYLES>
+		<PENDING_FILE_REN>Operasi ganti-nama tertunda.</PENDING_FILE_REN>
+		<PRE_INST_SNS_NAME>Nama rekaman pra pemasangan</PRE_INST_SNS_NAME>
+		<PRE_INSTALL>Rekaman sistem pra pemasangan</PRE_INSTALL>
+		<PREFERENCES>Preferensi</PREFERENCES>
+		<PRG_DETECTED>Program terdeteksi:</PRG_DETECTED>
+		<PRG_NAME>Nama program</PRG_NAME>
+		<PRG_PART_UNINSTALLED>Program yang dilepaskan hanya sebagian</PRG_PART_UNINSTALLED>
+		<PRG_RESTORED>Program telah dikembalikan</PRG_RESTORED>
+		<PRG_UNINSTALLED>Program telah dilepaskan dengan sukses</PRG_UNINSTALLED>
+		<PRINT_ERROR>Pencetakan gagal !</PRINT_ERROR>
+		<PROCESS_CANCELLED>Proses dibatalkan</PROCESS_CANCELLED>
+		<PROCESSING_INSTALLATIONS>Memproses pemasangan...</PROCESSING_INSTALLATIONS>
+		<PRODUCT_UPDATES>Pembaruan produk</PRODUCT_UPDATES>
+		<PROGRAM_WILL_RESTART>Program akan menutup dan terbuka kembali untuk menyelesaikan registrasi.</PROGRAM_WILL_RESTART>
+		<PROGRESS_DEFAULT>Proses, terpilih</PROGRESS_DEFAULT>
+		<PST_INST_SNS_NAME>Nama rekaman pasca pemasangan</PST_INST_SNS_NAME>
+		<PUBLISHER>Penerbit</PUBLISHER>
+		<QST_DEL_FLD_FILES>Apakah anda yakin ingin menghapus folder atau berkas terpilih?</QST_DEL_FLD_FILES>
+		<QST_DEL_REG_KEYS_VALS>Apakah anda yakin ingin menghapus kunci atau nilai terpilih?</QST_DEL_REG_KEYS_VALS>
+		<QST_DEL_SERVICES>Apakah anda yakin ingin menghapus service terpilih?</QST_DEL_SERVICES>
+		<QST_REMOVE_INST_PRG_LST>Apakah anda yakin ingin menghapus program terpilih dari daftar?</QST_REMOVE_INST_PRG_LST>
+		<QUEST_REMOVE_GROUP>Hapus kelompok?</QUEST_REMOVE_GROUP>
+		<QUIET_PROGRESS_DEFAULT>Tenang, proses, terpilih</QUIET_PROGRESS_DEFAULT>
+		<README>Bacaan</README>
+		<READY>Siap</READY>
+		<RECORD_CHANGED_X>Catatan terubah: %s</RECORD_CHANGED_X>
+		<REDO_PROFILES>Profil pengembalian</REDO_PROFILES>
+		<REG_DET_VIEW_PRF>Rincian Registri [Tampilkan: %s]</REG_DET_VIEW_PRF>
+		<REG_KEY>(REG KEY)</REG_KEY>
+		<REG_RUN>Jalan</REG_RUN>
+		<REG_RUN_ONCE>Jalan sekali</REG_RUN_ONCE>
+		<REG_SCAN_ERROR>Kesalahan saat pemindaian registri.</REG_SCAN_ERROR>
+		<REG_VAL>(REG VAL)</REG_VAL>
+		<REGISTER_DISABLED_KEY>Anda mungkin adalah korban dari pemalsuan perangkat lunak. Harap beli kunci lisensi yang asli.</REGISTER_DISABLED_KEY>
+		<REGISTER_FAILED>Pendaftaran gagal.</REGISTER_FAILED>
+		<REGISTER_FIREWALL>Sebuah firewall menghalangi validasi online dari lisensi anda.</REGISTER_FIREWALL>
+		<REGISTER_HOST>Sebuah entri dalam berkas HOST menghalangi validasi online dari lisensi anda.</REGISTER_HOST>
+		<REGISTER_INVALID>Informasi pendaftaran tidak sah</REGISTER_INVALID>
+		<REGISTER_PRO>Anda harus mendaftarkan programnya dengan kunci untuk edisi profesional.</REGISTER_PRO>
+		<REGISTER_THANK_YOU>Terima kasih telah mendaftarkan %s.</REGISTER_THANK_YOU>
+		<REGISTERED_COMPANY>Perusahaan terdaftar</REGISTERED_COMPANY>
+		<REGISTERED_OWNER>Pemilik terdaftar</REGISTERED_OWNER>
+		<REGISTRY>Registri</REGISTRY>
+		<REMOVE_LEFT_BEHIND>Tekan Lepaskan untuk menghapus folder, berkas, kunci dan nilai registri tersisa yang terdeteksi.</REMOVE_LEFT_BEHIND>
+		<REMOVE_LOG>Hapus catatan perubahan?</REMOVE_LOG>
+		<REMOVE_LOG_DET>Anda tidak akan dapat mengembalikan perubahan yang dibuat oleh program terpilih.</REMOVE_LOG_DET>
+		<REMOVE_PRG_DATA>Hapus pengaturan dan data program?</REMOVE_PRG_DATA>
+		<REMOVE_PRG_DATA_INFO>Pilih &quot;Tidak&quot; jika anda merencanakan untuk memperbarui atau meningkatkan Total Uninstall</REMOVE_PRG_DATA_INFO>
+		<RENAME>Ganti-nama</RENAME>
+		<REQUEST_INTERNET_ACCESS>Akses internet dibutuhkan.</REQUEST_INTERNET_ACCESS>
+		<RESTORATION_UNDONE>Pengembalian telah dibatalkan.</RESTORATION_UNDONE>
+		<RESTORE>Kembalikan</RESTORE>
+		<RESTORE_PROGRAM>Kembalikan program</RESTORE_PROGRAM>
+		<RESTORE_REG_VALS>Kembalikan nilai registri</RESTORE_REG_VALS>
+		<RESTORING_ARCHIVE>Mengembalikan berkas dan item registri</RESTORING_ARCHIVE>
+		<RESTORING_FILES_FROM_BKP>Mengembalikan berkas dari cadangan...</RESTORING_FILES_FROM_BKP>
+		<RST_FILE_PROP>Mengembalikan properti berkas</RST_FILE_PROP>
+		<RUN_EVAL_PERIOD>Jalankan program dalam masa evaluasi?</RUN_EVAL_PERIOD>
+		<RUNNING>Berjalan</RUNNING>
+		<RUNNING_DOMAIN>Berjalan dalam domain Windows NT</RUNNING_DOMAIN>
+		<RUNNING_SERVER>Berjalan dalam Windows Server.</RUNNING_SERVER>
+		<RUNNING_VM>Berjalan dalam mesin virtual.</RUNNING_VM>
+		<SAFE>Aman</SAFE>
+		<SAVE_AS>Simpan sebagai</SAVE_AS>
+		<SCAN_PROFILES>Profil pemindaian</SCAN_PROFILES>
+		<SCANNING>Pemindaian...</SCANNING>
+		<SCANNING_REGISTRY_AND_FS>Memindai registri dan sistem berkas...</SCANNING_REGISTRY_AND_FS>
+		<SCHEDULED_TASKS>Tugas terjadwal</SCHEDULED_TASKS>
+		<SEARCH>Cari</SEARCH>
+		<SEARCH_IN_X>Cari di &quot;%s&quot;</SEARCH_IN_X>
+		<SEL_BRA>(Pilihan)</SEL_BRA>
+		<SEL_HAS_HD_NODES>Pilihan memiliki setidaknya satu node tersembunyi.</SEL_HAS_HD_NODES>
+		<SEL_PRG_UNINSTALLED>Program terpilih sudah dilepaskan.</SEL_PRG_UNINSTALLED>
+		<SEL_UNINSTALL_PROFILE>Pilih sebuah profil pelepasan.</SEL_UNINSTALL_PROFILE>
+		<SELECT>Pilih</SELECT>
+		<SERVICE>Service</SERVICE>
+		<SERVICES>Service</SERVICES>
+		<SHARED_FILE>Berkas berbagi. Tak dihapus dalam fase ini</SHARED_FILE>
+		<SHARED_FILE_CNT_DEC>Penghitung berkas berbagi sudah dikurangi</SHARED_FILE_CNT_DEC>
+		<SHARED_FILE_NOT_FOUND>Berkas berbagi tak ditemukan dalam disk</SHARED_FILE_NOT_FOUND>
+		<SHOW_OPTIONS>Tampilkan &amp;pengaturan</SHOW_OPTIONS>
+		<SHOW_SYS_COMP>Tampikan komponen sistem: %s</SHOW_SYS_COMP>
+		<SIZE>Ukuran</SIZE>
+		<SIZE_STAT>Ukuran               : %s</SIZE_STAT>
+		<SKIP>Lewati</SKIP>
+		<SKIP_BUILTIN_UNINSTALLER>Jika pelepas tersedia yang berjalan tidak bereaksi, tekan Lewati untuk melanjutkan. Pelepas tersedia berikutnya akan dijalankan.</SKIP_BUILTIN_UNINSTALLER>
+		<SMALL_CNT>Penghitung berkas berbagi ditemukan terlalu kecil dalam registri</SMALL_CNT>
+		<START>Mulai</START>
+		<START_MENU>Start menu</START_MENU>
+		<START_SCANNING>Tekan tombol Pindai utk memulai pemindaian.</START_SCANNING>
+		<START_UNINSTALL_PROCESS>Mulai proses pelepasan.</START_UNINSTALL_PROCESS>
+		<STARTUP_TYPE_X>Tipe startup : %s</STARTUP_TYPE_X>
+		<STOP>Berhenti</STOP>
+		<STOP_SERVICES>Hentikan service</STOP_SERVICES>
+		<STOPPED>Berhenti</STOPPED>
+		<SUMMARY>Ringkasan</SUMMARY>
+		<SUPPORT_INFO>Informasi dukungan</SUPPORT_INFO>
+		<SUPPORT_PHONE>Telepon dukungan</SUPPORT_PHONE>
+		<SVC_CMD_NOT_ACCEPTED>Service tidak menerima perintah berhenti.</SVC_CMD_NOT_ACCEPTED>
+		<SW_VERSION>Versi %s</SW_VERSION>
+		<SYSTEM>Sistem</SYSTEM>
+		<TEMPORARY_FILES>Berkas sementara</TEMPORARY_FILES>
+		<TITLE_MON_INSTALL>Pantau Pemasangan Baru</TITLE_MON_INSTALL>
+		<TITLE_MON_UPDATE_X>Pantau Pembaruan Program &quot;%s&quot;</TITLE_MON_UPDATE_X>
+		<TOTAL_LIC_COMPUTERS>Jumlah komputer terlisensi untuk nama di atas: %s</TOTAL_LIC_COMPUTERS>
+		<TOTAL_UNINSTALL>Pelepasan menyeluruh</TOTAL_UNINSTALL>
+		<TRACES_AFTER_UNINSTALL>Jejak tersisa setelah pelepasan</TRACES_AFTER_UNINSTALL>
+		<TRIAL_EXPIRED>Masa percobaan telah berakhir. Harap mendaftar.</TRIAL_EXPIRED>
+		<TU_AGENT>Agen Total Uninstall</TU_AGENT>
+		<TU_MON_PRG_TITLE>Program terpantau</TU_MON_PRG_TITLE>
+		<TU_PRO_EDITION>Total Uninstall Edisi Profesional</TU_PRO_EDITION>
+		<TU_STD_EDITION>Total Uninstall Edisi Standar</TU_STD_EDITION>
+		<TU_USE_FIRST_UNINST>Total Uninstall menggunakan dulu pelepas tersedia</TU_USE_FIRST_UNINST>
+		<TU_USE_FIRST_UNINST_DESC>Melepaskan anti-virus, anti-spyware, firewall, driver atau program lainnya yang memasang device sistem.</TU_USE_FIRST_UNINST_DESC>
+		<UNDO>Batalkan</UNDO>
+		<UNDO_RESTORATION>Batalkan pengembalian</UNDO_RESTORATION>
+		<UNINST_ANALYZED>Pelepasan program teranalisa</UNINST_ANALYZED>
+		<UNINST_BUNDLE>Pelepasan program teranalisa - bundel</UNINST_BUNDLE>
+		<UNINST_PROFILES>Profil pelepasan</UNINST_PROFILES>
+		<UNINSTALL>Lepaskan</UNINSTALL>
+		<UNINSTALL_INST_HINT>Lepaskan|Melepaskan program teranalisa yang dipilih</UNINSTALL_INST_HINT>
+		<UNINSTALL_LOG>Catatan pelepasan</UNINSTALL_LOG>
+		<UNINSTALL_MON_HINT>Lepaskan|Melepaskan program terpantau yang dipilih</UNINSTALL_MON_HINT>
+		<UNINSTALL_PROGRAM_X>Lepaskan Program &quot;%s&quot;</UNINSTALL_PROGRAM_X>
+		<UNINSTALLED_WITH_TU>Dilepaskan dengan Total Uninstall &quot;%s&quot;</UNINSTALLED_WITH_TU>
+		<UNREGISTERED>Tidak terdaftar</UNREGISTERED>
+		<USE_LAST_SNS>Gunakan rekaman terakhir</USE_LAST_SNS>
+		<USE_LAST_SNS_AGO_D>Gunakan rekaman terakhir (%d hari, %d jam dan %d menit yang lalu)</USE_LAST_SNS_AGO_D>
+		<USE_LAST_SNS_AGO_H>Gunakan rekaman terakhir (%d jam dan %d menit yang lalu)</USE_LAST_SNS_AGO_H>
+		<USE_LAST_SNS_AGO_M>Gunakan rekaman terakhir (%d menit yang lalu)</USE_LAST_SNS_AGO_M>
+		<USE_OLD_PURCHASE_NEW>Pasang versi yang lebih lama atau beli pembaruannya untuk menggunakan versi ini</USE_OLD_PURCHASE_NEW>
+		<USE_ONLY_PRG_UNINST>Gunakan hanya pelepas tersedia</USE_ONLY_PRG_UNINST>
+		<USE_OR_BUILD_SNS>Bangun atau gunakan rekaman pra pasang sebelumnya</USE_OR_BUILD_SNS>
+		<USR_ABORT>Dibatalkan oleh pengguna</USR_ABORT>
+		<VALS_CHG_STAT>Nilai diubah        :%6.1d</VALS_CHG_STAT>
+		<VALS_CREATED_STAT>Nilai dibuat        :%6.1d</VALS_CREATED_STAT>
+		<VALS_DEL_STAT>Nilai dihapus      :%6.1d</VALS_DEL_STAT>
+		<VALUE>Nilai</VALUE>
+		<VALUES_X>Nilai  :%6.1d</VALUES_X>
+		<VERSION>Versi</VERSION>
+		<WAIT_UNINST_REMOVE_LEFT>Saat program pelepas tersedia selesai, tekan tombol Lepaskan untuk menghapus folder, berkas, kunci dan nilai registri yang tersisa.</WAIT_UNINST_REMOVE_LEFT>
+		<WRN_BRA>(WRN)</WRN_BRA>
+		<X_BYTE>%s B</X_BYTE>
+		<X_BYTES>%d byte</X_BYTES>
+		<X_CHANGES>%s - Perubahan</X_CHANGES>
+		<X_GIGABYTE>%s GB</X_GIGABYTE>
+		<X_KILOBYTE>%s KB</X_KILOBYTE>
+		<X_MEGABYTE>%s MB</X_MEGABYTE>
+		<X_RESULTS>%d hasil</X_RESULTS>
+		<X_UNINSTALL_LOG>&quot;%s&quot; - Catatan pelepasan</X_UNINSTALL_LOG>
+		<X_UNINSTALL_LOG_FILE>&quot;%s&quot; - CatatanPelepasan.txt</X_UNINSTALL_LOG_FILE>
+		<YES>ya</YES>
+		<ZERO_LENGTH_DATA>(data ukuran nol)</ZERO_LENGTH_DATA>
+		<TU_ULT_EDITION>Total Uninstall Edisi Ultimate</TU_ULT_EDITION>
+	</RESOURCESTRING>
+</TotalUninstall>

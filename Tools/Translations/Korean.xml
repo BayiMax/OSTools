@@ -1,0 +1,2604 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TotalUninstall>
+	<_System_>
+		<Flag>
+			<Size>1974</Size>
+			<Data>Qk22BwAAAAAAADYAAAAoAAAAIAAAABQAAAABABgAAAAAAIAHAAASCwAAEgsAAAAAAAAAAAAA3Nzc9PT08/Pz8/Pz8/Pz8/Pz8/Pz9vb29vb28/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz9vb29vb28/Pz8/Pz8/Pz8/Pz8/Pz8/Pz6enp5+fn////////////////////////9vb27u7u////////////////////////////////////////////////////////9PT08fHx////////////////////////9fX15eXl////////////////////////cnJyZWVl2NjY////////////////////////////////////////////////3d3deXl5W1tb8fHx////////////////////8/Pz5eXl////////////////////p6enNjY2REREV1dXpqam9fX1////////////////////////////////////tbW1YGBgQEBAREREq6ur////////////////////8/Pz5eXl////////////////0NDQPj4+e3t7c3NzNjY2g4OD/////////////P39+O3t9+vq+/v6////////////oaGhMjIyY2Njm5ubcnJyurq6////////////////8/Pz5eXl////////////9vb2Z2dnQkJCb29va2trYWFh9PT0////+vb11pmYuUA+sh8csR4Ztjc0zYKB8+jn/////Pz8nJycjY2Nc3NzQEBAU1NT5ubm////////////8/Pz5eXl////////////9fX1urq6Xl5ePj8/Pz8/29vb////9/LxwFpYpAAApwAAqgcDqwgEqgIApAAAtz068Nzb////+vr6WlpaOjo6VlZWqamp8vLy////////////8/Pz5eXl////////////////////7OzsfHx8pKSk////////y4B+pwAAswgAtA8ArQ0HrA0KrA4KrQsHpAAAv1pb+/v7////vr6+b29v39/f/f39////////////////8/Pz5eXl////////////////////////////////////7NfWtCMfqAAAlQ0zmQsssA0Frw4ErA0KrA4JrAUAmxMjybTX////////////////////////////////////8/Pz5eXl////////////////////////////////////5rOooBIhQACeDgXvEQTrWQiGsQ0HuA4Asw4AuQoAcgBRkY3x////////////////////////////////////8/Pz5eXl////////////////////////////////////6LSpVxGMAAD5AAD/AAD/AAL/RQejmAwspw4XegdRFwDVhYz+///+////////////////////////////////8/Pz5eXl////////////////////////+/v7/v7+////8d3eQCbRAAD8AAD/AAD+AAH/AAL/EgPnHgTWAAD5EhP6uLjy/////v7++/v7////////////////////////8/Pz5eXl////////////////////4+Pjb29vmZmZ////////i4bsAAD2AAD+AAD+AAD+AAD+AAD/AAD/AAD7YmLw/f77////srKyYWFh1tbW/Pz8////////////////8/Pz5eXl////////////8/Pzrq6uVVVVR0dHQkJCz8/P////9/f6aWnvBAT2AAD9AAD/AAD/AAD9AAD4SUnw5eX4////9vb2Xl5eRUVFTk5Om5ub7Ozs////////////8/Pz5eXl////////////+fn5ampqREREU1NTT09PW1tb7u7u////+/v7rK3zUFLyHyDxGxrxRUbymJny8vL6////+Pj4k5OTeXl5UlJSREREW1tb7e3t////////////8/Pz5eXl////////////////2dnZR0dHSUlJTExMPDw8fHx8/////////////v798fH57u75/f39////////////mZmZNzc3RkZGY2NjfHx8ycnJ////////////////8/Pz5eXl////////////////////s7OzPj4+SUlJXl5es7Oz9fX1/////////////////////////////////v7+v7+/aGhoRERERkZGrq6u////////////////////8/Pz5eXl////////////////////////e3t7cHBw4uLi////////////////////////////////////////////////5ubmhYWFZmZm9/f3////////////////////8/Pz6enp/////////////////////////v7++fn5/////////////////////////////////////////////////////////Pz8+vr6////////////////////////9/f30tLS6Ojo5+fn5+fn5+fn5+fn5+fn6Ojo6enp5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn5+fn6Ojo6enp5+fn5+fn5+fn5+fn5+fn5+fn3t7e</Data>
+		</Flag>
+		<LanguageCode>en</LanguageCode>
+		<LocalizedName>한국어</LocalizedName>
+		<Version>62000</Version>
+	</_System_>
+	<Cleaner>
+		<CF-BROWSER-CACHE>브라우저</CF-BROWSER-CACHE>
+		<CF-BROWSER-CACHE-CHROME>크롬</CF-BROWSER-CACHE-CHROME>
+		<CF-BROWSER-CACHE-FIREFOX>파이어폭스</CF-BROWSER-CACHE-FIREFOX>
+		<CF-BROWSER-CACHE-IE>인터넷 익스플로어</CF-BROWSER-CACHE-IE>
+		<CF-BROWSER-CACHE-MAXTHON>맥손 브라우저</CF-BROWSER-CACHE-MAXTHON>
+		<CF-BROWSER-CACHE-OPERA>오페라</CF-BROWSER-CACHE-OPERA>
+		<CF-PROGRAMS>프로그램</CF-PROGRAMS>
+		<CF-PROGRAMS-ADOBE-FLASH-PLAYER>어도비 플래시 플레이어</CF-PROGRAMS-ADOBE-FLASH-PLAYER>
+		<CF-PROGRAMS-MSOFFICE-RECENT>MS 오피스 최근 파일 목록</CF-PROGRAMS-MSOFFICE-RECENT>
+		<CF-PROGRAMS-SUN-JAVA-CACHE>Sun 자바 캐시</CF-PROGRAMS-SUN-JAVA-CACHE>
+		<CF-SYSTEM>시스템</CF-SYSTEM>
+		<CF-SYSTEM-JUNK-FILES>정크 파일</CF-SYSTEM-JUNK-FILES>
+		<CF-SYSTEM-RECYCLE-BIN>강제 제거용 휴지통</CF-SYSTEM-RECYCLE-BIN>
+		<CF-SYSTEM-TEMP-FILES>임시 파일</CF-SYSTEM-TEMP-FILES>
+		<CF-SYSTEM-THUMBNAILS-CACHE>손톱그림 캐시</CF-SYSTEM-THUMBNAILS-CACHE>
+		<CF-WINDOWS>윈도우</CF-WINDOWS>
+		<CF-WINDOWS-ERROR-REPORTING>에러 보고</CF-WINDOWS-ERROR-REPORTING>
+		<CF-WINDOWS-EXPLORER>윈도우 탐색기</CF-WINDOWS-EXPLORER>
+		<CF-WINDOWS-EXPLORER-RECENT-FILES>최근 문서</CF-WINDOWS-EXPLORER-RECENT-FILES>
+		<CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>남은 빈 폴더</CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>
+		<CF-WINDOWS-LOG-FILES>로그 파일</CF-WINDOWS-LOG-FILES>
+		<CF-WINDOWS-MEMORY-DUMP-FILES>메모리 덤프</CF-WINDOWS-MEMORY-DUMP-FILES>
+		<CF-WINDOWS-TEMP-FOLDERS>임시 폴더</CF-WINDOWS-TEMP-FOLDERS>
+		<CR-INVALID-ENTRIES>유효하지않은 엔트리</CR-INVALID-ENTRIES>
+		<CR-INVALID-ENTRIES-FILE-REFERENCES>파일 레퍼런스</CR-INVALID-ENTRIES-FILE-REFERENCES>
+		<CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>빈 키는 나두기</CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>
+		<CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>공유된 DLL 없음</CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>
+		<CR-INVALID-ENTRIES-MSI-PATHS>MSI 경로</CR-INVALID-ENTRIES-MSI-PATHS>
+		<CR-INVALID-ENTRIES-MUI-REFERENCES>MUI 레퍼런스</CR-INVALID-ENTRIES-MUI-REFERENCES>
+		<CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>정보 파일 형식 없음</CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>
+	</Cleaner>
+	<dlgAddInstalledPrg>
+		<btnCancel>
+			<Caption>취소</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>확인</Caption>
+		</btnOK>
+		<Caption>목록에 프로그램 추가</Caption>
+		<lblBuiltInUninstaller>
+			<Caption>내부 언인스톨러</Caption>
+		</lblBuiltInUninstaller>
+		<lblInstallationFolder>
+			<Caption>폴더에 설치됨</Caption>
+		</lblInstallationFolder>
+		<lblPrgName>
+			<Caption>프로그램 이름</Caption>
+		</lblPrgName>
+	</dlgAddInstalledPrg>
+	<dlgAskDelItem>
+		<btnOK>
+			<Caption>확인(&amp;O)</Caption>
+		</btnOK>
+		<btnSelectAll>
+			<Caption>모두 선택(&amp;S)</Caption>
+		</btnSelectAll>
+		<btnUnselectAll>
+			<Caption>선택 취소(&amp;U)</Caption>
+		</btnUnselectAll>
+		<Caption>항목을 삭제하겠습니까?</Caption>
+		<cbAutoSelectAll>
+			<Caption>모두 자동 선택</Caption>
+		</cbAutoSelectAll>
+		<lblDelSel>
+			<Caption>선택한 항목을 삭제합니다(&amp;I).</Caption>
+		</lblDelSel>
+	</dlgAskDelItem>
+	<dlgAutorunItem>
+		<btnCancel>
+			<Caption>취소</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>확인</Caption>
+		</btnOk>
+		<Caption>자동실행 항목</Caption>
+		<gbStartLocation>
+			<Caption>시작 위치</Caption>
+		</gbStartLocation>
+		<gbUser>
+			<Caption>로그인시 자동 실행</Caption>
+		</gbUser>
+		<lblCommand>
+			<Caption>명령</Caption>
+		</lblCommand>
+		<lblName>
+			<Caption>이름</Caption>
+		</lblName>
+		<rbLogonAnyUser>
+			<Caption>사용자</Caption>
+		</rbLogonAnyUser>
+		<rbLogonCurentUser>
+			<Caption>현재 사용자</Caption>
+		</rbLogonCurentUser>
+		<rbRegRun>
+			<Caption>레지스트리, 로그인시마다 실행</Caption>
+		</rbRegRun>
+		<rbRegRunOnce>
+			<Caption>레지스트리, 다음 로그인시 한번만 실행</Caption>
+		</rbRegRunOnce>
+		<rbStartMenu>
+			<Caption>시작 폴더, 로그인시마다 실행</Caption>
+		</rbStartMenu>
+	</dlgAutorunItem>
+	<dlgChangeIcon>
+		<btnBrowse>
+			<Caption>탐색...</Caption>
+		</btnBrowse>
+		<btnCancel>
+			<Caption>취소</Caption>
+		</btnCancel>
+		<btnClear>
+			<Caption>지우기</Caption>
+		</btnClear>
+		<btnOk>
+			<Caption>확인</Caption>
+		</btnOk>
+		<Caption>아이콘 변경</Caption>
+		<gbIcons>
+			<Caption>아이콘</Caption>
+		</gbIcons>
+	</dlgChangeIcon>
+	<dlgCheckUpdates>
+		<btnClose>
+			<Caption>닫기</Caption>
+		</btnClose>
+		<btnRefresh>
+			<Caption>새로고침</Caption>
+		</btnRefresh>
+		<Caption>업데이트 확인</Caption>
+	</dlgCheckUpdates>
+	<dlgCompareSns>
+		<btnCancel>
+			<Caption>취소</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>확인</Caption>
+		</btnOK>
+		<Caption>시스템 스냅샷 비교</Caption>
+		<lblCompareProfile>
+			<Caption>프로파일비교(&amp;F)</Caption>
+		</lblCompareProfile>
+		<lblResultLog>
+			<Caption>로그 결과</Caption>
+		</lblResultLog>
+		<lblSnapshotA>
+			<Caption>시스템 스냅샷 A</Caption>
+		</lblSnapshotA>
+		<lblSnapshotB>
+			<Caption>시스템 스냅샷 B</Caption>
+		</lblSnapshotB>
+	</dlgCompareSns>
+	<dlgExportRegistry>
+		<btnCancel>
+			<Caption>취소</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>확인</Caption>
+		</btnOk>
+		<Caption>레지스트리 변경사항 내보내기</Caption>
+		<cbCreatedKeys>
+			<Caption>생성된 키</Caption>
+		</cbCreatedKeys>
+		<cbCreatedValues>
+			<Caption>생성된 값</Caption>
+		</cbCreatedValues>
+		<cbDeletedKeys>
+			<Caption>삭제된 키</Caption>
+		</cbDeletedKeys>
+		<cbDeletedValues>
+			<Caption>삭제된 값</Caption>
+		</cbDeletedValues>
+		<cbModifiedValues>
+			<Caption>수정된 값</Caption>
+		</cbModifiedValues>
+		<gbDetails>
+			<Caption>레지스트리 변경</Caption>
+		</gbDetails>
+		<gbExportType>
+			<Caption>내보내기 형식</Caption>
+		</gbExportType>
+		<gbRange>
+			<Caption>내보낼 구역</Caption>
+		</gbRange>
+		<rbExpAll>
+			<Caption>모두</Caption>
+		</rbExpAll>
+		<rbExpBranch>
+			<Caption>선택한 부분</Caption>
+		</rbExpBranch>
+		<rbInstall>
+			<Caption>설치 파일</Caption>
+		</rbInstall>
+		<rbUninstall>
+			<Caption>언인스톨 파일</Caption>
+		</rbUninstall>
+	</dlgExportRegistry>
+	<dlgGroupProp>
+		<btnCancel>
+			<Caption>취소</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>확인</Caption>
+		</btnOk>
+		<Caption>그룹</Caption>
+		<lblIcon>
+			<Caption>아이콘</Caption>
+		</lblIcon>
+		<lblName>
+			<Caption>이름</Caption>
+		</lblName>
+	</dlgGroupProp>
+	<dlgMergeLogs>
+		<btnCancel>
+			<Caption>취소</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>확인</Caption>
+		</btnOK>
+		<Caption>로그 병합</Caption>
+		<cbDeleteUpdate>
+			<Caption>병합 후 갱신 로그 삭제</Caption>
+		</cbDeleteUpdate>
+		<gbDestination>
+			<Caption>대상</Caption>
+		</gbDestination>
+		<gbSources>
+			<Caption>원본</Caption>
+		</gbSources>
+		<lblInstallLog>
+			<Caption>인스톨 로그</Caption>
+		</lblInstallLog>
+		<lblNewName>
+			<Caption>새 이름</Caption>
+		</lblNewName>
+		<lblUpdateLog>
+			<Caption>갱신 로그</Caption>
+		</lblUpdateLog>
+		<rbCreateANewLog>
+			<Caption>새로운 로그 생성</Caption>
+		</rbCreateANewLog>
+		<rbSaveInInstallLog>
+			<Caption>인스톨 로그 저장</Caption>
+		</rbSaveInInstallLog>
+	</dlgMergeLogs>
+	<dlgPendingFileRename>
+		<btnApply>
+			<Caption>적용</Caption>
+		</btnApply>
+		<btnClose>
+			<Caption>닫기</Caption>
+		</btnClose>
+		<Caption>대기중인 파일 이름 변경 작업</Caption>
+		<tvPendingFiles>
+			<Columns_0>원본</Columns_0>
+			<Columns_1>대상</Columns_1>
+		</tvPendingFiles>
+	</dlgPendingFileRename>
+	<dlgRegister>
+		<btnBuy>
+			<Caption>구입</Caption>
+		</btnBuy>
+		<btnCancel>
+			<Caption>취소</Caption>
+		</btnCancel>
+		<btnRegister>
+			<Caption>등록</Caption>
+		</btnRegister>
+		<Caption>Total Uninstall 등록</Caption>
+		<lblKey>
+			<Caption>등록 번호</Caption>
+		</lblKey>
+		<lblName>
+			<Caption>사용자 이름</Caption>
+		</lblName>
+		<ulblLostRegistrationInfo>
+			<Caption>등록 정보를 분실 했습니다.</Caption>
+		</ulblLostRegistrationInfo>
+	</dlgRegister>
+	<dlgRestrictedFeature>
+		<btnCancel>
+			<Caption>취소</Caption>
+		</btnCancel>
+		<Caption>제한된 기능</Caption>
+		<clinkPurchase>
+			<Caption>구입</Caption>
+			<Note>구입 폼 열기</Note>
+		</clinkPurchase>
+		<lblInstruction>
+			<Caption>이 기능은 등록 버전에서 사용 가능 합니다.</Caption>
+		</lblInstruction>
+		<lblProfessionalEdition>
+			<Caption>- 프로 버전</Caption>
+		</lblProfessionalEdition>
+	</dlgRestrictedFeature>
+	<dlgRmvShared>
+		<btnNo>
+			<Caption>아니오</Caption>
+		</btnNo>
+		<btnNoToAll>
+			<Caption>모두 아니오</Caption>
+		</btnNoToAll>
+		<btnYes>
+			<Caption>예</Caption>
+		</btnYes>
+		<btnYesToAll>
+			<Caption>모두 예</Caption>
+		</btnYesToAll>
+		<Caption>공유 파일을 삭제하겠습니까?</Caption>
+		<lblFileName>
+			<Caption>파일 이름:</Caption>
+		</lblFileName>
+		<lblLocated>
+			<Caption>위치:</Caption>
+		</lblLocated>
+		<lblOne>
+			<Caption>다음 공유 파일은 다른 프로그램에서 더이상 사용하지 않음을 확인했습니다. 만일 파일을 삭제한 후에도 다른 프로그램에서 계속 사용한다면, 해당 프로그램의 정상 실행 여부는 보장할 수 없습니다. 공유 파일을 정말 삭제하겠습니까?</Caption>
+		</lblOne>
+		<lblTwo>
+			<Caption>파일을 그대로 두어도 사용자의 시스템에는 해가되지 않습니다. 어떻게 해야할지 잘 모르겠다면, 해당 공유 파일을 삭제하지 않음을 선택하는 것을 권장합니다.</Caption>
+		</lblTwo>
+	</dlgRmvShared>
+	<dlgSelect>
+		<btnCancel>
+			<Caption>취소</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>확인</Caption>
+		</btnOk>
+		<Caption>선택</Caption>
+	</dlgSelect>
+	<dlgSelectLibIcon>
+		<btnAdd>
+			<Caption>추가</Caption>
+		</btnAdd>
+		<btnCancel>
+			<Caption>취소</Caption>
+		</btnCancel>
+		<btnDelete>
+			<Caption>삭제</Caption>
+		</btnDelete>
+		<btnOk>
+			<Caption>확인</Caption>
+		</btnOk>
+		<Caption>아이콘 선택</Caption>
+		<gbIcons>
+			<Caption>아이콘</Caption>
+		</gbIcons>
+	</dlgSelectLibIcon>
+	<dlgSysBrowser>
+		<btnCancel>
+			<Caption>취소(&amp;C)</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>확인(&amp;O)</Caption>
+		</btnOk>
+		<lblExpanded>
+			<Caption>확장됨</Caption>
+		</lblExpanded>
+	</dlgSysBrowser>
+	<dlgTUAbout>
+		<btnOK>
+			<Caption>확인</Caption>
+		</btnOK>
+		<Caption>정보</Caption>
+		<lblCopyright>
+			<Caption>Copyright © 2001-2019, Gavrila Martau</Caption>
+		</lblCopyright>
+		<lblEmail>
+			<Caption>이메일</Caption>
+		</lblEmail>
+		<lblHomePage>
+			<Caption>홈페이지</Caption>
+		</lblHomePage>
+		<ulblBuyUpgrade>
+			<Caption>업그레이드 구입</Caption>
+		</ulblBuyUpgrade>
+		<ulblDownload>
+			<Caption>최신 무료 업데이트 다운로드</Caption>
+		</ulblDownload>
+	</dlgTUAbout>
+	<dlgTunBackup>
+		<btnCancel>
+			<Caption>취소</Caption>
+		</btnCancel>
+		<btnCopy>
+			<Caption>복사...</Caption>
+		</btnCopy>
+		<btnCreate>
+			<Caption>생성</Caption>
+		</btnCreate>
+		<lblArchiving>
+			<Caption>파일과 레지스트리 항목 압축 중...</Caption>
+		</lblArchiving>
+		<lblCreateBackup>
+			<Caption>프로그램 백업 생성</Caption>
+		</lblCreateBackup>
+		<lblFilesNotIncluded>
+			<Caption>백업에 포함 되지 않은 파일들</Caption>
+		</lblFilesNotIncluded>
+	</dlgTunBackup>
+	<dlgTunRestore>
+		<btnImport>
+			<Caption>가져오기</Caption>
+		</btnImport>
+		<cbRestoreOnlyLog>
+			<Caption>설치 로그만 복구</Caption>
+		</cbRestoreOnlyLog>
+		<lblFilesNotIncluded>
+			<Caption>실행되지 않음</Caption>
+		</lblFilesNotIncluded>
+		<lblRestoreProfile>
+			<Caption>프로파일 복구</Caption>
+		</lblRestoreProfile>
+		<lblRestoreProgram>
+			<Caption>복구할 프로그램 선택</Caption>
+		</lblRestoreProgram>
+		<lblUndoRestoration>
+			<Caption>되돌리기할 복구 선택</Caption>
+		</lblUndoRestoration>
+		<pmiCopyTo>
+			<Caption>복사...</Caption>
+		</pmiCopyTo>
+		<pmiDelete>
+			<Caption>삭제</Caption>
+		</pmiDelete>
+	</dlgTunRestore>
+	<dlgTUOptions>
+		<btnAddAnalysisProfile>
+			<Caption>추가...</Caption>
+		</btnAddAnalysisProfile>
+		<btnAddAutorunView>
+			<Caption>추가...</Caption>
+		</btnAddAutorunView>
+		<btnAddChgView>
+			<Caption>추가...</Caption>
+		</btnAddChgView>
+		<btnAddCleaner>
+			<Caption>추가...</Caption>
+		</btnAddCleaner>
+		<btnAddCompareProfile>
+			<Caption>추가...</Caption>
+		</btnAddCompareProfile>
+		<btnAddExclFlds>
+			<Caption>추가...</Caption>
+		</btnAddExclFlds>
+		<btnAddExclKey>
+			<Caption>추가...</Caption>
+		</btnAddExclKey>
+		<btnAddExcludeProduct>
+			<Caption>추가...</Caption>
+		</btnAddExcludeProduct>
+		<btnAddExcludePublisher>
+			<Caption>추가...</Caption>
+		</btnAddExcludePublisher>
+		<btnAddIgnChgFs>
+			<Caption>추가..</Caption>
+		</btnAddIgnChgFs>
+		<btnAddIgnChgReg>
+			<Caption>추가..</Caption>
+		</btnAddIgnChgReg>
+		<btnAddIgnFile>
+			<Caption>추가...</Caption>
+		</btnAddIgnFile>
+		<btnAddInclFlds>
+			<Caption>추가...</Caption>
+		</btnAddInclFlds>
+		<btnAddInclKeys>
+			<Caption>추가...</Caption>
+		</btnAddInclKeys>
+		<btnAddIncludeProduct>
+			<Caption>추가...</Caption>
+		</btnAddIncludeProduct>
+		<btnAddIncludePublisher>
+			<Caption>추가...</Caption>
+		</btnAddIncludePublisher>
+		<btnAddInstallLoc>
+			<Caption>추가...</Caption>
+		</btnAddInstallLoc>
+		<btnAddProtectedFld>
+			<Caption>추가...</Caption>
+		</btnAddProtectedFld>
+		<btnAddProtectedKey>
+			<Caption>추가...</Caption>
+		</btnAddProtectedKey>
+		<btnAddRedo>
+			<Caption>추가...</Caption>
+		</btnAddRedo>
+		<btnAddScanProfile>
+			<Caption>추가...</Caption>
+		</btnAddScanProfile>
+		<btnAddUninst>
+			<Caption>추가...</Caption>
+		</btnAddUninst>
+		<btnAddUninstInst>
+			<Caption>추가...</Caption>
+		</btnAddUninstInst>
+		<btnAddValue>
+			<Caption>추가...</Caption>
+		</btnAddValue>
+		<btnAddVer>
+			<Caption>추가...</Caption>
+		</btnAddVer>
+		<btnAgentAddExcMask>
+			<Caption>추가...</Caption>
+		</btnAgentAddExcMask>
+		<btnAgentAddIncMask>
+			<Caption>추가...</Caption>
+		</btnAgentAddIncMask>
+		<btnAgentRemExcMask>
+			<Caption>제거</Caption>
+		</btnAgentRemExcMask>
+		<btnAgentRemIncMask>
+			<Caption>제거</Caption>
+		</btnAgentRemIncMask>
+		<btnAnlSaveAs>
+			<Caption>다른 이름으로 저장</Caption>
+		</btnAnlSaveAs>
+		<btnAutorunViewSaveAs>
+			<Caption>다른 이름 으로 저장...</Caption>
+		</btnAutorunViewSaveAs>
+		<btnCancel>
+			<Caption>취소</Caption>
+		</btnCancel>
+		<btnChgViewSaveAs>
+			<Caption>다른 이름으로 저장...</Caption>
+		</btnChgViewSaveAs>
+		<btnCleanerSaveAs>
+			<Caption>다른이름으로 저장...</Caption>
+		</btnCleanerSaveAs>
+		<btnClnAddExclFs>
+			<Caption>추가...</Caption>
+		</btnClnAddExclFs>
+		<btnClnAddExclRegistry>
+			<Caption>추가...</Caption>
+		</btnClnAddExclRegistry>
+		<btnClnEditExclFs>
+			<Caption>편집...</Caption>
+		</btnClnEditExclFs>
+		<btnClnEditExclRegistry>
+			<Caption>편집...</Caption>
+		</btnClnEditExclRegistry>
+		<btnClnRemExclFs>
+			<Caption>제거</Caption>
+		</btnClnRemExclFs>
+		<btnClnRemExclRegistry>
+			<Caption>저거</Caption>
+		</btnClnRemExclRegistry>
+		<btnCompPlaySound>
+			<Caption>테스트</Caption>
+		</btnCompPlaySound>
+		<btnCompSaveAs>
+			<Caption>다른 이름으로 저장...</Caption>
+		</btnCompSaveAs>
+		<btnEditExclFlds>
+			<Caption>편집...</Caption>
+		</btnEditExclFlds>
+		<btnEditExclKeys>
+			<Caption>편집...</Caption>
+		</btnEditExclKeys>
+		<btnEditIgnChgFs>
+			<Caption>편집...</Caption>
+		</btnEditIgnChgFs>
+		<btnEditIgnChgReg>
+			<Caption>편집...</Caption>
+		</btnEditIgnChgReg>
+		<btnEditIgnFile>
+			<Caption>편집...</Caption>
+		</btnEditIgnFile>
+		<btnEditIgnValues>
+			<Caption>편집...</Caption>
+		</btnEditIgnValues>
+		<btnEditProtectedFld>
+			<Caption>편집...</Caption>
+		</btnEditProtectedFld>
+		<btnEditProtectedKey>
+			<Caption>편집...</Caption>
+		</btnEditProtectedKey>
+		<btnOK>
+			<Caption>확인</Caption>
+		</btnOK>
+		<btnRedoSaveAs>
+			<Caption>다른 이름으로 저장</Caption>
+		</btnRedoSaveAs>
+		<btnRemAnalysisProfile>
+			<Caption>제거...</Caption>
+		</btnRemAnalysisProfile>
+		<btnRemAutorunView>
+			<Caption>제거...</Caption>
+		</btnRemAutorunView>
+		<btnRemChgView>
+			<Caption>제거...</Caption>
+		</btnRemChgView>
+		<btnRemCleaner>
+			<Caption>제거...</Caption>
+		</btnRemCleaner>
+		<btnRemCompareProfile>
+			<Caption>제거...</Caption>
+		</btnRemCompareProfile>
+		<btnRemExclFlds>
+			<Caption>제거</Caption>
+		</btnRemExclFlds>
+		<btnRemExclKeys>
+			<Caption>제거</Caption>
+		</btnRemExclKeys>
+		<btnRemExcludeProduct>
+			<Caption>제거</Caption>
+		</btnRemExcludeProduct>
+		<btnRemExcludePublisher>
+			<Caption>제거</Caption>
+		</btnRemExcludePublisher>
+		<btnRemIgnChgFs>
+			<Caption>제거...</Caption>
+		</btnRemIgnChgFs>
+		<btnRemIgnChgReg>
+			<Caption>제거...</Caption>
+		</btnRemIgnChgReg>
+		<btnRemIgnFile>
+			<Caption>제거</Caption>
+		</btnRemIgnFile>
+		<btnRemInclFlds>
+			<Caption>제거</Caption>
+		</btnRemInclFlds>
+		<btnRemInclKeys>
+			<Caption>제거</Caption>
+		</btnRemInclKeys>
+		<btnRemIncludeProduct>
+			<Caption>제거</Caption>
+		</btnRemIncludeProduct>
+		<btnRemIncludePublisher>
+			<Caption>제거</Caption>
+		</btnRemIncludePublisher>
+		<btnRemoveInstallLoc>
+			<Caption>제거</Caption>
+		</btnRemoveInstallLoc>
+		<btnRemoveRedo>
+			<Caption>지우기...</Caption>
+		</btnRemoveRedo>
+		<btnRemProtectedFld>
+			<Caption>제거</Caption>
+		</btnRemProtectedFld>
+		<btnRemProtectedKey>
+			<Caption>제거</Caption>
+		</btnRemProtectedKey>
+		<btnRemScanProfile>
+			<Caption>제거...</Caption>
+		</btnRemScanProfile>
+		<btnRemUninst>
+			<Caption>제거...</Caption>
+		</btnRemUninst>
+		<btnRemUninstInst>
+			<Caption>제거...</Caption>
+		</btnRemUninstInst>
+		<btnRemValues>
+			<Caption>제거</Caption>
+		</btnRemValues>
+		<btnRemVer>
+			<Caption>제거</Caption>
+		</btnRemVer>
+		<btnResetAll>
+			<Caption>모두 초기화</Caption>
+		</btnResetAll>
+		<btnScanPlaySound>
+			<Caption>테스트</Caption>
+		</btnScanPlaySound>
+		<btnScanSaveAs>
+			<Caption>다른 이름으로 저장...</Caption>
+		</btnScanSaveAs>
+		<btnUninstSaveAs>
+			<Caption>다른 이름으로 저장...</Caption>
+		</btnUninstSaveAs>
+		<Caption>환경 설정</Caption>
+		<cbAnlProfileDefault>
+			<Caption>기본값</Caption>
+		</cbAnlProfileDefault>
+		<cbAutorunDefault>
+			<Caption>기본</Caption>
+		</cbAutorunDefault>
+		<cbAutoStart>
+			<Caption>윈도우즈 시작시 안 끝난 모니터링 작업을 자동으로 시작합니다</Caption>
+		</cbAutoStart>
+		<cbBackup>
+			<Caption>언인스톨 한 프로그램 백업</Caption>
+		</cbBackup>
+		<cbChgViewDefault>
+			<Caption>기본값</Caption>
+		</cbChgViewDefault>
+		<cbCleanerDefault>
+			<Caption>기본</Caption>
+		</cbCleanerDefault>
+		<cbCleanerEnable>
+			<Caption>클리너 모듈 사용</Caption>
+		</cbCleanerEnable>
+		<cbClickRestore>
+			<Caption>한번 클릭으로 복구</Caption>
+		</cbClickRestore>
+		<cbCompareRegistry>
+			<Caption>레지스트리 비교</Caption>
+		</cbCompareRegistry>
+		<cbCompFiles>
+			<Caption>파일 비교</Caption>
+		</cbCompFiles>
+		<cbCompPlaySound>
+			<Caption>작업 종료시 효과음 재생</Caption>
+		</cbCompPlaySound>
+		<cbCompProfileDefault>
+			<Caption>기본값</Caption>
+		</cbCompProfileDefault>
+		<cbCompProfileFrozen>
+			<Caption>잠그기</Caption>
+		</cbCompProfileFrozen>
+		<cbComputeMD5>
+			<Caption>신규 파일을 위한 MD5 계산</Caption>
+		</cbComputeMD5>
+		<cbCreateKeys>
+			<Caption>삭제된 키 만들기</Caption>
+		</cbCreateKeys>
+		<cbCreateValues>
+			<Caption>삭제된 값 만들기</Caption>
+		</cbCreateValues>
+		<cbCustomSnsName>
+			<Caption>스냅샷 이름 사용자 정의 허용</Caption>
+		</cbCustomSnsName>
+		<cbDecrement>
+			<Caption>감소한 공유 파일 카운터</Caption>
+		</cbDecrement>
+		<cbDelFiles>
+			<Caption>생성된 파일 삭제 (공유 파일 카운터 횟수가  0인 경우에만)</Caption>
+		</cbDelFiles>
+		<cbDelFolders>
+			<Caption>생성된 폴더 삭제</Caption>
+		</cbDelFolders>
+		<cbDelKeys>
+			<Caption>생성된 키 삭제</Caption>
+		</cbDelKeys>
+		<cbDelUseRecycle>
+			<Caption>휴지통 사용</Caption>
+		</cbDelUseRecycle>
+		<cbDelValues>
+			<Caption>생성된 값 삭제</Caption>
+		</cbDelValues>
+		<cbDontUseLog>
+			<Caption>감지된 변경 로그 사용 않기</Caption>
+		</cbDontUseLog>
+		<cbEnableAgent>
+			<Caption>Total Uninstall 도우미 사용</Caption>
+		</cbEnableAgent>
+		<cbExtractFileVersion>
+			<Caption>파일 버전 정보 풀기</Caption>
+		</cbExtractFileVersion>
+		<cbExtractLastWriteTime>
+			<Caption>현재 칸의 마지막 써진 시간 내보내기</Caption>
+		</cbExtractLastWriteTime>
+		<cbHexViewerNot64Bit>
+			<Caption>Not 64-bit aware</Caption>
+		</cbHexViewerNot64Bit>
+		<cbIgnoreMissingItems>
+			<Caption>빠진 항목 무시</Caption>
+		</cbIgnoreMissingItems>
+		<cbInstPrgsEnable>
+			<Caption>설치된 프로그램 모듈 사용</Caption>
+		</cbInstPrgsEnable>
+		<cbMinToTray>
+			<Caption>트레이로 최소화</Caption>
+		</cbMinToTray>
+		<cbMonPrgsEnable>
+			<Caption>감시된 프로그램 모듈 사용</Caption>
+		</cbMonPrgsEnable>
+		<cbRedoCreateFiles>
+			<Caption>생성된 파일 복구</Caption>
+		</cbRedoCreateFiles>
+		<cbRedoCreateFilesOvr>
+			<Caption>파일 덮어쓰기</Caption>
+		</cbRedoCreateFilesOvr>
+		<cbRedoCreateFilesOvrLck>
+			<Caption>잠긴 파일 덮어쓰기</Caption>
+		</cbRedoCreateFilesOvrLck>
+		<cbRedoCreateFolders>
+			<Caption>생성된 폴더 복구</Caption>
+		</cbRedoCreateFolders>
+		<cbRedoCreateKeys>
+			<Caption>생성된 키 복구</Caption>
+		</cbRedoCreateKeys>
+		<cbRedoCreateUndo>
+			<Caption>되돌리기 정보 생성</Caption>
+		</cbRedoCreateUndo>
+		<cbRedoCreateValues>
+			<Caption>생성된 값 복구</Caption>
+		</cbRedoCreateValues>
+		<cbRedoDefault>
+			<Caption>기본</Caption>
+		</cbRedoDefault>
+		<cbRedoDeleteFiles>
+			<Caption>파일 삭제</Caption>
+		</cbRedoDeleteFiles>
+		<cbRedoDeleteFolders>
+			<Caption>폴더 삭제</Caption>
+		</cbRedoDeleteFolders>
+		<cbRedoDeleteKeys>
+			<Caption>키 삭제</Caption>
+		</cbRedoDeleteKeys>
+		<cbRedoDeleteValues>
+			<Caption>값 삭제</Caption>
+		</cbRedoDeleteValues>
+		<cbRedoEnabled>
+			<Caption>사용함</Caption>
+		</cbRedoEnabled>
+		<cbRedoModifyFiles>
+			<Caption>수정된 파일들 복구</Caption>
+		</cbRedoModifyFiles>
+		<cbRedoModifyFilesLck>
+			<Caption>잠긴 파일들 덮어쓰기</Caption>
+		</cbRedoModifyFilesLck>
+		<cbRedoModifyValues>
+			<Caption>수정된 값 복구하기</Caption>
+		</cbRedoModifyValues>
+		<cbRedoSysRestore>
+			<Caption>복구 전에 시스템 복구 시점 생성</Caption>
+		</cbRedoSysRestore>
+		<cbRestoreValues>
+			<Caption>변경된 값 복원</Caption>
+		</cbRestoreValues>
+		<cbRstFileCreated>
+			<Caption>파일 생성한 날짜 복원</Caption>
+		</cbRstFileCreated>
+		<cbScanForAds>
+			<Caption>다른 데이타 스트림 스캔</Caption>
+		</cbScanForAds>
+		<cbScanPlaySound>
+			<Caption>작업 종료시 효과음 재생</Caption>
+		</cbScanPlaySound>
+		<cbScanProfileDefault>
+			<Caption>기본값</Caption>
+		</cbScanProfileDefault>
+		<cbScanProfileFrozen>
+			<Caption>잠그기</Caption>
+		</cbScanProfileFrozen>
+		<cbShell>
+			<Caption>탐색기 쉘 메뉴에 Total Uninstall 연결</Caption>
+		</cbShell>
+		<cbShowAfter>
+			<Caption>이후 칼럼</Caption>
+		</cbShowAfter>
+		<cbShowBefore>
+			<Caption>이전 칼럼</Caption>
+		</cbShowBefore>
+		<cbShowBinAsText>
+			<Caption>이진 값을 텍스트로 표시</Caption>
+		</cbShowBinAsText>
+		<cbShowChanged>
+			<Caption>변경된 항목만 보기</Caption>
+		</cbShowChanged>
+		<cbShowCreated>
+			<Caption>생성된 항목만 보기</Caption>
+		</cbShowCreated>
+		<cbShowCurrent>
+			<Caption>현재 칸</Caption>
+		</cbShowCurrent>
+		<cbShowDataSize>
+			<Caption>데이타 크기</Caption>
+		</cbShowDataSize>
+		<cbShowDataType>
+			<Caption>데이타 형식</Caption>
+		</cbShowDataType>
+		<cbShowDateCreated>
+			<Caption>만든 날짜</Caption>
+		</cbShowDateCreated>
+		<cbShowDateModified>
+			<Caption>수정한 날짜</Caption>
+		</cbShowDateModified>
+		<cbShowDeleted>
+			<Caption>삭제된 항목</Caption>
+		</cbShowDeleted>
+		<cbShowFileAttrib>
+			<Caption>파일 속성</Caption>
+		</cbShowFileAttrib>
+		<cbShowFileSize>
+			<Caption>파일 크기</Caption>
+		</cbShowFileSize>
+		<cbShowFileVersion>
+			<Caption>파일 버전</Caption>
+		</cbShowFileVersion>
+		<cbShowMD5>
+			<Caption>신규 파일 MD5 합계</Caption>
+		</cbShowMD5>
+		<cbSmartAdjustAnalysisLevel>
+			<Caption>분석 깊이 스마트 조절</Caption>
+		</cbSmartAdjustAnalysisLevel>
+		<cbSysRestore>
+			<Caption>언인스톨 전에 시스템 복구 포인트 생성</Caption>
+		</cbSysRestore>
+		<cbSystemFilesAdditional>
+			<Caption>추가 분석</Caption>
+		</cbSystemFilesAdditional>
+		<cbTxtViewerNot64Bit>
+			<Caption>Not 64-bit aware</Caption>
+		</cbTxtViewerNot64Bit>
+		<cbUninstDefault>
+			<Caption>기본값</Caption>
+		</cbUninstDefault>
+		<cbUninstEnabled>
+			<Caption>사용</Caption>
+		</cbUninstEnabled>
+		<cbUseUninstaller>
+			<Caption>일단 제공된 언인스톨러 사용</Caption>
+		</cbUseUninstaller>
+		<cmbUpdateFrequency>
+			<Items>매일\n매주\n매월</Items>
+		</cmbUpdateFrequency>
+		<cmbUpdateMethod>
+			<Items>수동\n알리미\n자동</Items>
+		</cmbUpdateMethod>
+		<gbAgentMasks>
+			<Caption>설치 프로그램 파일 이름 마스크</Caption>
+		</gbAgentMasks>
+		<gbClnExcludeFs>
+			<Caption>폴더와 파일 제외</Caption>
+		</gbClnExcludeFs>
+		<gbClnExcludeRegistry>
+			<Caption>레지스트리 키와 값 제외</Caption>
+		</gbClnExcludeRegistry>
+		<gbCompareIgnChgReg>
+			<Caption>변경된 항목 무시</Caption>
+		</gbCompareIgnChgReg>
+		<gbCompareIgnKeys>
+			<Caption>키 / 값 무시</Caption>
+		</gbCompareIgnKeys>
+		<gbCompIgnChgFs>
+			<Caption>변경된 항목 무시</Caption>
+		</gbCompIgnChgFs>
+		<gbCompIgnoreFld>
+			<Caption>폴더 / 파일 무시</Caption>
+		</gbCompIgnoreFld>
+		<gbExcludeProducts>
+			<Caption>제품 제외</Caption>
+		</gbExcludeProducts>
+		<gbExcludePublishers>
+			<Caption>퍼블리셔 제외</Caption>
+		</gbExcludePublishers>
+		<gbFileExtensions>
+			<Caption>버전 정보를 포함한 파일 확장자</Caption>
+		</gbFileExtensions>
+		<gbIncludeProducts>
+			<Caption>제품 추가</Caption>
+		</gbIncludeProducts>
+		<gbIncludePublishers>
+			<Caption>퍼블리셔 추가</Caption>
+		</gbIncludePublishers>
+		<gbInstallLoc>
+			<Caption>설치 위치</Caption>
+		</gbInstallLoc>
+		<gbInstallLocation>
+			<Caption>설치 위치 감지</Caption>
+		</gbInstallLocation>
+		<gbLimits>
+			<Caption>스냅샷 폴더 한계</Caption>
+		</gbLimits>
+		<gbPrgData>
+			<Caption>프로그램 데이타 감지</Caption>
+		</gbPrgData>
+		<gbPrgSettings>
+			<Caption>프로그램 설정 감지</Caption>
+		</gbPrgSettings>
+		<gbPrgShortcuts>
+			<Caption>프로그램 바로가기 감지</Caption>
+		</gbPrgShortcuts>
+		<gbProtectedFolders>
+			<Caption>보호된 폴더</Caption>
+		</gbProtectedFolders>
+		<gbProtectedKeys>
+			<Caption>보호된 키</Caption>
+		</gbProtectedKeys>
+		<gbRegEditor>
+			<Caption>레지스트리 편집기</Caption>
+		</gbRegEditor>
+		<gbRegScanner>
+			<Caption>레지스트리 스캐너</Caption>
+		</gbRegScanner>
+		<gbScanExclFolders>
+			<Caption>제외한 폴더</Caption>
+		</gbScanExclFolders>
+		<gbScanExclKeys>
+			<Caption>제외한 키</Caption>
+		</gbScanExclKeys>
+		<gbScanInclFolders>
+			<Caption>포함한 폴더</Caption>
+		</gbScanInclFolders>
+		<gbScanInclKeys>
+			<Caption>포함한 키</Caption>
+		</gbScanInclKeys>
+		<gbShellIntegration>
+			<Caption>쉘 확장 감지</Caption>
+		</gbShellIntegration>
+		<gbSystemFiles>
+			<Caption>시스템 파일 감지</Caption>
+		</gbSystemFiles>
+		<gbTranslation>
+			<Caption>번역인</Caption>
+		</gbTranslation>
+		<grpExistingViewStyle>
+			<Caption>시스템에 존재하는 항목</Caption>
+		</grpExistingViewStyle>
+		<grpMissingViewStyle>
+			<Caption>시스템에서 빠진 항목</Caption>
+		</grpMissingViewStyle>
+		<lblAdvanced1>
+			<Caption>고급</Caption>
+		</lblAdvanced1>
+		<lblAdvanced2>
+			<Caption>고급</Caption>
+		</lblAdvanced2>
+		<lblAdvanced3>
+			<Caption>고급</Caption>
+		</lblAdvanced3>
+		<lblAdvanced4>
+			<Caption>고급</Caption>
+		</lblAdvanced4>
+		<lblAdvanced5>
+			<Caption>고급</Caption>
+		</lblAdvanced5>
+		<lblAdvanced6>
+			<Caption>고급</Caption>
+		</lblAdvanced6>
+		<lblAgentExcludeMask>
+			<Caption>제외</Caption>
+		</lblAgentExcludeMask>
+		<lblAgentIncludeMask>
+			<Caption>포함</Caption>
+		</lblAgentIncludeMask>
+		<lblAnalysisProfiles>
+			<Caption>프로파일 분석</Caption>
+		</lblAnalysisProfiles>
+		<lblAnlProfileDesc>
+			<Caption>설명</Caption>
+		</lblAnlProfileDesc>
+		<lblAnlProfileName>
+			<Caption>이름</Caption>
+		</lblAnlProfileName>
+		<lblAutorunViewName>
+			<Caption>이름</Caption>
+		</lblAutorunViewName>
+		<lblAutorunViews>
+			<Caption>자동실행 보기</Caption>
+		</lblAutorunViews>
+		<lblBackupLimiFolderSize>
+			<Caption>폴더 크기 제한 (MB)</Caption>
+		</lblBackupLimiFolderSize>
+		<lblChageViewName>
+			<Caption>이름</Caption>
+		</lblChageViewName>
+		<lblChangeViews>
+			<Caption>보기 방법 변경</Caption>
+		</lblChangeViews>
+		<lblCheckUpdateMethod>
+			<Caption>업데이트 확인 방법</Caption>
+		</lblCheckUpdateMethod>
+		<lblCheckUpdatesFrequency>
+			<Caption>주기</Caption>
+		</lblCheckUpdatesFrequency>
+		<lblCleanerDescription>
+			<Caption>설명</Caption>
+		</lblCleanerDescription>
+		<lblCleanerName>
+			<Caption>이름</Caption>
+		</lblCleanerName>
+		<lblCleaners>
+			<Caption>청소기</Caption>
+		</lblCleaners>
+		<lblCompareProfileDesc>
+			<Caption>설명</Caption>
+		</lblCompareProfileDesc>
+		<lblCompareProfileName>
+			<Caption>이름</Caption>
+		</lblCompareProfileName>
+		<lblFolderSize>
+			<Caption>폴더 크기 (MB)</Caption>
+		</lblFolderSize>
+		<lblHexViewer>
+			<Caption>HEX 편집기</Caption>
+		</lblHexViewer>
+		<lblLanguage>
+			<Caption>언어 선택</Caption>
+		</lblLanguage>
+		<lblNone1>
+			<Caption>없음</Caption>
+		</lblNone1>
+		<lblNone2>
+			<Caption>없음</Caption>
+		</lblNone2>
+		<lblNone3>
+			<Caption>없음</Caption>
+		</lblNone3>
+		<lblNone4>
+			<Caption>없음</Caption>
+		</lblNone4>
+		<lblNone5>
+			<Caption>없음</Caption>
+		</lblNone5>
+		<lblNone6>
+			<Caption>없음</Caption>
+		</lblNone6>
+		<lblProgramDataPath>
+			<Caption>프로그램 데이타 경로</Caption>
+		</lblProgramDataPath>
+		<lblRedoDescription>
+			<Caption>설명</Caption>
+		</lblRedoDescription>
+		<lblRedoName>
+			<Caption>이름</Caption>
+		</lblRedoName>
+		<lblRedoProfiles>
+			<Caption>프로파일 복구</Caption>
+		</lblRedoProfiles>
+		<lblScanningProfiles>
+			<Caption>검색 프로파일</Caption>
+		</lblScanningProfiles>
+		<lblScanProfileDesc>
+			<Caption>설명</Caption>
+		</lblScanProfileDesc>
+		<lblScanProfileName>
+			<Caption>이름</Caption>
+		</lblScanProfileName>
+		<lblSimultaneousTasks>
+			<Caption>동시 작업</Caption>
+		</lblSimultaneousTasks>
+		<lblSnsCompareProfiles>
+			<Caption>스냅샷 비교 프로파일</Caption>
+		</lblSnsCompareProfiles>
+		<lblSnsCount>
+			<Caption>스냅샷 수</Caption>
+		</lblSnsCount>
+		<lblTranslatedBy1>
+			<Caption>Translated by JH</Caption>
+		</lblTranslatedBy1>
+		<lblTranslatedBy2>
+			<Caption>홈페이지: www.martau.com</Caption>
+		</lblTranslatedBy2>
+		<lblTranslatedBy3>
+			<Caption>Email : bwk0111@gmail.com</Caption>
+		</lblTranslatedBy3>
+		<lblTxtViewer>
+			<Caption>문서 편집기</Caption>
+		</lblTxtViewer>
+		<lblUninstallProfiles>
+			<Caption>프로파일 언인스톨</Caption>
+		</lblUninstallProfiles>
+		<lblUninstallProfilesInst>
+			<Caption>프로파일 언인스톨</Caption>
+		</lblUninstallProfilesInst>
+		<lblUninstDesc>
+			<Caption>설명</Caption>
+		</lblUninstDesc>
+		<lblUninstName>
+			<Caption>이름</Caption>
+		</lblUninstName>
+		<lblUninstRemoveLog>
+			<Caption>삭제된 프로그램 목록에서 제거</Caption>
+		</lblUninstRemoveLog>
+		<lblUserInteraction>
+			<Caption>첫 번째 사용 가능한 내장 제거 사용자 상호 작용을 사용</Caption>
+		</lblUserInteraction>
+		<rbDialog>
+			<Caption>대화창으로 표시</Caption>
+		</rbDialog>
+		<rbOtherRegEdit>
+			<Caption>기타</Caption>
+		</rbOtherRegEdit>
+		<rbTrayBaloon>
+			<Caption>트레이에서 풍선 도움말로 표시</Caption>
+		</rbTrayBaloon>
+		<rbWinRegEdit>
+			<Caption>윈도우즈 레지스트리 편집기</Caption>
+		</rbWinRegEdit>
+		<rgAgentNotif>
+			<Caption>설치 프로그램 알리미 실행</Caption>
+		</rgAgentNotif>
+		<tabAnlFileSystem>
+			<Caption>파일 시스템</Caption>
+		</tabAnlFileSystem>
+		<tabAnlGeneral>
+			<Caption>일반</Caption>
+		</tabAnlGeneral>
+		<tabAutorunViewGeneral>
+			<Caption>일반</Caption>
+		</tabAutorunViewGeneral>
+		<tabAutorunViewView>
+			<Caption>보기</Caption>
+		</tabAutorunViewView>
+		<tabChageViewFileSystem>
+			<Caption>파일 시스템</Caption>
+		</tabChageViewFileSystem>
+		<tabChageViewGeneral>
+			<Caption>일반</Caption>
+		</tabChageViewGeneral>
+		<tabChageViewRegistry>
+			<Caption>레지스트리</Caption>
+		</tabChageViewRegistry>
+		<tabChageViewView>
+			<Caption>보기</Caption>
+		</tabChageViewView>
+		<tabCleanerFileSystem>
+			<Caption>파일 시스템</Caption>
+		</tabCleanerFileSystem>
+		<tabCleanerGen>
+			<Caption>일반</Caption>
+		</tabCleanerGen>
+		<tabCleanerReg>
+			<Caption>레지스트리</Caption>
+		</tabCleanerReg>
+		<tabCmpProfileFileSys>
+			<Caption>파일 시스템</Caption>
+		</tabCmpProfileFileSys>
+		<tabCompareProfileGen>
+			<Caption>일반</Caption>
+		</tabCompareProfileGen>
+		<tabCompareProfileReg>
+			<Caption>레지스트리</Caption>
+		</tabCompareProfileReg>
+		<tabRedoAdvanced>
+			<Caption>고급</Caption>
+		</tabRedoAdvanced>
+		<tabRedoFileSystem>
+			<Caption>파일 시스템</Caption>
+		</tabRedoFileSystem>
+		<tabRedoGeneral>
+			<Caption>일반</Caption>
+		</tabRedoGeneral>
+		<tabRedoRegistry>
+			<Caption>레지스트리</Caption>
+		</tabRedoRegistry>
+		<tabScanProfileFolders>
+			<Caption>폴더</Caption>
+		</tabScanProfileFolders>
+		<tabScanProfileGeneral>
+			<Caption>일반</Caption>
+		</tabScanProfileGeneral>
+		<tabScanProfileRegistry>
+			<Caption>레지스트리</Caption>
+		</tabScanProfileRegistry>
+		<tabUninstAdv>
+			<Caption>고급</Caption>
+		</tabUninstAdv>
+		<tabUninstFS>
+			<Caption>파일 시스템</Caption>
+		</tabUninstFS>
+		<tabUninstGeneral>
+			<Caption>일반</Caption>
+		</tabUninstGeneral>
+		<tabUninstRegistry>
+			<Caption>레지스트리</Caption>
+		</tabUninstRegistry>
+		<tblAnlRegistry>
+			<Caption>레지스트리</Caption>
+		</tblAnlRegistry>
+	</dlgTUOptions>
+	<dlgUninstall>
+		<btnBringToFront>
+			<Caption>앞으로 이동</Caption>
+		</btnBringToFront>
+		<btnCancel>
+			<Caption>취소</Caption>
+		</btnCancel>
+		<btnUninstall>
+			<Caption>언인스톨</Caption>
+		</btnUninstall>
+		<lblCreatingRestorePnt>
+			<Caption>시스템 복구 지점 생성중...</Caption>
+		</lblCreatingRestorePnt>
+		<lblProfile>
+			<Caption>설치 제거 프로파일 선택</Caption>
+		</lblProfile>
+		<lblUninstalling>
+			<Caption>삭제중...</Caption>
+		</lblUninstalling>
+		<lblWaitTitle>
+			<Caption>제공된 프로그램 추가/제거가 끝날때까지 기다리세요.</Caption>
+		</lblWaitTitle>
+	</dlgUninstall>
+	<frmInstall>
+		<btnBrowseSetup>
+			<Caption>탐색(&amp;B)...</Caption>
+		</btnBrowseSetup>
+		<btnCancel>
+			<Caption>취소</Caption>
+		</btnCancel>
+		<btnCompleteLater>
+			<Caption>나중에 감시 작업 마무리하기(&amp;C)</Caption>
+		</btnCompleteLater>
+		<btnLaunchSetup>
+			<Caption>셋업 프로그램 실행(&amp;L)</Caption>
+		</btnLaunchSetup>
+		<btnNext>
+			<Caption>다음</Caption>
+		</btnNext>
+		<btnProgramIsInstalled>
+			<Caption>프로그램이 설치됨(&amp;R)</Caption>
+		</btnProgramIsInstalled>
+		<btnSuggest>
+			<Caption>제안(&amp;G)</Caption>
+		</btnSuggest>
+		<lblCreateLog>
+			<Caption>설치  로그 생성</Caption>
+		</lblCreateLog>
+		<lblCreateOrSelectSns>
+			<Caption>설치 전에 새로운 시스템 스냅샷을 생성 하거나, 이전 시스템 스냅샷을 선택 하세요</Caption>
+		</lblCreateOrSelectSns>
+		<lblCreatePreInstallSns>
+			<Caption>이미 설치된 시스템 스냅샷 생성</Caption>
+		</lblCreatePreInstallSns>
+		<lblCreatingLog>
+			<Caption>설치 로그 생성</Caption>
+		</lblCreatingLog>
+		<lblCreatingSystemSns>
+			<Caption>시스템 스냅샷 생성</Caption>
+		</lblCreatingSystemSns>
+		<lblFinish>
+			<Caption>설치 로그 생성 성공!</Caption>
+		</lblFinish>
+		<lblInstallMonProgram>
+			<Caption>감시된 프로그램 설치</Caption>
+		</lblInstallMonProgram>
+		<lblProfiles>
+			<Caption>프로파일 스캔(&amp;S)</Caption>
+		</lblProfiles>
+		<lblProgramName>
+			<Caption>프로그램 이름(&amp;P)</Caption>
+		</lblProgramName>
+		<lblProgramSetupPath>
+			<Caption>셋업 프로그램 경로(&amp;S)</Caption>
+		</lblProgramSetupPath>
+		<lblSnsName>
+			<Caption>스냅샷 이름(&amp;S)</Caption>
+		</lblSnsName>
+		<lblSpecifySnsName>
+			<Caption>이미 설치된 스냅샷 이름 지정(&amp;S)</Caption>
+		</lblSpecifySnsName>
+		<rbNewSnapshot>
+			<Caption>새로운 시스템 스냅샷 생성 (추천)(&amp;C)</Caption>
+		</rbNewSnapshot>
+		<rbUseLastSnapshot>
+			<Caption>마지막 스냅샷 사용(&amp;U)</Caption>
+		</rbUseLastSnapshot>
+	</frmInstall>
+	<frmTUMain>
+		<btnClear>
+			<Caption>초기화</Caption>
+		</btnClear>
+		<btnGroupAddChild>
+			<Caption>하위 그룹 추가...</Caption>
+		</btnGroupAddChild>
+		<btnGroupAddRoot>
+			<Caption>루트 그룹 추가...</Caption>
+		</btnGroupAddRoot>
+		<btnGroupEdit>
+			<Caption>그룹 편집...</Caption>
+		</btnGroupEdit>
+		<btnGroupMoveToRoot>
+			<Caption>루트로 이동</Caption>
+		</btnGroupMoveToRoot>
+		<btnGroupRemove>
+			<Caption>그룹 제거</Caption>
+		</btnGroupRemove>
+		<btnSearch>
+			<Caption>시작</Caption>
+		</btnSearch>
+		<cbBundle>
+			<Caption>번들</Caption>
+		</cbBundle>
+		<cbCaseSensitive>
+			<Caption>대소문자 구분</Caption>
+		</cbCaseSensitive>
+		<cbChanged>
+			<Caption>변경된 날짜</Caption>
+		</cbChanged>
+		<cbCreated>
+			<Caption>생성됨</Caption>
+		</cbCreated>
+		<cbData>
+			<Caption>데이타</Caption>
+		</cbData>
+		<cbDeleted>
+			<Caption>삭제됨</Caption>
+		</cbDeleted>
+		<cbFiles>
+			<Caption>파일</Caption>
+		</cbFiles>
+		<cbFolders>
+			<Caption>폴더</Caption>
+		</cbFolders>
+		<cbKeys>
+			<Caption>키</Caption>
+		</cbKeys>
+		<cbSearchMask>
+			<Caption>검색 마스크</Caption>
+		</cbSearchMask>
+		<cbUnchanged>
+			<Caption>변경안됨</Caption>
+		</cbUnchanged>
+		<cbValues>
+			<Caption>값</Caption>
+		</cbValues>
+		<Copy1>
+			<Caption>복사</Caption>
+			<Hint>선택한 파일을 클립보드에 복사합니다</Hint>
+		</Copy1>
+		<Copy2>
+			<Caption>복사</Caption>
+			<Hint>선택한 파일을 클립보드에 복사합니다</Hint>
+		</Copy2>
+		<gbAdvanced>
+			<Caption>고급</Caption>
+		</gbAdvanced>
+		<gbChanges>
+			<Caption>항목</Caption>
+		</gbChanges>
+		<gbFileSystem>
+			<Caption>파일 시스템</Caption>
+		</gbFileSystem>
+		<gbRegistry>
+			<Caption>레지스트리</Caption>
+		</gbRegistry>
+		<gbScope>
+			<Caption>찾을 장소</Caption>
+		</gbScope>
+		<miAddtoCompareIgnoreList>
+			<Caption>무시할 비교 목록에 추가</Caption>
+			<Hint>선택한 항목을 무시할 프로파일 비교 목록에 추가합니다</Hint>
+		</miAddtoCompareIgnoreList>
+		<miAddtoScanExcludeList>
+			<Caption>제외할 스캔 목록에 추가</Caption>
+			<Hint>선택한 항목을 스캔 작업에서 제외할 목록에 추가합니다</Hint>
+		</miAddtoScanExcludeList>
+		<miAppSendTo>
+			<Caption>그룹으로 보냄</Caption>
+		</miAppSendTo>
+		<miAutorunManager>
+			<Caption>자동 실행 관리자</Caption>
+		</miAutorunManager>
+		<miChanges>
+			<Caption>변경 항목(&amp;C)</Caption>
+			<Hint>모니터한 프로그램의 변경사항 표시</Hint>
+		</miChanges>
+		<miCleaner>
+			<Caption>청소기</Caption>
+			<Hint>청소기</Hint>
+		</miCleaner>
+		<miClnItems>
+			<Caption>항목</Caption>
+		</miClnItems>
+		<miClnSummary>
+			<Caption>요약</Caption>
+			<Hint>요약|현재 프로그램의 간단한 정보를 표사</Hint>
+		</miClnSummary>
+		<miCollapse>
+			<Caption>접기</Caption>
+			<Hint>선택된 트리 접기</Hint>
+		</miCollapse>
+		<miCopyDetail>
+			<Caption>복사</Caption>
+		</miCopyDetail>
+		<miDeleteCompletely>
+			<Caption>완벽하게 삭제</Caption>
+			<Hint>로그 및 시스템에서 선택한 항목을 제거합니다</Hint>
+		</miDeleteCompletely>
+		<miDeletefromSystemOnly>
+			<Caption>시스템에서만 삭제</Caption>
+			<Hint>선택한 항목을 시스템에서만 삭제합니다</Hint>
+		</miDeletefromSystemOnly>
+		<miEdit>
+			<Caption>편집(&amp;E)</Caption>
+		</miEdit>
+		<miEditAutorunLocateEntry>
+			<Caption>자동실행 시작 위치</Caption>
+		</miEditAutorunLocateEntry>
+		<miEditAutorunLocateTarget>
+			<Caption>타겟 위치</Caption>
+		</miEditAutorunLocateTarget>
+		<miEditAutorunRun>
+			<Caption>실행</Caption>
+		</miEditAutorunRun>
+		<miEditAutorunStop>
+			<Caption>중지</Caption>
+		</miEditAutorunStop>
+		<miEditAutorunTargetProperties>
+			<Caption>타겟 속성</Caption>
+		</miEditAutorunTargetProperties>
+		<miEditRedo>
+			<Caption>되돌리기</Caption>
+			<Hint>시스템의 선택한 변경 사항을 되돌립니다.</Hint>
+		</miEditRedo>
+		<miEditRedoDepth>
+			<Caption>되돌리기 수</Caption>
+			<Hint>선택한 변경을 되돌릴수 있는 수</Hint>
+		</miEditRedoDepth>
+		<miEditRestoreFromBackup>
+			<Caption>백업에서 복구</Caption>
+			<Hint>선택한 파일, 폴더, 하위 폴더를 백업에서 복구</Hint>
+		</miEditRestoreFromBackup>
+		<miEditUndo>
+			<Caption>되돌리기</Caption>
+			<Hint>시스템에서 선택한 변경 사항을 되돌립니다.</Hint>
+		</miEditUndo>
+		<miEditUndoDepth>
+			<Caption>되돌리기 취소 수</Caption>
+			<Hint>시스템에서 허용할 되돌리기 횟수</Hint>
+		</miEditUndoDepth>
+		<miExpand>
+			<Caption>확장</Caption>
+			<Hint>선택된 트리 확장</Hint>
+		</miExpand>
+		<miExpChanges>
+			<Caption>변경된 항목(&amp;C)...</Caption>
+			<Hint>변경된 트리의 항목을 내보냅니다</Hint>
+		</miExpChanges>
+		<miExpInstalledApps>
+			<Caption>설치된 프로그램...</Caption>
+			<Hint>설치된 프로그램 목록을 내보냅니다.</Hint>
+		</miExpInstalledApps>
+		<miExpMonitoredApps>
+			<Caption>감시된 프로그램...</Caption>
+			<Hint>모니터한 프로그램 목록을 내보냅니다</Hint>
+		</miExpMonitoredApps>
+		<miExport>
+			<Caption>내보내기(&amp;E)</Caption>
+		</miExport>
+		<miExpRegistry>
+			<Caption>레지스트리 변경 항목...</Caption>
+			<Hint>설치 또는 삭제에 관계된 레지스트리 변경 항목을 내보냅니다</Hint>
+		</miExpRegistry>
+		<miExpUninstallLog>
+			<Caption>언인스톨 로그(&amp;U)...</Caption>
+			<Hint>언인스톨 로그를 내보냅니다</Hint>
+		</miExpUninstallLog>
+		<miFile>
+			<Caption>파일(&amp;F)</Caption>
+		</miFile>
+		<miFileAddInstalledPrg>
+			<Caption>목록에 프로그램 추가...</Caption>
+		</miFileAddInstalledPrg>
+		<miFileAnalyze>
+			<Caption>분석</Caption>
+			<Hint>분석|현재 프로그램의 시시템 변경 분석</Hint>
+		</miFileAnalyze>
+		<miFileAutorunAdd>
+			<Caption>추가</Caption>
+		</miFileAutorunAdd>
+		<miFileAutorunDelete>
+			<Caption>삭제</Caption>
+		</miFileAutorunDelete>
+		<miFileChange>
+			<Caption>변경</Caption>
+			<Hint>수리, 수정, 또는 언인스톨</Hint>
+		</miFileChange>
+		<miFileChangeIcon>
+			<Caption>아이콘 변경...</Caption>
+		</miFileChangeIcon>
+		<miFileClnClean>
+			<Caption>청소</Caption>
+			<Hint>청소</Hint>
+		</miFileClnClean>
+		<miFileClnScan>
+			<Caption>스캔</Caption>
+			<Hint>스캔|필요없는 항목 스캔</Hint>
+		</miFileClnScan>
+		<miFileCreateBackup>
+			<Caption>프로그램의 백업 생성...</Caption>
+		</miFileCreateBackup>
+		<miFileDelete>
+			<Caption>삭제</Caption>
+			<Hint>현재 설치 로그를 삭제합니다</Hint>
+		</miFileDelete>
+		<miFileEditProgram>
+			<Caption>프로그램 편집...</Caption>
+		</miFileEditProgram>
+		<miFileExit>
+			<Caption>종료(&amp;X)</Caption>
+			<Hint>프로그램을 종료합니다.</Hint>
+		</miFileExit>
+		<miFileGroupAddChild>
+			<Caption>하위 그룹 추가...</Caption>
+		</miFileGroupAddChild>
+		<miFileGroupAddRoot>
+			<Caption>루트 그룹 추가...</Caption>
+		</miFileGroupAddRoot>
+		<miFileGroupEdit>
+			<Caption>그룹 편집...</Caption>
+		</miFileGroupEdit>
+		<miFileGroupMoveToRoot>
+			<Caption>루트로 이동</Caption>
+		</miFileGroupMoveToRoot>
+		<miFileGroupRemove>
+			<Caption>그룹 제거</Caption>
+		</miFileGroupRemove>
+		<miFileInstall>
+			<Caption>신규 설치(&amp;I)...</Caption>
+			<Hint>새로은 프로그램의 설치 감시</Hint>
+		</miFileInstall>
+		<miFileInstallUpdate>
+			<Caption>업데이트 설치...</Caption>
+			<Hint>업데이트 설치|현재 프로그램의 업데이트 설치를 감시 합니다.</Hint>
+		</miFileInstallUpdate>
+		<miFileNotes>
+			<Caption>메모...</Caption>
+			<Hint>현재 설치 로그에 메모를 추가합니다</Hint>
+		</miFileNotes>
+		<miFilePrint>
+			<Caption>인쇄</Caption>
+		</miFilePrint>
+		<miFileReload>
+			<Caption>갱신</Caption>
+		</miFileReload>
+		<miFileRemoveInstalledPrg>
+			<Caption>목록에서 프로그램 제거</Caption>
+		</miFileRemoveInstalledPrg>
+		<miFileRename>
+			<Caption>이름 변경...</Caption>
+			<Hint>현재 설치 로그의 이름을 변경합니다</Hint>
+		</miFileRename>
+		<miFileRestoreBackup>
+			<Caption>백업에서 프로그램 복구...</Caption>
+		</miFileRestoreBackup>
+		<miFileSave>
+			<Caption>저장(&amp;S)</Caption>
+			<Hint>현재 설치 로그의 변경 사항을 저장합니다</Hint>
+		</miFileSave>
+		<miFileSaveAs>
+			<Caption>다른 이름으로 저장...</Caption>
+		</miFileSaveAs>
+		<miFileSendTo>
+			<Caption>그룹으로 보냄</Caption>
+		</miFileSendTo>
+		<miFileUndoRestoration>
+			<Caption>복구 되돌리기...</Caption>
+		</miFileUndoRestoration>
+		<miFileUninstall>
+			<Caption>언인스톨(&amp;U)...</Caption>
+		</miFileUninstall>
+		<miHelp>
+			<Caption>도움말(&amp;H)</Caption>
+		</miHelp>
+		<miHelpAbout>
+			<Caption>프로그램 정보(&amp;A)...</Caption>
+			<Hint>프로그램 정보, 버전, 저작권을 확인합니다</Hint>
+		</miHelpAbout>
+		<miHelpCheckForUpdates>
+			<Caption>업데이트 확인(&amp;U)...</Caption>
+			<Hint>웹페이지에서 프로그램 업데이트 내용을 확인합니다</Hint>
+		</miHelpCheckForUpdates>
+		<miHelpContents>
+			<Caption>도움말 보기(&amp;C)</Caption>
+			<Hint>도움말 페이지를 열어봅니다</Hint>
+		</miHelpContents>
+		<miHelpHomePage>
+			<Caption>홈페이지</Caption>
+		</miHelpHomePage>
+		<miHelpPurchase>
+			<Caption>구입</Caption>
+		</miHelpPurchase>
+		<miHelpRegister>
+			<Caption>프로그램 등록(&amp;R)...</Caption>
+			<Hint>Total Uninstall 등록</Hint>
+		</miHelpRegister>
+		<miHexView>
+			<Caption>HEX 편집기로 열어보기</Caption>
+			<Hint>HEX 편집기에서 파일을 열어봅니다</Hint>
+		</miHexView>
+		<miImport>
+			<Caption>가져오기</Caption>
+		</miImport>
+		<miInstalledPrograms>
+			<Caption>설치된 프로그램</Caption>
+			<Hint>설치된 프로그램|설치된 프로그램으로 변경 합니다.</Hint>
+		</miInstalledPrograms>
+		<miList>
+			<Caption>목록</Caption>
+		</miList>
+		<miListGroupNotes>
+			<Caption>그룹 노트</Caption>
+		</miListGroupNotes>
+		<miListLargeIcons>
+			<Caption>큰 아이콘</Caption>
+		</miListLargeIcons>
+		<miListProgramNotes>
+			<Caption>프로그램 노트</Caption>
+		</miListProgramNotes>
+		<miListSmallIcons>
+			<Caption>작은 아이콘</Caption>
+		</miListSmallIcons>
+		<miModules>
+			<Caption>모듈(&amp;M)</Caption>
+		</miModules>
+		<miMonAppsGroupAddChild>
+			<Caption>하위 그룹 추가...</Caption>
+		</miMonAppsGroupAddChild>
+		<miMonAppsGroupAddRoot>
+			<Caption>루트 그룹 추가...</Caption>
+		</miMonAppsGroupAddRoot>
+		<miMonAppsGroupEdit>
+			<Caption>그룹 편집...</Caption>
+		</miMonAppsGroupEdit>
+		<miMonAppsGroupMoveToRoot>
+			<Caption>루트로 이동</Caption>
+		</miMonAppsGroupMoveToRoot>
+		<miMonAppsGroupRemove>
+			<Caption>그룹 제거</Caption>
+		</miMonAppsGroupRemove>
+		<miMonitoredPrograms>
+			<Caption>감시된 프로그램</Caption>
+			<Hint>감시된 프로그램|감시된 프로그램으로 변경 합니다.</Hint>
+		</miMonitoredPrograms>
+		<miOpen>
+			<Caption>레지스트리 편집기로 열어보기</Caption>
+			<Hint>파일 및 폴더를 열어보거나, 레지스트리 편집기에서 해당 키가 있는곳으로 바로 이동합니다</Hint>
+		</miOpen>
+		<miPendingFileRenameOp>
+			<Caption>대기중인 파일 이름변경 작업...</Caption>
+			<Hint>미결정의 파일 이름변경 작업을 보고 적용합니다</Hint>
+		</miPendingFileRenameOp>
+		<miPrgAddInstalledPrg>
+			<Caption>프로그램을 목록에 추가...</Caption>
+		</miPrgAddInstalledPrg>
+		<miPrgAnalyze>
+			<Caption>분석(&amp;A)</Caption>
+			<Hint>분석|현재 프로그램의 시스템 변경을 분석 합니다.</Hint>
+		</miPrgAnalyze>
+		<miPrgChangeIcon>
+			<Caption>아이콘 변경...</Caption>
+		</miPrgChangeIcon>
+		<miPrgDelete>
+			<Caption>삭제</Caption>
+			<Hint>현재 설치 로그를 삭제 합니다.</Hint>
+		</miPrgDelete>
+		<miPrgEditInstalledPrg>
+			<Caption>프로그램 편집</Caption>
+		</miPrgEditInstalledPrg>
+		<miPrgNotes>
+			<Caption>노트...</Caption>
+			<Hint>현재 설치 로그인 노트를 추가 합니다.</Hint>
+		</miPrgNotes>
+		<miPrgRemoveInstalledPrg>
+			<Caption>목록에서 프로그램 제거</Caption>
+		</miPrgRemoveInstalledPrg>
+		<miPrgRename>
+			<Caption>이름변경...</Caption>
+			<Hint>현재 설치 로그의 이름을 변경 합니다.</Hint>
+		</miPrgRename>
+		<miPrintChanges>
+			<Caption>변경 사항...</Caption>
+			<Hint>변경 사항 트리 인쇄</Hint>
+		</miPrintChanges>
+		<miPrintInstalledPrograms>
+			<Caption>설치된 프로그램...</Caption>
+		</miPrintInstalledPrograms>
+		<miPrintMonitoredPrograms>
+			<Caption>감시된 프로그램...</Caption>
+		</miPrintMonitoredPrograms>
+		<miProperties>
+			<Caption>등록 정보</Caption>
+			<Hint>선택한 파일 및 폴더의 속성을 살펴봅니다</Hint>
+		</miProperties>
+		<miRemovefromLog>
+			<Caption>로그에서 삭제</Caption>
+			<Hint>선택한 항목을 로그에서 삭제합니다</Hint>
+		</miRemovefromLog>
+		<miSnsTreeOpen>
+			<Caption>열기</Caption>
+		</miSnsTreeOpen>
+		<miSummary>
+			<Caption>요약 정보(&amp;M)</Caption>
+			<Hint>모니터한 프로그램의 정보를 살펴봅니다</Hint>
+		</miSummary>
+		<miTextView>
+			<Caption>문서 편집기로 열어보기</Caption>
+			<Hint>파일을 문서 편집기에서 열어봅니다</Hint>
+		</miTextView>
+		<miToolbarLarge>
+			<Caption>큰</Caption>
+		</miToolbarLarge>
+		<miToolbarMedium>
+			<Caption>중간</Caption>
+		</miToolbarMedium>
+		<miToolbarSmall>
+			<Caption>작은</Caption>
+		</miToolbarSmall>
+		<miTools>
+			<Caption>도구(&amp;T)</Caption>
+		</miTools>
+		<miToolsCompareSnapshots>
+			<Caption>스냅샷 비교...</Caption>
+		</miToolsCompareSnapshots>
+		<miToolsFind>
+			<Caption>찾기(&amp;S)</Caption>
+			<Hint>찾기|감지된 변경 사항에서 문자를 검색 합니다.</Hint>
+		</miToolsFind>
+		<miToolsMergeLogs>
+			<Caption>로그 항목 병합...</Caption>
+		</miToolsMergeLogs>
+		<miToolsOptions>
+			<Caption>환경 설정(&amp;O)...</Caption>
+			<Hint>프로그램 옵션을 구성합니다</Hint>
+		</miToolsOptions>
+		<miToolsSystemRestore>
+			<Caption>시스템 복구</Caption>
+		</miToolsSystemRestore>
+		<miULogSuccessful>
+			<Caption>성공한 작업</Caption>
+			<Hint>언인스톨 로그에서 성공한 작업의 내용을 표시하거나 숨깁니다.</Hint>
+		</miULogSuccessful>
+		<miULogWarnings>
+			<Caption>경고</Caption>
+			<Hint>언인스톨 로그에서 성공하지 못한 내용을 표시하거나 숨깁니다</Hint>
+		</miULogWarnings>
+		<miUninstallLog>
+			<Caption>언인스톨 로그(&amp;L)</Caption>
+			<Hint>모니터한 프로그램의 언인스톨 로그를 살펴봅니다</Hint>
+		</miUninstallLog>
+		<miUninstallLogDet>
+			<Caption>언인스톨 로그 정보(&amp;U)</Caption>
+		</miUninstallLogDet>
+		<miView>
+			<Caption>보기(&amp;V)</Caption>
+		</miView>
+		<miViewAutoGroupPrograms>
+			<Caption>프로그램 자동 그룹핑</Caption>
+		</miViewAutoGroupPrograms>
+		<miViewBundle>
+			<Caption>번들</Caption>
+		</miViewBundle>
+		<miViewColorScheme>
+			<Caption>색상표</Caption>
+		</miViewColorScheme>
+		<miViewDetails>
+			<Caption>오른쪽 화면(&amp;D)</Caption>
+			<Hint>모니터한 프로그램의 상세한 정보를 표시하거나 숨깁니다</Hint>
+		</miViewDetails>
+		<miViewItemCurrentView>
+			<Caption>현재 보기 방법 설정(&amp;V)</Caption>
+		</miViewItemCurrentView>
+		<miViewItemDetails>
+			<Caption>항목 자세히 보기(&amp;I)</Caption>
+			<Hint>변경 항목 트리에서 선택한 내용을 표시하거나 숨깁니다</Hint>
+		</miViewItemDetails>
+		<miViewNavigator>
+			<Caption>프로그램</Caption>
+			<Hint>모니터한 프로그램 목록을 표시하거나 숨깁니다</Hint>
+		</miViewNavigator>
+		<miViewRefresh>
+			<Caption>새로고침</Caption>
+		</miViewRefresh>
+		<miViewStatusBar>
+			<Caption>상태 표시줄(&amp;S)</Caption>
+			<Hint>상태 표시줄을 표시하거나 숨깁니다</Hint>
+		</miViewStatusBar>
+		<miViewSystemComponents>
+			<Caption>시스템 컴포넌트</Caption>
+		</miViewSystemComponents>
+		<miViewToolbars>
+			<Caption>툴바</Caption>
+		</miViewToolbars>
+		<miViewToolbarsBtnCaption>
+			<Caption>버튼 캡션</Caption>
+			<Hint>툴바 캡션을 보이거나 숨깁니다.</Hint>
+		</miViewToolbarsBtnCaption>
+		<miViewToolbarsBtnSize>
+			<Caption>버튼 크기</Caption>
+		</miViewToolbarsBtnSize>
+		<miViewToolbarsBtnWordWrap>
+			<Caption>버튼 캡션 워드랩</Caption>
+		</miViewToolbarsBtnWordWrap>
+		<miViewToolbarsTbrCaption>
+			<Caption>툴바 캡션</Caption>
+			<Hint>툴바 캡션 표시 / 숨기기</Hint>
+		</miViewToolbarsTbrCaption>
+		<miViewToolbarsVisible>
+			<Caption>표시여부</Caption>
+			<Hint>툴바를 보이거나 숨깁니다.</Hint>
+		</miViewToolbarsVisible>
+		<miWindowsApps>
+			<Caption>윈도우즈 앱스</Caption>
+		</miWindowsApps>
+		<pmiAutorunAdd>
+			<Caption>추가</Caption>
+		</pmiAutorunAdd>
+		<pmiAutorunDelete>
+			<Caption>삭제</Caption>
+		</pmiAutorunDelete>
+		<pmiAutorunLocateEntry>
+			<Caption>자동실행 시작 위치</Caption>
+		</pmiAutorunLocateEntry>
+		<pmiAutorunLocateTarget>
+			<Caption>타겟 위치</Caption>
+		</pmiAutorunLocateTarget>
+		<pmiAutorunRun>
+			<Caption>실행</Caption>
+		</pmiAutorunRun>
+		<pmiAutorunStop>
+			<Caption>중지</Caption>
+		</pmiAutorunStop>
+		<pmiAutorunTargetProperties>
+			<Caption>타겟 속성</Caption>
+		</pmiAutorunTargetProperties>
+		<pmiChgTreeCompareExcl>
+			<Caption>무시할 비교 목록에 추가</Caption>
+			<Hint>선택한 항목을 무시할 모든 비교 프로파일 목록에 추가합니다</Hint>
+		</pmiChgTreeCompareExcl>
+		<pmiChgTreeDelete>
+			<Caption>완벽하게 삭제</Caption>
+			<Hint>선택한 항목을 로그 및 시스템에서 완전히 삭제합니다</Hint>
+		</pmiChgTreeDelete>
+		<pmiChgTreeDelSys>
+			<Caption>시스템에서만 삭제</Caption>
+			<Hint>선택한 항목을 시스템에서만 삭제합니다</Hint>
+		</pmiChgTreeDelSys>
+		<pmiChgTreeExportRegistryChanges>
+			<Caption>레지스트리 변경사항 내보내는 중...</Caption>
+			<Hint>언인스톨 하거나 재인스톨 할기 위해 레지스트리 변경 사항을 내보냅니다.</Hint>
+		</pmiChgTreeExportRegistryChanges>
+		<pmiChgTreeHexView>
+			<Caption>HEX 편집기로 열어보기</Caption>
+			<Hint>파일을 HEX 편집기에서 열어봅니다</Hint>
+		</pmiChgTreeHexView>
+		<pmiChgTreeOpen>
+			<Caption>레지스트리 편집기에서 열어보기</Caption>
+			<Hint>파일 및 폴더를 열어보거나, 레지스트리 편집기에서 해당 키가 있는곳으로 바로 이동합니다</Hint>
+		</pmiChgTreeOpen>
+		<pmiChgTreeProperties>
+			<Caption>등록 정보</Caption>
+			<Hint>선택한 파일 또는 폴더의 속성을 살펴봅니다</Hint>
+		</pmiChgTreeProperties>
+		<pmiChgTreeRedo>
+			<Caption>되돌리기</Caption>
+			<Hint>시스템에서 변경된 사항을 되돌립니다.</Hint>
+		</pmiChgTreeRedo>
+		<pmiChgTreeRedoDepth>
+			<Caption>되돌리기 수</Caption>
+			<Hint>시스템에서 되돌리기 가능 수를 설정 합니다.</Hint>
+		</pmiChgTreeRedoDepth>
+		<pmiChgTreeRemove>
+			<Caption>로그에서 삭제</Caption>
+			<Hint>선택한 항목을 로그에서 삭제합니다</Hint>
+		</pmiChgTreeRemove>
+		<pmiChgTreeRestoreFromBackup>
+			<Caption>백업으로 복구</Caption>
+			<Hint>선택한 파일과 하위 폴더를 백업으로 부터 복원 합니다.</Hint>
+		</pmiChgTreeRestoreFromBackup>
+		<pmiChgTreeScanExcl>
+			<Caption>스캔 제외 목록에 추가</Caption>
+			<Hint>선택한 항목을 제외할 모든 스캔 프로파일 목록에 추가합니다</Hint>
+		</pmiChgTreeScanExcl>
+		<pmiChgTreeTextView>
+			<Caption>문서 편집기로 열어보기</Caption>
+			<Hint>파일을 문서 편집기에서 열어봅니다</Hint>
+		</pmiChgTreeTextView>
+		<pmiChgTreeUndo>
+			<Caption>되돌리기</Caption>
+			<Hint>시스템에서 선택한 변경 사항을 되돌립니다.</Hint>
+		</pmiChgTreeUndo>
+		<pmiChgTreeUndoDepth>
+			<Caption>되돌리기 취소 수</Caption>
+			<Hint>시스템에서 허용할 되돌리기 횟수</Hint>
+		</pmiChgTreeUndoDepth>
+		<pmiClnExclude>
+			<Caption>제외</Caption>
+		</pmiClnExclude>
+		<pmiClnSelectBranch>
+			<Caption>브랜치 선택</Caption>
+		</pmiClnSelectBranch>
+		<pmiClnUnselectBranch>
+			<Caption>브랜치 선택 해제</Caption>
+		</pmiClnUnselectBranch>
+		<pmiCopySummary>
+			<Caption>복사</Caption>
+		</pmiCopySummary>
+		<pmiInstAppsHeaderAutoResize>
+			<Caption>자동 크기 변경</Caption>
+		</pmiInstAppsHeaderAutoResize>
+		<pmiLocate>
+			<Caption>위치</Caption>
+		</pmiLocate>
+		<pmiMonAppsHeaderAutoResize>
+			<Caption>자동 크기 변경</Caption>
+		</pmiMonAppsHeaderAutoResize>
+		<pmiShowSuccessful>
+			<Caption>성공한 작업</Caption>
+			<Hint>언인스톨 로그에서 성공한 작업의 내용을 표시하거나 숨깁니다.</Hint>
+		</pmiShowSuccessful>
+		<pmiShowWarnings>
+			<Caption>경고</Caption>
+			<Hint>언인스톨 로그에서 성공하지 못한 내용을 표시하거나 숨깁니다</Hint>
+		</pmiShowWarnings>
+		<pmiTrayRestore>
+			<Caption>복원</Caption>
+		</pmiTrayRestore>
+		<rbAll>
+			<Caption>모든 프로그램</Caption>
+		</rbAll>
+		<rbSelection>
+			<Caption>선택</Caption>
+		</rbSelection>
+		<sbAppClose>
+			<Hint>닫기|닫기</Hint>
+		</sbAppClose>
+		<sbDetailsClose>
+			<Hint>닫기|닫기</Hint>
+		</sbDetailsClose>
+		<sbSearchClose>
+			<Hint>닫기|닫기</Hint>
+		</sbSearchClose>
+		<tabOptions>
+			<Caption>옵션</Caption>
+		</tabOptions>
+		<tabResults>
+			<Caption>결과</Caption>
+		</tabResults>
+		<tbrActions>
+			<Caption>액션</Caption>
+		</tbrActions>
+		<tbrDetails>
+			<Caption>자세히</Caption>
+		</tbrDetails>
+		<tbrLayout>
+			<Caption>레이아웃</Caption>
+		</tbrLayout>
+		<tbrModules>
+			<Caption>모듈</Caption>
+		</tbrModules>
+		<tbrView>
+			<Caption>보기</Caption>
+		</tbrView>
+		<tbtnAnalyze>
+			<Caption>분석</Caption>
+			<Hint>분석|현재 프로그램의 변경 사항을 분석 합니다.</Hint>
+		</tbtnAnalyze>
+		<tbtnArAdd>
+			<Caption>추가</Caption>
+		</tbtnArAdd>
+		<tbtnArDelete>
+			<Caption>삭제</Caption>
+		</tbtnArDelete>
+		<tbtnArRun>
+			<Caption>실행</Caption>
+		</tbtnArRun>
+		<tbtnArStop>
+			<Caption>중지</Caption>
+		</tbtnArStop>
+		<tbtnAutorunMgr>
+			<Caption>자동실행 관리자</Caption>
+		</tbtnAutorunMgr>
+		<tbtnChanges>
+			<Caption>변경사항</Caption>
+			<Hint>감지된 변경 사항|현재 프로그램이 변경한  시스템 변경 사항을 표시 합니다.</Hint>
+		</tbtnChanges>
+		<tbtnChgView>
+			<Caption>보기</Caption>
+			<Hint>보기|설정을 변경한 보기 방법을 적용합니다</Hint>
+		</tbtnChgView>
+		<tbtnCleaner>
+			<Caption>청소기</Caption>
+			<Hint>청소</Hint>
+		</tbtnCleaner>
+		<tbtnClnClean>
+			<Caption>청소</Caption>
+			<Hint>청소</Hint>
+		</tbtnClnClean>
+		<tbtnClnItems>
+			<Caption>항목</Caption>
+		</tbtnClnItems>
+		<tbtnClnScan>
+			<Caption>스캔</Caption>
+			<Hint>스캔|필요없는 항목 삭제</Hint>
+		</tbtnClnScan>
+		<tbtnClnSummary>
+			<Caption>요약</Caption>
+			<Hint>요약|현재 프로그램의 간략한 정보 표시</Hint>
+		</tbtnClnSummary>
+		<tbtnCollapse>
+			<Caption>트리 닫기</Caption>
+			<Hint>트리 닫기|펼쳤던 트리를 원상태로 복원합니다</Hint>
+		</tbtnCollapse>
+		<tbtnDetails>
+			<Caption>자세히</Caption>
+			<Hint>프로그램 추가 정보|프로그램 추가 정보를 표시 하거나 숨깁니다.</Hint>
+		</tbtnDetails>
+		<tbtnExpand>
+			<Caption>트리 확장</Caption>
+			<Hint>트리 확장|트리 내용을 한눈에 볼 수 있도록 모두 확장합니다</Hint>
+		</tbtnExpand>
+		<tbtnInstallModify>
+			<Caption>변경</Caption>
+			<Hint>수리, 수정, 또는 설치 제거</Hint>
+		</tbtnInstallModify>
+		<tbtnInstallNew>
+			<Caption>설치</Caption>
+			<Hint>신규 설치|새로운 프로그램 설치를 모니터합니다</Hint>
+		</tbtnInstallNew>
+		<tbtnInstallUpdate>
+			<Caption>업데이트</Caption>
+			<Hint>업데이트 설치|현재 프로그램의 업데이트 설치를 감시 합니다.</Hint>
+		</tbtnInstallUpdate>
+		<tbtnInstPrograms>
+			<Caption>설치된 프로그램</Caption>
+			<Hint>설치된 프로그램|설치된 프로그램으로 변경 합니다.</Hint>
+		</tbtnInstPrograms>
+		<tbtnMonPrograms>
+			<Caption>감시된 프로그램</Caption>
+			<Hint>감시된 프로그램|감시된 프로그램으로 변경 합니다.</Hint>
+		</tbtnMonPrograms>
+		<tbtnPrograms>
+			<Caption>프로그램</Caption>
+			<Hint>프로그램 목록|프로그램 목록을 표시 하거나 숨깁니다.</Hint>
+		</tbtnPrograms>
+		<tbtnSave>
+			<Caption>저장</Caption>
+			<Hint>현재 설치 로그의 변경 사항을 저장 합니다.</Hint>
+		</tbtnSave>
+		<tbtnSearch>
+			<Caption>찾기</Caption>
+			<Hint>찾기|감지된 변경 사항에서 문자를 검색 합니다.</Hint>
+		</tbtnSearch>
+		<tbtnShowSnapshot>
+			<Caption>스냅샷 표시</Caption>
+		</tbtnShowSnapshot>
+		<tbtnSummary>
+			<Caption>요약</Caption>
+			<Hint>요약|현재 프로그램의 간략한 정보를 표시 합니다.</Hint>
+		</tbtnSummary>
+		<tbtnUninstall>
+			<Caption>언인스톨</Caption>
+		</tbtnUninstall>
+		<tbtnUninstallLog>
+			<Caption>언인스톨 로그</Caption>
+			<Hint>언인스톨 로그|프로그램 언인스톨 로그 표시</Hint>
+		</tbtnUninstallLog>
+		<tbtnWinApps>
+			<Caption>윈도우즈 앱스</Caption>
+		</tbtnWinApps>
+		<tpnlSearch>
+			<Caption>찾기</Caption>
+		</tpnlSearch>
+		<tvAutorunItems>
+			<Columns_0>이름</Columns_0>
+			<Columns_2>상태</Columns_2>
+			<Columns_1>섹션</Columns_1>
+			<Columns_3>설명</Columns_3>
+			<Columns_4>출판사</Columns_4>
+			<Columns_5>명령</Columns_5>
+		</tvAutorunItems>
+		<tvChanges>
+			<Columns_0>감지한 변경 사항</Columns_0>
+			<Columns_1>변경 전</Columns_1>
+			<Columns_2>변경 후</Columns_2>
+			<Columns_3>현재</Columns_3>
+		</tvChanges>
+		<tvClnItems>
+			<Columns_0>항목</Columns_0>
+			<Columns_1>등록정보</Columns_1>
+		</tvClnItems>
+		<tvResults>
+			<Columns_0>이름</Columns_0>
+			<Columns_1>경로</Columns_1>
+			<Columns_2>프로그램</Columns_2>
+		</tvResults>
+	</frmTUMain>
+	<RESOURCESTRING>
+		<ACCESS_DENIED_X>접근 거부됨: %s</ACCESS_DENIED_X>
+		<ACT_CRE_KEY>생성한 레지스트리 키: %s</ACT_CRE_KEY>
+		<ACT_CRE_VAL>생성한 레지스트리 값: %s</ACT_CRE_VAL>
+		<ACT_DEC_CNT>감소한 공유 파일 카운터 레지스트리: %s</ACT_DEC_CNT>
+		<ACT_DEL_ADS>다른 데이타 스트림 삭제: : %s</ACT_DEL_ADS>
+		<ACT_DEL_FILE>삭제한 파일: %s</ACT_DEL_FILE>
+		<ACT_DEL_FOLDER>삭제한 폴더: %s</ACT_DEL_FOLDER>
+		<ACT_DEL_KEY>삭제한 레지스트리 키: %s</ACT_DEL_KEY>
+		<ACT_DEL_SERVICE>서비스나 장치 삭제: %s</ACT_DEL_SERVICE>
+		<ACT_DEL_VAL>삭제한 레지스트리 값: %s</ACT_DEL_VAL>
+		<ACT_RST_FILE>복원한 파일 등록정보: %s</ACT_RST_FILE>
+		<ACT_RST_VAL>복원한 레지스트리 값: %s</ACT_RST_VAL>
+		<ACT_STOP_SERVICE>서비스 및 장치 중지: %s</ACT_STOP_SERVICE>
+		<ADD>추가</ADD>
+		<ADVANCED>고급</ADVANCED>
+		<AGENT>에이전트</AGENT>
+		<ALL>모두</ALL>
+		<ALL_BRA>(모두)</ALL_BRA>
+		<ALL_DETAILS>모든 항목 보기</ALL_DETAILS>
+		<ALWAYS>항상</ALWAYS>
+		<ANALYSIS_PROFILE>분석 프로파일</ANALYSIS_PROFILE>
+		<ANALYSIS_PROFILES>프로파일 분석</ANALYSIS_PROFILES>
+		<ANALYZING>분석중...</ANALYZING>
+		<ASK>묻기</ASK>
+		<ASK_COMPLETE_LATER>감시 작업을 나중에 끝낼까요?</ASK_COMPLETE_LATER>
+		<ASK_IF_NO_ERROR>에러 없음 묻기</ASK_IF_NO_ERROR>
+		<ASK_SAVE_CHG>&quot;%s&quot;에서 변경된 사항을 저장하겠습니까?</ASK_SAVE_CHG>
+		<ASK_USER>사용자에게 물어봄</ASK_USER>
+		<AUTOMATIC>자동</AUTOMATIC>
+		<AUTORUN_ITEMS>자동 실행 항목</AUTORUN_ITEMS>
+		<AUTORUN_MGR>자동실행 관리자</AUTORUN_MGR>
+		<BACKUP>백업</BACKUP>
+		<BACKUP_CREATED>백업 생성됨.</BACKUP_CREATED>
+		<BACKUP_CREATED_OK>백업 생성 성공!</BACKUP_CREATED_OK>
+		<BACKUP_PROGRAM>프로그램의 백업 생성 중...</BACKUP_PROGRAM>
+		<BACKUP_PROGRAM_X>&quot;%s&quot; 프로그램의 백업 생성</BACKUP_PROGRAM_X>
+		<BEGIN_UNINSTALL>언인스톨을 하려면 &apos;언인스톨&apos;을 누르세요.</BEGIN_UNINSTALL>
+		<BEGIN_UNINSTALL_LAUNCH>언인스톨을 하려면 &apos;띄우기&apos;를 누르세요.</BEGIN_UNINSTALL_LAUNCH>
+		<BROWSE_FOR_FILE>파일 탐색</BROWSE_FOR_FILE>
+		<BROWSE_FOR_FOLDER>폴더 탐색</BROWSE_FOR_FOLDER>
+		<BROWSE_FOR_FOLDER_OR_FILE>팡리과 폴더 탐색</BROWSE_FOR_FOLDER_OR_FILE>
+		<BROWSE_FOR_KEY>키 탐색</BROWSE_FOR_KEY>
+		<BROWSE_FOR_KEY_OR_VALUE>키 또는 값 탐색</BROWSE_FOR_KEY_OR_VALUE>
+		<BROWSE_FOR_VALUE>값 찾기</BROWSE_FOR_VALUE>
+		<BTN_CONTINUE>계속</BTN_CONTINUE>
+		<BUILT_IN_CANCELLED>내장 언인스톨러가 취소 되었거나 언인스톨 작업을 마치지 못하고 마쳤습니다.</BUILT_IN_CANCELLED>
+		<BUILT_IN_UNINSTALLER_RUNNING>기본 언인스톨러 프로그램이 실행 중입니다.</BUILT_IN_UNINSTALLER_RUNNING>
+		<CANCEL>취소(&amp;C)</CANCEL>
+		<CANNOT_BROWSE>기본 편집기 시작시 오류가 발생했습니다.\n링크를 클립보드에 복사했습니다.</CANNOT_BROWSE>
+		<CANT_EXECUTE>&quot;%s&quot; 프로그램을 시작할 수 없습니다.</CANT_EXECUTE>
+		<CANT_OPEN_KEY>키를 열 수 없습니다</CANT_OPEN_KEY>
+		<CHANGED_ITEMS>변경된 항목만 보기</CHANGED_ITEMS>
+		<CHANGES>&quot;%s&quot; 변경됨</CHANGES>
+		<CHECK_UPD_NEW>새로운 업데이트 항목 및 확인 가능한 뉴스</CHECK_UPD_NEW>
+		<CHECK_UPD_REMINDER>업데이트 알리미 선택</CHECK_UPD_REMINDER>
+		<CHG_VIEWS>보기 방법 변경</CHG_VIEWS>
+		<CLEAN_UP>청소</CLEAN_UP>
+		<CLEAN_UP_DESC>언인스톨된 감시된 프로그램의 흔적 제거</CLEAN_UP_DESC>
+		<CLEANED>청소됨</CLEANED>
+		<CLEANER>청소기</CLEANER>
+		<CLEANING>청소중...</CLEANING>
+		<CLOSE>닫기</CLOSE>
+		<CLOSE_PROCESSES>프로세스 닫기</CLOSE_PROCESSES>
+		<CMP_ERROR>스냅샷 비교중 에러 발생!</CMP_ERROR>
+		<CMP_PROFILE>프로파일 이름 비교</CMP_PROFILE>
+		<CNT_DEL_MON>모니터링 중 삭제된 공유 파일 카운터 레지스트리</CNT_DEL_MON>
+		<COMMENTS>의견</COMMENTS>
+		<COMMON>흔한</COMMON>
+		<COMP_PROFILES>프로파일 비교</COMP_PROFILES>
+		<COMPARE>비교</COMPARE>
+		<COMPARING_SNS>시스탬 스냅샷 비교중...</COMPARING_SNS>
+		<COMPLETE>완료됨</COMPLETE>
+		<COMPUTER>컴퓨터</COMPUTER>
+		<COMPUTER_X>컴퓨터 (%s)</COMPUTER_X>
+		<CONTACT>연락처</CONTACT>
+		<CONTINUE>계속 진행하겠습니까?</CONTINUE>
+		<CONTINUE_UNINSTALL>언인스톨 작업 계속</CONTINUE_UNINSTALL>
+		<CONTINUE_UNINSTALL_Q>언인스톨 작업을 계속 할까요?</CONTINUE_UNINSTALL_Q>
+		<CORRUPT_CNT>공유 파일 카운터 레지스트리에서 잘못 변경된 항목 감지: 값이 감소했거나 잘못된 테이타를 포함하고 있습니다</CORRUPT_CNT>
+		<CREATE_REG_KEYS>생성한 레지스트리 키</CREATE_REG_KEYS>
+		<CREATE_REG_VALS>생성한 레지스트리 값</CREATE_REG_VALS>
+		<CREATED>생성일</CREATED>
+		<CREATED_ITEMS>생성된 항목만 보기</CREATED_ITEMS>
+		<CREATED_ON>생성일</CREATED_ON>
+		<CREATED_X>생성한 일시: %s</CREATED_X>
+		<DEC_CNT>감소한 레지스트리 공유 파일 카운터</DEC_CNT>
+		<DEFAULT>기본값</DEFAULT>
+		<DEFAULT_PAR>(기본값)</DEFAULT_PAR>
+		<DEL_AT_STARTUP>다음번 시작시 삭제할 대기 항목</DEL_AT_STARTUP>
+		<DEL_CNT>삭제한 레지스트리 공유 파일 카운터</DEL_CNT>
+		<DEL_FILES>삭제한 파일</DEL_FILES>
+		<DEL_FOLDERS>삭제한 폴더</DEL_FOLDERS>
+		<DEL_REG_KEYS>삭제한 레지스트리 키</DEL_REG_KEYS>
+		<DEL_REG_VALS>삭제한 레지스트리 값</DEL_REG_VALS>
+		<DEL_SH_FILE>디스크에서 삭제한 공유 파일을 휴지통으로 보냄</DEL_SH_FILE>
+		<DELETE_SEL_BACKUPS>선택한 백업을 삭제 할까요?</DELETE_SEL_BACKUPS>
+		<DELETE_SEL_UNDO>선택한 되돌리기 엔트리를 삭제 할까요?</DELETE_SEL_UNDO>
+		<DELETE_SYS_SEL_ITEM>선택한 항목을 시스템에서 삭제 할까요?</DELETE_SYS_SEL_ITEM>
+		<DELETED>삭제일</DELETED>
+		<DELETED_ITEMS>삭제된 항목만 보기</DELETED_ITEMS>
+		<DEPENDS_ON_PACKAGES>패키지에 따라 다름</DEPENDS_ON_PACKAGES>
+		<DETECTED_CHG>감지된 변경 사항</DETECTED_CHG>
+		<DISABLED>사용안함</DISABLED>
+		<DISPOSABLE_ITEMS>필요없는 항목</DISPOSABLE_ITEMS>
+		<DLG_ABORT>중지</DLG_ABORT>
+		<DLG_ALL>모두</DLG_ALL>
+		<DLG_CANCEL>취소</DLG_CANCEL>
+		<DLG_CLOSE>닫기</DLG_CLOSE>
+		<DLG_CNF>확인</DLG_CNF>
+		<DLG_ERR>에러</DLG_ERR>
+		<DLG_IGNORE>무시</DLG_IGNORE>
+		<DLG_INF>정보</DLG_INF>
+		<DLG_NO>아니오</DLG_NO>
+		<DLG_NOTOALL>모두 아님</DLG_NOTOALL>
+		<DLG_OK>확인</DLG_OK>
+		<DLG_RETRY>재시도</DLG_RETRY>
+		<DLG_WRN>경고</DLG_WRN>
+		<DLG_YES>예</DLG_YES>
+		<DLG_YESTOALL>모두 예</DLG_YESTOALL>
+		<DONT_DEL_SH_FILE>보존할 공유 파일 선택</DONT_DEL_SH_FILE>
+		<EDIT_PROGRAM>프로그램 편집</EDIT_PROGRAM>
+		<ELAPSED>경과시간 %d:%2.2d</ELAPSED>
+		<ENTER_IDENTIFIER>설치된 프로그램의 이름을 입력 하세요.</ENTER_IDENTIFIER>
+		<ERR>오류</ERR>
+		<ERR_BRA>(오류)</ERR_BRA>
+		<ERR_DEL_FLD_FILES>하나 또는 그 이상의 파일 또는 폴더를 삭제할 수 없습니다.</ERR_DEL_FLD_FILES>
+		<ERR_DEL_REG_KEYS_VALS>하나 또는 그 이상의 키 또는 값을 삭제할 수 없습니다.</ERR_DEL_REG_KEYS_VALS>
+		<ERR_REDO_REG_KEYS_VALS>한개 이상의 키나 값을 되돌릴수 없습니다.</ERR_REDO_REG_KEYS_VALS>
+		<ERR_UNDO_REG_KEYS_VALS>하나 이상의 키나 값을 되돌릴수 없습니다.</ERR_UNDO_REG_KEYS_VALS>
+		<ERR_WRN_OK_STAT>오류: %d   실패한 작업: %d 성공한 작업: %d</ERR_WRN_OK_STAT>
+		<ERROR_UNINST_X_APPS>%d 프로그램 삭제시 에러 발생</ERROR_UNINST_X_APPS>
+		<EXIT>종료</EXIT>
+		<EXPERT>전문가</EXPERT>
+		<EXPIRE_DAYS>%d일 내 만료딤</EXPIRE_DAYS>
+		<EXPORT_ERROR>내보내기 오류 !</EXPORT_ERROR>
+		<EXTENSION>확장자</EXTENSION>
+		<FAMILY_NOT_ACCEPTED>잘못된 가족 라이센스 입니다.</FAMILY_NOT_ACCEPTED>
+		<FFILTER_ALL>모든 파일 (*.*)|*.*</FFILTER_ALL>
+		<FFILTER_DLL>어플리케이션 확장 파일 (*.dll)|*.dll</FFILTER_DLL>
+		<FFILTER_EXE>실행 파일 (*.exe)|*.exe</FFILTER_EXE>
+		<FFILTER_EXE_MSI>실행 프로그램(.exe), 윈도우즈 설치 패키지</FFILTER_EXE_MSI>
+		<FFILTER_HTM>HTML 문서 (*.htm, *.html)|*.htm;*html</FFILTER_HTM>
+		<FFILTER_ICL>아리콘 모음 (*.icl)|*.icl</FFILTER_ICL>
+		<FFILTER_ICO>아이콘 파일 (*.ico)|*.ico</FFILTER_ICO>
+		<FFILTER_MSI>마이크로소프트 설치자 (*.msi)|*.msi</FFILTER_MSI>
+		<FFILTER_REG>등록 파일 (*.reg)|*.reg</FFILTER_REG>
+		<FFILTER_TXT>문서 파일 (*.txt)|*.txt</FFILTER_TXT>
+		<FFILTER_WAV>소리 파일 (*.wav)|*.wav</FFILTER_WAV>
+		<FFILTER_XML>XML 문서 - (*.xml)|*.xml</FFILTER_XML>
+		<FFILTER_ZIP>백업 파일 (*.zip)|*.zip</FFILTER_ZIP>
+		<FILE>(파일)</FILE>
+		<FILE_>파일</FILE_>
+		<FILE_MASK>파일 마스크</FILE_MASK>
+		<FILE_SYSTEM>파일 시스템</FILE_SYSTEM>
+		<FILES_CHG_STAT>수정된 파일   :%6.1d</FILES_CHG_STAT>
+		<FILES_CREATED_STAT>생성된 파일   :%6.1d</FILES_CREATED_STAT>
+		<FILES_DEL_STAT>삭제된 파일   :%6.1d</FILES_DEL_STAT>
+		<FILES_NOT_INCLUDED>백업에 파일이 포함 되지 않음</FILES_NOT_INCLUDED>
+		<FILES_X>파일   :%6.1d</FILES_X>
+		<FILTER>필터</FILTER>
+		<FINISH>끝내기</FINISH>
+		<FLDS_CREATED_STAT>생성된 폴더   :%6.1d</FLDS_CREATED_STAT>
+		<FLDS_DEL_STAT>삭제된 폴더   :%6.1d</FLDS_DEL_STAT>
+		<FOLDER>(폴더)</FOLDER>
+		<FOLDER_>폴더</FOLDER_>
+		<FOLDER_MASK>폴더 마스크</FOLDER_MASK>
+		<FOLDERS_X>폴더   :%6.1d</FOLDERS_X>
+		<FREE_UPDATES_UNTIL>%s 까지 무료 업데이트</FREE_UPDATES_UNTIL>
+		<FS_DET_VIEW_PRF>파일 시스템 세부사항 [View: %s]</FS_DET_VIEW_PRF>
+		<GENERAL>일반</GENERAL>
+		<GENERATED_BY_TU>Total Uninstall을 사용하여 제작함</GENERATED_BY_TU>
+		<HIDDEN_NODE>해당 항목은 숨김속성입니다.</HIDDEN_NODE>
+		<HIDDEN_NODE_IN_VIEW>보기 방식에서 현재 트리는 숨김속성입니다.</HIDDEN_NODE_IN_VIEW>
+		<HIDE_OPTIONS>옵션 숨기기(&amp;O)</HIDE_OPTIONS>
+		<IF_NO_ERROR>만약 에러가 없으면</IF_NO_ERROR>
+		<IMPORTING_ARCHIVE>압축파일 가져오기...</IMPORTING_ARCHIVE>
+		<INCLUDE_FOLDER_IN_LOG>로그에 폴더 추가</INCLUDE_FOLDER_IN_LOG>
+		<INF_VOLATILE_KEY>확인 키를 생성하지 못했습니다</INF_VOLATILE_KEY>
+		<INF_VOLATILE_VAL>확인 값을 생성하지 못했습니다</INF_VOLATILE_VAL>
+		<INST_ON>설치일</INST_ON>
+		<INST_PRG>설치된 프로그램</INST_PRG>
+		<INST_PRGS>설치된 프로그램</INST_PRGS>
+		<INST_SERV_AND_DEV>설치된 서비스 및 장치</INST_SERV_AND_DEV>
+		<INSTALL>설치</INSTALL>
+		<INSTALL_HISTORY>설치 히스토리</INSTALL_HISTORY>
+		<INSTALLED_APPS>%d개의 앱 설치됨</INSTALLED_APPS>
+		<INSTALLED_PRGS_CMPS>%d개의 설치된 프로그램, %d개의 시스템 구성 요소</INSTALLED_PRGS_CMPS>
+		<INSTALLER_ERR>설치 오류 감지: 기존 공유 파일에 공유 파일을 덮어씌우려 합니다</INSTALLER_ERR>
+		<INTERFACE>화면 외관</INTERFACE>
+		<INVALID_AFTER_CNT>잘못된 변경 후 카운터</INVALID_AFTER_CNT>
+		<INVALID_BEFORE_CNT>잘못된 변경 전 카운터</INVALID_BEFORE_CNT>
+		<INVALID_CURRENT_CNT>레지스트리에서 발견한 잘못된 현재 카운터</INVALID_CURRENT_CNT>
+		<INVALID_FILE_FORMAT>유효하지 않은 파일 형식</INVALID_FILE_FORMAT>
+		<INVALID_SERVER_RESPONSE>유효하지 않은 은증 서버 응답. 대부분, 방화벽이 통신을 방해 합니다.</INVALID_SERVER_RESPONSE>
+		<ITEM_X>항목 : %s</ITEM_X>
+		<ITEMS_AFTER_INST>설치 후 다음 항목들이 생성 되었습니다. \n 다른 프로그램에서 필요할수 있습니다.</ITEMS_AFTER_INST>
+		<KEY>키</KEY>
+		<KEYS_CREATED_STAT>생성된 키   :%6.1d</KEYS_CREATED_STAT>
+		<KEYS_DEL_STAT>삭제된 키   :%6.1d</KEYS_DEL_STAT>
+		<KEYS_X>키   :%6.1d</KEYS_X>
+		<LAST_CHECK>최근 선택: %s</LAST_CHECK>
+		<LAST_WRITE_X>마지막 쓰기 : %s</LAST_WRITE_X>
+		<LAUNCH>실행</LAUNCH>
+		<LAUNCH_SUPPLIED_UNINST>제공된 프로그램 추가/삭제 프로그램을 실행 합니다.</LAUNCH_SUPPLIED_UNINST>
+		<LAUNCH_TU>Total Uninstall 실행</LAUNCH_TU>
+		<LIC_COUNTRY>국가 라이센스</LIC_COUNTRY>
+		<LIC_FAMILY>가족형 라이센스</LIC_FAMILY>
+		<LIC_MULTIPLE>다중 컴퓨터 라이센스</LIC_MULTIPLE>
+		<LIC_SINGLE_COMPUTER>싱글 컴퓨터 라이센스</LIC_SINGLE_COMPUTER>
+		<LIC_SITE>사이트 라이센스</LIC_SITE>
+		<LIC_SMALL_OFFICE>작은 오피스 라이센스</LIC_SMALL_OFFICE>
+		<LIC_TECHNICIAN>기술자 라이센스</LIC_TECHNICIAN>
+		<LIC_TEMPORARY>임시 라이센스</LIC_TEMPORARY>
+		<LIC_WORLDWIDE>전세계 라이센스</LIC_WORLDWIDE>
+		<LICENSED_TO>&quot;%s&quot; 에게 정식 등록됨</LICENSED_TO>
+		<LNK_EXE_FILTER>바로가기/실행 파일 (*.lnk, *.exe)|*.lnk;*.exe</LNK_EXE_FILTER>
+		<LOADING>로딩중...</LOADING>
+		<LOADING_INST_PRGS>설치된 프로그램 띄우는중...</LOADING_INST_PRGS>
+		<LOADING_MON_PRGS>감시된 프로그램 띄우는 중...</LOADING_MON_PRGS>
+		<LOADING_WINDOWS_APPS>Windows APP 여는중...</LOADING_WINDOWS_APPS>
+		<LOCATE_PRG_LNK_EXE>프로그램의 바로가기나 실행 파일 선택</LOCATE_PRG_LNK_EXE>
+		<LOCATE_UNINSTALLER_EXE>언인스톨러 실행기 선택</LOCATE_UNINSTALLER_EXE>
+		<LOG_FILE_NAME>로그 파일 이름</LOG_FILE_NAME>
+		<LOGON>로그온</LOGON>
+		<MAINTENANCE_ENDED>라이센스의 유지 기간이 끝났습니다.</MAINTENANCE_ENDED>
+		<MAINTENANCE_ENDED_INFO>새로 설치된 프로그램은 트라이얼 모드로 작동 할것 입니다.</MAINTENANCE_ENDED_INFO>
+		<MANUAL>설명서</MANUAL>
+		<MICROSOFT>마이크로소프트</MICROSOFT>
+		<MISSING_ITEMS>빠진 항목</MISSING_ITEMS>
+		<MODIFIED>수정일</MODIFIED>
+		<MON_ON>감시 일시</MON_ON>
+		<MON_PRG>감시된 프로그램</MON_PRG>
+		<MON_PRG_PATH>감시된 프로그램 경로</MON_PRG_PATH>
+		<MON_PRG_RUNNING>감시된 프로그램이 여전치 실행중인거 같습니다.</MON_PRG_RUNNING>
+		<MONITOR_WITH_TU>Total Uninstall에서 모니터링</MONITOR_WITH_TU>
+		<MONITORED_PRGS>감시된 프로그램: %d개</MONITORED_PRGS>
+		<NAME>이름</NAME>
+		<NEVER>사용안함</NEVER>
+		<NEW_NAME>새로운 이름</NEW_NAME>
+		<NO>아니오</NO>
+		<NO_GROUPS>그룹 없음</NO_GROUPS>
+		<NO_MORE_INSTANCES_ALLOWED>허용된 라이센스 등록 횟수를 초과 했습니다.</NO_MORE_INSTANCES_ALLOWED>
+		<NO_RIGHTS>부적절한 행동</NO_RIGHTS>
+		<NO_UPDATES>손상된 버전</NO_UPDATES>
+		<NON_MICROSOFT>Non-Microsoft</NON_MICROSOFT>
+		<NON_WINDOWS>Non-Windows</NON_WINDOWS>
+		<NORMAL>보통</NORMAL>
+		<NOT_A_VALID_UNINST>정상적인 언인스톨러를 찾을수 없습니다.</NOT_A_VALID_UNINST>
+		<NOT_AVAILABLE>없음</NOT_AVAILABLE>
+		<NOT_DELETED_FILES>파일 및 폴더 삭제할 수 없음</NOT_DELETED_FILES>
+		<NOT_DELETED_FILES_DET>언인스톨 작업 동안 파일 및 폴더 삭제할 수 없음</NOT_DELETED_FILES_DET>
+		<NOT_DELETED_REG>레지스트리 키 및 값 삭제할 수 없음</NOT_DELETED_REG>
+		<NOT_DELETED_REG_DET>언인스톨 작업 동안 레지스트리 키 및 값 삭제할 수 없음</NOT_DELETED_REG_DET>
+		<NOT_EMPTY>비어서는 안됨</NOT_EMPTY>
+		<NOT_FOUND>찾을 수 없음</NOT_FOUND>
+		<NOT_FOUND_X>없음 : %s</NOT_FOUND_X>
+		<NOTES>메모</NOTES>
+		<OK>확인</OK>
+		<OK_BRA>(확인)</OK_BRA>
+		<ON_PRG_CLOSE>프로그램 닫을때</ON_PRG_CLOSE>
+		<ON_REFRESH>새로고침 시</ON_REFRESH>
+		<ONLY_FILES_TO_KEEP>삭제할 수 없음. 파일 및 폴더를 포함하고 있습니다.</ONLY_FILES_TO_KEEP>
+		<ONLY_KEYS_TO_KEEP>삭제할 수 없음. 레지스트리 키를 포함하고 있습니다.</ONLY_KEYS_TO_KEEP>
+		<OTHER>기타</OTHER>
+		<PACKAGES>패키지</PACKAGES>
+		<PAGE>페이지:</PAGE>
+		<PAINT_ITEM_STYLES>일반적으로 표시\n숨김\n문자 하이라이트\n아이콘 흐릿하게\n아이콘 흐릿하게/문자 하이라이트</PAINT_ITEM_STYLES>
+		<PENDING_FILE_REN>파일 이름 변경 작업을 연장합니다.</PENDING_FILE_REN>
+		<PRE_INST_SNS_NAME>Pre-Install 스냅샷 이름</PRE_INST_SNS_NAME>
+		<PRE_INSTALL>시스템 스냅샷을 이용한 미리 설치</PRE_INSTALL>
+		<PREFERENCES>속성</PREFERENCES>
+		<PRG_DETECTED>감지한 프로그램:</PRG_DETECTED>
+		<PRG_NAME>프로그램 이름</PRG_NAME>
+		<PRG_PART_UNINSTALLED>프로그램 일부만 언인스톨 됨!</PRG_PART_UNINSTALLED>
+		<PRG_RESTORED>프로그램이 복구 되었습니다.</PRG_RESTORED>
+		<PRG_UNINSTALLED>프로그램 언인스톨 성공!</PRG_UNINSTALLED>
+		<PRINT_ERROR>인쇄 오류 !</PRINT_ERROR>
+		<PROCESS_CANCELLED>작업이 취소 되었습니다.</PROCESS_CANCELLED>
+		<PROCESSING_INSTALLATIONS>설치 실행...</PROCESSING_INSTALLATIONS>
+		<PRODUCT_UPDATES>제품 업데이트</PRODUCT_UPDATES>
+		<PROGRAM_WILL_RESTART>등록 절차를 마치기 위해 프로그램을 재시작 합니다.</PROGRAM_WILL_RESTART>
+		<PROGRESS_DEFAULT>진행도, 기본값</PROGRESS_DEFAULT>
+		<PST_INST_SNS_NAME>Post-Install 스냅샷 이름</PST_INST_SNS_NAME>
+		<PUBLISHER>출판자</PUBLISHER>
+		<QST_DEL_FLD_FILES>선택한 폴더 또는 파일을 정말 삭제하겠습니까?</QST_DEL_FLD_FILES>
+		<QST_DEL_REG_KEYS_VALS>선택한 레지스트리 키 또는 값을 정말 삭제하겠습니까?</QST_DEL_REG_KEYS_VALS>
+		<QST_DEL_SERVICES>선택한 서비스를 정말로 삭제 할까요?</QST_DEL_SERVICES>
+		<QST_REMOVE_INST_PRG_LST>선택한 프로그램을 정말로 목록에서 제거 할까요?</QST_REMOVE_INST_PRG_LST>
+		<QUEST_REMOVE_GROUP>그룹을 제거하겠습니까?</QUEST_REMOVE_GROUP>
+		<QUIET_PROGRESS_DEFAULT>끝냄, 진행도, 기본값</QUIET_PROGRESS_DEFAULT>
+		<README>읽어보기</README>
+		<READY>준비</READY>
+		<RECORD_CHANGED_X>변경된 녹화: %s</RECORD_CHANGED_X>
+		<REDO_PROFILES>프로파일 복구</REDO_PROFILES>
+		<REG_DET_VIEW_PRF>레지스트리 정보 [보기: %s]</REG_DET_VIEW_PRF>
+		<REG_KEY>(레지 키)</REG_KEY>
+		<REG_RUN>실행</REG_RUN>
+		<REG_RUN_ONCE>한번 실행</REG_RUN_ONCE>
+		<REG_SCAN_ERROR>레지스트리 스캔중 에러 발생</REG_SCAN_ERROR>
+		<REG_VAL>(레지 값)</REG_VAL>
+		<REGISTER_DISABLED_KEY>불법적인 방법으로 프로그램을 사용중인거 같습니다.\n올바른 라이센스 키를 구입 하세요.</REGISTER_DISABLED_KEY>
+		<REGISTER_FAILED>등록 실패!</REGISTER_FAILED>
+		<REGISTER_FIREWALL>방화벽이 %s이(가) 온라인 라이센스 인증을 막고 있습니다.</REGISTER_FIREWALL>
+		<REGISTER_HOST>HOSTS 파일이 %s이(가) 온라인 라이센스 인증을 막고 있습니다.</REGISTER_HOST>
+		<REGISTER_INVALID>잘못된 등록 정보</REGISTER_INVALID>
+		<REGISTER_PORTABLE>테크니션 포터블 에디션은 등록되어야만 합니다.</REGISTER_PORTABLE>
+		<REGISTER_PRO>프로페셔널 버전용 키로 프로그램을 등록해야만 합니다.</REGISTER_PRO>
+		<REGISTER_THANK_YOU>%s을 등록해 주셔서 감사합니다.</REGISTER_THANK_YOU>
+		<REGISTERED_COMPANY>등록된 회사</REGISTERED_COMPANY>
+		<REGISTERED_OWNER>등록된 소유자</REGISTERED_OWNER>
+		<REGISTRY>레지스트리</REGISTRY>
+		<REMOVE_LEFT_BEHIND>감지된 남은 폴더, 레지스트리 키 값을 삭제 하려면 &apos;언인스톨&apos;을 누르세요.</REMOVE_LEFT_BEHIND>
+		<REMOVE_LOG>변경 로그를 삭제 할까요?</REMOVE_LOG>
+		<REMOVE_LOG_DET>선택한 프로그램이 변경한 값을 복구 할수 없게 됩니다.</REMOVE_LOG_DET>
+		<REMOVE_PRG_DATA>설정과 프로그램 데이타를 삭제 할까요?</REMOVE_PRG_DATA>
+		<REMOVE_PRG_DATA_INFO>나중에 Total Uninstall을 업데이트 하거나 업그레이드 하려면 &quot;아니오&quot;를 선택 하세요.</REMOVE_PRG_DATA_INFO>
+		<RENAME>이름 변경</RENAME>
+		<REQUEST_INTERNET_ACCESS>인터넷 연결이 반드시 필요 합니다.</REQUEST_INTERNET_ACCESS>
+		<RESTORATION_UNDONE>복구가 되돌려 졌습니다.</RESTORATION_UNDONE>
+		<RESTORE>복구</RESTORE>
+		<RESTORE_PROGRAM>복구 프로그램</RESTORE_PROGRAM>
+		<RESTORE_REG_VALS>레지스트리 값 복원</RESTORE_REG_VALS>
+		<RESTORING_ARCHIVE>파일과 레지스트리 항목들 복구...</RESTORING_ARCHIVE>
+		<RESTORING_FILES_FROM_BKP>백업에서 파일 복구</RESTORING_FILES_FROM_BKP>
+		<RST_FILE_PROP>파일 등록 정보 복원</RST_FILE_PROP>
+		<RUN_EVAL_PERIOD>시험 기간동안 프로그램을 실행 할까요?</RUN_EVAL_PERIOD>
+		<RUNNING>실행중</RUNNING>
+		<RUNNING_DOMAIN>윈도우 NT 도메인에서 실행 중입니다.</RUNNING_DOMAIN>
+		<RUNNING_SERVER>Windows Server에서 실행</RUNNING_SERVER>
+		<RUNNING_VM>가상 머신에서 실행중.</RUNNING_VM>
+		<SAFE>안전</SAFE>
+		<SAVE_AS>저장</SAVE_AS>
+		<SCAN_PROFILES>검색 프로파일</SCAN_PROFILES>
+		<SCANNING>스캔...</SCANNING>
+		<SCANNING_REGISTRY_AND_FS>레지스트리와 파일 시스템 스캔중...</SCANNING_REGISTRY_AND_FS>
+		<SCHEDULED_TASKS>예약된 항목</SCHEDULED_TASKS>
+		<SEARCH>찾기</SEARCH>
+		<SEARCH_IN_X>&quot;%s&quot;에서 찾기</SEARCH_IN_X>
+		<SEL_BRA>(선택)</SEL_BRA>
+		<SEL_HAS_HD_NODES>선택한 항목에는 숨겨져 있는 항목이 있습니다.</SEL_HAS_HD_NODES>
+		<SEL_PRG_UNINSTALLED>선택한 프로그램은 이미 언인스톨 되었습니다.</SEL_PRG_UNINSTALLED>
+		<SEL_UNINSTALL_PROFILE>언인스톨 프로파일 선택</SEL_UNINSTALL_PROFILE>
+		<SELECT>선택</SELECT>
+		<SERVICE>서비스</SERVICE>
+		<SERVICES>서비스</SERVICES>
+		<SHARED_FILE>공유 파일. 삭제할 수 없습니다</SHARED_FILE>
+		<SHARED_FILE_CNT_DEC>공유 파일 카운터가 이미 감소 됨</SHARED_FILE_CNT_DEC>
+		<SHARED_FILE_NOT_FOUND>디스크에서 공유 파일을 찾을 수 없습니다</SHARED_FILE_NOT_FOUND>
+		<SHOW_OPTIONS>옵션 표시(&amp;O)</SHOW_OPTIONS>
+		<SHOW_SYS_COMP>시스템 구성 요소 표시: %s</SHOW_SYS_COMP>
+		<SIZE>크기</SIZE>
+		<SIZE_STAT>크기                    : %s</SIZE_STAT>
+		<SKIP>건너뜀</SKIP>
+		<SKIP_BUILTIN_UNINSTALLER>만약 실행중인 내장된 언인스톨러가 응답 하지 않는다면, &apos;건너뛰기&apos;를 클릭해서 계속 하세요. 다음 내장 언인스톨러가 실행 됩니다.</SKIP_BUILTIN_UNINSTALLER>
+		<SMALL_CNT>레지스트리에서 발견한 공유 파일 카운터는 너무 작습니다</SMALL_CNT>
+		<START>시작</START>
+		<START_MENU>시작 메뉴</START_MENU>
+		<START_SCANNING>스캔을 하려면 &apos;스캔&apos; 버튼을 누르세요.</START_SCANNING>
+		<START_UNINSTALL_PROCESS>언인스톨 시작</START_UNINSTALL_PROCESS>
+		<STARTUP_TYPE_X>시작 형식 : %s</STARTUP_TYPE_X>
+		<STOP>중지</STOP>
+		<STOP_SERVICES>서비스 중지</STOP_SERVICES>
+		<STOPPED>중지됨</STOPPED>
+		<SUMMARY>요약</SUMMARY>
+		<SUPPORT_INFO>지원 정보</SUPPORT_INFO>
+		<SUPPORT_PHONE>지원 전화</SUPPORT_PHONE>
+		<SVC_CMD_NOT_ACCEPTED>서비스가 정지 명령을 들을수 없습니다.</SVC_CMD_NOT_ACCEPTED>
+		<SW_VERSION>버전 %s</SW_VERSION>
+		<SYSTEM>시스템</SYSTEM>
+		<TEMPORARY_FILES>임시 파일</TEMPORARY_FILES>
+		<TITLE_MON_INSTALL>새로운 설치 감시</TITLE_MON_INSTALL>
+		<TITLE_MON_UPDATE_X>&quot;%s&quot; 프로그램 업데이트 감시</TITLE_MON_UPDATE_X>
+		<TOTAL_LIC_COMPUTERS>위 이름으로 등록된 라이센스 수: %s</TOTAL_LIC_COMPUTERS>
+		<TOTAL_UNINSTALL>Total Uninstall</TOTAL_UNINSTALL>
+		<TRACES_AFTER_UNINSTALL>언인스톨 후 추적</TRACES_AFTER_UNINSTALL>
+		<TRIAL_EXPIRED>트라이얼 기간이 만료 되었습니다. 등록해 주세요.</TRIAL_EXPIRED>
+		<TU_AGENT>Total Uninstall 도우미</TU_AGENT>
+		<TU_MON_PRG_TITLE>감시된 프로그램</TU_MON_PRG_TITLE>
+		<TU_PRO_EDITION>Total Uninstall 프로페셔날 에디션</TU_PRO_EDITION>
+		<TU_STD_EDITION>Total Uninstall 스탠다드 에디션</TU_STD_EDITION>
+		<TU_ULT_EDITION>Total Uninstall Ultimate 에디션</TU_ULT_EDITION>
+		<TU_USE_FIRST_UNINST>Total uninstall가 처음 제공된 언인스톨러를 사용</TU_USE_FIRST_UNINST>
+		<TU_USE_FIRST_UNINST_DESC>안티 바이러스, 안티 스파이웨어, 파이어월, 드라이버나 시스템 장치를 설치 하는 다른 프로그램 언인스톨</TU_USE_FIRST_UNINST_DESC>
+		<UNDO>되돌리기</UNDO>
+		<UNDO_RESTORATION>복구 되돌리기</UNDO_RESTORATION>
+		<UNINST_ANALYZED>분석된 프로그램 언인스톨</UNINST_ANALYZED>
+		<UNINST_BUNDLE>분석된 프로그램 언인스톨 - 번들</UNINST_BUNDLE>
+		<UNINST_PROFILES>프로파일 언인스톨</UNINST_PROFILES>
+		<UNINSTALL>언인스톨</UNINSTALL>
+		<UNINSTALL_INST_HINT>언인스톨|선택된 분석된 프로그램을 언인스톨 합니다.</UNINSTALL_INST_HINT>
+		<UNINSTALL_LOG>언인스톨 로그</UNINSTALL_LOG>
+		<UNINSTALL_MON_HINT>언인스톨|선택된 감시된 프로그램을 언인스톨 합니다.</UNINSTALL_MON_HINT>
+		<UNINSTALL_PROGRAM_X>&quot;%s&quot; 프로그램 언인스톨</UNINSTALL_PROGRAM_X>
+		<UNINSTALL_USER_WIN_APP_HINT>언인스톨|사용자 계정에서 Windows App 언인스톨</UNINSTALL_USER_WIN_APP_HINT>
+		<UNINSTALL_WIN_APPS>선택된 어플리케이션을 언인스톨 할까요?</UNINSTALL_WIN_APPS>
+		<UNINSTALLED_WITH_TU>Total Uninstall 언인스톨 &quot;%s&quot;</UNINSTALLED_WITH_TU>
+		<UNREGISTERED>비등록 버전</UNREGISTERED>
+		<USE_LAST_SNS>최근 사용했던 스냅샷 사용</USE_LAST_SNS>
+		<USE_LAST_SNS_AGO_D>최근 사용했던 스냅샷 사용 (%d 일, %d 시간 %d 분 전)</USE_LAST_SNS_AGO_D>
+		<USE_LAST_SNS_AGO_H>최근 사용했던 스냅샷 사용 (%d 시간 %d 분 전)</USE_LAST_SNS_AGO_H>
+		<USE_LAST_SNS_AGO_M>최근 사용했던 스냅샷 사용 (%d 분 전)</USE_LAST_SNS_AGO_M>
+		<USE_OLD_PURCHASE_NEW>이전 버전을 설치 하거나 이버전을 사용 하려면 업데이트를 구입 하세요.</USE_OLD_PURCHASE_NEW>
+		<USE_ONLY_PRG_UNINST>프로그램의 언인스톨러만 사용</USE_ONLY_PRG_UNINST>
+		<USE_OR_BUILD_SNS>이전에 등록한 스냅샷을 사용합니다.</USE_OR_BUILD_SNS>
+		<USR_ABORT>사용자에 의해 취소됨</USR_ABORT>
+		<VALS_CHG_STAT>수정된 값   :%6.1d</VALS_CHG_STAT>
+		<VALS_CREATED_STAT>생성된 값   :%6.1d</VALS_CREATED_STAT>
+		<VALS_DEL_STAT>삭제된 값   :%6.1d</VALS_DEL_STAT>
+		<VALUE>값</VALUE>
+		<VALUES_X>값  :%6.1d</VALUES_X>
+		<VERSION>버전</VERSION>
+		<WAIT_UNINST_REMOVE_LEFT>제공된 프로그램 추가/삭제 프로그램이 끝나면, &apos;언인스톨&apos;을 눌러 남은 폴더, 파일, 레지스트리 값을 삭제 하세요.</WAIT_UNINST_REMOVE_LEFT>
+		<WIN_APP_NAME>어플리케이션 이름</WIN_APP_NAME>
+		<WIN_APPS>윈도우즈 앱스</WIN_APPS>
+		<WINDOWS>Windows</WINDOWS>
+		<WRN_BRA>(경고)</WRN_BRA>
+		<X_BYTE>%s B</X_BYTE>
+		<X_BYTES>%d 바이트</X_BYTES>
+		<X_CHANGES>%s - 변경 사항</X_CHANGES>
+		<X_GIGABYTE>%s GB</X_GIGABYTE>
+		<X_KILOBYTE>%s KB</X_KILOBYTE>
+		<X_MEGABYTE>%s MB</X_MEGABYTE>
+		<X_RESULTS>%d 결과</X_RESULTS>
+		<X_UNINSTALL_LOG>&quot;%s&quot; - 언인스톨 로그</X_UNINSTALL_LOG>
+		<X_UNINSTALL_LOG_FILE>&quot;%s&quot; - UninstallLog.txt</X_UNINSTALL_LOG_FILE>
+		<YES>예</YES>
+		<ZERO_LENGTH_DATA>(크기가 0인 데이타)</ZERO_LENGTH_DATA>
+	</RESOURCESTRING>
+</TotalUninstall>

@@ -1,0 +1,2507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TotalUninstall>
+	<_System_>
+		<Flag>
+			<Size>1734</Size>
+			<Data>Qk3GBgAAAAAAADYAAAAoAAAAHAAAABQAAAABABgAAAAAAJAGAABiAQAAYgEAAAAAAAAAAAAAAgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+/v7+iSEQiSEQ/v7+AAH9AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+/v7+iSEQiSEQ/v7+AAH9AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+/v7+iSEQiSEQ/v7+AAH9AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+/v7+iSEQiSEQ/v7+AAH9AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+/v7+iSEQiSEQ/v7+AAH9AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+/v7+iSEQiSEQ/v7+AAH9AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+/v7+iSEQiSEQ/v7+AAH9AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+/v7+iSEQiSEQ/v7+AAH9AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+//7+//7+//3+//3+//3+//7+//3+//3+//3+iSEQiSEQ//z///3+//7+//7+//3+//3+//3+//7+//3+//3+//3+//7+//3+//3+//3+//7+//7+iSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQiSEQ/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+iSEQiSEQ/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+/v7+iSEQiSEQ/v7+AAH9AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+/v7+iSEQiSEQ/v7+AAH9AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+/v7+iSEQiSEQ/v7+AAH9AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+/v7+iSEQiSEQ/v7+AAH9AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+/v7+iSEQiSEQ/v7+AAH9AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+/v7+iSEQiSEQ/v7+AAH9AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+/v7+iSEQiSEQ/v7+AAH9AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+/v7+iSEQiSEQ/v7+AAH9AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+AgD+</Data>
+		</Flag>
+		<LanguageCode>en</LanguageCode>
+		<LocalizedName>Norsk (bokmål)</LocalizedName>
+		<Version>61100</Version>
+	</_System_>
+	<Cleaner>
+		<CF-BROWSER-CACHE>Nettleser</CF-BROWSER-CACHE>
+		<CF-BROWSER-CACHE-CHROME>Chrome</CF-BROWSER-CACHE-CHROME>
+		<CF-BROWSER-CACHE-FIREFOX>Firefox</CF-BROWSER-CACHE-FIREFOX>
+		<CF-BROWSER-CACHE-IE>Internet Explorer</CF-BROWSER-CACHE-IE>
+		<CF-BROWSER-CACHE-MAXTHON>Maxthon</CF-BROWSER-CACHE-MAXTHON>
+		<CF-BROWSER-CACHE-OPERA>Opera</CF-BROWSER-CACHE-OPERA>
+		<CF-PROGRAMS>Program</CF-PROGRAMS>
+		<CF-PROGRAMS-ADOBE-FLASH-PLAYER>Adobe Flash Player</CF-PROGRAMS-ADOBE-FLASH-PLAYER>
+		<CF-PROGRAMS-MSOFFICE-RECENT>Microsoft Office. Lista over nylig brukte filer</CF-PROGRAMS-MSOFFICE-RECENT>
+		<CF-PROGRAMS-SUN-JAVA-CACHE>Sun Java hurtigbuffer</CF-PROGRAMS-SUN-JAVA-CACHE>
+		<CF-SYSTEM>System</CF-SYSTEM>
+		<CF-SYSTEM-JUNK-FILES>Søppelfiler</CF-SYSTEM-JUNK-FILES>
+		<CF-SYSTEM-RECYCLE-BIN>Papirkurv for tvunget rensing</CF-SYSTEM-RECYCLE-BIN>
+		<CF-SYSTEM-TEMP-FILES>Midlertidige filer</CF-SYSTEM-TEMP-FILES>
+		<CF-SYSTEM-THUMBNAILS-CACHE>Minibilde hurtigbuffer</CF-SYSTEM-THUMBNAILS-CACHE>
+		<CF-WINDOWS>Windows</CF-WINDOWS>
+		<CF-WINDOWS-ERROR-REPORTING>Feilmeldinger</CF-WINDOWS-ERROR-REPORTING>
+		<CF-WINDOWS-EXPLORER>Windows Utforsker</CF-WINDOWS-EXPLORER>
+		<CF-WINDOWS-EXPLORER-RECENT-FILES>Nylig brukte dokumenter</CF-WINDOWS-EXPLORER-RECENT-FILES>
+		<CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>Utelatt tomme mapper</CF-WINDOWS-LEFT-OUT-EMPTY-FOLDERS>
+		<CF-WINDOWS-LOG-FILES>Loggfiler</CF-WINDOWS-LOG-FILES>
+		<CF-WINDOWS-MEMORY-DUMP-FILES>Minnetømminger</CF-WINDOWS-MEMORY-DUMP-FILES>
+		<CF-WINDOWS-TEMP-FOLDERS>Midlertidige mapper</CF-WINDOWS-TEMP-FOLDERS>
+		<CR-INVALID-ENTRIES>Ugyldige oppføringer</CR-INVALID-ENTRIES>
+		<CR-INVALID-ENTRIES-FILE-REFERENCES>Filreferanser</CR-INVALID-ENTRIES-FILE-REFERENCES>
+		<CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>Utelatte tomme nøkkler</CR-INVALID-ENTRIES-LEFT-OUT-EMPTY-KEYS>
+		<CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>Manglende delte DLL-filer</CR-INVALID-ENTRIES-MISSING-SHARED-DLLS>
+		<CR-INVALID-ENTRIES-MSI-PATHS>MSI-stier</CR-INVALID-ENTRIES-MSI-PATHS>
+		<CR-INVALID-ENTRIES-MUI-REFERENCES>MUI-referanser</CR-INVALID-ENTRIES-MUI-REFERENCES>
+		<CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>Ingen info filformater</CR-INVALID-ENTRIES-NO-INFO-FILE-FORMAT>
+	</Cleaner>
+	<dlgAddInstalledPrg>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Tilføy program til lista</Caption>
+		<lblBuiltInUninstaller>
+			<Caption>Innebygd avinstalleringsprogram</Caption>
+		</lblBuiltInUninstaller>
+		<lblInstallationFolder>
+			<Caption>Installert i mappe</Caption>
+		</lblInstallationFolder>
+		<lblPrgName>
+			<Caption>Programnavn</Caption>
+		</lblPrgName>
+	</dlgAddInstalledPrg>
+	<dlgAskDelItem>
+		<btnOK>
+			<Caption>&amp;OK</Caption>
+		</btnOK>
+		<btnSelectAll>
+			<Caption>&amp;Velg alle</Caption>
+		</btnSelectAll>
+		<btnUnselectAll>
+			<Caption>&amp;Fravelg alle</Caption>
+		</btnUnselectAll>
+		<Caption>Slett elementer?</Caption>
+		<cbAutoSelectAll>
+			<Caption>Auto-velg alle</Caption>
+		</cbAutoSelectAll>
+		<lblDelSel>
+			<Caption>Valgte elementer vil slettes</Caption>
+		</lblDelSel>
+	</dlgAskDelItem>
+	<dlgAutorunItem>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Auto-kjør element</Caption>
+		<gbStartLocation>
+			<Caption>Start sted</Caption>
+		</gbStartLocation>
+		<gbUser>
+			<Caption>Auto-kjør ved pålogging for</Caption>
+		</gbUser>
+		<lblCommand>
+			<Caption>Instruks</Caption>
+		</lblCommand>
+		<lblName>
+			<Caption>Navn</Caption>
+		</lblName>
+		<rbLogonAnyUser>
+			<Caption>Enhver bruker</Caption>
+		</rbLogonAnyUser>
+		<rbLogonCurentUser>
+			<Caption>Gjeldende bruker</Caption>
+		</rbLogonCurentUser>
+		<rbRegRun>
+			<Caption>Register, kjør ved hver pålogging</Caption>
+		</rbRegRun>
+		<rbRegRunOnce>
+			<Caption>Register, kjør kun en gang ved neste pålogging</Caption>
+		</rbRegRunOnce>
+		<rbStartMenu>
+			<Caption>Oppstartmappe, kjør ved hver pålogging</Caption>
+		</rbStartMenu>
+	</dlgAutorunItem>
+	<dlgChangeIcon>
+		<btnBrowse>
+			<Caption>Bla...</Caption>
+		</btnBrowse>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Endre ikon</Caption>
+		<gbIcons>
+			<Caption>Ikoner</Caption>
+		</gbIcons>
+	</dlgChangeIcon>
+	<dlgCheckUpdates>
+		<btnClose>
+			<Caption>Lukk</Caption>
+		</btnClose>
+		<btnRefresh>
+			<Caption>Oppfrisk</Caption>
+		</btnRefresh>
+		<Caption>Se etter oppdateringer</Caption>
+	</dlgCheckUpdates>
+	<dlgCompareSns>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Sammenligne systembilder</Caption>
+		<lblCompareProfile>
+			<Caption>Sammenligne profil</Caption>
+		</lblCompareProfile>
+		<lblResultLog>
+			<Caption>Resultatlogg</Caption>
+		</lblResultLog>
+		<lblSnapshotA>
+			<Caption>Systembilde A</Caption>
+		</lblSnapshotA>
+		<lblSnapshotB>
+			<Caption>Systembilde B</Caption>
+		</lblSnapshotB>
+	</dlgCompareSns>
+	<dlgExportRegistry>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Eksporter registerendringer</Caption>
+		<cbCreatedKeys>
+			<Caption>Opprettede nøkler</Caption>
+		</cbCreatedKeys>
+		<cbCreatedValues>
+			<Caption>Opprettede verdier</Caption>
+		</cbCreatedValues>
+		<cbDeletedKeys>
+			<Caption>Slettede nøkler</Caption>
+		</cbDeletedKeys>
+		<cbDeletedValues>
+			<Caption>Slettede verdier</Caption>
+		</cbDeletedValues>
+		<cbModifiedValues>
+			<Caption>Endrede verdier</Caption>
+		</cbModifiedValues>
+		<gbDetails>
+			<Caption>Registerendringer</Caption>
+		</gbDetails>
+		<gbExportType>
+			<Caption>Eksporttype</Caption>
+		</gbExportType>
+		<gbRange>
+			<Caption>Eksportområde</Caption>
+		</gbRange>
+		<rbExpAll>
+			<Caption>Alle</Caption>
+		</rbExpAll>
+		<rbExpBranch>
+			<Caption>Valgte gren</Caption>
+		</rbExpBranch>
+		<rbInstall>
+			<Caption>Installeringsfil</Caption>
+		</rbInstall>
+		<rbUninstall>
+			<Caption>Avinstalleringsfil</Caption>
+		</rbUninstall>
+	</dlgExportRegistry>
+	<dlgGroupProp>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Gruppe</Caption>
+		<lblIcon>
+			<Caption>Ikon</Caption>
+		</lblIcon>
+		<lblName>
+			<Caption>Navn</Caption>
+		</lblName>
+	</dlgGroupProp>
+	<dlgMergeLogs>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Sammenslå logger</Caption>
+		<cbDeleteUpdate>
+			<Caption>Slett oppdateringslogg etter sammenslåing</Caption>
+		</cbDeleteUpdate>
+		<gbDestination>
+			<Caption>Måladresse</Caption>
+		</gbDestination>
+		<gbSources>
+			<Caption>Kilder</Caption>
+		</gbSources>
+		<lblInstallLog>
+			<Caption>Installeringslogg</Caption>
+		</lblInstallLog>
+		<lblNewName>
+			<Caption>Nytt navn</Caption>
+		</lblNewName>
+		<lblUpdateLog>
+			<Caption>Oppdateringslogg</Caption>
+		</lblUpdateLog>
+		<rbCreateANewLog>
+			<Caption>Opprett ny logg</Caption>
+		</rbCreateANewLog>
+		<rbSaveInInstallLog>
+			<Caption>Lagre i Installeringslogg</Caption>
+		</rbSaveInInstallLog>
+	</dlgMergeLogs>
+	<dlgPendingFileRename>
+		<btnApply>
+			<Caption>Bruk</Caption>
+		</btnApply>
+		<btnClose>
+			<Caption>Lukk</Caption>
+		</btnClose>
+		<Caption>Pågående prossess for å gi fil nytt navn</Caption>
+		<tvPendingFiles>
+			<Columns_0>Kilde</Columns_0>
+			<Columns_1>Måladresse</Columns_1>
+		</tvPendingFiles>
+	</dlgPendingFileRename>
+	<dlgRegister>
+		<btnBuy>
+			<Caption>Kjøp</Caption>
+		</btnBuy>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnRegister>
+			<Caption>Registrere</Caption>
+		</btnRegister>
+		<Caption>Registrere Total Uninstall</Caption>
+		<lblKey>
+			<Caption>Registreringsnøkkel</Caption>
+		</lblKey>
+		<lblName>
+			<Caption>Registreringsnavn</Caption>
+		</lblName>
+		<ulblLostRegistrationInfo>
+			<Caption>Jeg har mistet mine registreringsopplysninger.</Caption>
+		</ulblLostRegistrationInfo>
+	</dlgRegister>
+	<dlgRestrictedFeature>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<Caption>Begrenset funksjon</Caption>
+		<clinkPurchase>
+			<Caption>Kjøp</Caption>
+			<Note>Åpne bestillingsskjema</Note>
+		</clinkPurchase>
+		<lblInstruction>
+			<Caption>Denne funksjonen er tilgjengelig i den registrerte versjonen</Caption>
+		</lblInstruction>
+		<lblProfessionalEdition>
+			<Caption>- Professional edition</Caption>
+		</lblProfessionalEdition>
+	</dlgRestrictedFeature>
+	<dlgRmvShared>
+		<btnNo>
+			<Caption>Nei</Caption>
+		</btnNo>
+		<btnNoToAll>
+			<Caption>Nei til alle</Caption>
+		</btnNoToAll>
+		<btnYes>
+			<Caption>Ja</Caption>
+		</btnYes>
+		<btnYesToAll>
+			<Caption>Ja til alle</Caption>
+		</btnYesToAll>
+		<Caption>Fjern delt fil?</Caption>
+		<lblFileName>
+			<Caption>Filnavn:</Caption>
+		</lblFileName>
+		<lblLocated>
+			<Caption>Finnes i:</Caption>
+		</lblLocated>
+		<lblOne>
+			<Caption>Systemet viser at følgende delt fil ikke lenger brukes av andre program. Hvis et program bruker denne filen fremdeles og den fjernes, vil ikke programmet virke. Er du sikker på at du vil fjerne denne delte filen?</Caption>
+		</lblOne>
+		<lblTwo>
+			<Caption>Det vil ikke skade systemet å la filen bli der. Hvis du er usikker på hva du skal gjøre, foreslår vi at du ikke fjerner denne delte komponenten.</Caption>
+		</lblTwo>
+	</dlgRmvShared>
+	<dlgSelect>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Velg</Caption>
+	</dlgSelect>
+	<dlgSelectLibIcon>
+		<btnAdd>
+			<Caption>Tilføy</Caption>
+		</btnAdd>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnDelete>
+			<Caption>Slett</Caption>
+		</btnDelete>
+		<btnOk>
+			<Caption>OK</Caption>
+		</btnOk>
+		<Caption>Velg ikon</Caption>
+		<gbIcons>
+			<Caption>Ikoner</Caption>
+		</gbIcons>
+	</dlgSelectLibIcon>
+	<dlgSysBrowser>
+		<btnCancel>
+			<Caption>&amp;Avbryt</Caption>
+		</btnCancel>
+		<btnOk>
+			<Caption>&amp;OK</Caption>
+		</btnOk>
+		<lblExpanded>
+			<Caption>Utvidet</Caption>
+		</lblExpanded>
+	</dlgSysBrowser>
+	<dlgTUAbout>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<Caption>Om</Caption>
+		<lblCopyright>
+			<Caption>Opphavsrett © 2001-2019, Gavrila Martau</Caption>
+		</lblCopyright>
+		<lblEmail>
+			<Caption>E-post</Caption>
+		</lblEmail>
+		<lblHomePage>
+			<Caption>Hjemmeside</Caption>
+		</lblHomePage>
+		<ulblBuyUpgrade>
+			<Caption>Kjøp oppgradering</Caption>
+		</ulblBuyUpgrade>
+		<ulblDownload>
+			<Caption>Last ned siste gratis oppdatering</Caption>
+		</ulblDownload>
+	</dlgTUAbout>
+	<dlgTunBackup>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnCopy>
+			<Caption>Kopier til...</Caption>
+		</btnCopy>
+		<btnCreate>
+			<Caption>Opprett</Caption>
+		</btnCreate>
+		<lblArchiving>
+			<Caption>Arkiverer filer og registerelementer...</Caption>
+		</lblArchiving>
+		<lblCreateBackup>
+			<Caption>Lag en sikkerhetskopi for programmet</Caption>
+		</lblCreateBackup>
+		<lblFilesNotIncluded>
+			<Caption>Filer ikke inkludert i sikkerhetskopien</Caption>
+		</lblFilesNotIncluded>
+	</dlgTunBackup>
+	<dlgTunRestore>
+		<btnImport>
+			<Caption>Importer</Caption>
+		</btnImport>
+		<cbRestoreOnlyLog>
+			<Caption>Gjenopprett bare installasjonsloggen</Caption>
+		</cbRestoreOnlyLog>
+		<lblFilesNotIncluded>
+			<Caption>Handlinger ikke utført</Caption>
+		</lblFilesNotIncluded>
+		<lblRestoreProfile>
+			<Caption>Gjenopprett profil</Caption>
+		</lblRestoreProfile>
+		<lblRestoreProgram>
+			<Caption>Velg et program du vil gjenopprette</Caption>
+		</lblRestoreProgram>
+		<lblUndoRestoration>
+			<Caption>Velg gjennopprettelsen du vil angre</Caption>
+		</lblUndoRestoration>
+		<pmiCopyTo>
+			<Caption>Kopier til...</Caption>
+		</pmiCopyTo>
+		<pmiDelete>
+			<Caption>Slett</Caption>
+		</pmiDelete>
+	</dlgTunRestore>
+	<dlgTUOptions>
+		<btnAddAnalysisProfile>
+			<Caption>Tilføy...</Caption>
+		</btnAddAnalysisProfile>
+		<btnAddChgView>
+			<Caption>Tilføy...</Caption>
+		</btnAddChgView>
+		<btnAddCleaner>
+			<Caption>Tilføy...</Caption>
+		</btnAddCleaner>
+		<btnAddCompareProfile>
+			<Caption>Tilføy...</Caption>
+		</btnAddCompareProfile>
+		<btnAddExclFlds>
+			<Caption>Tilføy...</Caption>
+		</btnAddExclFlds>
+		<btnAddExclKey>
+			<Caption>Tilføy...</Caption>
+		</btnAddExclKey>
+		<btnAddIgnChgFs>
+			<Caption>Tilføy...</Caption>
+		</btnAddIgnChgFs>
+		<btnAddIgnChgReg>
+			<Caption>Tilføy...</Caption>
+		</btnAddIgnChgReg>
+		<btnAddIgnFile>
+			<Caption>Tilføy...</Caption>
+		</btnAddIgnFile>
+		<btnAddInclFlds>
+			<Caption>Tilføy...</Caption>
+		</btnAddInclFlds>
+		<btnAddInclKeys>
+			<Caption>Tilføy...</Caption>
+		</btnAddInclKeys>
+		<btnAddInstallLoc>
+			<Caption>Tilføy...</Caption>
+		</btnAddInstallLoc>
+		<btnAddProtectedFld>
+			<Caption>Tilføy...</Caption>
+		</btnAddProtectedFld>
+		<btnAddProtectedKey>
+			<Caption>Tilføy...</Caption>
+		</btnAddProtectedKey>
+		<btnAddRedo>
+			<Caption>Tilføy...</Caption>
+		</btnAddRedo>
+		<btnAddScanProfile>
+			<Caption>Tilføy...</Caption>
+		</btnAddScanProfile>
+		<btnAddUninst>
+			<Caption>Tilføy...</Caption>
+		</btnAddUninst>
+		<btnAddUninstInst>
+			<Caption>Tilføy...</Caption>
+		</btnAddUninstInst>
+		<btnAddValue>
+			<Caption>Tilføy...</Caption>
+		</btnAddValue>
+		<btnAddVer>
+			<Caption>Tilføy...</Caption>
+		</btnAddVer>
+		<btnAgentAddExcMask>
+			<Caption>Tilføy...</Caption>
+		</btnAgentAddExcMask>
+		<btnAgentAddIncMask>
+			<Caption>Tilføy...</Caption>
+		</btnAgentAddIncMask>
+		<btnAgentRemExcMask>
+			<Caption>Fjern</Caption>
+		</btnAgentRemExcMask>
+		<btnAgentRemIncMask>
+			<Caption>Fjern</Caption>
+		</btnAgentRemIncMask>
+		<btnAnlSaveAs>
+			<Caption>Lagre som...</Caption>
+		</btnAnlSaveAs>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnChgViewSaveAs>
+			<Caption>Lagre som...</Caption>
+		</btnChgViewSaveAs>
+		<btnCleanerSaveAs>
+			<Caption>Lagre som...</Caption>
+		</btnCleanerSaveAs>
+		<btnClnAddExclFs>
+			<Caption>Tilføy...</Caption>
+		</btnClnAddExclFs>
+		<btnClnAddExclRegistry>
+			<Caption>Tilføy...</Caption>
+		</btnClnAddExclRegistry>
+		<btnClnEditExclFs>
+			<Caption>Rediger...</Caption>
+		</btnClnEditExclFs>
+		<btnClnEditExclRegistry>
+			<Caption>Rediger...</Caption>
+		</btnClnEditExclRegistry>
+		<btnClnRemExclFs>
+			<Caption>Fjern</Caption>
+		</btnClnRemExclFs>
+		<btnClnRemExclRegistry>
+			<Caption>Fjern</Caption>
+		</btnClnRemExclRegistry>
+		<btnCompPlaySound>
+			<Caption>Test</Caption>
+		</btnCompPlaySound>
+		<btnCompSaveAs>
+			<Caption>Lagre som...</Caption>
+		</btnCompSaveAs>
+		<btnEditExclFlds>
+			<Caption>Rediger...</Caption>
+		</btnEditExclFlds>
+		<btnEditExclKeys>
+			<Caption>Rediger...</Caption>
+		</btnEditExclKeys>
+		<btnEditIgnChgFs>
+			<Caption>Rediger...</Caption>
+		</btnEditIgnChgFs>
+		<btnEditIgnChgReg>
+			<Caption>Rediger...</Caption>
+		</btnEditIgnChgReg>
+		<btnEditIgnFile>
+			<Caption>Rediger...</Caption>
+		</btnEditIgnFile>
+		<btnEditIgnValues>
+			<Caption>Rediger...</Caption>
+		</btnEditIgnValues>
+		<btnEditProtectedFld>
+			<Caption>Rediger...</Caption>
+		</btnEditProtectedFld>
+		<btnEditProtectedKey>
+			<Caption>Rediger...</Caption>
+		</btnEditProtectedKey>
+		<btnOK>
+			<Caption>OK</Caption>
+		</btnOK>
+		<btnRedoSaveAs>
+			<Caption>Lagre som...</Caption>
+		</btnRedoSaveAs>
+		<btnRemAnalysisProfile>
+			<Caption>Fjern...</Caption>
+		</btnRemAnalysisProfile>
+		<btnRemChgView>
+			<Caption>Fjern...</Caption>
+		</btnRemChgView>
+		<btnRemCleaner>
+			<Caption>Fjern...</Caption>
+		</btnRemCleaner>
+		<btnRemCompareProfile>
+			<Caption>Fjern...</Caption>
+		</btnRemCompareProfile>
+		<btnRemExclFlds>
+			<Caption>Fjern</Caption>
+		</btnRemExclFlds>
+		<btnRemExclKeys>
+			<Caption>Fjern</Caption>
+		</btnRemExclKeys>
+		<btnRemIgnChgFs>
+			<Caption>Fjern</Caption>
+		</btnRemIgnChgFs>
+		<btnRemIgnChgReg>
+			<Caption>Fjern</Caption>
+		</btnRemIgnChgReg>
+		<btnRemIgnFile>
+			<Caption>Fjern</Caption>
+		</btnRemIgnFile>
+		<btnRemInclFlds>
+			<Caption>Fjern</Caption>
+		</btnRemInclFlds>
+		<btnRemInclKeys>
+			<Caption>Fjern</Caption>
+		</btnRemInclKeys>
+		<btnRemoveInstallLoc>
+			<Caption>Fjern</Caption>
+		</btnRemoveInstallLoc>
+		<btnRemoveRedo>
+			<Caption>Fjern...</Caption>
+		</btnRemoveRedo>
+		<btnRemProtectedFld>
+			<Caption>Fjern</Caption>
+		</btnRemProtectedFld>
+		<btnRemProtectedKey>
+			<Caption>Fjern</Caption>
+		</btnRemProtectedKey>
+		<btnRemScanProfile>
+			<Caption>Fjern...</Caption>
+		</btnRemScanProfile>
+		<btnRemUninst>
+			<Caption>Fjern...</Caption>
+		</btnRemUninst>
+		<btnRemUninstInst>
+			<Caption>Fjern...</Caption>
+		</btnRemUninstInst>
+		<btnRemValues>
+			<Caption>Fjern</Caption>
+		</btnRemValues>
+		<btnRemVer>
+			<Caption>Fjern</Caption>
+		</btnRemVer>
+		<btnResetAll>
+			<Caption>Nullstill alle</Caption>
+		</btnResetAll>
+		<btnScanPlaySound>
+			<Caption>Test</Caption>
+		</btnScanPlaySound>
+		<btnScanSaveAs>
+			<Caption>Lagre som...</Caption>
+		</btnScanSaveAs>
+		<btnUninstSaveAs>
+			<Caption>Lagre som...</Caption>
+		</btnUninstSaveAs>
+		<Caption>Alternativer</Caption>
+		<cbAnlProfileDefault>
+			<Caption>Standard</Caption>
+		</cbAnlProfileDefault>
+		<cbAutoStart>
+			<Caption>Auto-start med Windows for å kjøre uavsluttet overvåkningsprosess</Caption>
+		</cbAutoStart>
+		<cbBackup>
+			<Caption>Ta sikkerhetskopi av avinstallert program</Caption>
+		</cbBackup>
+		<cbChgViewDefault>
+			<Caption>Standard</Caption>
+		</cbChgViewDefault>
+		<cbCleanerDefault>
+			<Caption>Standard</Caption>
+		</cbCleanerDefault>
+		<cbCleanerEnable>
+			<Caption>Aktiver rensemodul</Caption>
+		</cbCleanerEnable>
+		<cbClickRestore>
+			<Caption>Gjenopprett med en klikk</Caption>
+		</cbClickRestore>
+		<cbCompareRegistry>
+			<Caption>Sammenligne Registeret</Caption>
+		</cbCompareRegistry>
+		<cbCompFiles>
+			<Caption>Sammenligne filer</Caption>
+		</cbCompFiles>
+		<cbCompPlaySound>
+			<Caption>Avspill lyd når ferdig</Caption>
+		</cbCompPlaySound>
+		<cbCompProfileDefault>
+			<Caption>Standard</Caption>
+		</cbCompProfileDefault>
+		<cbCompProfileFrozen>
+			<Caption>Lås</Caption>
+		</cbCompProfileFrozen>
+		<cbComputeMD5>
+			<Caption>Regn ut MD5 for nye filer</Caption>
+		</cbComputeMD5>
+		<cbCreateKeys>
+			<Caption>Opprett slettede nøkler</Caption>
+		</cbCreateKeys>
+		<cbCreateValues>
+			<Caption>Opprett slettede verdier</Caption>
+		</cbCreateValues>
+		<cbCustomSnsName>
+			<Caption>Tillat tilpasset navn på systembilde</Caption>
+		</cbCustomSnsName>
+		<cbDecrement>
+			<Caption>Minsk teller for delte filer</Caption>
+		</cbDecrement>
+		<cbDelFiles>
+			<Caption>Slett opprettede filer (kun delte filer hvis teller når 0)</Caption>
+		</cbDelFiles>
+		<cbDelFolders>
+			<Caption>Slett opprettede mapper</Caption>
+		</cbDelFolders>
+		<cbDelKeys>
+			<Caption>Slett opprettede nøkler</Caption>
+		</cbDelKeys>
+		<cbDelUseRecycle>
+			<Caption>Bruk Papirkurven</Caption>
+		</cbDelUseRecycle>
+		<cbDelValues>
+			<Caption>Slett opprettede verdier</Caption>
+		</cbDelValues>
+		<cbDontUseLog>
+			<Caption>Ikke bruk loggen for konstaterte endringer</Caption>
+		</cbDontUseLog>
+		<cbEnableAgent>
+			<Caption>Aktiver Total Uninstall Agent</Caption>
+		</cbEnableAgent>
+		<cbExtractFileVersion>
+			<Caption>Trekk ut informasjon om filversjon</Caption>
+		</cbExtractFileVersion>
+		<cbHexViewerNot64Bit>
+			<Caption>Ikke 64-bit klar</Caption>
+		</cbHexViewerNot64Bit>
+		<cbIgnoreMissingItems>
+			<Caption>Overse elementer som mangler</Caption>
+		</cbIgnoreMissingItems>
+		<cbInstPrgsEnable>
+			<Caption>Aktiver modul for installerte program</Caption>
+		</cbInstPrgsEnable>
+		<cbMinToTray>
+			<Caption>Minimer til Oppgavefeltet</Caption>
+		</cbMinToTray>
+		<cbMonPrgsEnable>
+			<Caption>Aktiver modul for Overvåkede program</Caption>
+		</cbMonPrgsEnable>
+		<cbRedoCreateFiles>
+			<Caption>Gjenopprett opprettede filer</Caption>
+		</cbRedoCreateFiles>
+		<cbRedoCreateFilesOvr>
+			<Caption>Skriv over filer</Caption>
+		</cbRedoCreateFilesOvr>
+		<cbRedoCreateFilesOvrLck>
+			<Caption>Skriv over låste filer</Caption>
+		</cbRedoCreateFilesOvrLck>
+		<cbRedoCreateFolders>
+			<Caption>Gjenopprett opprettete mapper</Caption>
+		</cbRedoCreateFolders>
+		<cbRedoCreateKeys>
+			<Caption>Gjenopprett opprettede nøkler</Caption>
+		</cbRedoCreateKeys>
+		<cbRedoCreateValues>
+			<Caption>Gjenopprett opprettede verdier</Caption>
+		</cbRedoCreateValues>
+		<cbRedoDefault>
+			<Caption>Standard</Caption>
+		</cbRedoDefault>
+		<cbRedoDeleteFiles>
+			<Caption>Slett filer</Caption>
+		</cbRedoDeleteFiles>
+		<cbRedoDeleteFolders>
+			<Caption>Slett mapper</Caption>
+		</cbRedoDeleteFolders>
+		<cbRedoDeleteKeys>
+			<Caption>Slett nøkler</Caption>
+		</cbRedoDeleteKeys>
+		<cbRedoDeleteValues>
+			<Caption>Slett verdier</Caption>
+		</cbRedoDeleteValues>
+		<cbRedoEnabled>
+			<Caption>Aktivert</Caption>
+		</cbRedoEnabled>
+		<cbRedoModifyFiles>
+			<Caption>Gjenopprett modifiserte filer</Caption>
+		</cbRedoModifyFiles>
+		<cbRedoModifyFilesLck>
+			<Caption>Overskriv låste filer</Caption>
+		</cbRedoModifyFilesLck>
+		<cbRedoModifyValues>
+			<Caption>Gjenopprett modifiserte verdier</Caption>
+		</cbRedoModifyValues>
+		<cbRedoSysRestore>
+			<Caption>Opprett punkt for Systemgjenoppretting før gjenoppretting</Caption>
+		</cbRedoSysRestore>
+		<cbRestoreValues>
+			<Caption>Gjenopprett endrede verdier</Caption>
+		</cbRestoreValues>
+		<cbRstFileCreated>
+			<Caption>Gjenopprett dato for opprettede filer</Caption>
+		</cbRstFileCreated>
+		<cbScanForAds>
+			<Caption>Skann for Alternative Datastrøm</Caption>
+		</cbScanForAds>
+		<cbScanPlaySound>
+			<Caption>Avspill lyd når ferdig</Caption>
+		</cbScanPlaySound>
+		<cbScanProfileDefault>
+			<Caption>Standard</Caption>
+		</cbScanProfileDefault>
+		<cbScanProfileFrozen>
+			<Caption>Lås</Caption>
+		</cbScanProfileFrozen>
+		<cbShell>
+			<Caption>Integrer Total Uninstall i skallet</Caption>
+		</cbShell>
+		<cbShowAfter>
+			<Caption>Etter kolonne</Caption>
+		</cbShowAfter>
+		<cbShowBefore>
+			<Caption>Før kolonne</Caption>
+		</cbShowBefore>
+		<cbShowBinAsText>
+			<Caption>Vis binærdata som ren tekst</Caption>
+		</cbShowBinAsText>
+		<cbShowChanged>
+			<Caption>Endrede elementer</Caption>
+		</cbShowChanged>
+		<cbShowCreated>
+			<Caption>Opprettede elementer</Caption>
+		</cbShowCreated>
+		<cbShowCurrent>
+			<Caption>Gjeldende kolonne</Caption>
+		</cbShowCurrent>
+		<cbShowDataSize>
+			<Caption>Datastørrelse</Caption>
+		</cbShowDataSize>
+		<cbShowDataType>
+			<Caption>Datatype</Caption>
+		</cbShowDataType>
+		<cbShowDateCreated>
+			<Caption>Dato opprettet</Caption>
+		</cbShowDateCreated>
+		<cbShowDateModified>
+			<Caption>Dato endret</Caption>
+		</cbShowDateModified>
+		<cbShowDeleted>
+			<Caption>Slettede elementer</Caption>
+		</cbShowDeleted>
+		<cbShowFileAttrib>
+			<Caption>Filegenskaper</Caption>
+		</cbShowFileAttrib>
+		<cbShowFileSize>
+			<Caption>Filstørrelse</Caption>
+		</cbShowFileSize>
+		<cbShowFileVersion>
+			<Caption>Filversjon</Caption>
+		</cbShowFileVersion>
+		<cbShowMD5>
+			<Caption>Ny fil MD5 sum</Caption>
+		</cbShowMD5>
+		<cbSmartAdjustAnalysisLevel>
+			<Caption>Smart-justere analysenivået</Caption>
+		</cbSmartAdjustAnalysisLevel>
+		<cbSysRestore>
+			<Caption>Opprett et punkt for systemgjenoppretting før avinstallering</Caption>
+		</cbSysRestore>
+		<cbSystemFilesAdditional>
+			<Caption>Tilleggsanalyse</Caption>
+		</cbSystemFilesAdditional>
+		<cbTxtViewerNot64Bit>
+			<Caption>Ikke 64-bit klar</Caption>
+		</cbTxtViewerNot64Bit>
+		<cbUninstDefault>
+			<Caption>Standard</Caption>
+		</cbUninstDefault>
+		<cbUninstEnabled>
+			<Caption>Aktivert</Caption>
+		</cbUninstEnabled>
+		<cbUseUninstaller>
+			<Caption>Bruk innebygd avinstalleringsprogram først</Caption>
+		</cbUseUninstaller>
+		<cmbUpdateFrequency>
+			<Items>Daglig\nUkentlig\nMånedlig\n</Items>
+		</cmbUpdateFrequency>
+		<cmbUpdateMethod>
+			<Items>Manuelt\nPåminnelse\nAutomatisk\n</Items>
+		</cmbUpdateMethod>
+		<gbAgentMasks>
+			<Caption>Masker for filnavn til settopp-program</Caption>
+		</gbAgentMasks>
+		<gbClnExcludeFs>
+			<Caption>Unnta mapper og filer</Caption>
+		</gbClnExcludeFs>
+		<gbClnExcludeRegistry>
+			<Caption>Unnta registernøkler og -verdier</Caption>
+		</gbClnExcludeRegistry>
+		<gbCompareIgnChgReg>
+			<Caption>Overse endrede elementer</Caption>
+		</gbCompareIgnChgReg>
+		<gbCompareIgnKeys>
+			<Caption>Overse nøkler og verdier</Caption>
+		</gbCompareIgnKeys>
+		<gbCompIgnChgFs>
+			<Caption>Overse endrede elementer</Caption>
+		</gbCompIgnChgFs>
+		<gbCompIgnoreFld>
+			<Caption>Overse mapper og filer</Caption>
+		</gbCompIgnoreFld>
+		<gbFileExtensions>
+			<Caption>Filtyper med versjoninformasjon</Caption>
+		</gbFileExtensions>
+		<gbInstallLoc>
+			<Caption>Installasjonsadresser</Caption>
+		</gbInstallLoc>
+		<gbInstallLocation>
+			<Caption>Overvåk installasjonsadresser</Caption>
+		</gbInstallLocation>
+		<gbLimits>
+			<Caption>Begrensning for mappen med systembilder</Caption>
+		</gbLimits>
+		<gbPrgData>
+			<Caption>Overvåk programdata</Caption>
+		</gbPrgData>
+		<gbPrgSettings>
+			<Caption>Overvåk programinnstillinger</Caption>
+		</gbPrgSettings>
+		<gbPrgShortcuts>
+			<Caption>Overvåk programsnarveier</Caption>
+		</gbPrgShortcuts>
+		<gbProtectedFolders>
+			<Caption>Beskyttede mapper</Caption>
+		</gbProtectedFolders>
+		<gbProtectedKeys>
+			<Caption>Beskyttede nøkler</Caption>
+		</gbProtectedKeys>
+		<gbRegEditor>
+			<Caption>Redigering av Registeret</Caption>
+		</gbRegEditor>
+		<gbRegScanner>
+			<Caption>Registerskanner</Caption>
+		</gbRegScanner>
+		<gbScanExclFolders>
+			<Caption>Unnta mapper</Caption>
+		</gbScanExclFolders>
+		<gbScanExclKeys>
+			<Caption>Unnta nøkler</Caption>
+		</gbScanExclKeys>
+		<gbScanInclFolders>
+			<Caption>Inkluder mapper</Caption>
+		</gbScanInclFolders>
+		<gbScanInclKeys>
+			<Caption>Inkluder nøkler</Caption>
+		</gbScanInclKeys>
+		<gbShellIntegration>
+			<Caption>Overvåk skall-integrasjon</Caption>
+		</gbShellIntegration>
+		<gbSystemFiles>
+			<Caption>Overvåk systemfiler</Caption>
+		</gbSystemFiles>
+		<gbTranslation>
+			<Caption>Oversettelse</Caption>
+		</gbTranslation>
+		<grpExistingViewStyle>
+			<Caption>Elementer som finnes i systemet</Caption>
+		</grpExistingViewStyle>
+		<grpMissingViewStyle>
+			<Caption>Elementer som systemet mangler</Caption>
+		</grpMissingViewStyle>
+		<lblAdvanced1>
+			<Caption>Avansert</Caption>
+		</lblAdvanced1>
+		<lblAdvanced2>
+			<Caption>Avansert</Caption>
+		</lblAdvanced2>
+		<lblAdvanced3>
+			<Caption>Avansert</Caption>
+		</lblAdvanced3>
+		<lblAdvanced4>
+			<Caption>Avansert</Caption>
+		</lblAdvanced4>
+		<lblAdvanced5>
+			<Caption>Avansert</Caption>
+		</lblAdvanced5>
+		<lblAdvanced6>
+			<Caption>Avansert</Caption>
+		</lblAdvanced6>
+		<lblAgentExcludeMask>
+			<Caption>Unnta</Caption>
+		</lblAgentExcludeMask>
+		<lblAgentIncludeMask>
+			<Caption>Inkluder</Caption>
+		</lblAgentIncludeMask>
+		<lblAnalysisProfiles>
+			<Caption>Analyseprofiler</Caption>
+		</lblAnalysisProfiles>
+		<lblAnlProfileDesc>
+			<Caption>Beskrivelse</Caption>
+		</lblAnlProfileDesc>
+		<lblAnlProfileName>
+			<Caption>Navn</Caption>
+		</lblAnlProfileName>
+		<lblBackupLimiFolderSize>
+			<Caption>Begrens mappestørrelse for sikkerhetskopi (MB)</Caption>
+		</lblBackupLimiFolderSize>
+		<lblChageViewName>
+			<Caption>Navn</Caption>
+		</lblChageViewName>
+		<lblChangeViews>
+			<Caption>Endre visning</Caption>
+		</lblChangeViews>
+		<lblCheckUpdateMethod>
+			<Caption>Måten å se etter oppdateringer</Caption>
+		</lblCheckUpdateMethod>
+		<lblCheckUpdatesFrequency>
+			<Caption>Frekvens</Caption>
+		</lblCheckUpdatesFrequency>
+		<lblCleanerDescription>
+			<Caption>Beskrivelse</Caption>
+		</lblCleanerDescription>
+		<lblCleanerName>
+			<Caption>Navn</Caption>
+		</lblCleanerName>
+		<lblCleaners>
+			<Caption>Rensere</Caption>
+		</lblCleaners>
+		<lblCompareProfileDesc>
+			<Caption>Beskrivelse</Caption>
+		</lblCompareProfileDesc>
+		<lblCompareProfileName>
+			<Caption>Navn</Caption>
+		</lblCompareProfileName>
+		<lblFolderSize>
+			<Caption>Mappestørrelse (MB)</Caption>
+		</lblFolderSize>
+		<lblHexViewer>
+			<Caption>Program for visning av heksadesimale tegn</Caption>
+		</lblHexViewer>
+		<lblLanguage>
+			<Caption>Språk (Language)</Caption>
+		</lblLanguage>
+		<lblNone1>
+			<Caption>Ingen</Caption>
+		</lblNone1>
+		<lblNone2>
+			<Caption>Ingen</Caption>
+		</lblNone2>
+		<lblNone3>
+			<Caption>Ingen</Caption>
+		</lblNone3>
+		<lblNone4>
+			<Caption>Ingen</Caption>
+		</lblNone4>
+		<lblNone5>
+			<Caption>Ingen</Caption>
+		</lblNone5>
+		<lblNone6>
+			<Caption>Ingen</Caption>
+		</lblNone6>
+		<lblProgramDataPath>
+			<Caption>Sti til programdata</Caption>
+		</lblProgramDataPath>
+		<lblRedoDescription>
+			<Caption>Beskrivelse</Caption>
+		</lblRedoDescription>
+		<lblRedoName>
+			<Caption>Navn</Caption>
+		</lblRedoName>
+		<lblRedoProfiles>
+			<Caption>Gjenopprett profiler</Caption>
+		</lblRedoProfiles>
+		<lblScanningProfiles>
+			<Caption>Skanneprofiler</Caption>
+		</lblScanningProfiles>
+		<lblScanProfileDesc>
+			<Caption>Beskrivelse</Caption>
+		</lblScanProfileDesc>
+		<lblScanProfileName>
+			<Caption>Navn</Caption>
+		</lblScanProfileName>
+		<lblSimultaneousTasks>
+			<Caption>Samtidige oppgaver</Caption>
+		</lblSimultaneousTasks>
+		<lblSnsCompareProfiles>
+			<Caption>Profiler for sammenlikning av bilder</Caption>
+		</lblSnsCompareProfiles>
+		<lblSnsCount>
+			<Caption>Telling av systembilder</Caption>
+		</lblSnsCount>
+		<lblTranslatedBy1>
+			<Caption>Translated by John Gothard</Caption>
+		</lblTranslatedBy1>
+		<lblTranslatedBy2>
+			<Caption>Nettsted: http://home.online.no/~jorigo/index.htm</Caption>
+		</lblTranslatedBy2>
+		<lblTranslatedBy3>
+			<Caption>E-post: jorigo@online.no</Caption>
+		</lblTranslatedBy3>
+		<lblTxtViewer>
+			<Caption>Tekstredigeringsprogram</Caption>
+		</lblTxtViewer>
+		<lblUninstallProfiles>
+			<Caption>Avinstalleringsprofiler</Caption>
+		</lblUninstallProfiles>
+		<lblUninstallProfilesInst>
+			<Caption>Avinstalleringsprofiler</Caption>
+		</lblUninstallProfilesInst>
+		<lblUninstDesc>
+			<Caption>Beskrivelse</Caption>
+		</lblUninstDesc>
+		<lblUninstName>
+			<Caption>Navn</Caption>
+		</lblUninstName>
+		<lblUninstRemoveLog>
+			<Caption>Fjern avinstallerte program fra liste</Caption>
+		</lblUninstRemoveLog>
+		<lblUserInteraction>
+			<Caption>Bruk innebygd avinstalleringsprogram med dialog først</Caption>
+		</lblUserInteraction>
+		<rbDialog>
+			<Caption>Dialog</Caption>
+		</rbDialog>
+		<rbOtherRegEdit>
+			<Caption>Andre</Caption>
+		</rbOtherRegEdit>
+		<rbTrayBaloon>
+			<Caption>Skilt i oppgavefeltet</Caption>
+		</rbTrayBaloon>
+		<rbWinRegEdit>
+			<Caption>Windows Registerredigering</Caption>
+		</rbWinRegEdit>
+		<rgAgentNotif>
+			<Caption>Kjører varsel ved bruk av installasjonsprogram</Caption>
+		</rgAgentNotif>
+		<tabAnlFileSystem>
+			<Caption>Filsystem</Caption>
+		</tabAnlFileSystem>
+		<tabAnlGeneral>
+			<Caption>Generelt</Caption>
+		</tabAnlGeneral>
+		<tabChageViewFileSystem>
+			<Caption>Filsystem</Caption>
+		</tabChageViewFileSystem>
+		<tabChageViewGeneral>
+			<Caption>Generelt</Caption>
+		</tabChageViewGeneral>
+		<tabChageViewRegistry>
+			<Caption>Register</Caption>
+		</tabChageViewRegistry>
+		<tabChageViewView>
+			<Caption>Visning</Caption>
+		</tabChageViewView>
+		<tabCleanerFileSystem>
+			<Caption>Filsystem</Caption>
+		</tabCleanerFileSystem>
+		<tabCleanerGen>
+			<Caption>Generelt</Caption>
+		</tabCleanerGen>
+		<tabCleanerReg>
+			<Caption>Register</Caption>
+		</tabCleanerReg>
+		<tabCmpProfileFileSys>
+			<Caption>Filsystem</Caption>
+		</tabCmpProfileFileSys>
+		<tabCompareProfileGen>
+			<Caption>Generelt</Caption>
+		</tabCompareProfileGen>
+		<tabCompareProfileReg>
+			<Caption>Register</Caption>
+		</tabCompareProfileReg>
+		<tabRedoAdvanced>
+			<Caption>Avansert</Caption>
+		</tabRedoAdvanced>
+		<tabRedoFileSystem>
+			<Caption>Filsystem</Caption>
+		</tabRedoFileSystem>
+		<tabRedoGeneral>
+			<Caption>Generelt</Caption>
+		</tabRedoGeneral>
+		<tabRedoRegistry>
+			<Caption>Register</Caption>
+		</tabRedoRegistry>
+		<tabScanProfileFolders>
+			<Caption>Mapper</Caption>
+		</tabScanProfileFolders>
+		<tabScanProfileGeneral>
+			<Caption>Generelt</Caption>
+		</tabScanProfileGeneral>
+		<tabScanProfileRegistry>
+			<Caption>Register</Caption>
+		</tabScanProfileRegistry>
+		<tabUninstAdv>
+			<Caption>Avansert</Caption>
+		</tabUninstAdv>
+		<tabUninstFS>
+			<Caption>Filsystem</Caption>
+		</tabUninstFS>
+		<tabUninstGeneral>
+			<Caption>Generelt</Caption>
+		</tabUninstGeneral>
+		<tabUninstRegistry>
+			<Caption>Register</Caption>
+		</tabUninstRegistry>
+		<tblAnlRegistry>
+			<Caption>Register</Caption>
+		</tblAnlRegistry>
+	</dlgTUOptions>
+	<dlgUninstall>
+		<btnBringToFront>
+			<Caption>Flytt foran</Caption>
+		</btnBringToFront>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnUninstall>
+			<Caption>Avinstaller</Caption>
+		</btnUninstall>
+		<lblCreatingRestorePnt>
+			<Caption>Oppretter punkt for Systemgjenoppretting...</Caption>
+		</lblCreatingRestorePnt>
+		<lblProfile>
+			<Caption>Velg avinstalleringsprofil</Caption>
+		</lblProfile>
+		<lblUninstalling>
+			<Caption>Avinstallerer...</Caption>
+		</lblUninstalling>
+		<lblWaitTitle>
+			<Caption>Vent til eget program for Tilføy/Fjern er ferdig</Caption>
+		</lblWaitTitle>
+	</dlgUninstall>
+	<frmInstall>
+		<btnBrowseSetup>
+			<Caption>&amp;Bla...</Caption>
+		</btnBrowseSetup>
+		<btnCancel>
+			<Caption>Avbryt</Caption>
+		</btnCancel>
+		<btnCompleteLater>
+			<Caption>&amp;Fullfør overvåkningsprosessen seinere</Caption>
+		</btnCompleteLater>
+		<btnLaunchSetup>
+			<Caption>&amp;Kjør installasjonsprogram</Caption>
+		</btnLaunchSetup>
+		<btnNext>
+			<Caption>Neste</Caption>
+		</btnNext>
+		<btnProgramIsInstalled>
+			<Caption>P&amp;rogram er installert</Caption>
+		</btnProgramIsInstalled>
+		<btnSuggest>
+			<Caption>Fo&amp;reslå</Caption>
+		</btnSuggest>
+		<lblCreateLog>
+			<Caption>Opprett installasjonslogg</Caption>
+		</lblCreateLog>
+		<lblCreateOrSelectSns>
+			<Caption>Før installering, opprett et nytt, eller velg det forrige systembildet.</Caption>
+		</lblCreateOrSelectSns>
+		<lblCreatePreInstallSns>
+			<Caption>Opprett systembilde før installering</Caption>
+		</lblCreatePreInstallSns>
+		<lblCreatingLog>
+			<Caption>Oppetter installasjonsloggen</Caption>
+		</lblCreatingLog>
+		<lblCreatingSystemSns>
+			<Caption>Oppretter systembildet</Caption>
+		</lblCreatingSystemSns>
+		<lblFinish>
+			<Caption>Oppretting av Installasjonslogg var vellykket</Caption>
+		</lblFinish>
+		<lblInstallMonProgram>
+			<Caption>Installer overvåket program</Caption>
+		</lblInstallMonProgram>
+		<lblProfiles>
+			<Caption>&amp;Skanneprofil</Caption>
+		</lblProfiles>
+		<lblProgramName>
+			<Caption>&amp;Programnavn</Caption>
+		</lblProgramName>
+		<lblProgramSetupPath>
+			<Caption>&amp;Sti til programoppsett</Caption>
+		</lblProgramSetupPath>
+		<lblSnsName>
+			<Caption>&amp;Bildenavn</Caption>
+		</lblSnsName>
+		<lblSpecifySnsName>
+			<Caption>&amp;Spesifiser navnet til etter-installeringsbildet</Caption>
+		</lblSpecifySnsName>
+		<rbNewSnapshot>
+			<Caption>&amp;Opprett et nytt systembilde (anbefalt)</Caption>
+		</rbNewSnapshot>
+		<rbUseLastSnapshot>
+			<Caption>&amp;Bruk siste systembilde</Caption>
+		</rbUseLastSnapshot>
+	</frmInstall>
+	<frmTUMain>
+		<btnClear>
+			<Caption>Tøm</Caption>
+		</btnClear>
+		<btnGroupAddChild>
+			<Caption>Tilføy undergruppe...</Caption>
+		</btnGroupAddChild>
+		<btnGroupAddRoot>
+			<Caption>Tilføy rotgruppe...</Caption>
+		</btnGroupAddRoot>
+		<btnGroupEdit>
+			<Caption>Rediger gruppe...</Caption>
+		</btnGroupEdit>
+		<btnGroupMoveToRoot>
+			<Caption>Flytt til rot</Caption>
+		</btnGroupMoveToRoot>
+		<btnGroupRemove>
+			<Caption>Fjern gruppe</Caption>
+		</btnGroupRemove>
+		<btnSearch>
+			<Caption>Start</Caption>
+		</btnSearch>
+		<cbBundle>
+			<Caption>Bunte</Caption>
+		</cbBundle>
+		<cbCaseSensitive>
+			<Caption>Versalsensitiv</Caption>
+		</cbCaseSensitive>
+		<cbChanged>
+			<Caption>Endret</Caption>
+		</cbChanged>
+		<cbCreated>
+			<Caption>Opprettet</Caption>
+		</cbCreated>
+		<cbData>
+			<Caption>Data</Caption>
+		</cbData>
+		<cbDeleted>
+			<Caption>Slettet</Caption>
+		</cbDeleted>
+		<cbFiles>
+			<Caption>Filer</Caption>
+		</cbFiles>
+		<cbFolders>
+			<Caption>Mapper</Caption>
+		</cbFolders>
+		<cbKeys>
+			<Caption>Nøkler</Caption>
+		</cbKeys>
+		<cbSearchMask>
+			<Caption>Søkemaske</Caption>
+		</cbSearchMask>
+		<cbUnchanged>
+			<Caption>Uendret</Caption>
+		</cbUnchanged>
+		<cbValues>
+			<Caption>Verdier</Caption>
+		</cbValues>
+		<Copy1>
+			<Caption>Kopier</Caption>
+			<Hint>Kopier valgte filer til Utklippstavle</Hint>
+		</Copy1>
+		<Copy2>
+			<Caption>Kopier</Caption>
+			<Hint>Kopier valgte filer til Utklippstavle</Hint>
+		</Copy2>
+		<gbAdvanced>
+			<Caption>Avansert</Caption>
+		</gbAdvanced>
+		<gbChanges>
+			<Caption>Elementer</Caption>
+		</gbChanges>
+		<gbFileSystem>
+			<Caption>Filsystem</Caption>
+		</gbFileSystem>
+		<gbRegistry>
+			<Caption>Register</Caption>
+		</gbRegistry>
+		<gbScope>
+			<Caption>Søk i</Caption>
+		</gbScope>
+		<miAddtoCompareIgnoreList>
+			<Caption>Tilføy til lista Sammenlign Overse</Caption>
+			<Hint>Tilføy valgte elementer til lista over alle oversette sammenligningsprofiler</Hint>
+		</miAddtoCompareIgnoreList>
+		<miAddtoScanExcludeList>
+			<Caption>Tilføy til lista over det som unntas ved skanning</Caption>
+			<Hint>Tilføy valgte elementer til lista over alle skanneprofiler som unntas</Hint>
+		</miAddtoScanExcludeList>
+		<miAppSendTo>
+			<Caption>Send til Gruppe</Caption>
+		</miAppSendTo>
+		<miAutorunManager>
+			<Caption>Auto-kjør Behandler</Caption>
+		</miAutorunManager>
+		<miChanges>
+			<Caption>Endringer</Caption>
+			<Hint>Oppfang endringer|Vis oppfangede systemendringer gjort av gjeldende program</Hint>
+		</miChanges>
+		<miCleaner>
+			<Caption>Rens</Caption>
+			<Hint>Rens</Hint>
+		</miCleaner>
+		<miClnItems>
+			<Caption>Elementer</Caption>
+		</miClnItems>
+		<miClnSummary>
+			<Caption>Sammendrag</Caption>
+			<Hint>Sammendrag|Vis kortfattet informasjon om gjeldende program</Hint>
+		</miClnSummary>
+		<miCollapse>
+			<Caption>Skjul</Caption>
+			<Hint>Skjul den aktive tre-noden</Hint>
+		</miCollapse>
+		<miCopyDetail>
+			<Caption>Kopier</Caption>
+		</miCopyDetail>
+		<miDeleteCompletely>
+			<Caption>Slett fullstendig</Caption>
+			<Hint>Fjern valgt element fra logg og fra system</Hint>
+		</miDeleteCompletely>
+		<miDeletefromSystemOnly>
+			<Caption>Slett kun fra system</Caption>
+			<Hint>Slett valgt element kun fra system</Hint>
+		</miDeletefromSystemOnly>
+		<miEdit>
+			<Caption>&amp;Rediger</Caption>
+		</miEdit>
+		<miEditAutorunLocateEntry>
+			<Caption>Finn auto-kjør oppføring</Caption>
+		</miEditAutorunLocateEntry>
+		<miEditAutorunLocateTarget>
+			<Caption>Finn mål</Caption>
+		</miEditAutorunLocateTarget>
+		<miEditAutorunRun>
+			<Caption>Kjør</Caption>
+		</miEditAutorunRun>
+		<miEditAutorunStop>
+			<Caption>Stopp</Caption>
+		</miEditAutorunStop>
+		<miEditAutorunTargetProperties>
+			<Caption>Målegenskaper</Caption>
+		</miEditAutorunTargetProperties>
+		<miEditRedo>
+			<Caption>Angre</Caption>
+			<Hint>Angre de valgte endringer i system</Hint>
+		</miEditRedo>
+		<miEditRedoDepth>
+			<Caption>Angre dybde</Caption>
+			<Hint>Angre dybde de valgte endringene i systemet</Hint>
+		</miEditRedoDepth>
+		<miEditRestoreFromBackup>
+			<Caption>Gjenomopprett fra sikkerhetskopi</Caption>
+			<Hint>Gjenopprett de valgte filene, mapper og undermapper fra sikkerhetskopi</Hint>
+		</miEditRestoreFromBackup>
+		<miEditUndo>
+			<Caption>Angre</Caption>
+			<Hint>Angre valgte systemendringer</Hint>
+		</miEditUndo>
+		<miEditUndoDepth>
+			<Caption>Angre dybde</Caption>
+			<Hint>Angre dybde de valgte endringene fra systemet</Hint>
+		</miEditUndoDepth>
+		<miExpand>
+			<Caption>Utvid</Caption>
+			<Hint>Utvid den aktive tre-noden</Hint>
+		</miExpand>
+		<miExpChanges>
+			<Caption>Endringer...</Caption>
+			<Hint>Eksporter endringsstrukturen</Hint>
+		</miExpChanges>
+		<miExpInstalledApps>
+			<Caption>Installerte program...</Caption>
+			<Hint>Eksporter liste over installerte program</Hint>
+		</miExpInstalledApps>
+		<miExpMonitoredApps>
+			<Caption>Overvåkede program...</Caption>
+			<Hint>Eksporter liste over overvåkede program</Hint>
+		</miExpMonitoredApps>
+		<miExport>
+			<Caption>Eksporter</Caption>
+		</miExport>
+		<miExpRegistry>
+			<Caption>Registerendringer...</Caption>
+			<Hint>Eksporter registerendringer for installering eller avinstallering</Hint>
+		</miExpRegistry>
+		<miExpUninstallLog>
+			<Caption>Avinstalleringslogg...</Caption>
+			<Hint>Eksporter avinstalleringslogg</Hint>
+		</miExpUninstallLog>
+		<miFile>
+			<Caption>&amp;Fil</Caption>
+		</miFile>
+		<miFileAddInstalledPrg>
+			<Caption>Tilføy program til liste...</Caption>
+		</miFileAddInstalledPrg>
+		<miFileAnalyze>
+			<Caption>Analyser</Caption>
+			<Hint>Analyse|Analyser systemendringer ved gjeldende program</Hint>
+		</miFileAnalyze>
+		<miFileAutorunAdd>
+			<Caption>Tilføy</Caption>
+		</miFileAutorunAdd>
+		<miFileAutorunDelete>
+			<Caption>Slett</Caption>
+		</miFileAutorunDelete>
+		<miFileChange>
+			<Caption>Endre</Caption>
+			<Hint>Reparer, endre eller avinstaller</Hint>
+		</miFileChange>
+		<miFileChangeIcon>
+			<Caption>Endre ikon...</Caption>
+		</miFileChangeIcon>
+		<miFileClnClean>
+			<Caption>Rens</Caption>
+			<Hint>Rens</Hint>
+		</miFileClnClean>
+		<miFileClnScan>
+			<Caption>Skann</Caption>
+			<Hint>Skann|Skann for elementer som kan slettes</Hint>
+		</miFileClnScan>
+		<miFileCreateBackup>
+			<Caption>Opprettet sikkerhetskopi for program...</Caption>
+		</miFileCreateBackup>
+		<miFileDelete>
+			<Caption>Slett</Caption>
+			<Hint>Slett gjeldende installasjonslogg</Hint>
+		</miFileDelete>
+		<miFileEditProgram>
+			<Caption>Rediger program...</Caption>
+		</miFileEditProgram>
+		<miFileExit>
+			<Caption>Avslutt</Caption>
+			<Hint>Avslutt program</Hint>
+		</miFileExit>
+		<miFileGroupAddChild>
+			<Caption>Tilføy undergruppe...</Caption>
+		</miFileGroupAddChild>
+		<miFileGroupAddRoot>
+			<Caption>Tilføy rotgruppe...</Caption>
+		</miFileGroupAddRoot>
+		<miFileGroupEdit>
+			<Caption>Rediger gruppe...</Caption>
+		</miFileGroupEdit>
+		<miFileGroupMoveToRoot>
+			<Caption>Flytt til rot</Caption>
+		</miFileGroupMoveToRoot>
+		<miFileGroupRemove>
+			<Caption>Fjern gruppe</Caption>
+		</miFileGroupRemove>
+		<miFileInstall>
+			<Caption>Installer nytt...</Caption>
+			<Hint>Overvåk installering av nytt program</Hint>
+		</miFileInstall>
+		<miFileInstallUpdate>
+			<Caption>Installer oppdatering...</Caption>
+			<Hint>Installer oppdatering|Overvåk installasjonen av oppdatering for gjeldende program</Hint>
+		</miFileInstallUpdate>
+		<miFileNotes>
+			<Caption>Merknader...</Caption>
+			<Hint>Tilføy merknader til gjeldende installasjonslogg</Hint>
+		</miFileNotes>
+		<miFilePrint>
+			<Caption>Skriv ut</Caption>
+		</miFilePrint>
+		<miFileReload>
+			<Caption>Last inn på nytt</Caption>
+		</miFileReload>
+		<miFileRemoveInstalledPrg>
+			<Caption>Fjern programmet fra liste</Caption>
+		</miFileRemoveInstalledPrg>
+		<miFileRename>
+			<Caption>Gi nytt navn...</Caption>
+			<Hint>Gi gjeldende installasjonslogg nytt navn</Hint>
+		</miFileRename>
+		<miFileRestoreBackup>
+			<Caption>Gjenopprett et program fra sikkerhetskopi...</Caption>
+		</miFileRestoreBackup>
+		<miFileSave>
+			<Caption>Lagre</Caption>
+			<Hint>Lagre endringer fra gjeldende installasjonslogg</Hint>
+		</miFileSave>
+		<miFileSaveAs>
+			<Caption>Lagre som...</Caption>
+		</miFileSaveAs>
+		<miFileSendTo>
+			<Caption>Send til gruppe</Caption>
+		</miFileSendTo>
+		<miFileUndoRestoration>
+			<Caption>Angre gjenoppretting...</Caption>
+		</miFileUndoRestoration>
+		<miFileUninstall>
+			<Caption>Avinstaller...</Caption>
+		</miFileUninstall>
+		<miHelp>
+			<Caption>&amp;Hjelp</Caption>
+		</miHelp>
+		<miHelpAbout>
+			<Caption>Om...</Caption>
+			<Hint>Viser programinformasjon, versjonsnummer og opphavsrett</Hint>
+		</miHelpAbout>
+		<miHelpCheckForUpdates>
+			<Caption>Se etter oppdateringer...</Caption>
+			<Hint>Sjekker programmets nettsted for oppdateringer</Hint>
+		</miHelpCheckForUpdates>
+		<miHelpContents>
+			<Caption>Innhold</Caption>
+			<Hint>Vis innhold i Hjelp</Hint>
+		</miHelpContents>
+		<miHelpHomePage>
+			<Caption>Hjemmeside</Caption>
+		</miHelpHomePage>
+		<miHelpPurchase>
+			<Caption>Kjøp</Caption>
+		</miHelpPurchase>
+		<miHelpRegister>
+			<Caption>Registrer...</Caption>
+			<Hint>Registrer programmet Total Uninstall</Hint>
+		</miHelpRegister>
+		<miHexView>
+			<Caption>Visning av heksadesimale tegn</Caption>
+			<Hint>Åpne fil i program for heksadesimale tegn</Hint>
+		</miHexView>
+		<miImport>
+			<Caption>Importer</Caption>
+		</miImport>
+		<miInstalledPrograms>
+			<Caption>Installerte program</Caption>
+			<Hint>Installerte program|Bytt til visning for Installerte program</Hint>
+		</miInstalledPrograms>
+		<miList>
+			<Caption>Liste</Caption>
+		</miList>
+		<miListGroupNotes>
+			<Caption>Gruppenotater</Caption>
+		</miListGroupNotes>
+		<miListLargeIcons>
+			<Caption>Store ikon</Caption>
+		</miListLargeIcons>
+		<miListProgramNotes>
+			<Caption>Programnotater</Caption>
+		</miListProgramNotes>
+		<miListSmallIcons>
+			<Caption>Små ikon</Caption>
+		</miListSmallIcons>
+		<miModules>
+			<Caption>&amp;Moduler</Caption>
+		</miModules>
+		<miMonAppsGroupAddChild>
+			<Caption>Tilføy undergruppe...</Caption>
+		</miMonAppsGroupAddChild>
+		<miMonAppsGroupAddRoot>
+			<Caption>Tilføy rotgruppe...</Caption>
+		</miMonAppsGroupAddRoot>
+		<miMonAppsGroupEdit>
+			<Caption>Rediger gruppe...</Caption>
+		</miMonAppsGroupEdit>
+		<miMonAppsGroupMoveToRoot>
+			<Caption>Flytt til rot</Caption>
+		</miMonAppsGroupMoveToRoot>
+		<miMonAppsGroupRemove>
+			<Caption>Fjern gruppe</Caption>
+		</miMonAppsGroupRemove>
+		<miMonitoredPrograms>
+			<Caption>Overvåkede program</Caption>
+			<Hint>Overvåkede program|Bytt til Overvåkede program</Hint>
+		</miMonitoredPrograms>
+		<miOpen>
+			<Caption>Åpne</Caption>
+			<Hint>Åpne fil, mappe eller gå til nøkkel i RegisterEditor</Hint>
+		</miOpen>
+		<miPendingFileRenameOp>
+			<Caption>Pågående prosess for å gi fil nytt navn...</Caption>
+			<Hint>Vis og bruk pågående prosess for å gi nytt filnavn</Hint>
+		</miPendingFileRenameOp>
+		<miPrgAddInstalledPrg>
+			<Caption>Tilføy program til liste...</Caption>
+		</miPrgAddInstalledPrg>
+		<miPrgAnalyze>
+			<Caption>&amp;Analyser</Caption>
+			<Hint>Analyser|Analyser systemendringer ved gjeldende program</Hint>
+		</miPrgAnalyze>
+		<miPrgChangeIcon>
+			<Caption>Endre ikon...</Caption>
+		</miPrgChangeIcon>
+		<miPrgDelete>
+			<Caption>Slett</Caption>
+			<Hint>Slett gjeldende installasjonslogg</Hint>
+		</miPrgDelete>
+		<miPrgEditInstalledPrg>
+			<Caption>Rediger program...</Caption>
+		</miPrgEditInstalledPrg>
+		<miPrgNotes>
+			<Caption>Merknader...</Caption>
+			<Hint>Tilføy merknader til gjeldende installasjonslogg</Hint>
+		</miPrgNotes>
+		<miPrgRemoveInstalledPrg>
+			<Caption>Fjern programmet fra liste</Caption>
+		</miPrgRemoveInstalledPrg>
+		<miPrgRename>
+			<Caption>Gi nytt navn...</Caption>
+			<Hint>Gi nytt navn til gjeldende installasjonslogg</Hint>
+		</miPrgRename>
+		<miPrintChanges>
+			<Caption>Endringer...</Caption>
+			<Hint>Skriv ut oversikt over endringer</Hint>
+		</miPrintChanges>
+		<miPrintInstalledPrograms>
+			<Caption>Installerte program...</Caption>
+		</miPrintInstalledPrograms>
+		<miPrintMonitoredPrograms>
+			<Caption>Overvåkede program...</Caption>
+		</miPrintMonitoredPrograms>
+		<miProperties>
+			<Caption>Egenskaper</Caption>
+			<Hint>Vis egenskaper for valgte fil eller mappe</Hint>
+		</miProperties>
+		<miRemovefromLog>
+			<Caption>Fjern fra Logg</Caption>
+			<Hint>Fjern valgte elementer fra logg</Hint>
+		</miRemovefromLog>
+		<miSnsTreeOpen>
+			<Caption>Åpne</Caption>
+		</miSnsTreeOpen>
+		<miSummary>
+			<Caption>Sammendrag</Caption>
+			<Hint>Sammendrag|Vis kortfattet informasjon om gjeldende program</Hint>
+		</miSummary>
+		<miTextView>
+			<Caption>Tekstvisning</Caption>
+			<Hint>Åpne fil i tekstredigeringsprogram</Hint>
+		</miTextView>
+		<miToolbarLarge>
+			<Caption>Stor</Caption>
+		</miToolbarLarge>
+		<miToolbarMedium>
+			<Caption>Middels</Caption>
+		</miToolbarMedium>
+		<miToolbarSmall>
+			<Caption>Liten</Caption>
+		</miToolbarSmall>
+		<miTools>
+			<Caption>&amp;Verktøy</Caption>
+		</miTools>
+		<miToolsCompareSnapshots>
+			<Caption>Sammenlign systembilder...</Caption>
+		</miToolsCompareSnapshots>
+		<miToolsFind>
+			<Caption>Søk</Caption>
+			<Hint>Søk|Søk for en tekst i oppfangede endringer</Hint>
+		</miToolsFind>
+		<miToolsMergeLogs>
+			<Caption>Slå sammen logger...</Caption>
+		</miToolsMergeLogs>
+		<miToolsOptions>
+			<Caption>Alternativer...</Caption>
+			<Hint>Konfigurer programalternativer</Hint>
+		</miToolsOptions>
+		<miToolsSystemRestore>
+			<Caption>Systemgjenoppretting</Caption>
+		</miToolsSystemRestore>
+		<miULogSuccessful>
+			<Caption>Vellykkede handlinger</Caption>
+			<Hint>Vis eller skjul de vellykkede handlingene i avinstalleringslogg</Hint>
+		</miULogSuccessful>
+		<miULogWarnings>
+			<Caption>Advarsler</Caption>
+			<Hint>Vis eller skjul advarsler fra avinstalleringslogg</Hint>
+		</miULogWarnings>
+		<miUninstallLog>
+			<Caption>Avinstalleringslogg</Caption>
+			<Hint>Avinstalleringslogg|Vis avinstalleringsloggen for program</Hint>
+		</miUninstallLog>
+		<miUninstallLogDet>
+			<Caption>Detaljer fra Avinstalleringslogg</Caption>
+		</miUninstallLogDet>
+		<miView>
+			<Caption>&amp;Visning</Caption>
+		</miView>
+		<miViewAutoGroupPrograms>
+			<Caption>Auto-gruppere program</Caption>
+		</miViewAutoGroupPrograms>
+		<miViewBundle>
+			<Caption>Bunte</Caption>
+		</miViewBundle>
+		<miViewColorScheme>
+			<Caption>Fargevalg</Caption>
+		</miViewColorScheme>
+		<miViewDetails>
+			<Caption>Detaljer</Caption>
+			<Hint>Programdetaljer|Vis eller skjul programdetaljer</Hint>
+		</miViewDetails>
+		<miViewItemCurrentView>
+			<Caption>Gjeldende visning</Caption>
+		</miViewItemCurrentView>
+		<miViewItemDetails>
+			<Caption>Elementdetaljer</Caption>
+			<Hint>Vis eller skjul detaljer til valgte node i endringsstrukturen</Hint>
+		</miViewItemDetails>
+		<miViewNavigator>
+			<Caption>Program</Caption>
+			<Hint>Programliste|Vis eller skjul programlista</Hint>
+		</miViewNavigator>
+		<miViewRefresh>
+			<Caption>Oppfrisk</Caption>
+		</miViewRefresh>
+		<miViewStatusBar>
+			<Caption>Statusfelt</Caption>
+			<Hint>Vis eller skjul Statusfeltet</Hint>
+		</miViewStatusBar>
+		<miViewSystemComponents>
+			<Caption>Systemkomponenter</Caption>
+		</miViewSystemComponents>
+		<miViewToolbars>
+			<Caption>Verktøyfelt</Caption>
+		</miViewToolbars>
+		<miViewToolbarsBtnCaption>
+			<Caption>Tekst på knappen</Caption>
+			<Hint>Vis eller skjul knappe-tekst i verktøyfelt</Hint>
+		</miViewToolbarsBtnCaption>
+		<miViewToolbarsBtnSize>
+			<Caption>Størrelse på knapper</Caption>
+		</miViewToolbarsBtnSize>
+		<miViewToolbarsBtnWordWrap>
+			<Caption>Tekstbryting for knappe-tekst</Caption>
+		</miViewToolbarsBtnWordWrap>
+		<miViewToolbarsTbrCaption>
+			<Caption>Tekst på verktøyfelt</Caption>
+			<Hint>Vise eller skjule tekst på verktøyfelt</Hint>
+		</miViewToolbarsTbrCaption>
+		<miViewToolbarsVisible>
+			<Caption>Synlig</Caption>
+			<Hint>Vis eller skjul verktøyfeltet</Hint>
+		</miViewToolbarsVisible>
+		<pmiAutorunAdd>
+			<Caption>Tilføy</Caption>
+		</pmiAutorunAdd>
+		<pmiAutorunDelete>
+			<Caption>Slett</Caption>
+		</pmiAutorunDelete>
+		<pmiAutorunLocateEntry>
+			<Caption>Finn auto-kjør oppføring</Caption>
+		</pmiAutorunLocateEntry>
+		<pmiAutorunLocateTarget>
+			<Caption>Finn mål</Caption>
+		</pmiAutorunLocateTarget>
+		<pmiAutorunRun>
+			<Caption>Kjør</Caption>
+		</pmiAutorunRun>
+		<pmiAutorunStop>
+			<Caption>Stopp</Caption>
+		</pmiAutorunStop>
+		<pmiAutorunTargetProperties>
+			<Caption>Målegenskaper</Caption>
+		</pmiAutorunTargetProperties>
+		<pmiChgTreeCompareExcl>
+			<Caption>Tilføy til lista Sammenlign Overse</Caption>
+			<Hint>Tilføy valgte elementer til lista over alle oversette sammenligningsprofiler</Hint>
+		</pmiChgTreeCompareExcl>
+		<pmiChgTreeDelete>
+			<Caption>Slett fullstendig</Caption>
+			<Hint>Fjern valgt element fra logg og system</Hint>
+		</pmiChgTreeDelete>
+		<pmiChgTreeDelSys>
+			<Caption>Slett kun fra system</Caption>
+			<Hint>Slett valgt element kun fra system</Hint>
+		</pmiChgTreeDelSys>
+		<pmiChgTreeHexView>
+			<Caption>Visning av heksadesimale tegn</Caption>
+			<Hint>Åpne fil i program for heksadesimal tegn</Hint>
+		</pmiChgTreeHexView>
+		<pmiChgTreeOpen>
+			<Caption>Åpne</Caption>
+			<Hint>Åpne fil, mappe eller gå til nøkkel i RegisterEditor</Hint>
+		</pmiChgTreeOpen>
+		<pmiChgTreeProperties>
+			<Caption>Egenskaper</Caption>
+			<Hint>Vis egenskaper for valgte fil eller mappe</Hint>
+		</pmiChgTreeProperties>
+		<pmiChgTreeRedo>
+			<Caption>Angre</Caption>
+			<Hint>Angre de valgte endringer i system</Hint>
+		</pmiChgTreeRedo>
+		<pmiChgTreeRedoDepth>
+			<Caption>Angre dybde</Caption>
+			<Hint>Andre dybde til valgte endringer i systemet</Hint>
+		</pmiChgTreeRedoDepth>
+		<pmiChgTreeRemove>
+			<Caption>Fjern fra Logg</Caption>
+			<Hint>Fjern valgte elementer fra logg</Hint>
+		</pmiChgTreeRemove>
+		<pmiChgTreeRestoreFromBackup>
+			<Caption>Gjenopprett fra sikkerhetskopi</Caption>
+			<Hint>Gjenopprett valgte filer, mapper og undermapper fra sikkerhetskopi</Hint>
+		</pmiChgTreeRestoreFromBackup>
+		<pmiChgTreeScanExcl>
+			<Caption>Tilføy til lista over det som unntas ved skanning</Caption>
+			<Hint>Tilføy valgte elementer til lista over alle skanneprofiler som unntas</Hint>
+		</pmiChgTreeScanExcl>
+		<pmiChgTreeTextView>
+			<Caption>Tekstvisning</Caption>
+			<Hint>Åpne fil i tekstredigeringsprogram</Hint>
+		</pmiChgTreeTextView>
+		<pmiChgTreeUndo>
+			<Caption>Angre</Caption>
+			<Hint>Angre valgte systemendringer</Hint>
+		</pmiChgTreeUndo>
+		<pmiChgTreeUndoDepth>
+			<Caption>Angre dybde</Caption>
+			<Hint>Angre dybde ved valgte endringer fra systemet</Hint>
+		</pmiChgTreeUndoDepth>
+		<pmiClnExclude>
+			<Caption>Unnta</Caption>
+		</pmiClnExclude>
+		<pmiClnSelectBranch>
+			<Caption>Velg gren</Caption>
+		</pmiClnSelectBranch>
+		<pmiClnUnselectBranch>
+			<Caption>Fravelg gren</Caption>
+		</pmiClnUnselectBranch>
+		<pmiCopySummary>
+			<Caption>Kopier</Caption>
+		</pmiCopySummary>
+		<pmiInstAppsHeaderAutoResize>
+			<Caption>Auto-tilpass størrelse</Caption>
+		</pmiInstAppsHeaderAutoResize>
+		<pmiLocate>
+			<Caption>Finn</Caption>
+		</pmiLocate>
+		<pmiMonAppsHeaderAutoResize>
+			<Caption>Auto-tilpass størrelse</Caption>
+		</pmiMonAppsHeaderAutoResize>
+		<pmiShowSuccessful>
+			<Caption>Vellykkede handlinger</Caption>
+			<Hint>Vis eller skjul de vellykkede handlingene i avinstalleringslogg</Hint>
+		</pmiShowSuccessful>
+		<pmiShowWarnings>
+			<Caption>Advarsler</Caption>
+			<Hint>Vis eller skjul advarslene fra avinstalleringslogg</Hint>
+		</pmiShowWarnings>
+		<pmiTrayRestore>
+			<Caption>Gjenopprett</Caption>
+		</pmiTrayRestore>
+		<rbAll>
+			<Caption>Alle program</Caption>
+		</rbAll>
+		<rbSelection>
+			<Caption>Utvalg</Caption>
+		</rbSelection>
+		<sbAppClose>
+			<Hint>Lukk|Lukk</Hint>
+		</sbAppClose>
+		<sbDetailsClose>
+			<Hint>Lukk|Lukk</Hint>
+		</sbDetailsClose>
+		<sbSearchClose>
+			<Hint>Lukk|Lukk</Hint>
+		</sbSearchClose>
+		<tabOptions>
+			<Caption>Alternativer</Caption>
+		</tabOptions>
+		<tabResults>
+			<Caption>Resultater</Caption>
+		</tabResults>
+		<tbrActions>
+			<Caption>Handlinger</Caption>
+		</tbrActions>
+		<tbrDetails>
+			<Caption>Detaljer</Caption>
+		</tbrDetails>
+		<tbrLayout>
+			<Caption>Utforming</Caption>
+		</tbrLayout>
+		<tbrModules>
+			<Caption>Moduler</Caption>
+		</tbrModules>
+		<tbrView>
+			<Caption>Visning</Caption>
+		</tbrView>
+		<tbtnAnalyze>
+			<Caption>Analyser</Caption>
+			<Hint>Analyser|Analyser systemendringer ved gjeldende program</Hint>
+		</tbtnAnalyze>
+		<tbtnArAdd>
+			<Caption>Tilføy</Caption>
+		</tbtnArAdd>
+		<tbtnArDelete>
+			<Caption>Slett</Caption>
+		</tbtnArDelete>
+		<tbtnArRun>
+			<Caption>Kjør</Caption>
+		</tbtnArRun>
+		<tbtnArStop>
+			<Caption>Stopp</Caption>
+		</tbtnArStop>
+		<tbtnAutorunMgr>
+			<Caption>Auto-kjør Behandler</Caption>
+		</tbtnAutorunMgr>
+		<tbtnChanges>
+			<Caption>Endringer</Caption>
+			<Hint>Oppfang endringer|Vis oppfangede systemendringer gjort av gjeldende program</Hint>
+		</tbtnChanges>
+		<tbtnChgView>
+			<Caption>Visning</Caption>
+			<Hint>Vis|Bruk en definert endringsvisning</Hint>
+		</tbtnChgView>
+		<tbtnCleaner>
+			<Caption>Rens</Caption>
+			<Hint>Rens</Hint>
+		</tbtnCleaner>
+		<tbtnClnClean>
+			<Caption>Rens</Caption>
+			<Hint>Rens</Hint>
+		</tbtnClnClean>
+		<tbtnClnItems>
+			<Caption>Elementer</Caption>
+		</tbtnClnItems>
+		<tbtnClnScan>
+			<Caption>Skann</Caption>
+			<Hint>Skann|Skann for elementer som kan slettes</Hint>
+		</tbtnClnScan>
+		<tbtnClnSummary>
+			<Caption>Sammendrag</Caption>
+			<Hint>Sammendrag|Vis kortfattet informasjon om gjeldende program</Hint>
+		</tbtnClnSummary>
+		<tbtnCollapse>
+			<Caption>Skjul</Caption>
+			<Hint>Skjul den aktive strukturen</Hint>
+		</tbtnCollapse>
+		<tbtnDetails>
+			<Caption>Detaljer</Caption>
+			<Hint>Programdetaljer|Vis eller skjul programdetaljer</Hint>
+		</tbtnDetails>
+		<tbtnExpand>
+			<Caption>Utvid</Caption>
+			<Hint>Utvid den aktive strukturen</Hint>
+		</tbtnExpand>
+		<tbtnInstallModify>
+			<Caption>Endre</Caption>
+			<Hint>Reparer, endre eller avinstaller</Hint>
+		</tbtnInstallModify>
+		<tbtnInstallNew>
+			<Caption>Installer</Caption>
+			<Hint>Installer nytt|Overvåk installasjon av nytt program</Hint>
+		</tbtnInstallNew>
+		<tbtnInstallUpdate>
+			<Caption>Oppdatering</Caption>
+			<Hint>Installer oppdatering|Overvåk installasjonen av oppdatering av gjeldende program</Hint>
+		</tbtnInstallUpdate>
+		<tbtnInstPrograms>
+			<Caption>Installerte program</Caption>
+			<Hint>Installerte program|Bytt til visning for Installerte program</Hint>
+		</tbtnInstPrograms>
+		<tbtnMonPrograms>
+			<Caption>Overvåkede program</Caption>
+			<Hint>Overvåkede program|Bytt til Overvåkede program</Hint>
+		</tbtnMonPrograms>
+		<tbtnPrograms>
+			<Caption>Program</Caption>
+			<Hint>Programliste|Vis eller skjul programlista</Hint>
+		</tbtnPrograms>
+		<tbtnSave>
+			<Caption>Lagre</Caption>
+			<Hint>Lagre endringer fra gjeldende installasjonslogg</Hint>
+		</tbtnSave>
+		<tbtnSearch>
+			<Caption>Søk</Caption>
+			<Hint>Søk|Søk for tekst i oppfangede endringer</Hint>
+		</tbtnSearch>
+		<tbtnShowSnapshot>
+			<Caption>Vis systembilde</Caption>
+		</tbtnShowSnapshot>
+		<tbtnSummary>
+			<Caption>Sammendrag</Caption>
+			<Hint>Sammendrag|Vis kortfattet informasjon om gjeldende program</Hint>
+		</tbtnSummary>
+		<tbtnUninstall>
+			<Caption>Avinstaller</Caption>
+		</tbtnUninstall>
+		<tbtnUninstallLog>
+			<Caption>Avinstalleringslogg</Caption>
+			<Hint>Avinstalleringslogg|Vis avinstalleringsloggen for program</Hint>
+		</tbtnUninstallLog>
+		<tpnlSearch>
+			<Caption>Søk</Caption>
+		</tpnlSearch>
+		<tvAutorunItems>
+			<Columns_0>Navn</Columns_0>
+			<Columns_1>Seksjon</Columns_1>
+			<Columns_2>Status</Columns_2>
+			<Columns_3>Beskrivelse</Columns_3>
+			<Columns_4>Utgiver</Columns_4>
+			<Columns_5>Instruks</Columns_5>
+		</tvAutorunItems>
+		<tvChanges>
+			<Columns_0>Oppfangede endringer</Columns_0>
+			<Columns_1>Før</Columns_1>
+			<Columns_2>Etter</Columns_2>
+			<Columns_3>Gjeldende</Columns_3>
+		</tvChanges>
+		<tvClnItems>
+			<Columns_0>Elementer</Columns_0>
+			<Columns_1>Egenskaper</Columns_1>
+		</tvClnItems>
+		<tvResults>
+			<Columns_0>Navn</Columns_0>
+			<Columns_1>Adresse</Columns_1>
+			<Columns_2>Program</Columns_2>
+		</tvResults>
+	</frmTUMain>
+	<RESOURCESTRING>
+		<ACCESS_DENIED_X>Tilgang nektet: %s</ACCESS_DENIED_X>
+		<ACT_CRE_KEY>Opprett registernøkkel: %s</ACT_CRE_KEY>
+		<ACT_CRE_VAL>Opprett registerverdi: %s</ACT_CRE_VAL>
+		<ACT_DEC_CNT>Minking i registerteller for delte filer: %s</ACT_DEC_CNT>
+		<ACT_DEL_ADS>Slett alternativ datastrøm: %s</ACT_DEL_ADS>
+		<ACT_DEL_FILE>Slett fil: %s</ACT_DEL_FILE>
+		<ACT_DEL_FOLDER>Slett mappe: %s</ACT_DEL_FOLDER>
+		<ACT_DEL_KEY>Slett registernøkkel: %s</ACT_DEL_KEY>
+		<ACT_DEL_SERVICE>Slett Tjeneste eller Enhet: %s</ACT_DEL_SERVICE>
+		<ACT_DEL_VAL>Slett registerverdi: %s</ACT_DEL_VAL>
+		<ACT_RST_FILE>Gjenopprett filegenskaper: %s</ACT_RST_FILE>
+		<ACT_RST_VAL>Gjenopprett registerverdi: %s</ACT_RST_VAL>
+		<ACT_STOP_SERVICE>Stopp Tjeneste eller Enhet: %s</ACT_STOP_SERVICE>
+		<ADD>Tilføy</ADD>
+		<ADVANCED>Avansert</ADVANCED>
+		<AGENT>Agent</AGENT>
+		<ALL>Alle</ALL>
+		<ALL_BRA>(Alle)</ALL_BRA>
+		<ALL_DETAILS>Alle detaljer</ALL_DETAILS>
+		<ALWAYS>Alltid</ALWAYS>
+		<ANALYSIS_PROFILE>Analyseprofil</ANALYSIS_PROFILE>
+		<ANALYSIS_PROFILES>Analyseprofiler</ANALYSIS_PROFILES>
+		<ANALYZING>Analyserer...</ANALYZING>
+		<ASK>Spør</ASK>
+		<ASK_COMPLETE_LATER>Fullfør overvåkningsprosessen seinere?</ASK_COMPLETE_LATER>
+		<ASK_IF_NO_ERROR>Spør dersom ingen feil</ASK_IF_NO_ERROR>
+		<ASK_SAVE_CHG>Vil du lagre endringene fra &quot;%s&quot;?</ASK_SAVE_CHG>
+		<ASK_USER>Spør bruker</ASK_USER>
+		<AUTOMATIC>Automatisk</AUTOMATIC>
+		<AUTORUN_ITEMS>Auto-kjør elementer</AUTORUN_ITEMS>
+		<AUTORUN_MGR>Auto-kjør behandler</AUTORUN_MGR>
+		<BACKUP>Sikkerhetskopi</BACKUP>
+		<BACKUP_CREATED>Sikkerhetskopi opprettet</BACKUP_CREATED>
+		<BACKUP_CREATED_OK>Sikkerhetskopiering vellykket.</BACKUP_CREATED_OK>
+		<BACKUP_PROGRAM>Oppretter sikkerhetskopi for programmet...</BACKUP_PROGRAM>
+		<BACKUP_PROGRAM_X>Lag sikkerhetskopien for programmet &quot;%s&quot;</BACKUP_PROGRAM_X>
+		<BEGIN_UNINSTALL>Velg Avinstaller for å starte avinstalleringsprosessen.</BEGIN_UNINSTALL>
+		<BEGIN_UNINSTALL_LAUNCH>Velg Kjør for å starte avinstalleringsprosessen.</BEGIN_UNINSTALL_LAUNCH>
+		<BROWSE_FOR_FILE>Søk etter fil</BROWSE_FOR_FILE>
+		<BROWSE_FOR_FOLDER>Søk etter mappe</BROWSE_FOR_FOLDER>
+		<BROWSE_FOR_FOLDER_OR_FILE>Søk etter mappe eller fil</BROWSE_FOR_FOLDER_OR_FILE>
+		<BROWSE_FOR_KEY>Søk etter nøkkel</BROWSE_FOR_KEY>
+		<BROWSE_FOR_KEY_OR_VALUE>Søk etter key eller verdi</BROWSE_FOR_KEY_OR_VALUE>
+		<BROWSE_FOR_VALUE>Søk etter Verdi</BROWSE_FOR_VALUE>
+		<BTN_CONTINUE>Forsett</BTN_CONTINUE>
+		<BUILT_IN_CANCELLED>Det innebygde avinstalleringsprogrammet ble avbrutt eller returnerte uten at den fullførte avinstalleringen.</BUILT_IN_CANCELLED>
+		<BUILT_IN_UNINSTALLER_RUNNING>Det innebygde avinstalleringsprogrammet kjører.</BUILT_IN_UNINSTALLER_RUNNING>
+		<CANCEL>Avbryt</CANCEL>
+		<CANNOT_BROWSE>Det oppsto en feil ved oppstart av standard nettleser.\n Linken ble kopiert til Utklippstavlen.</CANNOT_BROWSE>
+		<CANT_EXECUTE>Kan ikke starte programmet &quot;%s&quot;.</CANT_EXECUTE>
+		<CANT_OPEN_KEY>Kan ikke åpne nøkkel</CANT_OPEN_KEY>
+		<CHANGED_ITEMS>Endrede elementer</CHANGED_ITEMS>
+		<CHANGES>&quot;%s&quot; endringer</CHANGES>
+		<CHECK_UPD_NEW>Oppdateringer eller nyheter er tilgjengelig</CHECK_UPD_NEW>
+		<CHECK_UPD_REMINDER>Påminnelse for oppdateringer</CHECK_UPD_REMINDER>
+		<CHG_VIEWS>Endre visning</CHG_VIEWS>
+		<CLEAN_UP>Rensing</CLEAN_UP>
+		<CLEAN_UP_DESC>Fjern spor til avinstallerte overvåkede program</CLEAN_UP_DESC>
+		<CLEANED>Renset</CLEANED>
+		<CLEANER>Rens</CLEANER>
+		<CLEANING>Renser...</CLEANING>
+		<CLOSE>Lukk</CLOSE>
+		<CLOSE_PROCESSES>Lukk prosesser</CLOSE_PROCESSES>
+		<CMP_ERROR>Feil under sammenligning av bilder.</CMP_ERROR>
+		<CMP_PROFILE>Sammenlign Profilnavn</CMP_PROFILE>
+		<CNT_DEL_MON>Registerets teller for delte filer ble slettet under overvåkningen</CNT_DEL_MON>
+		<COMMENTS>Merknader</COMMENTS>
+		<COMMON>Felles</COMMON>
+		<COMP_PROFILES>Sammenligner Profiler</COMP_PROFILES>
+		<COMPARE>Sammenlign</COMPARE>
+		<COMPARING_SNS>Sammenligner systembilder...</COMPARING_SNS>
+		<COMPLETE>Ferdig</COMPLETE>
+		<COMPUTER>Datamaskin</COMPUTER>
+		<COMPUTER_X>Datamaskin (%s)</COMPUTER_X>
+		<CONTACT>Kontakt</CONTACT>
+		<CONTINUE>Vil du fortsette?</CONTINUE>
+		<CONTINUE_UNINSTALL>Fortsett med avinstallering</CONTINUE_UNINSTALL>
+		<CONTINUE_UNINSTALL_Q>Fortsett med avinstalleringen?</CONTINUE_UNINSTALL_Q>
+		<CORRUPT_CNT>Ugyldig endring oppdaget i Registerets teller for delte filer: verdiminsking eller ugyldig data</CORRUPT_CNT>
+		<CREATE_REG_KEYS>Opprett registernøkler</CREATE_REG_KEYS>
+		<CREATE_REG_VALS>Opprett registerverdier</CREATE_REG_VALS>
+		<CREATED>Opprettet</CREATED>
+		<CREATED_ITEMS>Opprettede elementer</CREATED_ITEMS>
+		<CREATED_ON>Opprettet på</CREATED_ON>
+		<CREATED_X>Opprettet: %s</CREATED_X>
+		<DEC_CNT>Minsking i registerets teller for delte filer</DEC_CNT>
+		<DEFAULT>Standard</DEFAULT>
+		<DEFAULT_PAR>(Standard)</DEFAULT_PAR>
+		<DEL_AT_STARTUP>I kø for slettes ved neste oppstart</DEL_AT_STARTUP>
+		<DEL_CNT>Slett registerets teller for delte filer</DEL_CNT>
+		<DEL_FILES>Slett filer</DEL_FILES>
+		<DEL_FOLDERS>Slett mapper</DEL_FOLDERS>
+		<DEL_REG_KEYS>Slett registernøkler</DEL_REG_KEYS>
+		<DEL_REG_VALS>Slett registerverdier</DEL_REG_VALS>
+		<DEL_SH_FILE>Slett delt fil fra disk til Papirkurven</DEL_SH_FILE>
+		<DELETE_SEL_BACKUPS>Slett valgte sikkerhetskopi(er)?</DELETE_SEL_BACKUPS>
+		<DELETE_SEL_UNDO>Slett valgte angre-oppføringer</DELETE_SEL_UNDO>
+		<DELETE_SYS_SEL_ITEM>Slett valgte element fra systemet?</DELETE_SYS_SEL_ITEM>
+		<DELETED>Slettet</DELETED>
+		<DELETED_ITEMS>Slettede elementer</DELETED_ITEMS>
+		<DETECTED_CHG>Oppfangede endringer</DETECTED_CHG>
+		<DISABLED>Deaktivert</DISABLED>
+		<DISPOSABLE_ITEMS>Elementer som kan slettes</DISPOSABLE_ITEMS>
+		<DLG_ABORT>Avbryt</DLG_ABORT>
+		<DLG_ALL>Alle</DLG_ALL>
+		<DLG_CANCEL>Avbryt</DLG_CANCEL>
+		<DLG_CLOSE>Lukk</DLG_CLOSE>
+		<DLG_CNF>Bekreft</DLG_CNF>
+		<DLG_ERR>Feil</DLG_ERR>
+		<DLG_IGNORE>Overse</DLG_IGNORE>
+		<DLG_INF>Informasjon</DLG_INF>
+		<DLG_NO>Nei</DLG_NO>
+		<DLG_NOTOALL>NeiTilAlle</DLG_NOTOALL>
+		<DLG_OK>OK</DLG_OK>
+		<DLG_RETRY>Prøv igjen</DLG_RETRY>
+		<DLG_WRN>Advarsel</DLG_WRN>
+		<DLG_YES>Ja</DLG_YES>
+		<DLG_YESTOALL>JaTilAlle</DLG_YESTOALL>
+		<DONT_DEL_SH_FILE>Bruker velger å beholde delt fil</DONT_DEL_SH_FILE>
+		<EDIT_PROGRAM>Rediger program</EDIT_PROGRAM>
+		<ELAPSED>Forløpt %d:%2.2d</ELAPSED>
+		<ENTER_IDENTIFIER>Sett inn navnet til det installerte programmet.</ENTER_IDENTIFIER>
+		<ERR>Feil</ERR>
+		<ERR_BRA>(FEIL)</ERR_BRA>
+		<ERR_DEL_FLD_FILES>Kan ikke slette en eller flere filer eller mapper.</ERR_DEL_FLD_FILES>
+		<ERR_DEL_REG_KEYS_VALS>Kan ikke slette en eller flere nøkler eller verdier.</ERR_DEL_REG_KEYS_VALS>
+		<ERR_REDO_REG_KEYS_VALS>Kan ikke omgjøre en eller flere nøkler eller verdier</ERR_REDO_REG_KEYS_VALS>
+		<ERR_UNDO_REG_KEYS_VALS>Kan ikke angre en eller flere nøkler eller verdier.</ERR_UNDO_REG_KEYS_VALS>
+		<ERR_WRN_OK_STAT>Feil: %d   Advarsel(er): %d  Vellykket handling(er): %d</ERR_WRN_OK_STAT>
+		<EXIT>Avslutt</EXIT>
+		<EXPERT>Ekspert</EXPERT>
+		<EXPIRE_DAYS>Utløper i %d dager.</EXPIRE_DAYS>
+		<EXPORT_ERROR>Feil ved eksportering!</EXPORT_ERROR>
+		<EXTENSION>Filtype</EXTENSION>
+		<FAMILY_NOT_ACCEPTED>Familielisen ble ikke godtatt.</FAMILY_NOT_ACCEPTED>
+		<FFILTER_ALL>Alle filer (*.*)|*.*</FFILTER_ALL>
+		<FFILTER_DLL>Utvidelsesfiler til program (*.dll)|*.dll</FFILTER_DLL>
+		<FFILTER_EXE>Kjørbare filer (*.exe)|*.exe</FFILTER_EXE>
+		<FFILTER_HTM>HTML-dokumenter (*.htm, *.html)|*.htm, *.html</FFILTER_HTM>
+		<FFILTER_ICL>Ikon-samlinger (*.icl)|*.icl</FFILTER_ICL>
+		<FFILTER_ICO>Ikonfiler (*.ico)|*.ico</FFILTER_ICO>
+		<FFILTER_MSI>Microsoft installeringsprogram (*.msi)|*.msi</FFILTER_MSI>
+		<FFILTER_REG>Registreringsfiler (*.reg)|*.reg</FFILTER_REG>
+		<FFILTER_TXT>Dokumeneter i rentekst (*.txt)|*.txt</FFILTER_TXT>
+		<FFILTER_WAV>Lydfiler (*.wav)|*.wav</FFILTER_WAV>
+		<FFILTER_XML>XML-dokumenter (*.xml)|*.xml</FFILTER_XML>
+		<FFILTER_ZIP>Sikkerhetskopifiler (*.zip)|*.zip</FFILTER_ZIP>
+		<FILE>(FIL)</FILE>
+		<FILE_>Fil</FILE_>
+		<FILE_MASK>Filmaske</FILE_MASK>
+		<FILE_SYSTEM>Filsystem</FILE_SYSTEM>
+		<FILES_CHG_STAT>Filer endret     :%6.1d</FILES_CHG_STAT>
+		<FILES_CREATED_STAT>Filer opprettet      :%6.1d</FILES_CREATED_STAT>
+		<FILES_DEL_STAT>Filer slettet      :%6.1d</FILES_DEL_STAT>
+		<FILES_NOT_INCLUDED>Filer ikke inkludert i sikkerhetskopien</FILES_NOT_INCLUDED>
+		<FILES_X>Filer   :%6.1d</FILES_X>
+		<FILTER>Filter</FILTER>
+		<FINISH>Fullføre</FINISH>
+		<FLDS_CREATED_STAT>Mapper opprettet  :%6.1d</FLDS_CREATED_STAT>
+		<FLDS_DEL_STAT>Mapper slettet  :%6.1d</FLDS_DEL_STAT>
+		<FOLDER>(MAPPE)</FOLDER>
+		<FOLDER_>Mappe</FOLDER_>
+		<FOLDER_MASK>Mappemaske</FOLDER_MASK>
+		<FOLDERS_X>Mapper  :%6.1d</FOLDERS_X>
+		<FREE_UPDATES_UNTIL>Gratis oppdateringer til %s</FREE_UPDATES_UNTIL>
+		<FS_DET_VIEW_PRF>Detaljer av filsystem [Vis: %s]</FS_DET_VIEW_PRF>
+		<GENERAL>Generelt</GENERAL>
+		<GENERATED_BY_TU>Generert av Total Uninstall</GENERATED_BY_TU>
+		<HIDDEN_NODE>Noden er skjult.</HIDDEN_NODE>
+		<HIDDEN_NODE_IN_VIEW>Elementet er skult i gjeldende visning.</HIDDEN_NODE_IN_VIEW>
+		<HIDE_OPTIONS>Skjul &amp;alternativer</HIDE_OPTIONS>
+		<IF_NO_ERROR>Hvis ingen feil</IF_NO_ERROR>
+		<IMPORTING_ARCHIVE>Importerer arkiv(er)...</IMPORTING_ARCHIVE>
+		<INCLUDE_FOLDER_IN_LOG>Inkluder mappe i logg</INCLUDE_FOLDER_IN_LOG>
+		<INF_VOLATILE_KEY>Flyktig nøkkel ikke opprettet</INF_VOLATILE_KEY>
+		<INF_VOLATILE_VAL>Flyktig verdi ikke opprettet</INF_VOLATILE_VAL>
+		<INST_ON>Dato installert</INST_ON>
+		<INST_PRG>Installerte program</INST_PRG>
+		<INST_PRGS>Installerte program</INST_PRGS>
+		<INST_SERV_AND_DEV>Installerte tjenester oge enheter</INST_SERV_AND_DEV>
+		<INSTALL>Installer</INSTALL>
+		<INSTALL_HISTORY>Installasjonslogg</INSTALL_HISTORY>
+		<INSTALLED_PRGS_CMPS>%d installerte program, %d systemkomponenter</INSTALLED_PRGS_CMPS>
+		<INSTALLER_ERR>Installasjonsfeil oppdaget: Teller for delte filer opprettet for eksisterende fil</INSTALLER_ERR>
+		<INTERFACE>Grensesnitt</INTERFACE>
+		<INVALID_AFTER_CNT>Ugyldig ETTER teller</INVALID_AFTER_CNT>
+		<INVALID_BEFORE_CNT>Ugyldig FØR teller</INVALID_BEFORE_CNT>
+		<INVALID_CURRENT_CNT>Ugyldig GJELDENDE teller funnet i Registeret</INVALID_CURRENT_CNT>
+		<INVALID_FILE_FORMAT>Ugyldig filformat</INVALID_FILE_FORMAT>
+		<ITEM_X>Element : %s</ITEM_X>
+		<KEY>Nøkkel</KEY>
+		<KEYS_CREATED_STAT>Nøkler opprettet      :%6.1d</KEYS_CREATED_STAT>
+		<KEYS_DEL_STAT>Slettede nøkler: %6.1d</KEYS_DEL_STAT>
+		<KEYS_X>Nøkler    :%6.1d</KEYS_X>
+		<LAST_CHECK>Siste sjekk: %s</LAST_CHECK>
+		<LAST_WRITE_X>Siste skriving: %s</LAST_WRITE_X>
+		<LAUNCH>Kjør</LAUNCH>
+		<LAUNCH_SUPPLIED_UNINST>Innebygd avinstalleringsprogram vil nå kjøres.</LAUNCH_SUPPLIED_UNINST>
+		<LAUNCH_TU>Kjør Total Uninstall</LAUNCH_TU>
+		<LIC_COUNTRY>Lands-lisens</LIC_COUNTRY>
+		<LIC_FAMILY>Familielisens</LIC_FAMILY>
+		<LIC_MULTIPLE>Lisens for flere datamaskiner</LIC_MULTIPLE>
+		<LIC_SINGLE_COMPUTER>Lisens for seperate datamaskiner</LIC_SINGLE_COMPUTER>
+		<LIC_SITE>Lisens for område</LIC_SITE>
+		<LIC_SMALL_OFFICE>Lisens for lite kontor</LIC_SMALL_OFFICE>
+		<LIC_TECHNICIAN>Teknisk lisens</LIC_TECHNICIAN>
+		<LIC_TEMPORARY>Midlertidig lisens</LIC_TEMPORARY>
+		<LIC_WORLDWIDE>Global lisens</LIC_WORLDWIDE>
+		<LICENSED_TO>Registert til &quot;%s&quot;</LICENSED_TO>
+		<LNK_EXE_FILTER>Snarveier og kjørbare filer (*.lnk, *.exe)|*.lnk;*.exe</LNK_EXE_FILTER>
+		<LOADING>Laster inn...</LOADING>
+		<LOADING_INST_PRGS>Laster inn installerte program...</LOADING_INST_PRGS>
+		<LOADING_MON_PRGS>Laster inn overvåkede program...</LOADING_MON_PRGS>
+		<LOCATE_PRG_LNK_EXE>Velg snarvei til program eller kjørbar fil</LOCATE_PRG_LNK_EXE>
+		<LOCATE_UNINSTALLER_EXE>Velg kjørbar avinstalleringsfil</LOCATE_UNINSTALLER_EXE>
+		<LOG_FILE_NAME>Navn på loggfil</LOG_FILE_NAME>
+		<LOGON>Pålogging</LOGON>
+		<MAINTENANCE_ENDED>Vedlikeholdsperioden for din lisens er over.</MAINTENANCE_ENDED>
+		<MAINTENANCE_ENDED_INFO>Det nylige installerte programmet vil kjøre i prøvemodus.</MAINTENANCE_ENDED_INFO>
+		<MANUAL>Manual</MANUAL>
+		<MISSING_ITEMS>Manglende elementer</MISSING_ITEMS>
+		<MODIFIED>Endret</MODIFIED>
+		<MON_ON>Overvåket på</MON_ON>
+		<MON_PRG>Overvåket program</MON_PRG>
+		<MON_PRG_PATH>Sti til overvåket program</MON_PRG_PATH>
+		<MON_PRG_RUNNING>Det ser ut til at det overvåkede programmet kjører ennå.</MON_PRG_RUNNING>
+		<MONITOR_WITH_TU>Overvåket av Total Uninstall</MONITOR_WITH_TU>
+		<MONITORED_PRGS>%d overvåkede program</MONITORED_PRGS>
+		<NAME>Navn</NAME>
+		<NEVER>Aldri</NEVER>
+		<NEW_NAME>Nytt navn</NEW_NAME>
+		<NO>nei</NO>
+		<NO_GROUPS>Ingen grupper</NO_GROUPS>
+		<NO_MORE_INSTANCES_ALLOWED>Lisensen din tillater ikke å kjøre flere forekomster av dette programmet.</NO_MORE_INSTANCES_ALLOWED>
+		<NO_RIGHTS>Utilstrekkelige rettigheter</NO_RIGHTS>
+		<NO_UPDATES>Skadet versjon.</NO_UPDATES>
+		<NORMAL>Normal</NORMAL>
+		<NOT_A_VALID_UNINST>Finner ingen gyldig eller registrert avinstallasjonsprogram.</NOT_A_VALID_UNINST>
+		<NOT_AVAILABLE>N.A.</NOT_AVAILABLE>
+		<NOT_DELETED_FILES>Mapper og filer som ikke er slettet</NOT_DELETED_FILES>
+		<NOT_DELETED_FILES_DET>Mapper og filer som ikke ble slettet under avinstalleringen</NOT_DELETED_FILES_DET>
+		<NOT_DELETED_REG>Registernøkler og -verdier som ikke er slettet</NOT_DELETED_REG>
+		<NOT_DELETED_REG_DET>Registernøkler og -verdier som ikke ble slettet under avinstallering</NOT_DELETED_REG_DET>
+		<NOT_EMPTY>Ikke tom</NOT_EMPTY>
+		<NOT_FOUND>Ikke funnet</NOT_FOUND>
+		<NOT_FOUND_X>Ikke funnet: %s</NOT_FOUND_X>
+		<NOTES>Merknader</NOTES>
+		<OK>OK</OK>
+		<OK_BRA>(OK)</OK_BRA>
+		<ON_PRG_CLOSE>Ved lukking av program</ON_PRG_CLOSE>
+		<ON_REFRESH>Ved oppfriskning</ON_REFRESH>
+		<ONLY_FILES_TO_KEEP>Ikke slettet. Inneholder kun filer eller mapper som skal beholdes.</ONLY_FILES_TO_KEEP>
+		<ONLY_KEYS_TO_KEEP>Ikke slettet. Inneholder kun registernøkler som skal beholdes.</ONLY_KEYS_TO_KEEP>
+		<OTHER>Andre</OTHER>
+		<PAGE>Side:</PAGE>
+		<PAINT_ITEM_STYLES>Vis normal\nSkjul\nUthev tekst\nDemp ikon\nDemp ikon og uthev tekst</PAINT_ITEM_STYLES>
+		<PENDING_FILE_REN>Pågående prosess for å gi fil nytt navn.</PENDING_FILE_REN>
+		<PRE_INST_SNS_NAME>Før-installasjon bildenavn</PRE_INST_SNS_NAME>
+		<PRE_INSTALL>Før-installasjon systembilde</PRE_INSTALL>
+		<PREFERENCES>Innstillinger</PREFERENCES>
+		<PRG_DETECTED>Program oppdaget:</PRG_DETECTED>
+		<PRG_NAME>Programnavn</PRG_NAME>
+		<PRG_PART_UNINSTALLED>Programmet ble delvis avinstallert</PRG_PART_UNINSTALLED>
+		<PRG_RESTORED>Programmet ble gjenopprettet.</PRG_RESTORED>
+		<PRG_UNINSTALLED>Programmet ble vellykket avinstallert</PRG_UNINSTALLED>
+		<PRINT_ERROR>Feil ved utskrivning!</PRINT_ERROR>
+		<PROCESS_CANCELLED>Prosess avbrutt</PROCESS_CANCELLED>
+		<PROCESSING_INSTALLATIONS>Behandler installasjoner...</PROCESSING_INSTALLATIONS>
+		<PRODUCT_UPDATES>Produktoppdateringer</PRODUCT_UPDATES>
+		<PROGRAM_WILL_RESTART>Programmet startes på nytt for å fullføre registreringen.</PROGRAM_WILL_RESTART>
+		<PROGRESS_DEFAULT>Framgang, standard</PROGRESS_DEFAULT>
+		<PST_INST_SNS_NAME>Navn på etter-installeringbilde</PST_INST_SNS_NAME>
+		<PUBLISHER>Utgiver</PUBLISHER>
+		<QST_DEL_FLD_FILES>Er du sikker på at du vil slette valgte mapper eller filer?</QST_DEL_FLD_FILES>
+		<QST_DEL_REG_KEYS_VALS>Er du sikker på at du vil slette valgte nøkler eller verdier?</QST_DEL_REG_KEYS_VALS>
+		<QST_DEL_SERVICES>Er du sikker på at du vil slette valgte tjenester?</QST_DEL_SERVICES>
+		<QST_REMOVE_INST_PRG_LST>Er du sikker på at du vil fjerne valgte program fra lista?</QST_REMOVE_INST_PRG_LST>
+		<QUEST_REMOVE_GROUP>Fjern gruppe?</QUEST_REMOVE_GROUP>
+		<QUIET_PROGRESS_DEFAULT>Stille, framgang, standard</QUIET_PROGRESS_DEFAULT>
+		<README>LesMeg</README>
+		<READY>Klar</READY>
+		<RECORD_CHANGED_X>Oppføring endret: %s</RECORD_CHANGED_X>
+		<REDO_PROFILES>Gjenopprett profiler</REDO_PROFILES>
+		<REG_DET_VIEW_PRF>Registerdetaljer [Vis: %s]</REG_DET_VIEW_PRF>
+		<REG_KEY>(REG.NØKKEL)</REG_KEY>
+		<REG_RUN>Kjør</REG_RUN>
+		<REG_RUN_ONCE>Kjør én gang</REG_RUN_ONCE>
+		<REG_SCAN_ERROR>Feil ved skanning i register.</REG_SCAN_ERROR>
+		<REG_VAL>(REG.VERD)</REG_VAL>
+		<REGISTER_DISABLED_KEY>Det ser ut til at  du er offer for en piratversjon. Vennligst kjøp en lovlig lisensnøkkel.</REGISTER_DISABLED_KEY>
+		<REGISTER_FAILED>Registreringen feilet.</REGISTER_FAILED>
+		<REGISTER_FIREWALL>En brannmur hindrer %s online validering av lisensen.</REGISTER_FIREWALL>
+		<REGISTER_HOST>En oppføring i HOSTS-filen hindrer %s online validering av lisensen.</REGISTER_HOST>
+		<REGISTER_INVALID>Ugyldig registreringsinformasjon</REGISTER_INVALID>
+		<REGISTER_PRO>Du må registrere programmet med nøkkelen for Professional Edition.</REGISTER_PRO>
+		<REGISTER_THANK_YOU>Takk for at du registrerte %s.</REGISTER_THANK_YOU>
+		<REGISTERED_COMPANY>Registrert selskap</REGISTERED_COMPANY>
+		<REGISTERED_OWNER>Registrert eier</REGISTERED_OWNER>
+		<REGISTRY>Register</REGISTRY>
+		<REMOVE_LEFT_BEHIND>Velg Avinstaller for å fjerne oppdagede rester av mapper, filer, registernøkler og - verdier.</REMOVE_LEFT_BEHIND>
+		<REMOVE_LOG>Slett endringsloggen?</REMOVE_LOG>
+		<REMOVE_LOG_DET>Du vil ikke kunne gjenopprette endringene gjort av valgte program.</REMOVE_LOG_DET>
+		<REMOVE_PRG_DATA>Fjern innstillinger og programdata?</REMOVE_PRG_DATA>
+		<REMOVE_PRG_DATA_INFO>Velg &quot;Nei&quot; hvis du regner med å oppdatere eller oppgradere Total Uninstall</REMOVE_PRG_DATA_INFO>
+		<RENAME>Gi nytt navn</RENAME>
+		<REQUEST_INTERNET_ACCESS>Tilgang til Internett kreves.</REQUEST_INTERNET_ACCESS>
+		<RESTORATION_UNDONE>Gjenopprettelsen ble angret.</RESTORATION_UNDONE>
+		<RESTORE>Gjenopprett</RESTORE>
+		<RESTORE_PROGRAM>Gjenopprett program</RESTORE_PROGRAM>
+		<RESTORE_REG_VALS>Gjenopprett registerverdier</RESTORE_REG_VALS>
+		<RESTORING_ARCHIVE>Gjenoppretter filer og registerelementer...</RESTORING_ARCHIVE>
+		<RESTORING_FILES_FROM_BKP>Gjenoppretter filer fra sikkerhetskopi...</RESTORING_FILES_FROM_BKP>
+		<RST_FILE_PROP>Gjenopprett filegenskaper</RST_FILE_PROP>
+		<RUN_EVAL_PERIOD>Kjør programmet i evalueringsperioden?</RUN_EVAL_PERIOD>
+		<RUNNING>Kjører</RUNNING>
+		<RUNNING_DOMAIN>Kjører i en Windows NT domene.</RUNNING_DOMAIN>
+		<RUNNING_SERVER>Kjører i en Window Server.</RUNNING_SERVER>
+		<RUNNING_VM>Kjører i virtuell maskin</RUNNING_VM>
+		<SAFE>Sikker</SAFE>
+		<SAVE_AS>Lagre som</SAVE_AS>
+		<SCAN_PROFILES>Skanneprofiler</SCAN_PROFILES>
+		<SCANNING>Skanner...</SCANNING>
+		<SCANNING_REGISTRY_AND_FS>Skanner register og filsystem...</SCANNING_REGISTRY_AND_FS>
+		<SCHEDULED_TASKS>Planlagte oppgaver</SCHEDULED_TASKS>
+		<SEARCH>Søk</SEARCH>
+		<SEARCH_IN_X>Søk i &quot;%s&quot;</SEARCH_IN_X>
+		<SEL_BRA>(Utvalg)</SEL_BRA>
+		<SEL_HAS_HD_NODES>Utvalget inneholder minst en skjult node.</SEL_HAS_HD_NODES>
+		<SEL_PRG_UNINSTALLED>Valgte program er allerede avinstallert.</SEL_PRG_UNINSTALLED>
+		<SEL_UNINSTALL_PROFILE>Velg en avinstalleringsprofil.</SEL_UNINSTALL_PROFILE>
+		<SELECT>Velg</SELECT>
+		<SERVICE>Tjeneste</SERVICE>
+		<SERVICES>Tjenester</SERVICES>
+		<SHARED_FILE>Delt fil. Ikke slettet i denne fasen</SHARED_FILE>
+		<SHARED_FILE_CNT_DEC>Teller for delte filer er allerede minsket</SHARED_FILE_CNT_DEC>
+		<SHARED_FILE_NOT_FOUND>Delt fil ikke funnet på disken</SHARED_FILE_NOT_FOUND>
+		<SHOW_OPTIONS>Vis &amp;alternativer</SHOW_OPTIONS>
+		<SHOW_SYS_COMP>Vis systemkomponenter: %s</SHOW_SYS_COMP>
+		<SIZE>Størrelse</SIZE>
+		<SIZE_STAT>Størrelse                    : %s</SIZE_STAT>
+		<SKIP>Hopp over</SKIP>
+		<SKIP_BUILTIN_UNINSTALLER>Dersom det innebygde avinstalleringsprogrammet ikke svarer, trykk Hopp over for å fortsette. Det neste innebygde avinstalleringsprogrammet vil da kjøres.</SKIP_BUILTIN_UNINSTALLER>
+		<SMALL_CNT>Teller for delte filer funnet for liten i registreret</SMALL_CNT>
+		<START>Start</START>
+		<START_MENU>Startmeny</START_MENU>
+		<START_SCANNING>Trykk knappen Skann for å start skanning.</START_SCANNING>
+		<START_UNINSTALL_PROCESS>Start avinstalleringsprosessen.</START_UNINSTALL_PROCESS>
+		<STARTUP_TYPE_X>Type Oppstart :%s</STARTUP_TYPE_X>
+		<STOP>Stopp</STOP>
+		<STOP_SERVICES>Stopp tjenester</STOP_SERVICES>
+		<STOPPED>Stoppet</STOPPED>
+		<SUMMARY>Sammendrag</SUMMARY>
+		<SUPPORT_INFO>Informasjon om hjelp</SUPPORT_INFO>
+		<SUPPORT_PHONE>Hjelpetelefon</SUPPORT_PHONE>
+		<SVC_CMD_NOT_ACCEPTED>Tjeneste aksepterer ikke stoppinstruks.</SVC_CMD_NOT_ACCEPTED>
+		<SW_VERSION>Versjon %s</SW_VERSION>
+		<SYSTEM>System</SYSTEM>
+		<TEMPORARY_FILES>Midlertidige filer</TEMPORARY_FILES>
+		<TITLE_MON_INSTALL>Overvåk Ny Installasjon</TITLE_MON_INSTALL>
+		<TITLE_MON_UPDATE_X>Overvåk Programoppdatering &quot;%s&quot;</TITLE_MON_UPDATE_X>
+		<TOTAL_LIC_COMPUTERS>Antall maskiner lisensiert for navnet over: %s</TOTAL_LIC_COMPUTERS>
+		<TOTAL_UNINSTALL>Total Uninstall</TOTAL_UNINSTALL>
+		<TRACES_AFTER_UNINSTALL>Rester etter avinstallering</TRACES_AFTER_UNINSTALL>
+		<TRIAL_EXPIRED>Prøveperioden er over. Vennligst registrer.</TRIAL_EXPIRED>
+		<TU_AGENT>Total Uninstall Agent</TU_AGENT>
+		<TU_MON_PRG_TITLE>Overvåkede program</TU_MON_PRG_TITLE>
+		<TU_PRO_EDITION>Total Uninstall Professional Edition</TU_PRO_EDITION>
+		<TU_STD_EDITION>Total Uninstall Standard Edition</TU_STD_EDITION>
+		<TU_USE_FIRST_UNINST>Total Uninstall bruker det første avinstalleringsprogramet</TU_USE_FIRST_UNINST>
+		<TU_USE_FIRST_UNINST_DESC>Avinstaller anti-virus, anti-spionprogram, brannmur, driver eller andre program som installerer systemenheter.</TU_USE_FIRST_UNINST_DESC>
+		<UNDO>Angre</UNDO>
+		<UNDO_RESTORATION>Angre gjenoppretting</UNDO_RESTORATION>
+		<UNINST_ANALYZED>Avinstaller analysert program</UNINST_ANALYZED>
+		<UNINST_BUNDLE>Avinstaller analysert programbunte</UNINST_BUNDLE>
+		<UNINST_PROFILES>Avinstalleringsprofiler</UNINST_PROFILES>
+		<UNINSTALL>Avinstaller</UNINSTALL>
+		<UNINSTALL_INST_HINT>Avinstaller|Avinstaller valgte analyserte program</UNINSTALL_INST_HINT>
+		<UNINSTALL_LOG>Avinstalleringslogg</UNINSTALL_LOG>
+		<UNINSTALL_MON_HINT>Avinstaller|Avinstaller valgte overvåkede program</UNINSTALL_MON_HINT>
+		<UNINSTALL_PROGRAM_X>Avinstaller Program &quot;%s&quot;</UNINSTALL_PROGRAM_X>
+		<UNINSTALLED_WITH_TU>Avinstallert med Total Uninstall &quot;%s&quot;</UNINSTALLED_WITH_TU>
+		<UNREGISTERED>Uregistrert</UNREGISTERED>
+		<USE_LAST_SNS>Bruk siste bilde</USE_LAST_SNS>
+		<USE_LAST_SNS_AGO_D>Bruk siste bilde (%d dager, %d timer og %d minutter siden)</USE_LAST_SNS_AGO_D>
+		<USE_LAST_SNS_AGO_H>Bruk siste bilde (%d timer og %d minutter siden)</USE_LAST_SNS_AGO_H>
+		<USE_LAST_SNS_AGO_M>Bruk siste bilde (%d minutter siden)</USE_LAST_SNS_AGO_M>
+		<USE_OLD_PURCHASE_NEW>Installer en eldre versjon, eller kjøp oppdateringen til denne versjonen.</USE_OLD_PURCHASE_NEW>
+		<USE_ONLY_PRG_UNINST>Bruk kun programmets eget avinstalleringsprogram</USE_ONLY_PRG_UNINST>
+		<USE_OR_BUILD_SNS>Lag eller bruk et tidligere før-installeringsbilde.</USE_OR_BUILD_SNS>
+		<USR_ABORT>Avbrutt av bruker</USR_ABORT>
+		<VALS_CHG_STAT>Endrede verdier: %6.1d</VALS_CHG_STAT>
+		<VALS_CREATED_STAT>Opprettede verdier: %6.1d</VALS_CREATED_STAT>
+		<VALS_DEL_STAT>Slettede verdier: %6.1d</VALS_DEL_STAT>
+		<VALUE>Verdi</VALUE>
+		<VALUES_X>Verdier  :%6.1d</VALUES_X>
+		<VERSION>Versjon</VERSION>
+		<WAIT_UNINST_REMOVE_LEFT>Når programmets eget avinstalleringsprogram avsluttes, trykk Avinstaller for å fjerne rester av mapper, filer, registernøkler og verdier.</WAIT_UNINST_REMOVE_LEFT>
+		<WRN_BRA>(WRN)</WRN_BRA>
+		<X_BYTE>%s B</X_BYTE>
+		<X_BYTES>%d byter</X_BYTES>
+		<X_CHANGES>%s - Endringer</X_CHANGES>
+		<X_GIGABYTE>%s GB</X_GIGABYTE>
+		<X_KILOBYTE>%s KB</X_KILOBYTE>
+		<X_MEGABYTE>%s MB</X_MEGABYTE>
+		<X_RESULTS>%d resultat(er)</X_RESULTS>
+		<X_UNINSTALL_LOG>&quot;%s&quot; - Avinstallasjonslogg</X_UNINSTALL_LOG>
+		<X_UNINSTALL_LOG_FILE>&quot;%s&quot; - UninstallLog.txt</X_UNINSTALL_LOG_FILE>
+		<YES>ja</YES>
+		<ZERO_LENGTH_DATA>(null-lengde data)</ZERO_LENGTH_DATA>
+	</RESOURCESTRING>
+</TotalUninstall>
